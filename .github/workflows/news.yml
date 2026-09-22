@@ -28,6 +28,7 @@ jobs:
         run: |
           git config user.name "pulse-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/news.json data/ai-cache.json
+          git add data/news.json
+          if [ -f data/ai-cache.json ]; then git add data/ai-cache.json; fi
           git diff --cached --quiet || git commit -m "Update news"
           git push
