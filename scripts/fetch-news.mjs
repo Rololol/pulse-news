@@ -1,19 +1,40 @@
 import fs from "node:fs/promises";
 
 const feeds=[
-["Tagesschau","https://www.tagesschau.de/xml/rss2","DE"],["DW Deutsch","https://rss.dw.com/xml/rss-de-all","DE"],
-["BBC World","https://feeds.bbci.co.uk/news/world/rss.xml","UK"],["BBC Technology","https://feeds.bbci.co.uk/news/technology/rss.xml","UK"],["BBC Science","https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","UK"],
-["Guardian World","https://www.theguardian.com/world/rss","UK"],["Guardian Science","https://www.theguardian.com/science/rss","UK"],["Guardian Business","https://www.theguardian.com/business/rss","UK"],
-["NASA","https://www.nasa.gov/rss/dyn/breaking_news.rss","US"],["NPR","https://feeds.npr.org/1001/rss.xml","US"],
-["NPR World","https://feeds.npr.org/1004/rss.xml","US"],["NPR Science","https://feeds.npr.org/1007/rss.xml","US"],
-["NPR Technology","https://feeds.npr.org/1019/rss.xml","US"],["NPR Business","https://feeds.npr.org/1006/rss.xml","US"],
-["France24 English","https://www.france24.com/en/rss","INT"],["Euronews","https://www.euronews.com/rss?level=theme&name=news","INT"],
-["Al Jazeera","https://www.aljazeera.com/xml/rss/all.xml","INT"],["Politico Europe","https://www.politico.eu/feed/","EU"],
-["The Verge","https://www.theverge.com/rss/index.xml","US"],["Ars Technica","https://feeds.arstechnica.com/arstechnica/index","US"],
-["New Scientist","https://www.newscientist.com/feed/home/","INT"],["ESA","https://www.esa.int/rssfeed/Our_Activities","EU"],
-["NOAA","https://www.noaa.gov/rss.xml","US"],["WHO","https://www.who.int/rss-feeds/news-english.xml","INT"],
-["The Guardian Culture","https://www.theguardian.com/culture/rss","UK"],["The Guardian Sport","https://www.theguardian.com/sport/rss","UK"]
-];
+["Google News DE","https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de","DE"],
+["Google News DE Politik","https://news.google.com/rss/search?q=Politik&hl=de&gl=DE&ceid=DE:de","DE"],
+["Google News DE Wissenschaft","https://news.google.com/rss/search?q=Wissenschaft&hl=de&gl=DE&ceid=DE:de","DE"],
+["Google News DE Technologie","https://news.google.com/rss/search?q=Technologie&hl=de&gl=DE&ceid=DE:de","DE"],
+["Google News DE Wirtschaft","https://news.google.com/rss/search?q=Wirtschaft&hl=de&gl=DE&ceid=DE:de","DE"],
+["Google News UK","https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en","UK"],
+["Google News US","https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en","US"],
+["Google News World","https://news.google.com/rss/search?q=world+news&hl=en-US&gl=US&ceid=US:en","INT"],
+["Tagesschau","https://www.tagesschau.de/xml/rss2","DE"],
+["DW Deutsch","https://rss.dw.com/xml/rss-de-all","DE"],
+["BBC World","https://feeds.bbci.co.uk/news/world/rss.xml","UK"],
+["BBC Technology","https://feeds.bbci.co.uk/news/technology/rss.xml","UK"],
+["BBC Science","https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","UK"],
+["Guardian World","https://www.theguardian.com/world/rss","UK"],
+["Guardian Science","https://www.theguardian.com/science/rss","UK"],
+["Guardian Business","https://www.theguardian.com/business/rss","UK"],
+["NASA","https://www.nasa.gov/rss/dyn/breaking_news.rss","US"],
+["NPR","https://feeds.npr.org/1001/rss.xml","US"],
+["NPR World","https://feeds.npr.org/1004/rss.xml","US"],
+["NPR Science","https://feeds.npr.org/1007/rss.xml","US"],
+["NPR Technology","https://feeds.npr.org/1019/rss.xml","US"],
+["NPR Business","https://feeds.npr.org/1006/rss.xml","US"],
+["France24 English","https://www.france24.com/en/rss","INT"],
+["Euronews","https://www.euronews.com/rss?level=theme&name=news","INT"],
+["Al Jazeera","https://www.aljazeera.com/xml/rss/all.xml","INT"],
+["The Verge","https://www.theverge.com/rss/index.xml","US"],
+["Ars Technica","https://feeds.arstechnica.com/arstechnica/index","US"],
+["New Scientist","https://www.newscientist.com/feed/home/","INT"],
+["ESA","https://www.esa.int/rssfeed/Our_Activities","EU"],
+["NOAA","https://www.noaa.gov/rss.xml","US"],
+["WHO","https://www.who.int/rss-feeds/news-english.xml","INT"],
+["Guardian Culture","https://www.theguardian.com/culture/rss","UK"],
+["Guardian Sport","https://www.theguardian.com/sport/rss","UK"]
+
 
 const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g,"").replace(/&amp;/g,"&").replace(/&#39;/g,"'").replace(/&quot;/g,'"').trim();
 const topicOf=(t,s)=>{
