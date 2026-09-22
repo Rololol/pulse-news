@@ -1,4 +1,5 @@
 name: Update news
+# Manual verification trigger
 concurrency:
   group: pulse-news-update
   cancel-in-progress: true
