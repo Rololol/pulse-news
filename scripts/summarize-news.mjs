@@ -19,7 +19,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 async function summarize(story) {
   const sources = (story.sources || []).slice(0, 8).map(s =>
-    `Quelle: ${s.source}\nURL: ${s.url}`
+    `Quelle: ${s.source}\nURL: ${s.url}\nRSS-Kurztext: ${s.snippet || ""}`
   ).join("\n");
 
   const prompt = `Du bist ein neutraler Nachrichtenredakteur für Pulse News.
