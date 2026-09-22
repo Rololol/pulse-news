@@ -1,6 +1,11 @@
 name: Update news
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/news.yml"
+      - "scripts/fetch-news.mjs"
+      - "scripts/summarize-news.mjs"
   schedule:
     - cron: "0 */6 * * *"
 permissions:
