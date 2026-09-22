@@ -6,7 +6,13 @@ const feeds=[
 ["Guardian World","https://www.theguardian.com/world/rss","UK"],["Guardian Science","https://www.theguardian.com/science/rss","UK"],["Guardian Business","https://www.theguardian.com/business/rss","UK"],
 ["NASA","https://www.nasa.gov/rss/dyn/breaking_news.rss","US"],["NPR","https://feeds.npr.org/1001/rss.xml","US"],
 ["NPR World","https://feeds.npr.org/1004/rss.xml","US"],["NPR Science","https://feeds.npr.org/1007/rss.xml","US"],
-["NPR Technology","https://feeds.npr.org/1019/rss.xml","US"],["NPR Business","https://feeds.npr.org/1006/rss.xml","US"]
+["NPR Technology","https://feeds.npr.org/1019/rss.xml","US"],["NPR Business","https://feeds.npr.org/1006/rss.xml","US"],
+["France24 English","https://www.france24.com/en/rss","INT"],["Euronews","https://www.euronews.com/rss?level=theme&name=news","INT"],
+["Al Jazeera","https://www.aljazeera.com/xml/rss/all.xml","INT"],["Politico Europe","https://www.politico.eu/feed/","EU"],
+["The Verge","https://www.theverge.com/rss/index.xml","US"],["Ars Technica","https://feeds.arstechnica.com/arstechnica/index","US"],
+["New Scientist","https://www.newscientist.com/feed/home/","INT"],["ESA","https://www.esa.int/rssfeed/Our_Activities","EU"],
+["NOAA","https://www.noaa.gov/rss.xml","US"],["WHO","https://www.who.int/rss-feeds/news-english.xml","INT"],
+["The Guardian Culture","https://www.theguardian.com/culture/rss","UK"],["The Guardian Sport","https://www.theguardian.com/sport/rss","UK"]
 ];
 
 const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g,"").replace(/&amp;/g,"&").replace(/&#39;/g,"'").replace(/&quot;/g,'"').trim();
@@ -16,13 +22,13 @@ const topicOf=(t,s)=>{
  if(/wissenschaft|science|research|study|laboratory|physic|biology/.test(x))return"Wissenschaft";
  if(/technolog|technology|software|chip|artificial intelligence|\bai\b|ki |digital/.test(x))return"Technologie";
  if(/gesund|health|medizin|medical|hospital|disease|cancer/.test(x))return"Gesundheit";
- if(/wirtschaft|business|econom|market|markets|finance|financial|bank/.test(x))return"Finanzen";
- if(/klima|climate|weather|energie|energy|emission|carbon/.test(x))return"Klima";
+ if(/wirtschaft|business|econom|market|markets|finance|financial|bank|company|corporate|trade/.test(x))return"Finanzen";
+ if(/klima|climate|weather|energie|energy|emission|carbon|environment|wildfire|flood|storm/.test(x))return"Klima";
  if(/sport|football|soccer|tennis|basketball|olympic/.test(x))return"Sport";
  if(/kultur|culture|film|music|art|book/.test(x))return"Kultur";
  if(/mobil|transport|car|auto|rail|aviation/.test(x))return"Mobilität";
  if(/bildung|education|school|university/.test(x))return"Bildung";
- if(/politik|politic|government|election|wahl|parliament|minister|president|congress/.test(x))return"Politik";
+ if(/politik|politic|government|election|wahl|parliament|minister|president|congress|senate|chancellor|kanzler|european commission/.test(x))return"Politik";
  return"Alle";
 };
 const tokens=s=>new Set(clean(s).toLowerCase().split(/[^a-zäöüß0-9]+/).filter(w=>w.length>4));
