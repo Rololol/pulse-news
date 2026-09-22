@@ -84,7 +84,7 @@ for(const [source,url,country] of feeds){
     if(!res.ok) throw new Error("HTTP "+res.status);
     const xml=await res.text();
     const items=[...xml.matchAll(/<item[\s\S]*?<\/item>/gi)];
-    for(const raw of items.slice(0,60)){
+    for(const match of items.slice(0,60)){\n      const raw=match[0];
       const get=k=>clean(raw.match(new RegExp("<"+k+"[^>]*>([\\s\\S]*?)<\\/"+k+">","i"))?.[1]);
       const title=get("title"),link=get("link"),desc=get("description"),rawDate=get("pubDate")||get("dc:date");
       const time=Date.parse(rawDate||"");
