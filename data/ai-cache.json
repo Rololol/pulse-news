@@ -1,21 +1,61 @@
 {
   "pepperdine university ascends in u s news and world report rankings pepperdine university": {
-    "summary": "Pepperdine University Ascends in U.S. News and World Report Rankings Pepperdine University",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Verschiedene US-Universitäten vermelden Verbesserungen in den aktuellen Rankings von U.S. News & World Report. Zu den genannten Einrichtungen gehören unter anderem die Pepperdine University, Virginia Tech, TCU und St. John's. Auch North Park University, CWRU und die Auburn University verzeichnen Aufstiege in den Best-Colleges-Listen.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Mehrere Universitäten berichten über eine Verbesserung ihrer Platzierung in den Rankings von U.S. News & World Report.",
+      "Die Berichte beziehen sich auf die aktuellen 'Best Colleges' beziehungsweise Jahres-Rankings."
+    ],
+    "divergences": [
+      {
+        "source": "Google News World (Pepperdine University)",
+        "note": "Berichtet über den Aufstieg der Pepperdine University."
+      },
+      {
+        "source": "Google News World (Virginia Tech)",
+        "note": "Nennt Virginia Tech als eine nationale Top-20-Public-University."
+      },
+      {
+        "source": "Google News World (TCU)",
+        "note": "Erwähnt den Aufstieg der Texas Christian University in den 2027er-Rankings."
+      },
+      {
+        "source": "Google News World (St. John's)",
+        "note": "Berichtet über einen signifikanten Aufstieg der St. John's University in den 2027er-Rankings."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0gtN1dXOWRaczB4VVpqWW8xNzJFYnlUR3dZckNBdV9BVmR0cXdDV2lEN3RfYlhCb2N4S2QwY09qT0FBZ2wybFZBZkczT0xUTXkydF96Um50ckI1R08zcXh1WXNJWU9XYjRKZzhvMFEzRHpiWlVoOXFLVExKSUFyenJvZGZxa1cwRkNQWjItRFRaa1BUMmRlUC1xNTdBcTQ?oc=5|https://news.google.com/rss/articles/CBMieEFVX3lxTE9YY1hLRUU3Q09sZWpVeW9yRzh4UWRsTHcxX1FOYWFqckV2aFhlZ21fcW9ENVB3dnU2NkRmYzlxaDhvMml4UmVzRVZLYjdWeWF2ZU9BTG9zMUpfSV94THV6bUFVUWRQN3I0OEFuWHlVU1dMLVREckdkaQ?oc=5|https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTh3dlV2cnNGaVBLSnJfbEF5Z1hDbnAzZFl4cHhxQzdFV3JoQmczQkpZUW1xeUdqdGJCdTVBNGxZdGJPYlB4TDA5cjFic2RIcVYyVDJ5cU90eVBJaXJzN050VndtS2JEM29kNDZWZDUwMUJmS0VzM25ueU5zNm92Z1l6RjJyTWctekE?oc=5|https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hHUFdZMTNGZHdFc0dsUU5kbjZYcUE2MDdEbl9UeHZfdXd5SDNkTGlfSjVXM0Z5WnZRbk5fQUM2bVFGTzU2WU9ibHNoMnY2akk0S2hXMWMyaFlNQkhiemFsclRINXlsVEhWNHRNNmRZaFRTLXNkdVZrdDZTX2pnd09EUkhYODk3VXkwMlZvV29zeVVRWFVJV0pSN3kwRHlzUjdfTERtdl9tbmpvNXVuNUFZS3o2aFNqaVRCZA?oc=5|https://news.google.com/rss/articles/CBMipgFBVV95cUxNclAyXzBjZnhqNFJiV2tzd1hxR0Yza3lEelZ4TXpFdjZSbmZ6UzBCc2liTVJ3N3dBOEU4ZjlFblFBbldiTjhMOXh5d2V2MGxHaHVjNmhiOS10SklsazFGWEUteFMzX1duWW91NWxBUkZmNlRUUEN4eVBiT1psRW9EWnJZdVJpbzZNS0hBS3diNUFoUDV2eVhBbTB1NEplZnQxUHdpeUxn?oc=5|https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Ymc0bDVLcEZXYWVFV2NIVGJpTERzSGkwZEUzSmV1R2tVd192Y1FTS1dPS2c1dEZWT21tR05EZmIzcTB4aFEwS1hQOExzQ202Z3NqNG9vNHhpd1ZPRVhQR1pVS3JZamsyblp1TDMtXzN6VjI5dWU3ZQ?oc=5|https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWlpbmw1djdZV1dxT2Z6VE5ZbUpROXkxU1dydXVrMUJiSHdzUnphc1o5akpOeHJVTFAzSmRtM2dKWTNIbVcwRDdFc25Dcm5GZnppeGh2TlZ4OENWeTlvc0hOV0VpT1c4NnNHd0p3SmtLYXNTQk5CekRfQjVXQnJYMlpWWHpqMnpLeEcyQ2FlQUY1OHFPUVVaNHJrVWM0X3RJUXFQVWRicEg1TW5URC1B?oc=5",
-    "updatedAt": "2026-09-22T20:22:40.060Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:27:16.378Z",
+    "method": "gemini"
   },
   "u s news world report again ranks su among nation s best universities salisbury university": {
-    "summary": "News & World Report' Again Ranks SU Among Nation's Best Universities Salisbury University 2027 College Rankings: Montclair Among Nation’s Best in U.S.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Mehrere US-Universitäten vermelden ihre Platzierungen in den aktuellen Hochschulrankings von U.S. News & World Report. Die Mitteilungen heben jeweils das Abschneiden der eigenen Institution hervor, darunter Salisbury University, Montclair State, die University of Pittsburgh, St. Mary's University und James Madison University.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Verschiedene US-Universitäten veröffentlichen ihre Ergebnisse aus den U.S. News & World Report Hochschulrankings.",
+      "Die gemeldeten Platzierungen beziehen sich auf US-amerikanische Universitäten."
+    ],
+    "divergences": [
+      {
+        "source": "Google News World (Salisbury University)",
+        "note": "Berichtet über die Platzierung der Salisbury University."
+      },
+      {
+        "source": "Google News World (Montclair State)",
+        "note": "Berichtet über die Platzierung von Montclair in den 2027 College Rankings."
+      },
+      {
+        "source": "Google News World (University of Pittsburgh)",
+        "note": "Nennt einen genauen Rangplatz, nämlich Platz 24 unter den öffentlichen Universitäten."
+      },
+      {
+        "source": "Google News World (St. Mary's University)",
+        "note": "Hebt die Platzierung als Best Value University im Westen hervor."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0VoQ3lnWXJqX1lMNWJ2WjlDdk5DcHJHdUtmZDRkRWdQX19nQUl4aU5WcF9ZU1pHZ3pqejBlV09GM0lxamRJVXB0WnVNUkVYTXdZU1M5VEZfNjBvVnBPMVV0amlxSl9wWjdNMUJUeDV1dUZSZ0FVdElqaklUNldLb2pfMGc1bU1BS1NMamI1M1BlS0twMTd0aDdJMUxScFRaRnBXU2xlNkFuUHZBN3VWRFNPczhfeXM?oc=5|https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0JnbnR3TXlfVHBJYy05dmdTSTdfVFh6bk1uaVhqQm9wdnZhek92VTh5MGdaUTZGYkdHMnRtenRFRUN5WDhpbWdlQzJjUVJNVVFBcHYzR3FicTRSOFVlX05QbWdNLXh3UzlDUWtuSE9UZHI4d3ZsRHJqc0VIcHN2alJLcUE1ZWhXdk9hd1NhNnVXLWNEQ1lkWnJPSmZNOHpHaHVwYzVwTzZPYnF2NzNSNVZxN2phWFpwZ3NKYjEyRWVwNzJTVnZrZHFnbXoyYURx?oc=5|https://news.google.com/rss/articles/CBMiowFBVV95cUxPalM2VEdGeWhKckJDVnA3LUxaUGFIQkx4MzRvNXhZXzdWeGZqb19Zb1VsamQ1T0ctOTVfUUdxTXVab19OSUhlaktMRzF1Mm1Lc3JmMXpjYVdXY3pHSFdfZTVOTEIwMlE4VkRCeUJoeFpqS0JMLUNDdl8tMzVNRU1ia0FPWkx3em9sMmJFalFmZHN2QmtIeHliRDFTVzItVzE5Yy00?oc=5|https://news.google.com/rss/articles/CBMiW0FVX3lxTFBORnpNMUhBU3YxS1J3bU5FMWxFbk4yZXhJZFZVNmpIRThIYlhoaWR1YTA0RFBxWlpYdHVJMzkwTnhLa2xVRlFaajFoelJBYmhKa0N0bDlkWDUtMk0?oc=5|https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFJ2X3h6bFRselBncFdaMkQxYUJ5MWFweGNkdk1nM3ZEZzdfMWlFUEgzZXhXZTBMa3YwY0RmVGFBTDNTRy1KTU5qYS1QOUpHem1pT0JXM1lSWTZCZVdqbEJOMmlGc2hPU0hwZUM5SHoyMXNfUjhOSUV0TmhuZlBaRA?oc=5",
-    "updatedAt": "2026-09-22T20:22:42.460Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:27:27.969Z",
+    "method": "gemini"
   },
   "live updates trump says he faces a decision on iran to make a deal or annihilate the country cnn": {
     "summary": "Live updates: Trump says he faces a decision on Iran to make a deal or ‘annihilate’ the country CNN <a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVUk5VFlOdkkzb0FuRWljY3RBQW8zWldhUVh3cU Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal BBC <a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2prLTVPREVoRld5ak1wSlRhUC15Z0FQAQ?hl=en-GB&gl=GB&ceid=GB:en&oc=5\" targe",
@@ -30,67 +70,133 @@
     "method": "rss-synthesis"
   },
   "the latest trump uses un speech to defend decision to start war against iran wral": {
-    "summary": "The Latest: Trump uses UN speech to defend decision to start war against Iran WRAL Trump in address to world leaders at UN defends his decision to start war against Iran WRAL",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
-    "sourceSignature": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhYcjVnRi15TVlxSVBGdlQ4TUw3c2NmWnlXd0xMMVdTT2RLcjEyWEh4WXhuYzMzVUFjM1BBSjRielFxZHBZa2pNNllzZ3JxYnZtZDlJaWVwQnRRVzNteTFkOEhuZGxKZlVDODJzRVlJdXc5dUt0Y0d2S1U1cXNDZ0ZrbEFwYjJFRGhSeUpYNXlCY215ci1nNkRfbnpMWS1lbXMtS2pkVWlCZllFMi1OUkVMNHgyemdaSWV4QzNyUkJIZUt6bnB2VE4wWU10dw?oc=5|https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2pKZE9JWjFteENJbHlITUhIemt2bVA1YW1ybjRYWHZjbUtkSUlHYUIzT0FPN29XZE9CMVc1eTNYZmcyc0gxeTR6S1djZURuRjloZU04SkR1YnBoNldKbUV3QjFEMHlZbTd0eUZmdW5JclZrT1ZGdW9VWlAtYzJMUTBpcThWYzVXU25qS3ZtLXZSTnRHLUFWNENFdEw1MkNUUzVDVmtvWThET1hZU2tRUDVRa1d3OGZjRllhZjJoaWVOa3dVZFNB?oc=5|https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-    "updatedAt": "2026-09-22T20:22:47.337Z",
-    "method": "rss-synthesis"
+    "summary": "In einer UN-Rede hat Donald Trump laut Medienberichten seine Entscheidung verteidigt, einen Krieg gegen den Iran zu beginnen. Die vorliegenden Kurzmeldungen bieten jedoch keine weiteren Details zu den genauen Aussagen oder Reaktionen. Weitere kontextuelle Informationen sind in den Quellen nicht enthalten.",
+    "consensus": 50,
+    "consensusFacts": [
+      "Donald Trump thematisierte in einer UN-Rede den Beginn eines Krieges gegen den Iran."
+    ],
+    "divergences": [
+      {
+        "source": "France24 English",
+        "note": "Liefert keinen Textinhalt zum Thema."
+      }
+    ],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhYcjVnRi15TVlxSVBGdlQ4TUw3c2NmWnlXd0xMMVdTT2RLcjEyWEh4WXhuYzMzVUFjM1BBSjRielFxZHBZa2pNNllzZ3JxYnZtZDlJaWVwQnRRVzNteTFkOEhuZGxKZlVDODJzRVlJdXc5dUt0Y0d2S1U1cXNDZ0ZrbEFwYjJFRGhSeUpYNXlCY215ci1nNkRfbnpMWS1lbXMtS2pkVWlCZllFMi1OUkVMNHgyemdaSWV4QzNyUkJIZUt6bnB2VE4wWU10dw?oc=5|https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
+    "updatedAt": "2026-09-22T20:29:44.950Z",
+    "method": "gemini"
   },
   "latest news bulletin september 22nd 2026 evening": {
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "consensus": null,
-    "consensusFacts": [],
+    "summary": "Die gelieferten Kurznachrichten von Euronews fassen die wichtigsten Ereignisse aus Europa und der Welt vom 22. September 2026 zusammen. Die Meldungen decken verschiedene Bereiche wie Wirtschaft, Politik, Kultur und Unterhaltung ab. Konkrete inhaltliche Details zu den einzelnen Berichten werden in den Texten nicht genannt.",
+    "consensus": 100,
+    "consensusFacts": [
+      "Die Quellen stammen alle von Euronews.",
+      "Die Meldungen beziehen sich auf den 22. September 2026.",
+      "Thematisch werden Nachrichten aus Europa und der Welt abgedeckt."
+    ],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/video/2026/09/22/latest-news-bulletin-september-22nd-2026-evening|https://www.euronews.com/video/2026/09/22/latest-news-bulletin-september-22nd-2026-midday|https://www.euronews.com/video/2026/09/22/latest-news-bulletin-september-22nd-2026-morning",
-    "updatedAt": "2026-09-22T20:22:49.781Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:27:50.482Z",
+    "method": "gemini"
   },
   "frei sichert merz rückhalt der unionsfraktion zu": {
-    "summary": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen deutliche Kritik gab.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Nach dem CDU-Wahldebakel sieht der Unionsfraktionsvorsitzende Frei einen enormen Aussprachebedarf. Trotz deutlicher Kritik beim Fraktionstreffen stellt er sich im Interview hinter Kanzler Merz. Auch Medienberichte bestätigen, dass Frei dem Kanzler den Rückhalt der Unionsfraktion zusichert.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Unionsfraktionsvorsitzender Frei sichert Kanzler Merz den Rückhalt der Unionsfraktion zu.",
+      "Die Situation steht im Zusammenhang mit einem CDU-Wahldebakel und einer damit verbundenen Krise."
+    ],
+    "divergences": [
+      {
+        "source": "Tagesschau",
+        "note": "Erwähnt einen 'enormen Aussprachebedarf' und deutliche Kritik beim Fraktionstreffen laut einem tagesthemen-Interview."
+      }
+    ],
     "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html|https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUWtkenZRUmgtM0xSUDljM1NjcHhYaVc5SDNCcVlON2ZvUzRwU1J4NEJ6QUpuLVZuTEVnbjR3cC16QUNxUzhpTVVkNm41QUYtTFdxZ2lya0EweENmaHJuUmNybUJYdkVsbWJmNlRYQ1BhQW4zMGlxUnBma3BVeU1sdV9RTzBVN3dHM0lHb2cyaFhCbEUtTW0yR3pvMjZJbGVKamI4ekR0TnA4SlA5OVlCVzRHOVl0UF9RU3UwMmhPMG8ybTN2dHhlN25fUS1vUWFhSUZOZzhsT0FQNzFnUFE?oc=5",
-    "updatedAt": "2026-09-22T20:23:00.254Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:28:24.813Z",
+    "method": "gemini"
   },
   "burnham touts good connection with trump as pair meet for first time in new york": {
-    "summary": "Trump remained polite and friendly throughout a news conference following his meeting with Burnham, offering largely diplomatic answers to potential flashpoint topics. Previously, as the mayor of Greater Manchester, Andy Burnham had said Trump was not welcome in the city and that he would refuse to meet him.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Andy Burnham traf sich in New York erstmals mit Donald Trump und berichtete von einer guten Verbindung. Während Trump bei einer anschließenden Pressekonferenz diplomatisch auftrat, hatte Burnham den US-Politiker früher als unerwünscht bezeichnet und ein Treffen abgelehnt.",
+    "consensus": 50,
+    "consensusFacts": [
+      "Andy Burnham und Donald Trump haben sich in New York zu ihrem ersten Treffen getroffen.",
+      "Nach dem Treffen fand eine gemeinsame Pressekonferenz statt."
+    ],
+    "divergences": [
+      {
+        "source": "Euronews",
+        "note": "Es wird berichtet, dass Burnham von einer guten Verbindung sprach, während er in der Vergangenheit ein Treffen mit Trump abgelehnt hatte."
+      }
+    ],
     "sourceSignature": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york|https://www.euronews.com/2026/09/22/british-pm-andy-burnham-to-meet-trump-for-the-first-time-at-the-un-in-new-york",
-    "updatedAt": "2026-09-22T20:23:02.602Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:28:35.964Z",
+    "method": "gemini"
   },
   "trump says relations better with burnham than starmer after first face to face meeting": {
-    "summary": "US president calls UK prime minister ‘a natural businessperson’ as leaders meet at UN assembly in New York Donald Trump has asserted his relationship with the UK is “more up” with Andy Burnham than under Keir Starmer despite tensions between the two countries on a range of thorny issues including regulation of artificial intelligence, the Chagos islands and the war in Iran. At their first face-to-face meeting, the US president praised Burnham, who sat nervously alongside him, as a",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Bei einem ersten persönlichen Treffen bei der UN-Vollversammlung in New York hat US-Präsident Donald Trump den britischen Politiker Andy Burnham gelobt und erklärt, das Verhältnis zu Großbritannien sei unter ihm besser als unter Premierminister Keir Starmer. Trump bezeichnete Burnham als naturgegebenen Geschäftsmann und erwähnte Spannungen zwischen beiden Ländern unter anderem bei der Regulierung künstlicher Intelligenz, dem Iran-Krieg und den Chagos-Inseln. Gleichzeitig kritisierte er die Entscheidung, die Chagos-Inseln abzugeben.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Donald Trump und Andy Burnham trafen sich persönlich bei der UN-Vollversammlung in New York.",
+      "Donald Trump bezeichnete Andy Burnham als naturgegebenen Geschäftsmann und äußerte sich positiv über das bilaterale Verhältnis im Vergleich zu Keir Starmer.",
+      "Trumps Äußerungen thematisierten auch die Chagos-Inseln."
+    ],
+    "divergences": [
+      {
+        "source": "Guardian World (erste Quelle)",
+        "note": "Erwähnt konkret Spannungen bei der Regulierung von künstlicher Intelligenz, den Chagos-Inseln und dem Krieg im Iran sowie dass Burnham nervös neben Trump saß."
+      },
+      {
+        "source": "Guardian World (zweite Quelle)",
+        "note": "Führt aus, dass Trump sagte, Großbritannien habe viele Trümpfe auf seiner Seite, Burnham werde ein großartiger Premierminister sein, und kritisiert explizit die Abtretung der Chagos-Inseln."
+      }
+    ],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting|https://www.theguardian.com/politics/2026/sep/22/donald-trump-praises-natual-businessman-andy-burnham-after-first-meeting",
-    "updatedAt": "2026-09-22T20:23:07.462Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:28:59.426Z",
+    "method": "gemini"
   },
   "sri lanka court convicts 15 men over deadly easter sunday bombings": {
-    "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270. The Islamic State group-inspired attacks were among the deadliest in Sri Lanka&apos;s history, killing 42 foreigners.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Ein Gericht in Sri Lanka hat 15 Männer wegen ihrer Beteiligung an den tödlichen Oster-Anschlägen verurteilt. Bei den Attentaten im Jahr 2019 wurden drei Kirchen und drei Luxushotels ins Visier genommen. Die vom Islamischen Staat inspirierten Angriffe gehören zu den tödlichsten in der Geschichte des Landes.",
+    "consensus": 80,
+    "consensusFacts": [
+      "Es gab tödliche Anschläge in Sri Lanka zu Ostern im Jahr 2019.",
+      "Bei den Angriffen wurden Kirchen und Luxushotels ins Visier genommen.",
+      "Es handelt sich um extrem folgenschwere Angriffe in der Geschichte Sri Lankas."
+    ],
+    "divergences": [
+      {
+        "source": "BBC World",
+        "note": "Nennt eine Gesamtzahl von 270 Getöteten."
+      },
+      {
+        "source": "NPR",
+        "note": "Erwähnt, dass die Angriffe vom Islamischen Staat inspiriert waren und 42 Ausländer unter den Getöteten waren."
+      }
+    ],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss|https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
-    "updatedAt": "2026-09-22T20:23:09.881Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:29:11.024Z",
+    "method": "gemini"
   },
   "lawsuit demands openai pay for new school after chatgpt used in shooting": {
-    "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs. Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI , saying a mass shooting at a school in the Canadian province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the attack.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Die kanadische Provinz British Columbia hat eine Klage gegen OpenAI eingereicht und fordert unter anderem die Herausgabe von Chat-Protokollen im Zusammenhang mit einem Amoklauf an einer Schule. Nach Angaben der Provinz hätte die Tat verhindert werden können, wenn das Unternehmen die Polizei gewarnt hätte, dass der Täter ChatGPT zur Planung genutzt hatte.",
+    "consensus": 90,
+    "consensusFacts": [
+      "British Columbia reicht eine Klage gegen OpenAI ein.",
+      "Die Klage steht im Zusammenhang mit einem Amoklauf und der Nutzung von ChatGPT.",
+      "Es wird argumentiert, dass die Tat durch eine Warnung an die Polizei hätte verhindert werden können."
+    ],
+    "divergences": [
+      {
+        "source": "Ars Technica",
+        "note": "Erwähnt zusätzlich eine Forderung nach Finanzierung einer neuen Schule sowie den Namen des Tatorts (Tumbler Ridge)."
+      },
+      {
+        "source": "Guardian World",
+        "note": "Berichtet ausführlicher darüber, dass der Täter ChatGPT zur Planung des Angriffs nutzte."
+      }
+    ],
     "sourceSignature": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/|https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
-    "updatedAt": "2026-09-22T20:23:12.315Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:29:22.371Z",
+    "method": "gemini"
   },
   "what is the white house pool and why is it in a row with trump": {
     "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks.",
@@ -98,53 +204,102 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "haustarifvertrag ig metall verlangt fünf prozent mehr geld für vw mitarbeiter wirtschaft sz de sz de": {
-    "summary": "Haustarifvertrag - IG Metall verlangt fünf Prozent mehr Geld für VW-Mitarbeiter - Wirtsc Tarife - IG Metall fordert fünf Prozent mehr Lohn für Beschäftigte - Wirtschaft - SZ.de <font",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Die IG Metall fordert in den Tarifverhandlungen für die Beschäftigten von VW fünf Prozent mehr Geld. Dies geht aus aktuellen Meldungen zur anstehenden Tarifrunde hervor.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Die IG Metall fordert fünf Prozent mehr Geld beziehungsweise Lohn.",
+      "Die Forderung richtet sich an Beschäftigte beziehungsweise Mitarbeiter von Volkswagen."
+    ],
+    "divergences": [
+      {
+        "source": "Google News DE Wirtschaft (erste Quelle)",
+        "note": "Spricht konkret von einem Haustarifvertrag und VW-Mitarbeitern."
+      },
+      {
+        "source": "Google News DE Wirtschaft (zweite Quelle)",
+        "note": "Verwendet den allgemeinen Begriff Tarife und spricht von Beschäftigten."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdG9RSDhFNWtPWmR2TUd4THRVb3o3b2szcmdoOEtCZ1d2ZnVwcFdRaTNkUnhZTEdHc25tRzRXdDV6ZDh2dk5RRGdFQ0FDbnByd2Y4YVJybzlPblUxb3R0UEdvX1VkRUxVRDNIdVViOWxEVWtaZ1A3UFJxTVpwRGk5YURtT01FQml5VXlXZjJnN2V6R0RaWFlieTdVV091aWZTWU5pQWl3ZGFlX0s4VWl0Z2pwbmhtVEV4OEJxUmlwX3RUS2VqUWQtSUdHQlE5TGp5bnlWUXZIWjF0cURqcVNId2hXMFNhWVRHWWVXNXdFMk9ZWVg3UTdSaUlINVY?oc=5|https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSHZLR0dwRGNfTTE1MHVPMHBlLTRoc1Z1eWFyQk9xRjZMNndqeV9obXVwTjhEb2hQSTRJaXlQZnJqQ1l0c1lrZEpoU1M1NVBsdzU1TVFaejlYd2xmcUNnUkpCdFBvTVM1bTNzY3VKUDNDYVNVTUpPcV85Z19NVlJESG9DY01LcTFITDh3YXNYbDU0Q1AyVGJ3UGxsaUQzUEhPMXhQYUNUa3g0ZUNNYmxuWXJkd1Z0X3E3UDZaWkVxdWhHUVJlSWtMMkdXd0NQY1RpZzMzVVVudVA2S2pPVXdPYzRIRXd3TG5SNkZ3MA?oc=5",
-    "updatedAt": "2026-09-22T20:23:19.578Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:29:56.225Z",
+    "method": "gemini"
   },
   "uindy rises again in u s news world report best colleges rankings uindy 360": {
-    "summary": "News & World Report Best Colleges rankings UIndy 360 News & World Report 2027 Best Colleges rankings Loyola Today",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Verschiedene Hochschulen verzeichnen Fortschritte in den aktuellen Rankings der U.S. News & World Report Best Colleges. Sowohl die University of Indianapolis als auch Loyola konnten in den jeweiligen Bewertungen vorrücken.",
+    "consensus": 60,
+    "consensusFacts": [
+      "Hochschulen werden in den U.S. News & World Report Best Colleges rankings aufgeführt.",
+      "Es wird über Verbesserungen oder Fortschritte in diesen Rankings berichtet."
+    ],
+    "divergences": [
+      {
+        "source": "Google News World (UIndy)",
+        "note": "Berichtet über das Aufsteigen der University of Indianapolis (UIndy) in den Rankings."
+      },
+      {
+        "source": "Google News World (Loyola)",
+        "note": "Berichtet über das Vorrücken von Loyola in den Rankings für das Jahr 2027."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnA4SnFtSlg4bjlqZjRETUdWRU1KQTI4UGlVdGUxSk1hdVVMOVVpSkZlTUxDSjZjYVRzQ2FnbGl5ekxGZWhQS04xX0NpTENNTzJ4ZG1HYWg0NVV6eHJYQlhnd1dfbFhkN3dxRkZjNnFqTXBTRlpFeFJ4SXJPd1NEc1k4R1lqb2FYLWRwR2tuUUhfem9aU0dweUlMb0RtWVJNZUE?oc=5|https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVRkREd1NHNSamt2OHlCWDJUVlUzQWd0S19WMEhCVmd2MzB2WXdhRWlaQ2RCN3ZjOHlpa2g0cWI3bjRjUVd5YmZZM3EzQ1FrSFRKS29EMTFRRnhQSkxVOXhYSDBOZ2xUZ0JGYkhNQ2tTcjZuLTEtU3hfeUNFZTRFbVVHSnF4WHZ4WGo0V1NUVDBYTThNa2xXNlN2dDdnNGVrZnpuOTF3?oc=5",
-    "updatedAt": "2026-09-22T20:23:22.036Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:30:07.593Z",
+    "method": "gemini"
   },
   "u s news and world report releases annual college rankings wku ranked in multiple categories wbko": {
-    "summary": "News and World Report releases annual college rankings; WKU ranked in multiple categories WBKO News & World Report’s 2027 college rankings Albion College",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "U.S. News and World Report hat die jährlichen College-Rankings veröffentlicht. Dabei wurden Platzierungen für verschiedene Hochschulen wie WKU und Albion College genannt.",
+    "consensus": 80,
+    "consensusFacts": [
+      "U.S. News and World Report hat jährliche College-Rankings veröffentlicht.",
+      "Verschiedene Hochschulen wurden in den Rankings platziert."
+    ],
+    "divergences": [
+      {
+        "source": "Google News World (WBKO)",
+        "note": "Berichtet über die Platzierungen von WKU in mehreren Kategorien."
+      },
+      {
+        "source": "Google News World (Albion College)",
+        "note": "Berichtet über den Aufstieg von Albion College in den Rankings für das Jahr 2027."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUs5aGJMUEhfTUFnd0NHMGFFUjZOZ3NXWWtrQlNBdHR1Zjh0cDdzbWgwcEpIT0ZfTU5lNDZmN1Zyb0xkYTBlM0tKLUI3bjVJcm9lSmkxUDFDTVpOZkJCSENrLUZBQUpSX1pJQUdvaWhmWkpfODBvdWhkUE50MUc3YmZOQTlrLUpCdEhxY3IyMXhHVEFMdnRDTWt3RVJEUHlPV2pHNHJpRnQ2aTFMYTZwSENieUd0b0Rq?oc=5|https://news.google.com/rss/articles/CBMingFBVV95cUxQN3lXQmh3STlGYlA5dmFyRDRtOVFHdUFLTGZUdmRPYUNkN2t6WEFWT2RXcVpNMnBjekpKRGxDSUJTanFYQ1BtSWUzcXFBZjFEWUxUSGFmeVY5bGZURkZfbTRBamFOaG5PcV9Pc1pVcHlvbXN4aHl0cUJTYmpmUVhDeFhmZzQzY3BPVVV6TGF5YkhZR2t5SE93b01ZaUwzdw?oc=5",
-    "updatedAt": "2026-09-22T20:23:24.474Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:30:18.695Z",
+    "method": "gemini"
   },
   "cyclist who dressed as man to avoid taliban wins silver medal": {
-    "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream. Fariba Hashimi fled after Taliban returned to power ‘This medal can show resilience from Afghan women’ An Afghan cyclist who disguised herself as a man to pursue her sporting dreams won an Asian Games silver medal on Tuesday, hoping it inspires other women in a country where Taliban authorities have sharply curtailed their freedoms.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Die afghanische Radsportlerin Fariba Hashimi hat bei den Asienspielen in der Frauen-Straßenrennen-Disziplin die Silbermedaille gewonnen. Hashimi, die nach der Machtübernahme der Taliban aus Afghanistan geflohen war und nun in Italien lebt, hofft, dass ihr Erfolg andere Frauen inspiriert. Sie musste in der Vergangenheit verkleidet als Mann trainieren, um ihren Sport auszuüben.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Fariba Hashimi gewann eine Silbermedaille im Straßenrennen der Frauen bei den Asienspielen.",
+      "Sie floh aus Afghanistan nach der Machtübernahme der Taliban und verfolgt ihren Sport nun von Italien aus.",
+      "Die Medaille soll als Zeichen der Widerstandskraft afghanischer Frauen verstanden werden."
+    ],
+    "divergences": [
+      {
+        "source": "Guardian Sport",
+        "note": "Erwähnt konkret, dass Hashimi sich früher als Mann verkleidete, um ihre sportlichen Träume zu verfolgen, und dass sie hinter Chinas Guo Li als Zweite ins Ziel kam."
+      }
+    ],
     "sourceSignature": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss|https://www.theguardian.com/sport/2026/sep/22/fariba-hashimi-afghan-cyclist-disguised-as-man-evade-taliban-wins-asian-games-silver",
-    "updatedAt": "2026-09-22T20:23:26.887Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:30:30.424Z",
+    "method": "gemini"
   },
   "from paleo to intermittent fasting are any diets actually good for us": {
-    "summary": "As diet trends proliferate on social media, it can be hard to work out which are backed by science and which should be ignored. From paleo to keto, raw food to intermittent fasting, each attracts a tribe of ardent followers.",
-    "consensus": null,
-    "consensusFacts": [],
+    "summary": "Angesichts zahlreicher Diättrends in den sozialen Medien hat der Harvard-Professor Daniel Lieberman ein Buch geschrieben, um die wissenschaftlichen Belege zu prüfen. In seinem Werk mit dem Titel Fed Up untersucht er als Evolutionsanthropologe verschiedene Ernährungsweisen wie Paleo, Keto und intermittierendes Fasten. Dabei nutzt er auch sich selbst als Selbstversuch.",
+    "consensus": 100,
+    "consensusFacts": [
+      "Daniel Lieberman ist Professor für Biowissenschaften an der Harvard University.",
+      "Er hat ein Buch mit dem Titel Fed Up geschrieben.",
+      "Das Buch befasst sich mit der wissenschaftlichen Überprüfung verschiedener Diättrends wie Paleo, Keto und intermittierendem Fasten."
+    ],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/science/video/2026/sep/22/from-paleo-to-intermittent-fasting-are-any-diets-actually-good-for-us|https://www.theguardian.com/lifeandstyle/audio/2026/sep/22/do-any-diets-actually-work-podcast",
-    "updatedAt": "2026-09-22T20:23:29.313Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:30:41.948Z",
+    "method": "gemini"
   },
   "grönland usa und dänemark unterzeichnen sicherheitsabkommen": {
     "summary": "Im Streit um Grönland haben die USA, Dänemark und die Arktisinsel ein Abkommen geschlossen. Die Regierungschefs der drei Parteien unterzeichneten am Rande der UN-Vollversammlung in New York eine Sicherheitsvereinbarung.",
@@ -156,13 +311,22 @@
     "method": "rss-synthesis"
   },
   "us fighter jet crashes in germany financial times": {
-    "summary": "US fighter jet crashes in Germany Financial Times <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZml0SVdnSHFHOWlFWEVXUGZxTDRJWVZ4TmxCN3p6aVhWLVZ1M1RoSWoxTlR4Q194VjhjWS1HY2Zx New ‘fire amoeba’ breaks heat survival record Financial Times <a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWQ5WVcyR19mN0Q1VFc3YWdjdnN4eWNtd1JUSG5nb0x5ejdCOUFsa2x2M3J5ekVw",
-    "consensus": null,
+    "summary": "Die vorliegenden Kurzmeldungen berichten über den Absturz eines US-Kampfjets in Deutschland laut der Financial Times. Zudem wird über einen neuen Hitzebeständigkeitsrekord einer sogenannten Feueramöbe sowie über eine veränderte Platzierung der Princeton University in den U.S. News Rankings informiert. Die Quellen behandeln völlig unterschiedliche Themenbereiche ohne inhaltliche Überschneidungen.",
+    "consensus": 0,
     "consensusFacts": [],
-    "divergences": [],
+    "divergences": [
+      {
+        "source": "Google News UK (Financial Times)",
+        "note": "Berichtet über den Absturz eines US-Kampfjets in Deutschland sowie über eine neue hitzebeständige Amöbe."
+      },
+      {
+        "source": "Google News US (The New York Times)",
+        "note": "Berichtet über die veränderte Platzierung der Princeton University in den U.S. News Rankings."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFJLekVTQWJIbWRTYk1Bd016SlJHUjIwbVM3U2R3OE1BSU4zQjBXWFdnVWhwLWpGeDljc2YyWVJtWGxGeHRyRzc4QURjNWFLWEVHcEpLV0JsVXNIMGtMdV8tYlhrOU9Pb1IxLTBmT1VKYjBJQy1yR1hJSmppdGQxSjhyNEQ?oc=5|https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHRuRnJYUzZadVd5bW02TWphdGdMdVdXREFBYndOdU1iNTFOVzV4MlZKbFNSdDU3OFBtZEw0N0xhUzRpdTJDZ1FUc25WOHNaU3cybURndVNWcGhYUEVVN2ZZcFVESUJkdmtmdHNtM0NrcUMwTkZRT1JIRmt2akFrSU1LaUs?oc=5|https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTldBLUtaVzdGM2hPMTFCVTc2Zk9mS2hLTmlpTGhiYTd4bVJ2S1RUNFJpakNjM3FqU2g4cVdhUkRJV3pqY19GRkV4dnJMbkE2bnMwM0QzQWNEd2Y5NXJVdmFpaGt2TDJxTnc2amlIX2JQbVF2YmphdWwwQzJPLTBWaDdadlIzZU4y?oc=5",
-    "updatedAt": "2026-09-22T20:22:52.997Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:28:01.828Z",
+    "method": "gemini"
   },
   "autopsy shows hayden panettiere died from a drug overdose": {
     "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident. Autopsy shows Hayden Panettiere died from a drug overdose BBC <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXRacTNnRXktY3JiNV82bHVHTmlBMXNSQWNCakZ2c3JEampaY1dfamMwcmN1SEVMWGpHcDlJT1RYakNBODZuWlV0V0VSc3FlSy1nemVJV0FUdG5ZMXA5",
@@ -170,7 +334,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss|https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYNnVXZVZIQVBBM05CWkZ6TzA3cXRmdFZXVjU3WkdINmRwZWxONHJ4eWg4QWN3YjMtT2x6OVM1TGpyLXF4aG1LcDV5VXhIanZ5aVYzV2t2OXV3MTVmdlE?oc=5",
-    "updatedAt": "2026-09-22T20:23:34.074Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "beats 360 headphones review best performing beats yet and they re modular cnet": {
@@ -185,7 +349,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWkZTc1lkVk5qOUNyeDE3eVNXdjRkdEhUc3V3TDU5Y2h5bjNlVHBMUzlDajEwSWNMT3hLZ1NOb3hicVQ1TjNSVmRHcUVWN2c1MUlXaTh3TXZqbUJ0cnlBN3VPR0NBX1I2bU1GN0dGQVhTM19WeUl6dnFvQlZ5UC1zWkFIbFFBeDhMU1dmZ29VMmZSeDlXYjJMb0FXQnBmWnp6TU1ja2lNcHF4b1AxLXdjQW8xaWptaktqZDF0NjRwRWhCbldUb0dqWW9WclZlc1NPVG5tejI0Y0xYUm41Y1h4S2R1MkxncmxJY3JKdEZNWmlNMmxyRzZJUUhoc1c?oc=5|https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTRJVFZhZ0l5VFMxYXRYczF3Q1l2N0hyUUdFMHo5RWVKNnBTMGJNMllHSjRCZFFTMmdXQXY0dGdJQ1BrTzBjZkpOeTRJUTM5TERLd1Q2alBaX3RVeDl1WWVYVzRKdHZETERMQzRFRlJOS2hhQzF6MDVOemhQbDduMXFESW1PVzQ3ZkdORTlKa0IyZzVxV1REWmhkbEsxR2M0Z3FPRG8xRWtVZFBveGtmTG5GdUJjdzFrMW1tNUFIampESjdpSVdKSE5relluX0pX?oc=5",
-    "updatedAt": "2026-09-22T20:23:36.411Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "eu schließt handelsabkommen mit philippinen wirtschaft soll sich von china und usa lösen hit radio ffh": {
@@ -194,7 +358,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGJfY0NjMDJuOE90VXpRNUxuSkJ1M2ZSVFJ1bW80cGZ3SWV1SWVxLTNaUm55Yk9LbVNCN0xVSTBSTzJIQ2U3NTBDc2w0alRyY0pqTklaY2YwU3VLaW1lRlBDMV8zYnlYalVLLXRlaERWOF9CeXRNb2JtaFROOTZPQUNTWTBoOW9yRjg3ck50NWZZRmptdjNFNmQ4UXZnY0wzVU1ET2hpR2NFTVk5UUo1cEpneFhjaXQyTG01aWFFMjlqWV9kZVBkZVZ1TG5jWVcwekJz?oc=5|https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUTlsc0VLZEZ1NXVmeWtQa3lrYlo1QzlXVnB3UFV1ckNCTVJra1hyMnBSQ3h3c3dHSkdUa2ZtX25ENWxvTTJrMlJPcV9raGotamgxdFJyVGlFWFVCRFVMM2lPenVKNDBSbnd1UERjTTQxV2tURmF1dnpZa0QwYjh2dVVURnVwRE5IWVQ0SVhYcmVxd25PRm43ay1vOUFHQWw3aEdEaVRfM1hYNFR6Q1NuanJETFVERmE5dGN6MEpuSW4xMk0tcWlqOTh6a3YyX2hRaW9JUmRCUQ?oc=5",
-    "updatedAt": "2026-09-22T20:23:38.747Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "georgia tech ranked no 6 public university in u s news world report georgia tech news center": {
@@ -203,7 +367,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEZheWQwZFhFaVJ0eFFaOXZMNE45YUdqZmgwREdpV0FWVk0wSmVmMGdsZVYybmNtOTNKa2g0Y2VsdE1SWTlDanBfWGdGUG1kZlkxbTdPdmxFRXNMOFR3SENBMzlMZHJwSGloc1NmZ0R4SDBzdkdzTFdUWHc0b2NsMGV3WXVKZ0JodS1CVDh0MnBiaDRpbkpsQXloOFIwSmhvLWpJVk9n?oc=5|https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVlOcGhfRElnMng0QzRIVFZHVlZuZ2JjeUlfSEJaRjVzaGEtUS16cWY3eGdtdWNNUkpSdkd0Wm03TFJaREs4YlZfZkhPQ24zLUZjR0s3dDg0d3FOQl8wUDZPZ1JOZHdwYzVHSHoxYWRiSlMyaFdWWnFZbGkyUFVfN0ZDaGZ1cnotMlNnOGRTaU5hai14aHN1RElwY0RPcjd2aEJnLUFrZE9YYWpzVWc?oc=5",
-    "updatedAt": "2026-09-22T20:23:41.120Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "developing el ni o becomes strongest on record weeks before expected peak bbc com": {
@@ -218,7 +382,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html|https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDQwcERZYXFsS2ZHTzA1LWM4TXpzMEtCTnZtU29XdDlOVnN5ZElmOFFJdmlQVHAxMW9fdXplbEwzaWNhUExvcGxPX0NTRHFCUGJwOVZBZmJGRG11Mm1TeHRVZDlGRE93Ulk0VEN4cVRqTXN5OE9KSzk3VlFYeWcydzhtdlF6OC05NU9aSTVGcHZDZw?oc=5",
-    "updatedAt": "2026-09-22T20:23:45.895Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "salve climbs eight places on u s news world report college ranking salve regina university": {
@@ -228,9 +392,12 @@
     "method": "rss-synthesis"
   },
   "first thing news outlets suspend coverage of trump in escalating media access row the guardian": {
-    "summary": "First Thing: News outlets suspend coverage of Trump in escalating media access row The Guardian <a href=\"https://news.google.co Major US outlets suspend shared Trump coverage in protest at media ban BBC <a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lQTA1ckV6ajNVUC1BbmpHTUVwQjhUam5taWVZUmZxakFqRTlTbURqQTJncDAzYkVHajljY0tEenlsUzRrdldBRWJNVjRFb1BhV1VIR1J",
-    "sourceSignature": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU94X2piUE5zU3htamxoeXJRNDRrem9lYW04Ulo1MFYwcXlMWTRPQWdwdWdkOFBnS1JmQ1FZY0J6MTdlUFBkMHRHSXd3NzBBdzBqTGN3Y0wwaHhQSDBqQmxnMkpkNmFpOTVzd0ZnVUxYYUxpZ20xdXZtcnJUMXpDbHZVLXNDaXROUnpabGxjMFEyaHJrSkVXZlpUbEZnOU1JOFB5SzlWNUw0eF9VRWMyanRB?oc=5|https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rdHdMdm82UW1fVHFFMXFMTl9LaVMzcER3cVMzclRtUlVoeGdTWTZDbjl2UkhfdkpVSG96MmFRQjhFeFJWVTAyTUtrV0hycmlnVzdyZjVPSm1MOEZGY3c?oc=5",
-    "updatedAt": "2026-09-22T20:06:42.156Z",
+    "summary": "First Thing: News outlets suspend coverage of Trump in escalating media access row The Guardian <a href=\"https://news.google.co All major US networks suspend Trump coverage in revolt over White House ban euronews.com <a href=\"https://news.google.com/rss/art",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU94X2piUE5zU3htamxoeXJRNDRrem9lYW04Ulo1MFYwcXlMWTRPQWdwdWdkOFBnS1JmQ1FZY0J6MTdlUFBkMHRHSXd3NzBBdzBqTGN3Y0wwaHhQSDBqQmxnMkpkNmFpOTVzd0ZnVUxYYUxpZ20xdXZtcnJUMXpDbHZVLXNDaXROUnpabGxjMFEyaHJrSkVXZlpUbEZnOU1JOFB5SzlWNUw0eF9VRWMyanRB?oc=5|https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGpEcU9CQkhtT3ZKbi16ejhZdFFGMXpOU0hFeEkydXF4LW1YQWU0V3hESHZKTXVEYzJkVnotV1lQczNMLUJuYjd2NkNGMGZsczVIMzVDM18yc2ZEcXBNRXA4Tkk3bDkwZEVzS21DS0xqLS1YSDdxR05MNEg1S1VxRWJVbWlRRUQ0SF90RU5qOVpDN2RBQWlxd2VfZ3ZwV3ZNX0RXMmZJT0lCWTJfdnpibw?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "inside scotland s wildcat hq": {
@@ -239,7 +406,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&at_campaign=rss|https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:23:48.296Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "mond spektrum der wissenschaft": {
@@ -248,7 +415,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91b0xEVHRzb3d1RkUwZk5wZzhkVV92XzdGYnNtZGdJZnhtYXIxSTkzb1U2Nm4wMTQ2dWRHc0hUaEZxTks3eWlIS0FvWkU2YU9sZ2QyVWxOR2xWQ09OeXZhSXhzbEt0QmtVQ2lobjdkYw?oc=5|https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2FjR2xTeng2bnNFbFVkR1duUnRIVXI4LXhBQTAzQ2ZiMk1aazJlMGlvNWVXMUF5S0tNYzVCTmV1dHJVT0JDZ01HT3QyX19Eay1tekN6RUNvQnBzWnF6dGFZcTRQMnd6TXRER2FqMGhFNEhLMGNkaERubGJPd0MwMnpR?oc=5",
-    "updatedAt": "2026-09-22T20:23:53.111Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "robots dance their way to america s got talent final with human partner": {
@@ -257,7 +424,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/video/2026/09/22/robots-dance-their-way-to-americas-got-talent-final-with-human-partner",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "tech life": {
@@ -266,7 +433,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "sex mit diesen faktoren kommen endlich beide zum orgasmus welt": {
@@ -285,13 +452,25 @@
     "method": "rss-synthesis"
   },
   "regierungsbildung in berlin spd spitze an linke antisemitismus nicht mit uns politik sz de sz de": {
-    "summary": "Regierungsbildung in Berlin - SPD-Spitze an Linke: Antisemitismus nicht mit uns - Politik - SZ.de</ SZ-Podcast: Kann die Linke in Berlin regieren?",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Die SPD-Spitze in Berlin äußert sich im Zusammenhang mit der Regierungsbildung kritisch gegenüber der Linken und betont, dass Antisemitismus für sie nicht akzeptabel ist. Zudem wird in einem Podcast der Süddeutschen Zeitung die Frage erörtert, ob die Linke in Berlin regieren kann. Beide Meldungen thematisieren politische Fragen rund um die Regierungsfähigkeit und Positionen der Linken in Berlin.",
+    "consensus": 75,
+    "consensusFacts": [
+      "Es gibt politische Diskussionen und Berichterstattungen der Süddeutschen Zeitung zur Regierungsbildung und der Rolle der Linken in Berlin.",
+      "Die Haltung der SPD-Spitze gegenüber der Linken steht im Kontext von Antisemitismus im Fokus."
+    ],
+    "divergences": [
+      {
+        "source": "Google News DE Politik (Erster Text)",
+        "note": "Thematisiert konkret die Aussage der SPD-Spitze an die Linke bezüglich Antisemitismus."
+      },
+      {
+        "source": "Google News DE Politik (Zweiter Text)",
+        "note": "Weist auf einen SZ-Podcast hin, der die generelle Regierungsfähigkeit der Linken in Berlin diskutiert."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTmhoRExXT0o0bEJISkhTMUlQREpRMUZkUFA1cVVpbGJSOU05MUJ0S3lqOG1ST19OSEJjNXppUzN0QmRvLW5BQkRSczNKbTM4b3JYZV9hVHpzbldGNjZBRTcwMTFlRVlraFB1OXljUlc2YUt3Tl91d0Q5b1g1V2o5ZTV6Xzc4cWNXUXU5X3BzeEs4S2ZCd3JZeFN4NXJsUDZaWG5uRzZ0UjNRMnJVTzFKa3c2OEUyLWNzSTJkVjhZcW1kVDRWNmlTRDMxMm5XQ29OTWtKb3ozZ0xXYm8wclFmMDg2RXVXSkFSbTh5UlNZLXlubWNE?oc=5|https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmY0YWFQT25qaXZ4Uks0NVBzcjZiM1BVU1dObDRkTUJETEFTVFVBaHhUYmszNm45TkUwVnZNLUZLUzdWMTZjR3N2eF9YQUs4TzljSGNyNUlGSTBJaDlmdU9NN3hHZU5zdnBDek5pV0hTQUFqR1Z6akcxLTFWRlRHSG5FRld0Z0hJYy1aNWNtcFhsajJJVVVvMGdrZC0zbURU?oc=5",
-    "updatedAt": "2026-09-22T20:23:05.054Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:28:47.559Z",
+    "method": "gemini"
   },
   "oil prices fall on u s iran diplomacy hopes wsj com": {
     "summary": "Oil Prices Fall on U.S.-Iran Diplomacy Hopes wsj.com <a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZW",
@@ -311,7 +490,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPazktOGs4MUN5M01JVGJucjU2V3BvalpnUFY1NVlwNU8xV1ZQS0RzaXlQbGRhaVJzek12amVIVmlhMEpSWmxXS1FhMF9oMGZ6cTJHVmtHWFItNG9zeDdCWkMxaGFpU1NaVDItWnJ2UnZtdENjTXI3QmtlSnJZZ0VESm53aEhUcU5NdU9jWGdtR2tBWkNZU2ZubU4tRWwtYXE3RExOcDJTZ01QZHpNOUZ6dURUakRwWjFRMTNBaUE2cjB2RWZUNW0zTXZIblBMbmxVNXk4a1JMb3Y0N2NSMC11VHdSYnFRUDMtdzN6ejk2bm0?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "choosin texas unseats all i want for christmas as longest running no 1 song on billboard hot 100": {
@@ -320,7 +499,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "prince and princess of wales walk red carpet with tom cruise at digger premiere the telegraph": {
@@ -335,7 +514,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "how turning electricity directly into food could help save the planet": {
@@ -344,7 +523,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.newscientist.com/article/2590402-how-turning-electricity-directly-into-food-could-help-save-the-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "qatar denounces israeli aggression across the region": {
@@ -353,7 +532,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "ukraine krieg eu hebt sanktionen gegen zwei russische milliardäre auf spiegel": {
@@ -362,7 +541,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS0NZN0hHcEpZVENhWUx5NlMwR0tXY3dnMS1zTmpZWlM1UzVYREpOUnVYbVNiM1AxcFZxUU1KeEhXYjlXR2xQbTZSQ2Y2bU9ySGZiTjByTG4tdTQyU1pmSngwOTh3dUZITVVkelRyWjdWM2RpcV9HUFFTd3RRNEFtenM2WTc5RUZzeUd1RlAwQjF3ZWJOejUwbE9IQUNGcGVPYmlabURDSmJRV25DWUVfTDBiSm1teFRiVHU5LUR6ZTFDZnJiSGhBWFByWjcyNWxISnFPMkh3SQ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "die ganze rede trump spricht vor der un bild": {
@@ -371,7 +550,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUc4S3MwNzFrbGZwMExYdlRvNlRvdkJSc0FYeXFYNXR2T2kwRDFrTVNnWE9NTUZ2cEZSa3RjLUhxNE1ZWDhtZVRZdDBqUXNoY3JGSGk3ZkVZeXN3QUprR2ZMZEtZcTFBeHh0VDF3U1ZmYTFRSlBQcG1jaEQ3RkhaRzFrdG5VYXVXbWFVSFZrVkllRndQT3pV?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "brief aus london liebe deutsche wir briten machen uns sorgen bild": {
@@ -380,7 +559,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFV3UkVEMTNQSXJ5ZlZBVFI0eFItTF9JS0FqOG9adWFwUHFrZUZqZ0lfdHY3SHN4YmN1NlFOM3VRYnRSYWJuNGRPRVc2VVd3UzFOVWtUeTYzRlJjOTNuenBxa2c4N3FCeF9SeW9ERFJUbm90REVLYVgyZG1GandTREQ0c1FNOVBUdXRqeHJ6VERaWGhWcmg0TGgwZW5GUmRud01FYmZCRHVaNjc5c044Y3M3TG1DQXo1NnpOcA?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "trump apos s d c arch is now a military complex here apos s how that complicates things": {
@@ -389,7 +568,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "giants jaxson dart could reportedly miss rest of season with knee injury": {
@@ -398,7 +577,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/sport/2026/sep/22/jaxson-dart-giants-knee-injury-update",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "collins urges white house to drop bid to give vought a veto over health research grants politico com": {
@@ -413,7 +592,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "what led to the 1994 tutsi genocide in rwanda": {
@@ -422,7 +601,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "erdogan accuses israel of genocidal mindset at unga": {
@@ -431,7 +610,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "länderfinanzausgleich söder und rhein wollen extremisten in berlin das geld entziehen welt": {
@@ -440,17 +619,28 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY0xSTGhwT1lma1ZEX1pBSDFzZGdPdEdQb3k1SDI2MnZQRDRWX3lhdW9welF4X2lsUWtUdzdrUUhKc2NKU180YW9FdGZrVF81OHh4RUxLSFBGVzJ1ZV9XeUMxcFh4RWR4TVJrczduOEhlSHREMVcwc2xjalJLazZRbVRMM3VtX3BWbThyc1QtdTFxMjlfa3FYTUJ1ZXZKQkdSd3EwNFR4eGVKZ1VicHNjUEg5eFcyLThOSXB6MHZjTzlMUWlOWm1FQmh3UHhLTnVQa0lESkRBSWs0eFpJWGw2VU9rU09ZYkJmUV9IUXFHRFR0VGhQXzVR?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "middle east crisis trump says iran will make a deal after us midterms as it happened": {
-    "summary": "Tehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to do so within seven days so long as the US takes reciprocal steps to ease the pressure on Iran. Previously Iran had set seven onerous pre-conditions for lifting the blockade including “an end to war on all fronts” and a commitment by the US to cease all aggressive actions against Iran including sanctions.",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Der Guardian berichtet im Rahmen eines Live-Blogs, dass Teheran seine Bedingungen für die Wiedereröffnung der Straße von Hormus gelockert zu haben scheint. Demnach ist der Iran zu einer Öffnung innerhalb von sieben Tagen bereit, sofern die USA gegenseitige Schritte zur Druckentlastung unternehmen. Zuvor hatte der Iran sieben Vorbedingungen für die Aufhebung der Blockade gestellt.",
+    "consensus": 50,
+    "consensusFacts": [
+      "Die Berichterstattung bezieht sich auf die Nahost-Krise und den Iran."
+    ],
+    "divergences": [
+      {
+        "source": "Guardian World",
+        "note": "Berichtet detailliert über die angebliche Lockerung der iranischen Bedingungen bezüglich der Straße von Hormus und frühere Vorbedingungen."
+      },
+      {
+        "source": "Google News UK",
+        "note": "Erwähnt in der Überschrift, dass Trump laut Berichten gesagt haben soll, der Iran werde nach den US-Zwischenwahlen eine Vereinbarung treffen."
+      }
+    ],
     "sourceSignature": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates|https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdWT084RlVDOEFDaFZDblR1b0ZBZVlpdzFkMXd5RzZISlBEaTNjN0dldEtrdW83c2hOYkoxUUpDYVY3UTN2SmhtQnpvaVJrQXA1ZFRjdUpsVnFrcUwxXzlnQjhTWkRPdHZIOUZQVmFPRVpjb0tEcXk5OTI0aU5qX0dzUWt0b19STFdXcW94NEJRUHpiMUlSVFVtcHhUTXVHcVJCQlR0emVJV2JYcEtic2x4VEpVWV9uYVZpRldhWTlaemRBQjlJeExXWTE0RHV0UktpZ3hiVk5qbWNvNHBmcWtCamc4dw?oc=5",
-    "updatedAt": "2026-09-22T20:23:14.700Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:29:33.784Z",
+    "method": "gemini"
   },
   "hurricane polo rapidly intensifying from strong el ni o patterns rages off coast of mexico": {
     "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours, fueled by stronger than usual El Niño weather patterns in the Pacific Ocean.",
@@ -458,7 +648,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "adobe premiere finally brings powerful video editing to android and it s free": {
@@ -467,7 +657,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "ukraine anger as eu removes russian oligarchs from sanctions list": {
@@ -476,7 +666,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "worse than the scramble for oasis tickets england s sustainable farming funds run out in just six hours the guardian": {
@@ -491,7 +681,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1U2Y2FhU0pBMU5Ud2dXTC1DZXdlMFFWb09DZlJwTllNb3NMZUkyZkZiWEFWN1pZTlkzVzJWR0Y0WlJpRHU2Rk9NMEtTdzNNbzhhbTB5bWtKVXpPTlZ0Q3FyT0JDdEZLcFJUQnJpWkNpOGNBUV96aW9MV2FKM0locWNqRmVVMUs0NnJTanFlR0ZVRkVxWW1pZVJoYU40S1Fjb3ZYcndxM21hN294T1k1LVFkY2xUN1E?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "england beat sri lanka by 89 runs first men s one day cricket international as it happened": {
@@ -500,7 +690,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/sport/live/2026/sep/22/england-v-sri-lanka-first-one-day-cricket-international-live-score-updates",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "bayern munich 2 2 manchester city women s champions league as it happened": {
@@ -509,7 +699,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "ancient roman pula transformed by contemporary light art": {
@@ -518,7 +708,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/video/2026/09/22/ancient-roman-pula-transformed-by-contemporary-light-art",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "cost of raising two children in australia has risen 134 in two decades study says": {
@@ -527,7 +717,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/australia-news/2026/sep/23/cost-of-raising-two-children-in-australia-has-risen-134-in-two-decades-study-says",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "will anyone topple infantino how fifa president is trying to cling on after world cup sell off debacle": {
@@ -536,7 +726,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "wamser rescues point for manchester city in wcl fightback at bayern munich": {
@@ -545,7 +735,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/bayern-munich-manchester-city-womens-champions-league-match-report",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "england vs sri lanka will jacks career best 5 22 helps hosts win in durham bbc": {
@@ -554,7 +744,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tRTlxMjFLakVlcGgtUDhyUHJHX2lYcXhQMC1OTEFFZ3BjdXl5RjdyWFlkaElubXNZZ1lnc201SnRPektUNjNkRUNXUm5ZSmd3dHVUVHRyLUd6UUVwZ3RPbWdOdUVxYWFuOHc?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "cdu abrechnung mit friedrich merz es funktioniert nicht mehr mit ihm bild": {
@@ -563,7 +753,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYV8tZUUwNWF4ZFljbkRid3pKb2dZdDMtMEMxRmoycXQ4Y2tvTU56LXhRVVM5bjZMSUtERDFuWTZJLTNCcGdTaEN2a01CWjRSUUlVQkVyblJMamZTQ084ODlVMTUxVENFWXExcHZ0M0dRSmdfUlZjUXhpekp0MHA4OVpGVzFQNzZ4WHh3QVEtSWF0OE11MWpQdzRJc3JWdFFZdEhoZmJDbUQzYTA5ZzY0dFdFaWNRRmdNRXNUNFRLV1pFYnZLWXhZ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.196Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "is ethiopia heading towards renewed civil war": {
@@ -572,7 +762,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "jim ratcliffe halts production at hull chemical plants over ridiculous gas prices the guardian": {
@@ -587,7 +777,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/2026/09/22/trump-threatens-to-annihilate-iran-at-un-then-confirms-direct-talks",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "un goodwill ambassador millions of refugee children missing school": {
@@ -596,7 +786,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "qatar s emir urges diplomacy as gulf at one of the most dangerous phases": {
@@ -605,7 +795,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "später schock bayern frauen verspielen 2 0 führung gegen manchester city web de": {
@@ -614,7 +804,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWZEUF9LTDhtaEpXNlVRSDh6UlBhTlFMT2xaSkVyM2tOR0dKY2Qwc255VmM2RUpnNWRQQ3g1TnIzY2ZaWVQyTU8wZDJtdkVIT1Nwbmp5bm9SNkFLNEd4TmlQYnl2cHlfeXA4RkhTRVVNRHdrVktVSHdFZkNOSkplaTI3NmZ2bjhQZ09kRFBCZ2F5NVNrSHU5MmRtWnBVN1JTQk1wWE8yTXpXRkJRTy1hSGE1ZVJtZw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "us signs tremendous arctic security deal with denmark greenland": {
@@ -623,7 +813,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "report jaxson dart s injury could be season ending nbc sports": {
@@ -638,7 +828,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "neue jobs füllen parteikasse großer geldregen für die linke bild": {
@@ -647,7 +837,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONER1X0M0WDRvdmtoU3I0UlEyRFJZb3R5Q08xUUxBclJyOWtwM2hLaHJvVjVZSjZ2SjdBQWJpa2x4b3U4NlFNU214c2JSWFktME5PNmN4M19lQjdLVFVFNTZVdGc4ZlJSRS1EMGZKMEVfeFRqX3dqT1l0anhjQncxRTU3WlM3OW5ZMzVHUkdyNEMybXJRUzVwVzFsUG5tVVFhSTBEem1VSzFRZjI4Z2N0NVZTRk1TNURkdTRPRHZBdw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "ufc champion sean strickland in real bad place after atv crash while not wearing helmet": {
@@ -656,7 +846,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/sport/2026/sep/22/ufc-champion-sean-strickland-crash-injuries",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "die eu streicht zwei russische oligarchen von der sanktionsliste euractiv com": {
@@ -674,7 +864,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0dLb1R3czhiOVVsMFJpa1pLaUwyQ1g1R0xhRHdmOVNaYjEwSTlPLVpBZ2VnblhFVnpUUUw1ajh1NnFZUnpoMldXbTFGU3hydFNHQnRSYkM1UXFzT2hWRjNMT1RUU21HNUJiVjA3X2hqcWUzMmFrM0RYdTdQNmFjd1MzV0JMU0d4UThjeWdLWGNlZXBDUnfSAZYBQVVfeXFMTVVPUGI5clpqdjliOF9wdkJTSUItX2h3U01RS3ZmYVlkckx1a1YzTlEzeGJNaTlZNFI0dUNwLXE3VXdjT3E1WEFzQ3NTSFIzdmFhcUN0LVRsNld4SDZPeVRFUlRSVHhpTVZIM1VRZVhMVV9CMFJPU0NUamFGTnJEN3NsMDBFM2pYNF83NVNMVmljSjJVMHZR?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "mikel arteta contract arsenal boss agrees new deal to extend stay at premier league champions sky sports": {
@@ -689,7 +879,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "qatar urges diplomacy rejects strait of hormuz bargaining": {
@@ -698,7 +888,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "wall street expects meta s ai agent to shape into a new revenue engine reuters": {
@@ -707,7 +897,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "marokko wählt was das neue parlament entscheiden kann": {
@@ -716,7 +906,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.dw.com/de/marokko-wählt-was-das-neue-parlament-entscheiden-kann/a-79374104?maca=de-rss-de-all-1119-xml-mrss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "trump s threat to annihilate iran to un general assembly is stunning even for him": {
@@ -725,7 +915,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "with new macs apple aims to take on microsoft nvidia in a rush to lower ai costs reuters": {
@@ -734,7 +924,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "wirtschaft vor acht vom 22 09 2026 tagesschau de": {
@@ -743,7 +933,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBobmppQXFDSHBFeEV6SWJtbnUzVkpyLTNETDY4Mk9HTUlXd0ZsMUVFS2tNdEJZa3phbzNLVGtZMk5mU2ttbUZyMzVuU1I2OFptUjNVY1kySEtwckdhSHF3?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "taylor swift announces new single patient zero and it s coming sooner than you think billboard com": {
@@ -758,7 +948,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "us iran hold very good talks trump says at un meeting": {
@@ -767,7 +957,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "uk politics trump says he has a better uk relationship with burnham as pm as it happened": {
@@ -776,7 +966,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/politics/live/2026/sep/22/andy-burnham-donald-trump-un-general-assembly-uk-politics-latest-news",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "brave scot battling terminal cancer stuns docs after tumour disappears from scans the scottish sun": {
@@ -785,7 +975,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSW4tMFZoM0xkUXMzNFhJQlUyNTJUMlJuV3ZDdHYwWURUUnhqMDF1Mk1rb2ZrdW1CRzRVR3BocUhGVDFGd2NXOEhtemNXOWlaRDg0ME1IaW9TLXhsTW1sT1pjNHNyTnpPTTRPMUF5aUV0QXBNQ1JlNHBDcWpUUDR5X2dxRUtxUE9keERKQmp0clNveWQyTXl0VU1jcEwxdw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "kommentar zum grönland abkommen ein alter deal in neuer verpackung": {
@@ -794,7 +984,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.tagesschau.de/kommentar/groenland-abkommen-trump-100.html",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "six year old chinese girl sets new women s rubik s cube world record": {
@@ -803,7 +993,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "donald trump droht iran in un rede mit auslöschung und kritisiert kuba delegationen verlassen den saal welt": {
@@ -812,7 +1002,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZnoybXhtSUh4WVNHay1ON05Fd1QzSGo3OWRHSTlvS0J6Y1pocEZqSV9HakpLRW5HbFZodmVIUktET0lTb0swN2hJd2pkaEFhWGZ2RDFSc2o5WVlaTzQ1UVlXN01zVHFVeWhiYnB0V2hoMUVLLUJYS21ZVmx6cDczZnZIU3AwSFRwWjZXTUM3blpmcWtzWkVkVlNmVFUweG1GQjJZUktlWmh3bGk2dWtfQ3Q5VkVEcGtKQUZxLU11RkR3dVRjSkdOV0xDZDlseXh3R0lyVldVaWJaN1JDbUNkd296cDZaaldmbU12VFFfUDVjYy0tVGE5dEpKN2J4ZWxNbzRKRUJwTQ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "eu removes two oligarchs from russia sanctions list as deadline looms": {
@@ -821,7 +1011,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "earl spencer apologises to piers morgan over incorrect assumption the guardian": {
@@ -836,7 +1026,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "woman and three children killed after intense fire ravages merseyside house": {
@@ -845,7 +1035,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/uk-news/2026/sep/22/fire-bootle-merseyside-house-people-killed",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "indian mma fighter refuses handshake after asian games defeat": {
@@ -854,7 +1044,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "hope us won t end up punishing india jpmorgan ceo on trump tariffs ndtv": {
@@ -863,7 +1053,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHkzQWpOaEZINElRTHY5bDNPY3RsR1Q1WmhlMVI0NlRBLVRVLWxjVW1qNnQ4aUlYQ0lkQnItV2lPNHQtbHBpMy1ZRWNmRlJyTXhJVFhDNjVpZHZ6bTd5WXpZa3QtZFppUFRTbHZ6MmZFcDFSdWM2TEVXbi00ZklXRjBFWDR0ZXY4OHJST0Zra3RpWV84c0c5d19wZVdRUEtIYXRyZmNlWmRBUdIBsgFBVV95cUxNRElDMlVfVy1HNXgwU1g2dE54N1VtRDhldHpUSUM2dHBPTXpfMG9rS002bkN1WHYwSThnOGROTERpaXlyY0dvWnN3UzVIR0JRWW9rWEFwaFZrTDhRbGVSUWNfbU1HeGFMZHh5YWt6RjRJUC15cU1zN19NaEVKLUlVXzN3Y3dLRmxrVVlrU2w1OWQ0cTBDaWlyY3l6MzhwQ1RsX3Z3ZENFVXpKbkRmaVhvaUlR?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "indian villagers stage water funerals to protest river linking project": {
@@ -872,7 +1062,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/video/2026/09/22/indian-villagers-stage-water-funerals-to-protest-river-linking-project",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "mamdani blasts doordash ceo s greedy algorithm ny slaps company with 131 million fine fox news": {
@@ -881,7 +1071,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmdDR3ZtQUozc0dqa2hUOTUtT1NxZ3BEMmlEYlJlQmIzdUJzUzloVTF2bjZubi05VVFHT1g3VzdOT1JBU0sxUTZUTjFoQTROeGt4MHA2NHFrY3gyVmFndjQ1bVczZThQUTdzUEVLNXVTQVo5NDBUcGVmUjVsT091eDRxX252NXZkMlYtVjYwRkdPZEItWGJBUzBnaHJjYjNIdXl5VWFlRU1kSG9iX1NPVdIBtgFBVV95cUxOTlFqRmtVZmpGVENkamd3M3hYRjRCUnpMbnI1aHhhaVNudE9RVm5rMTZPZmttaXpCN0FSWXFZVTUzTVlXNkJHZERuMjVGc1BxVnA3bWdQMnpCTkVjUnNyRzFPRVpoZnNMX2ZMX1l6NXFWRjdBV3FWaXRFaE03UWd2SS02MmlqcHF6czJLdGtmR290dXpJdjc4dEh0MzFTbzdPYkItWTBObTRTa1VsOFZkLS1pYjhPQQ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "gums ginkgos and a golden wych elm voting for victoria s tree of the year": {
@@ -890,7 +1080,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/australia-news/2026/sep/23/gums-gingkos-and-a-golden-wych-elm-voting-for-victorias-tree-of-the-year",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "lula warns against foreign interference in brazil election at un": {
@@ -899,7 +1089,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "police believe they have foiled imminent attack on manchester s jewish community": {
@@ -908,7 +1098,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/uk-news/2026/sep/22/police-believe-they-have-foiled-imminent-attack-on-manchesters-jewish-community",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "schule und politik gefühl der atemlosigkeit taz de": {
@@ -917,7 +1107,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SRmFqQnNWUHd6MER3TW1OQ1E4ZGlGc050UER3NXNMX3Y2Y01lTHBKeUthME16U1VFbDlRd09Rdlo3YmE2YkJLbmFfQkw5SDA1Qi02V3ZB?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "liveticker bundespolitik ferhat ko ak zieht sich nach kontakt ins clanmilieu zurück faz": {
@@ -926,7 +1116,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRmh3eTlaX1FRLUhKM3hPSGlRc1FlZVBEdHdmMHE5SEdpZVZIcW9Pemx3VWhlMUtfLWJTanAxQ3F1SFBvZEp4UjJxYk1RcWN4T0hJTFVnRy1KdjJUODN5blFLZjlWQjNLVnVyaXdDMk1KVTd1dFRPbUluYXdjS0FnRW1Ea2hZQkFtV3NlNkNXZGRfbXVJalB6UDRlRjYzQ3BOWVNwRm42ZlNRRS1IbWVtTEJLdEEyYWtGaWJGRGpvTlNRT1M5amMwVS1DYjRudzIzMzRHclB1SktrdWp5UkFr?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "sudan s historical famine echoes through latest hunger crisis": {
@@ -935,7 +1125,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "uc riverside is again no 1 in the u s for social mobility university of california riverside": {
@@ -944,7 +1134,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTJxamY4SFNkMWdyZDdCbW8tMVRuYWtZU3FkR2wybzZ6WnFRSTFxd2tNRHZyYmU4cHMxc2tpYUgweHI5LWRtY0htSGNXb29TZnhVYXBhYk9ZQjQ5QXFuM3JNNUw1RGlEbGVWcGkyLVE3ZFFyVUU2VllMbG5UNDBfVDRkZ3FUUlFjLUN3?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "migrant dinghy intercepted after 30 hours at sea the telegraph": {
@@ -959,7 +1149,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalRUby1pdmxnM2lUaVZIaF9BZ3BUM3JHMU0tMjFncHRTZ0Z0SHBSb3hKMW5mMlQ1SDU3dmhTNzd3Ri1VcHM5TWJENnd4Sm51Ymh2b1BYeVVhbUwxbDRvTTY3TWhwYWJ1Vllza194aldNTl8xZDVMc1MtMF9sdTJPeFJ6UkZTbUowN0FXN1ZHWXRaX1VkYUxGYllTaUJUZ0FLOHNTcFBPNnpMZGxWMXpkVl9OeELSAboBQVVfeXFMUERzZDZCbExDcFRxaDNKRVVmMmRVbDlZMDBlS2YxRjk4bjU3Y2d2cUZOeE5EQU1vaExXamMwVGU4TVV3TWxvYURwNzB6dkQzLVM0ZEpQVEt6dk5KV2l6WHdhejlRUVZGWnowRnBuOWs2SXJCQklfU0RURWJFTmZnUHBNU1dsalZfVUxXalFsc1ZGUkFWd05wWDd5UC1CNkN0Q25PLTgwUHIwbFBBaXhLYkgwQmNFaGhtakFB?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "watch live french president emmanuel macron addresses un general assembly": {
@@ -968,7 +1158,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "top soundbar deal bei mediamarkt dieses philips angebot sticht heraus delamar de": {
@@ -989,7 +1179,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/mikel-arteta-agrees-contract-extension-arsenal-2030",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "echr hears how 10 children went missing after russia annexed crimea": {
@@ -998,7 +1188,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "review resident evil might just be the best gaming adaptation yet": {
@@ -1007,16 +1197,16 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "trump says he can do business with burnham but criticises terrible chagos deal bbc": {
-    "summary": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal BBC <a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxON0tmQl9xd3EzWS05cE05bG9GQ0xmNV9XR2FyRU11SEVMRnpqRzhIemxLNUpGdFgxS1BnUG8xZmMyTW12UWNHTkFydDNtbkJoRHJZa",
+    "summary": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal BBC <a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzROOVR5Z0htSFE0QUNMSG9jTVVTeWNZRnhVV1BNYmxCbjBSXzlINnFoRzNZbUhoVUZRM2k3aHIzT2JoM1JURVNrQTVhb1F5eWRoV",
     "consensus": null,
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjOUF4LUk5cnhuVDBtLUVJVkxPV2NKX1A2dU1oUmVpTFhEYXBRTzB6QlhjNHUyZGNzblIxbURtVmhNbmVWVEhBdUxPYXVfSDdybGxaLWh3WjA?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "der beste kantenschnitt den ich je gesehen habe worx wr308e im test inside digital de": {
@@ -1031,7 +1221,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWTVORVZhcGhRN1dHS0dNZG1XeEtxcHdET1RjSEswaUVpRjJ6ZkI3MWlDVG9aV0hGbXg0X3B6LVBGQlpXVnkyUVZxRnB6d0lGZkxjTVh2NjkyQ0Y1QUZSX3gxVGRqQWg1cU5PM0dKS25sRDFpNXhhOUJ0MGNDUW5jUVBoWFFQeC1FT0tRYWgxWEgwR0doR0lXS05wRm1DZHlmQVJaUkdVb0ZtVWFpTjN6NzNhQWZaN1dlNXNyYmNSNVAtcDJ6V2YtdWpJWWJsUzBF?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "what does a fed rate hike mean for mortgage rates usa today": {
@@ -1061,7 +1251,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "donald trump scolds cnn anchor for covering him at the un": {
@@ -1070,7 +1260,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-scolds-cnn-anchor-kaitlan-collins-un",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "iran ai and the icc trump makes threats touts policies at un general assembly": {
@@ -1079,7 +1269,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "toyota orders workers to train humanoid robots but says humans won t be replaced": {
@@ -1088,7 +1278,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "trump calls on allies to enforce complete economic isolation of iran in un speech": {
@@ -1106,7 +1296,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/la-liga-president-javier-tebas-real-madrid-conspiracy-claims-derby-defeat",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "turkiye school shooting leaves 11 pupils wounded": {
@@ -1115,7 +1305,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "eu removes two oligarchs from russia sanctions list as deadline looms the guardian": {
@@ -1130,7 +1320,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "erdogan slams israel s genocidal mindset in blistering un address": {
@@ -1139,7 +1329,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "top south african policeman charged with sexual offences": {
@@ -1148,7 +1338,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "us to build new military bases in greenland as deal seeks to end tensions between nato allies as it happened": {
@@ -1157,7 +1347,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "nach abgeordnetenhauswahl brinker bleibt berlins afd fraktionsvorsitzende politik sz de sz de": {
@@ -1166,7 +1356,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQelhlUVFNTFlpWVkyZGw2dENaTy1RVGRLNmxPb0hZLW1kekpyMmdSckhzbVJDbVVVVmVCRVYwYnNpTlM4aC1LTURVSmprMWlrRjAyWDk2bUs1YV9qcHZtd1ZvdXFtejd3WWc4T3NsdnNwSEdmOFJxY2xjbEs1eTF4WlFiZy1jSjByQ0RZeDZjNGIxMTZvc2tVdktYR3BHcnhjWFMweFJnNXBtOUlxOEFrWjV1MUV5THlQRURVWVZnQTM2cFVjdWZvYnFKVmFxSjN3Nmo3S0VvbWYyX0ZuS1ppZjRqSkN4RlFQZTRnVk9tT0Q?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "new princess diana memoir hits shelves amid royal tensions": {
@@ -1175,7 +1365,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/video/2026/09/22/new-princess-diana-memoir-hits-shelves-amid-royal-tensions",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "us fighter jet crashes at air base in western germany": {
@@ -1184,7 +1374,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "putin is using trump to stall for time in ukraine estonia foreign minister says usa today": {
@@ -1193,7 +1383,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemlTd2tCck1EMzhjWGJNYUNTNm9PUzBCZGh0VmN4bjNMTGhVQnBKWncwMkp3U3B2azhtY2xiSnNmTDZrYV9LZjhVMTI0S3pXcTdjb3MtSkR4TXBHM3pJakNXY2dORndXbEZUZXMxb1hZZnhJckVQem5VSkdIMGpFQUF6bFpELVdPNUZLNG9ZdGFMV2JXQ3FndWRTNjVSS3ptZjJwUWNVUVVsdmpXZzBLd2Zn?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "trump tells u n he could annihilate iran but expects a deal after the midterm elections nbc news": {
@@ -1202,7 +1392,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMTg5dnVFNFQyTlRqanFxRzFLS0twcXZEcFk0RlR6M0hhdlU4ajNhdURycVdfTWRnQ0pYR0h2SzBieTJBVmo3d3FmeWhyaVpiZzZOMm84?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "i have never felt heat like that a survivor on watching 33 cellmates die in nigeria": {
@@ -1211,7 +1401,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "olympia in deutschland kommission setzt münchen vor rhein ruhr und berlin spiegel": {
@@ -1226,7 +1416,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "war crime jordan s king slams israeli west bank expansion": {
@@ -1235,7 +1425,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "paramount warner bros insiders stunned by settlement readying for layoffs variety com": {
@@ -1250,7 +1440,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUEVFNFdaTTRMUHVYMW84WHdPOVpoOWhOZU1saUtEN29pZGFpenBqT2dyZENJd3hnenFiYzJ2UndBVGVEc1I1bHpodVZrbTZscVREZXJTM1hyZFlHSDQ2cURmU0VPYmlLUXJYZmVRclZYTHBzSGpzaWhZelJMbkhRWkRSNGN6a0JNd093UGYyMkZrTVk4RjlpdmlIZlFQQWd4ZkxLVE5SdXBORGRnNXNkX3hkTWVRQdIBuwFBVV95cUxNUlh0NUIybFl6VFpVRVVkSV9yMVZGX0RJSmxCUmZ5VUFwX3dnSWRsMno5U21BejFHSnQxS0FlM2Fibkp3cThaVEtyZFlsWWY0XzdLRC1FeGJBTHNBSURKcjR4ZThhQ0s2MVlRMGZUZEk3S29tQ3dsV1g0MzNXSHJSN2RhTUFkYUNVSmdXd0RyVURGZ01sNnN5ZjVpZTFjZXZNNno2cWNoWVNGQUFnQkduRHl2ZTYyRm1yallF?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "third st louis county measles case confirmed in connection with train exposure ksdk": {
@@ -1265,7 +1455,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/my-europe/2026/09/22/trump-signs-greenland-security-deal-allowing-us-to-expand-military-presence",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "fifteen guilty in 2019 sri lanka easter bombings what the verdict says": {
@@ -1274,7 +1464,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "inside a apos modern slavery situation apos where cyber scammers are victims themselves": {
@@ -1283,7 +1473,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "skirts given star billing as prada swerves trousers and dresses in milan": {
@@ -1292,7 +1482,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/fashion/2026/sep/22/skirts-miuccia-prada-raf-simons-milan-fashion-week",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "news am abend nachrichten vom 22 september 2026 politik sz de sz de": {
@@ -1301,7 +1491,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkFPYlFocDBHajAtZHNGX3VWMXFHMWlic09BdXUwMllCT2x2dmdSZm1YNlhCUk9lSVZvZGJ6cXEzUG16U080a2R3ZkNZT3JvUmN0SUtjbFViUldxZjRwM0FHMzdnaXowU2o4WS0tcXFxUXBHc1ZnREVlSjJTcnhBNm5Ib2o3b25FUV92VGI3NHJ1OS1vYmVtS0ZOQXdTOHhkb2tSZmNtWmdwTFFKa09FM2ozQTVLYjNu?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "effort begins to fill the void left by terminated us climate report": {
@@ -1310,7 +1500,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "verdammtes chaos zum teufel putins raffinerien stehen in flammen trumps worten zum trotz kölner stadt anzeiger": {
@@ -1325,13 +1515,16 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "starker preisanstieg frankreich weitet tankhilfen für berufstätige und firmen aus wirtschaft sz de sz de": {
     "summary": "Starker Preisanstieg - Frankreich weitet Tankhilfen für Berufstätige und Firmen",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnpyb0ZaTmNaSzFJRGE4UzRxa05kMmt2cTZKb201SmotdWVBbVJoM3ozQlQ3MUIzeTdCMkM4TkhLcnRnZm9wengzNElxekpRYjAyUEhLVDlRenB4U0NmRGVSQlUtOGEwNTJ3UXp5MVFMUmNTNGJoRkhIaDQya2VOOVVzek9aRnZscnV4QnNPU0ZSSWNlOGROUTVzRWRneS1STmptc19UNEpYM3JKOXhNVGUzOXMyS1VfWlZtb0NfVUpkN1lYMXdaZlB2Y0t0b3RmLUR2LURNLTZlX01XLXJtOGRtR2ViZUxFc3h2OHp4c2p4Ulg1aV94RldDcmRDdTd3dkE?oc=5",
-    "updatedAt": "2026-09-22T20:11:26.034Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "apple is developing new fitness tracker aimed at rivaling whoop bloomberg com": {
@@ -1407,10 +1600,16 @@
     "method": "rss-synthesis"
   },
   "grönland usa und dänemark unterzeichnen sicherheitsabkommen tagesschau de": {
-    "summary": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZ0kwMmFZN3hlYmRPUTdKeHQ0N184bU4xSUI5",
-    "sourceSignature": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVNGVUVXUXF3R1BjSUs4dWhQUWdlTXFlVUowNlFxOVh6Umw5eS1tdjJBX1hmTTMtcldsY0EtbjA0T25ZUFdNV1pTemhnUVl3Wi13WTJLWFpzNmhhZ1lWbkdKM0d4dC1RZEMzVkd1bmxMVW1NNTNHU0NybEtySUkwTU4zNHpaRnpWamdZbnNzTQ?oc=5",
-    "updatedAt": "2026-09-22T20:11:26.035Z",
-    "method": "rss-synthesis"
+    "summary": "Grönland, die USA und Dänemark haben ein gemeinsames Sicherheitsabkommen unterzeichnet. Dies geht aus übereinstimmenden Meldungen von tagesschau.de und SZ.de hervor. Weitere Details zum Inhalt des Abkommens nennen die vorliegenden Kurzmeldungen nicht.",
+    "consensus": 90,
+    "consensusFacts": [
+      "Grönland, die USA und Dänemark haben ein Sicherheitsabkommen unterzeichnet.",
+      "Das Abkommen wird von Medien wie tagesschau.de und SZ.de im Bereich der Politik berichtet."
+    ],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVNGVUVXUXF3R1BjSUs4dWhQUWdlTXFlVUowNlFxOVh6Umw5eS1tdjJBX1hmTTMtcldsY0EtbjA0T25ZUFdNV1pTemhnUVl3Wi13WTJLWFpzNmhhZ1lWbkdKM0d4dC1RZEMzVkd1bmxMVW1NNTNHU0NybEtySUkwTU4zNHpaRnpWamdZbnNzTQ?oc=5|https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWJBMGJKTUxHT05MMHhRTmVkV21PSlVReUYtdmtDZ09jVy1uQm5Mam9vSzl6UmY3MGlHR3dPS2RZbFlFbHBJQy1ETmFobGwwaVF6QzVIclFnWW9MbnF2bVMzbWR4cXZtaDQ3ZGpiXzUzYnYxUjdvTi1HRkRUTHB4Y0cxYWdWUkpVQ0l6U3hJNS03elJkcmM4dXdfYS1ZVzl0Rlkzcg?oc=5",
+    "updatedAt": "2026-09-22T20:30:53.450Z",
+    "method": "gemini"
   },
   "zdf doku inside cdu zeigt eine partei in aufruhr faz": {
     "summary": "ZDF-Doku „Inside CDU“ zeigt eine Partei in Aufruhr FAZ <a href=\"https://news.google.com/rss/articles/CBM",
@@ -1484,7 +1683,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lOWI3NUROdGdFQ0l4eGVLNkptUnNVQjhUVGNhTkFXZnZ2SGhuZU9RWk5RbzVnUFU3WmE0RGV0bEh3Mi10bGxDbEhLNzl6UVRLZXJJVzJKcV9QYnlVQ2dV?oc=5|https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-    "updatedAt": "2026-09-22T20:23:43.539Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "djibouti minister appeals for aid for yemeni refugees": {
@@ -1493,7 +1692,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "trump admin asks top us court to reverse pro palestinian scholar s release": {
@@ -1502,7 +1701,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "prince william jokes with cinemagoers as he serves popcorn i m slow the telegraph": {
@@ -1523,7 +1722,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "sources giants qb jaxson dart out for extended period espn": {
@@ -1532,7 +1731,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXl2d0F6Ym9QMnpZbThhejg2SFBnOVhoWE5ZTkxKamhKeHFEbHJzZmp6UHNSWjF2VzlzSUlFQ21oUmJYaVBxWXM3c0xiZnFpQkhBbmxyTDB4aTEtVzJyMGRfak9fUGFNQmpWT3ZNYXFqdEJTTG9fUTByZjBTTVZrNkZ5a0xrT1lwQ29uWmFrcEdQV1hw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "koalition kanzleramtschefin ruft koalition zu tempo bei reformen auf politik sz de sz de": {
@@ -1541,7 +1740,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbFU2RlRXLTEzUkxNSEdad3hId2hVTE0wbTFpTDF4M2lNVmFpV21MbjJhX3VUSUlUREhjS0pCWmw3dUswUXRCenl2MkZPZ0FybWRkLXFiQm1TSEFVVjNreDRqam5iTE5YSVFFWVNJcm5mQjlUajRfZjE3NFY4bjkyQURzRDYyV0FmUkNWaGJzYVdEcDNlNDJrY2hNenhkRHdkUkZucFhDaGFPOVZOSldrVWhHRExhZ3ZIZDBHa1hoc2hWUjlkRzZWbVFSTWZfME1pNGw5RmE3Wk1DRk4yVkVGSWc4d25JSzI1WWc?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "militärjet bei us airbase spangdahlem abgestürzt tagesschau de": {
@@ -1550,7 +1749,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUF5ZHNIVGpMYmZoa2lUVVVUUmU0M0ZlMWZ6MnVRVWZCeVBUQ0ZybXJtOC16eGhRcG9kcUEweXctYmctNktfV2FEQ3c0LU1VRHVSS2NVOTNMcEJZWGx1Tm1FOVlJOGExTi1OSlN0VGcwTzdUR3VDZklfWmZXR3M0TTl1eVdzRXMtWERLNFd6dHlOTzVLc2hhWno5TGFmYXE3U0ZValN4ZU4?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "taylor swift announces new single patient zero and it s coming sooner than you think billboard": {
@@ -1565,7 +1764,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "nfu responds to sfi26 window 2 take up nfuonline": {
@@ -1574,7 +1773,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRy15QUlid1JoQVJKMFdHWWtSZ244cmo0OXh1MEhEc3o5V01uWHJvaW9jd2RCb2dzZ3B1UzlteXJzWWNqOUdsZ3JJazQ1Q0l4TXo5T0FWaFVuc29ReWpTQVA1eUllS1pHVjNDcnNSXzJJTWdwSlMwNG90Zy03S3NfTnFPcw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "hayden panettiere s death caused by overdose of fentanyl and other drugs the new york times": {
@@ -1583,7 +1782,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkZQM1Y4d0RjbjFMdHZPMndNczdUMjh4c0FoYWtXWHhXTmNSY1VJbmdvYWtWbmhsaElGTXhyWW5BaEEzYTAxbVY0ZDVUU2VBdWpRTHRxOWR5Z3l6NzBTWEd3aWVZdE1DaHBhcUJjYXRBc0piLTNJbVhXYUh3cjVmcXRYVmc3X2M2OHJDZEs2eXh6UFRFNkhnYlc4SFpKLXdSR2c?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "nach streit mit trump grönland abkommen was springt für trump raus politik sz de sz de": {
@@ -1598,7 +1797,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6LWFXb0JZWTVSMFVPa0dmdHVVWTFXNkMyNl9oOHBpU25KRzAzZXB1dzhEbzNLYjdvYTljSU8tT3FuLUtPcVBvLXFSbzFZX0JZUTNQRDBEdDFSSVJzWkVGNjBFdHdDclZYeU11aUYwMA?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "paramount warner bros insiders stunned by settlement readying for layoffs variety": {
@@ -1607,13 +1806,16 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFpDNjdOVmpfRmh2enVkN195ZFJNQlhEbWhrWjhSbjZLZEJVck9XSURWT296a29Id0xuNjdOb1ZNUmxPeTgwdzVGcGRlLWRJeTg2V1pSZ2R6aC1LenlmSWJxTGYycDdtTG1rcUFlYTdTLXIzc0lXb19xa19LeDA4bHV1LXVrNy1YYktULVptZERfQXB5ODRSeW1Oc0ZNZGJQNVE?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "berührt mich unglaublich jürgen milski ist zum ersten mal opa geworden bunte de": {
     "summary": "„Berührt mich unglaublich“: Jürgen Milski ist zum ersten Mal Opa geworden <fo",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZU4tVXhkdXg4QmdwNWUxUEZkYmxJTWhIT1Q5Sm1jTzBXb0xZVjJRRDNCT0I5VGl0TlFIdUx3R0dZU21rTG41LUtWZmo0RUVoSTJBM3B4azFsX3RqWWN6b2tpSlNzSC0tYTdmcnhuU1Uzb0FQaW1ZTkhWVFczTjA4V0ZtWjZ1UUl6cEZmU0M0UDFrR1J5dFp6aHJpalI4TUxOU2VHRFA3UDBYN0RESXpIc3otN3lMNUFNUE1YR3ZCZEVfYkZGWlI1MXZmTXg2QTNFV2o5djdlR1E4SlBxQ0RGYzFjYkV2MTNqcFBVS25xVzRFejA?oc=5",
-    "updatedAt": "2026-09-22T20:06:42.159Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "krise der cdu gefährliches vakuum in der bürgerlichen mitte taz de": {
@@ -1658,7 +1860,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.euronews.com/2026/09/22/at-least-four-dead-and-six-missing-in-japan-day-after-typhoon-dujuan-made-landfall",
-    "updatedAt": "2026-09-22T20:24:02.764Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "macron urges world to stand firm against abuse of power by empires in final un speech": {
@@ -1667,7 +1869,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
-    "updatedAt": "2026-09-22T20:24:05.196Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "snapdragon 8 elite gen 6 qualcomm stellt erstes mobile soc mit 5 ghz vor golem": {
@@ -1739,7 +1941,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTlkRUJrMmxMazItZzlFWVN1N0xBc0t2czBpYlFDbFFscHZJaHp3ZkFaRW5RaGliUWt5VmRBYTNJUTdJRmhyVEw2UFU3V1RQUmxjSVVZT21mN2htRVhnTHB2S1hXUHRWSEF6NWQzd2Z5NHR2Yi1YMEZGVzdrZktSdHNGb1ZlSlRnOHdBU3ZZTFFtNTFMbk0ybnRWUnMxUlA5LXFpMTlvWkt6MEo0UUp0Z0JYbm10cm8?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "u s news and world report releases annual college rankings wku ranked in multiple categories wbko com": {
@@ -1760,7 +1962,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckxhQWotRDJrN1B4LXRpWHpWZnN4bXlIbTlHbE5FSEs2NmhWTS10Zk1JZDZ6MVJ5NVBpUW1QemJETVBBQWNpOGhodnljM1NueEZOZWF1YWthMVctVzQ3OF9qanl4T1hBbldDWlpSUGxqQWkxdEJJeVlLcUs5WTVZR3otSWtpWjhocnlaZzFR?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.196Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "halo to move under call of duty publisher as xbox announces layoffs the washington post": {
@@ -1790,7 +1992,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMl9OQjNudk5rY1JTcVlYdmI5UVRZekl4TkptalZ4cVZPbU10TWs4M2J6dGlGZERJdTlLSTdrVnF6cGszdFl1UUhrM1pvTUZKOWhCRTFTektXYV9uQlN4NGE4MFdJUFN5YURhZHRlOENHQ1hrS2NoUUQ4eUhCRXA3dDJ5TTZiVV93X2IzbEhxVXhSWmZPeEtr0gGcAUFVX3lxTE4zMGs0WWo2bkpDZFRPa2lQNWRtd1oybXlCYTlkaF9KNUZaZUZydG44WXp2SWRqZ2tLLWhjTmF3WWpYMkw3WVpMRzlzMkJhVkxvOWVxNnpORjdPMUgxVzA4cHBQb1RFNF83NmgxRFJjTWJxQ2tJa1ZKT3phUFlSOWl5bVJMdkZIUzZ5Y1kwVW52RlFybXVmY2Z4STdTRg?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "what does a fed rate hike mean for mortgage rates usatoday com": {
@@ -1821,22 +2023,42 @@
     "method": "rss-synthesis"
   },
   "death of 27 year old presley gerber being investigated as suspected overdose theguardian com": {
-    "summary": "Death of 27-year-old Presley Gerber being investigated as suspected overdose theguardian.com <a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1sc Death of 27-year-old Presley Gerber being investigated as suspected overdose The Guardian <a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxPUy1S",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "Der Tod des 27-jährigen Presley Gerber wird als mutmaßliche Überdosierung untersucht. Während die britischen und US-amerikanischen Quellen diesen Aspekt hervorheben, berichtet eine deutsche Quelle über neue Details aus einem Notruf. Die Berichte beziehen sich auf Medien wie The Guardian und RTL.de.",
+    "consensus": 70,
+    "consensusFacts": [
+      "Der Tod von Presley Gerber im Alter von 27 Jahren ist Gegenstand von Berichten.",
+      "The Guardian untersucht den Todesfall als mutmaßliche Überdosierung."
+    ],
+    "divergences": [
+      {
+        "source": "Google News DE",
+        "note": "Berichtet über neue Details aus einem Notruf zum Tod von Presley Gerber, was in den anderen Quellen nicht erwähnt wird."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVdEZnJ5SzNxaHUzOHl3WE4wUmQxNmc1Z0o3VHREcGZ2Q1NVSXVodFV3eTA1ejdCbmRlekw0c3prbXoycDY3Z1Nyb3VaWG9zUlRfeEFfellwTFgxbmx3VDlza2FLOUdQY1dDNFA1NlA0dnhEX00zd3BZNUVfLThvZnV3ZUwzNURkcHJvREppd0pXV0xQbk9pQ01vSWo?oc=5|https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVdEZnJ5SzNxaHUzOHl3WE4wUmQxNmc1Z0o3VHREcGZ2Q1NVSXVodFV3eTA1ejdCbmRlekw0c3prbXoycDY3Z1Nyb3VaWG9zUlRfeEFfellwTFgxbmx3VDlza2FLOUdQY1dDNFA1NlA0dnhEX00zd3BZNUVfLThvZnV3ZUwzNURkcHJvREppd0pXV0xQbk9pQ01vSWo?oc=5|https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkI1N2JCcjV1YkpqcUpQVlQ3TWZTa21JTE1wajRjZUxqOEwxOEZZc1AyT2RjcUNxSVJyZ01Qc3B5UDB2Rzh0UGpDdW1la2d3RVdrZ0ZKaWdQczZEWURtMTRYaHctdkZEc0h1RlgtemdTOEdBczFEWUxGTGpHOGd1R0FwbDBPQlVMWmVWSHlxSHRzSk9BeEtOeXlTQ1ZtS3V3bW5QTlZPLTRrTHJuR3dB?oc=5",
-    "updatedAt": "2026-09-22T20:22:44.916Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:27:39.086Z",
+    "method": "gemini"
   },
   "live updates trump says us and iran met shortly after he threatened annihilation in un speech ap news": {
-    "summary": "Live updates: Trump says US and Iran met shortly after he threatened annihilation in UN speech AP News <a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5 Live updates: Trump says he faces a decision on Iran to make a deal or ‘annihilate’ the country CNN <a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVUk5VFlOdkkzb0FuRWljY3RBQW8zWldhUVh3cU",
-    "consensus": null,
-    "consensusFacts": [],
-    "divergences": [],
+    "summary": "In aktuellen Live-Updates wird über Aussagen von Donald Trump bezüglich des Verhältnisses zwischen den USA und dem Iran berichtet. Eine Quelle erwähnt ein Treffen kurz nach einer Drohung mit Vernichtung bei einer UN-Rede. Eine andere Quelle hebt hervor, dass Trump vor einer Entscheidung stehe, entweder ein Abkommen zu treffen oder das Land zu vernichten.",
+    "consensus": 40,
+    "consensusFacts": [
+      "Donald Trump hat sich zu einer möglichen Entscheidung oder Situation bezüglich des Iran geäußert.",
+      "Im Zusammenhang mit den Äußerungen wird das Thema einer Vernichtung des Iran genannt."
+    ],
+    "divergences": [
+      {
+        "source": "Google News World",
+        "note": "Berichtet, dass sich die USA und der Iran kurz nach einer Vernichtungsdrohung bei einer UN-Rede getroffen hätten."
+      },
+      {
+        "source": "Google News US",
+        "note": "Berichtet, dass Trump vor der Entscheidung stehe, ein Abkommen zu treffen oder das Land zu vernichten."
+      }
+    ],
     "sourceSignature": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52UjNYemZsQ28xV2tSM2VISUdXQWRsbDdyZnNtZ1BBQ2x3Q3U4aGxvR09uZ1RJOEZnUzVuN1dXQkhKWlJUX1k2SDg5bTNuMmZLd0FJcVBaRkcxemFlcTEwc1UzN1BpQVlEemYtOUNTd2I?oc=5|https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSWtFbEVOdzVwcUVmc0ZvZmRyQ3BEQjhxcnlGRXBJckxwWTE5ak9OdVNBTkdiUUlVcm9nQlNiSVpyRFQ3bDNPWTdXZHRYeEdsRFhYR0R2VllkSGE3THdNbFowMk94NEF1UXpqS0NlRjhrYUZzUFQ5amx4Qno?oc=5",
-    "updatedAt": "2026-09-22T20:22:55.422Z",
-    "method": "rss-synthesis"
+    "updatedAt": "2026-09-22T20:28:13.467Z",
+    "method": "gemini"
   },
   "white house launches trump tv a 24 7 greatest hits after media ban usa today": {
     "summary": "White House launches Trump TV, a 24/7 'greatest hits,' after media ban USA Today <a href=\"https://news.google.com/rss/articles/CBMijwFBVV All major US networks suspend Trump coverage in revolt over White House ban euronews.com <a href=\"https://news.google.com/rss/art",
@@ -1853,7 +2075,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa0dGSXlDWWdIajZwN29nMmFVem9ZWlJGWGtiZi0zdHdtckxoNVk5ZEQtS3laTmlfSzliNUZqQVpfNVpYZnNVVEZrcHYzcC1PS3lhUXBVT2YxZ2EwcVdnSVh3a2VsSkEzekZWNHNaSS1xN0RSTjA5VXd6VkpKV2tfMEExSWZYOEdzb1M4TncxZzdqZEpaZ3A1RUQtMG1jRmphUnNFV29IVTdnSmJjclVtUjZNQ3Y4VnAtb3BmTzdKaEllSHdmMC1FU25GTFgtRDhON0huLTlUNE1DbVhrTV9FcFg4Yw?oc=5|https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRzMwYXVtUm13TzZYZWJEVVBPVWNHMlZkUi1haUR0T0Y1amdPekt3U3l6V1FVS0VHSmlyODktZzZ6YVh3cEhDNUluZ2ZhYmxqNVFRcE9DNkF1ZGlaWTNvYnZGbkcxWWd0XzNqOUw1ZTVuczZYcDREQXNnN0poYXZzWlBWWFFXQmxndVJGWkwyaGJuQnZzMnZMNWZ0emVBZUo2algxV2swUVRTUkdiQkJSUmVLYUNvU0xxallxczZEX2ZZTHEtUjNubmdEMkxOb1NERjB1NjZPVGVvc0ZWSklaTEotaW5RS19aYVV2WHdDa2pLQQ?oc=5",
-    "updatedAt": "2026-09-22T20:23:50.702Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "trump made over 1 000 july stock trades worth up to 270m filings reveal": {
@@ -1862,7 +2084,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
-    "updatedAt": "2026-09-22T20:23:55.507Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "us refusing to give sudan s de facto leader visa for un": {
@@ -1871,7 +2093,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.france24.com/en/us-refusing-to-give-sudan-s-de-facto-leader-visa-for-un",
-    "updatedAt": "2026-09-22T20:23:57.969Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "un leaders meeting convenes with secretary general calling for world built on interdependence ap news": {
@@ -1880,7 +2102,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-    "updatedAt": "2026-09-22T20:24:00.365Z",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
     "method": "rss-synthesis"
   },
   "nyc mayor mamdani reaches record doordash settlement for underpaid workers": {
@@ -1889,7 +2111,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.196Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "nach den landtagswahlen was bedeuten die ergebnisse für die deutsche eu politik dw com": {
@@ -1898,7 +2120,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEtrb0h2VVVYZXVnS2RfRDR2aUJrV2k3dGNaLVczMVNIUHpiMG1ZUHA4UmpNWVRpNUkwR2RuMEFvdnRVbzFPeFZxODFKSVFPVTd1MV9NMGJqNGUyRmFSQTRNZWhnaU8ybzh1MjJxMkJkRWE4SjlPc2pfSkQwNnhxS3BDcnhFdUlYYXJrYzJQSXd6R0t4WEZoSTkxQ3hqbzVSQmFR0gGjAUFVX3lxTE5DUFoyM0FKM0o0SE9JSWx6TWk2M2lrVTNJb2k2REJ1YjZHMjJRTmRWeTJ3d1B2UVp3RXdQZUJsQ3FLcXl6QWJrM3h4QzRfN0lBaFc1U21JWlIxdmFqdmFvQU9SdloyTmUyX0pkR181ZHVkVnEzcDE0WjEwMjNuTEE4V1ZNa3BZSDhwWUNKWkV0MDdmdUktVkF5X00ydWRneXhGRDQ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.196Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "merz unter druck was heißt das für deutschlands eu politik": {
@@ -1907,7 +2129,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.dw.com/de/merz-unter-druck-was-heißt-das-für-deutschlands-eu-politik/a-79379950?maca=de-rss-de-all-1119-xml-mrss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "snapdragon 8 elite gen 6 qualcomm stellt zwei high end chips vor heise de": {
@@ -1916,7 +2138,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUk1ck00RS1BUXRZTXlpd3pCQVl5X0hKUlotYlZHZ0lGUmtPZG5uZVJxaEFSSDE0Z01BQ0dqUXNsdExMakFLSml3aXpQSXRWcWdKTy1Pa0w0S29ndUs2WUNBVndPMDc3YVVkZjJHVlVKUk13MlpJXzQwOWdGZTZXMHdxd0RLVGQxcktYQ3I0VDN5OXhtVno5NUt2V01vRTR2NUZrOFdKRQ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "brazil s lula gaza s pain and trauma will last generations": {
@@ -1925,7 +2147,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "oil prices fall on u s iran diplomacy hopes wsj": {
@@ -1943,7 +2165,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
     "method": "rss-synthesis"
   },
   "ukraine anger as eu removes russian oligarchs from sanctions list bbc": {
@@ -1952,7 +2174,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43RlJWb0xkSHJRRkRGU2JnbnU2U3l1T3VIQkpScHN4WkRfY0wxaXpEY3lYaXB0MkRZN3J2cWprZFp1OWZOUFZDWEh2WnBha25LODhDN01waEFCUVJDX3c?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "spd urgestein aus mv macht brandmauer ansage mit politischer sprengkraft afd stark gemacht nordkurier": {
@@ -1961,7 +2183,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2NMT1l4MkM3RVRObW1ZUWVkcHhKOHAtMFZLd2xLRGtyVncxQjhlT0RHbENKOXhwUW14MmtKTDlJRVJqOWtyRV9SdTQ4cEJQT2NoOGREbjZYU3p3cVRHZ2RRckNZWGs0SmdUanE4cjl5SW5ETTdOWHhpQ0tlOEFsd0xYYUw4LUx1RjJTZ1lyWU9NUGYxemdTdnJUdU1FYTY1VHR0UzQ2cnZxMVVQdUhRMlM5b1hFaTZRYVFZX3dfY0VrUWY2aXluZ3NUdVVPNHAwRzEtaUhIdw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.197Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "police believe they have foiled imminent attack on manchester s jewish community theguardian com": {
@@ -1970,7 +2192,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT29FTmNDUENiTlEwX2txandBdXBoTDk4SFA2RlhMVmtmLUJNR0ZpcUNKZHNLR1VjQmRXenhhLUNQczdoRG1LQS1GemhzR0dKdmNCMmZfNWhEalZpdE5nUVlqT0wxTDhTd25vZ1FBZE5DbUp0WVoxYVZURTFONFVPY01IU2FpeGgyMlRtNF9RZ0hreE80VUYxbGxkQmFzeUJaeFhjaXZtbVJoMmFtSmZUX25ubVBOV3g1bGxaMTZmZWRFX1A0SUE?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "the choice was prison or exile journalists who fled russia publish grim portrait of putin the guardian": {
@@ -1988,7 +2210,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHJSdENRVHNISWNHUXktTktTX2swWDhkeTE0UUJQNzF3RjFNcENGYkx5YzV1Z2pqSnRtS1pBZDlKaDNHaDhvMXBZV1h2V2ZfbVh2b2FnYklFVENaN0VpNGlWR0tSeEpoWVpuNUw5WWc5c0o4YTcyMU5xck5yWVg5b002QkpyZW54a0tUY1ZqQTJtYkZFelJLbTJDRHlOZmlDUWg0YU9CX2IzVU1ORnJZQXEycGE0TWFmal9GQQ?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "olympia bewerbung münchen besser bewertet als köln und berlin sportschau de": {
@@ -1997,7 +2219,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTkdNMFlQd3hlZ0xmM3phYzFLMDg4anp5eHl2V1JDTHVlX0JVWVQ0S1FsdE5sV00wT09SMXZCSWtLN2dHRHdwOERUdzR3UmlaZEwwSGtiZ0liOFlKdDdKU2pOX0FhQ3ptSlVUSnlJY1NOd0NXTmdCMEJ1NUdrcmVwM3FvZVVrOEVFWlpXcnZQV0dSRDcxcUo5UXFncXQ2TFJlV01FX0tuTUhaUVhWYVExRWEwVkVqOWdBVnlKczhIYThBeG1qZUdaUjRSMm51cGlIM2JwU2tPa0I?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "kanzler demütig in der fraktion merz übersteht auch tag zwei nach wahldebakel n tv de": {
@@ -2006,7 +2228,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1h1MlBGVHcxRl9PdEg0em9ERlZzT0hVSHUtcnQ4Y09Lb292cF9IS3FBVFJtMTBWU19fU05qdWNya1p2SXh0QWZYUzRMSDRQeXdlWXlVSlY5U3FKNnAzTkZEQXUtZk1KN2Y5M1oyWV9IWDVhb2RBSERJRWtuZjltb2NJN1BqOHY2elBRWE95RUt0NTNG?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "solidarität mit us medien deutsche welle zieht nach trumps presse ausschluss konsequenzen n tv de": {
@@ -2015,7 +2237,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTZyRm1VVTQwdDJJaWhnbWZEQW5zTTF4bktVMGM0NnJ5bERoOTExTmU4S1hWRFR2NXQwLVVxbVJ2TEJielAyS0lVVjRyR0dEYUhQNDJNNTZwV3pXNVpSSlRJZzlxaWZWRkhIbG1hQkNSX1MwckFqdmFxMjVLRnlhZkxjZVE4cjZOaDV5Z25ELTJabVJ3aXdFTUkwRmx6Q3k2b3J4eTlOWFhVbGc?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "mikel arteta contract arsenal boss agrees new deal to extend stay at premier league champions skysports com": {
@@ -2024,7 +2246,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYU5vMzhQWlBPM2NCWUc3S0Via1FVSkUyZ1RxZVdIb2FvcV9VS3lndkFFZENuV2oyMXh4UW9QRlVNRFR1NEdtdjNTc2ktYWphdUY3OUpMQk5xMHFmSnlnd2VNcmc4Y2QzYUZjTzBSd0ZiY19TUjkyTGxkd3dNNHd6NmpHVWZJZzFTa2plNXJ6SzZPOXRSSUNWcWRvRHpIWVZQNlNWQ3hhcm5DVHdvXzdYQUxHdXh4VWZEVGhUbWxBZTZHR05EQm55eUxKM3EwVG1WbEp2WGdGOVZ2dw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "taylor swift teases new single patient zero releasing ahead of mtv vma honors deadline": {
@@ -2033,7 +2255,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW9VVFpoTll6eTRmcVEwRktxQ1pqZFUtaV9jTkcwaEl0bHJtd0NXWHVpZVVsa0E0eGtTUHFmSEU3UE1CUDRQZl9hNzFJQXJaWXpaem8yY2g0Zy1OWUtzeFlNMnhxbVdxUE5JLTFkd3VtcE1mNnMzX1YyY21TeG1fT1lnMFQ0Z3RLblE?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "earl spencer apologises to piers morgan over incorrect assumption theguardian com": {
@@ -2042,7 +2264,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkZtYUdvT2RzQ1ViNzg3V3hUYWh5T0RFNXd4eE15a1BYdWVyLXNCb2pKNU8tZUt1YUtvdUs5R3V2YlZ1ZkQ5UHB1U1F3TEFBNktFejVVUU56RjFZeDJCUy01Rkk0QWFoN1lzdVlwNUVTZ0tYaTR2QlFORlVmYVNGM3A0M0YwMDMwZTh6dmlmU2c0aGRzTm9VeDNhZ2pkSzZ3ZDctQ1NFeUI1ZmR0WXk1V0xqaFNmdlhZWVE?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "erdogan targets gender neutrality at un after sweeping lgbtq raids across turkey ynetnews": {
@@ -2051,7 +2273,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yV2NRYTNsQm5EWHI0UHZJanNYS2d5THpITDd4eUNIbG1NSXZRR2EyUmotdm0tTU9HTlI4RDhZQlVJemwteUJaVVdCV2czNGlkeGRFckR3?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.198Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "migrant dinghy heading towards uk was at sea more than 33 hours french officials say sky news": {
@@ -2060,7 +2282,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjdnaG1nRW40LUtNRjBPS2lCbFpUNWhFeDhtbkRUaWZiVl92Y0ZSTWtXZW93SE8zYllwaTA0eGJxZEdqdGRCd1RwcUZrMW43UUVJY1QyUVZxYm04Qm1uWjlxZHpwb1FKUXAwNXlkcVNqYzdDMV9PUTlmSmJtOHVmUU5oVWZ2TTc4ak8yWW5ZLXdKTG1IUWRDemQxckpaZEpCQTFHSTFTS281Q0x2?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "hundreds of homes to be evacuated after ww2 bomb found the telegraph": {
@@ -2069,7 +2291,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGttbTV4S21QOHk4bXJWWTZmUUxLVjE4ZEx4MEdCdkc3REkxQWp6SGZpMUpxb3pRbXpZeDZadnowYUc0UG9wa2FrZXNmTUp4dWZ6ZTZFSGs0ZjVyeHRtRERVRHM4Rk5ucFFGYWc3UThadWFWMHBUQS00YzdpaWZHdnhCN1c2clg3c09QenNVM081cFd4TXY3czh6TVB1dmc4MS1F?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
     "method": "rss-synthesis"
   },
   "digger world premiere red carpet photos tom cruise sandra hüller emma d arcy more at london premiere deadline": {
@@ -2078,7 +2300,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVHA2bUQ3dzJjZ05wZ2pFTWFVbzZJVV92eUtuUnVRdUYzNEFLNWZNcjV0MGJuc1RYM2E5d3h6TWVJcUtqTTlCa0lUTmVfTGR3c1czS3VLTDFBSlYxS3VhWERHWHZwVnF4M3hr?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "mcdonald s has 1 shot to turn around its dreadful year yahoo finance": {
@@ -2087,7 +2309,7 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnBBdW1NVWhlUzJYOE9HZkNiR2V4dlVYREQ1VW5qLW5YX1J5RE9KRmw2ZHdJZ3o5NnRYeDctU2dsby01aXNlLUlzWGF6MFNVSnN2WmRDYlQ5UDI0amM0SU1vdW1LZEtsc0hrblRCSWxvNVJmSkNuWnQxSjhhallNX1dXT190ZHlYamhFUGZ0SlhHTWZ5eDVOMFJPaTR0em9nQi12c0swdjRsazdfS1dyXzFHemV4Q091?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.199Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   },
   "third st louis county measles case confirmed in connection with train exposure ksdk com": {
@@ -2096,7 +2318,70 @@
     "consensusFacts": [],
     "divergences": [],
     "sourceSignature": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkRGanhXVjdqQzBmakJFbVRSTk5kaWdqSzdtZjhOc0VReTZMWXpYQVNDQWtVSW9GdDlITVZxcXBhbGlmc3RnNmdJUWhLLTBXVF9hemdmVml1bTZhcTVqUkQ2TV9Eb205Tm45SU1JdWpodnV6SWllXy1HaTNub0JZOEZWVXNCX0dFV0tUSFdBMDIzOVF4ZERWWHFiMXZEb1FaaDFKUkVtMG9wVGxBYk5WQ2luM1pZNzdBa2Y1WUM4dUJ5N3A1QkNQNVBGU1hvZw?oc=5",
-    "updatedAt": "2026-09-22T20:24:05.200Z",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
+    "method": "rss-synthesis"
+  },
+  "ansage in der bundestagsfraktion verpasste klingbeil der spd einen maulkorb bild": {
+    "summary": "Ansage in der Bundestagsfraktion: Verpasste Klingbeil der SPD einen Maulkorb?",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRE5YMndpT1NVZkdWeF9majE4STZFRDc4SnFVUDh6ZXFHYS1ZbnNsTF9MbWtiTDE4Vk5sLUYtdXZ6dmY1OG1LX0dPeWdsc3JKZUhaTFk3alRnVXpoZXNCaGQ3T0ZDci0wczdHV0p2WDdVQ1ZGZHNMRjZ1N0ZhdHhDRVAyMjM5dkhfQ011eTg3LXBJRHUxRzZpcHZ6bTg4dzV4a3ctOGNxbGFHOXpXeGo4T1o5ckJwRW1EUWg1dGNucmFXRDVhVHozVjZEN0E5dWV2?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.457Z",
+    "method": "rss-synthesis"
+  },
+  "regierungsbildung in berlin spd spitze an linke antisemitismus nicht mit uns tagesspiegel": {
+    "summary": "Regierungsbildung in Berlin: SPD-Spitze an Linke: Antisemitismus nicht mit uns Tagesspiegel",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ3JucUZRRlhpV0Q2OHA0U2xoMElwcUl6a3dNQ3M3elVQUHJDZUgyOXI4Um1EMXN2MGtrRUhsci1tblpkY2ZRX2VKTy15SC1EVjExYkdrVTdzWG5OR1RXcUR1OExMUzB2TWZ3cWk1Ry1fQXFjZG1aamVuU2ZoRjNYT3lBaDR4YUFMc2dPQWhvUTJSZUlGN2NJRXhLdUN3MTJIb3BIXzZxX01wV05Cdk81bE9kMHNsR0Z6eWtSR0dZQUlJTDM4QmpGd3ZR?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
+    "method": "rss-synthesis"
+  },
+  "stock market today dow futures gain oil sinks below 100 live updates wsj": {
+    "summary": "Stock Market Today: Dow Futures Gain; Oil Sinks Below $100 — Live Updates WSJ <a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNU",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbC1wY25QY0ZlNXdTZGJpQ1BjbUR4TDd5dU8yR1BZU2FfTEQzSkVPa0JJckN4dHI2eVpxS3lCVzZ4U19CY1ZMSnFBTEhraFFMcWpBR1dvMWNDbU5BTDhfQnczM2VIYlkzVVRkM2hzM2Y0MGpLS3UtcHVCcTYwZ3VJMld0cDdYODQ?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.458Z",
+    "method": "rss-synthesis"
+  },
+  "maxx crosby defends caleb williams reaction to hamstring injury that s will freak you the f out yahoo sports": {
+    "summary": "Maxx Crosby defends Caleb Williams' reaction to hamstring injury: 'That s*** will freak you the f*** out' &n",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPazU0emNvMkpHQ3pmb0Q5dm16RmpEQ29JYWdldW9GTG5sVXNrVEZuODBsS3NzLTlDWXBoTmtFZXljNlFIdk9nLXVRcHhpUWtINjNUS2tXVkdXMk1hc3RNbm1IcURlS1QwRmlMRFg3UzBzQlIxWUpoV0RBM0gyU2phbWQ1RFNGTlk2ZEUtY3hmNWVBRW9XZmM1QXBBNXhSbUdJczl3dmliLVQ0QU1NUXpoWGIwcERkajhQbXhZei0yQUZrU0t4ZHRlVGpTckhrc3lKbUFqUW82aGw3bFlQam8xcA?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
+    "method": "rss-synthesis"
+  },
+  "un chief says power has polarized the world and urges leaders to cooperate wral": {
+    "summary": "UN chief says power has polarized the world and urges leaders to cooperate WRAL",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQThfYzhwV2VkN0x3TE5BZ2VEMURvYVJvMTRLQjVXVHNKX2F3YTlEanVpZ0ZFV1FuQldmVXhkNnFGbmNSeEJVclFwWHBSa2pYYW0wZ2tZaFlza0VrTWxPakVyaWVTTktVYTdTNEJFVlNyWjl1VnJVeFFLUjNtS2tHcTRYeFF3TGlXYVYxUDJhbVhVeWZ5VkR3Y1dGeUVNVHU5a2pYV2xxSWN5UG9wV1Qw?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
+    "method": "rss-synthesis"
+  },
+  "four people who died in merseyside house fire were woman and three children sky news": {
+    "summary": "Four people who died in Merseyside house fire were woman and three children Sky News <a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiNnVLQmZlel9fZ05lYmM1RE93S3VKLUIzTVV1bUlFdm9j",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemhubThVYUIzWkwwQlcwLVkzUWJXU0NDenBldTFwT0U0aEl1VFJyVjRnaU9JbDNJYllQbkFwUW5BRG9IeGNqa1JHRzBqcGh2d2xFTVRFNTJDNFpDTEVVbE50WmxtMXFHR3Yyb0xuQkh4Ti1vWWE2eGtfRDhMUWFqb293?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.459Z",
+    "method": "rss-synthesis"
+  },
+  "photos of world leaders confronting global crises at the un general assembly wral": {
+    "summary": "Photos of world leaders confronting global crises at the UN General Assembly WRAL",
+    "consensus": null,
+    "consensusFacts": [],
+    "divergences": [],
+    "sourceSignature": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclNIcWZBSGVRVXJqeTNiN29wTm1MTWpMV1paUlVYb1lwelhwakxrMTRyT2pjUWxhR084VDQ0NDZmeTIzaE1kNXVrdG5LNzlibzd3d3pDOTB0U3JCZkpTM1lGQy1HMDRmeVdobHhDUVhQbFpMeHZOcTR0c2d6NXhBbWVVSm80bmgzZ1R3Zzlsc3lTWnJ0WFIyek1yVF8wQzJyVG40aGx5VkR2LUxJZzNHRm1B?oc=5",
+    "updatedAt": "2026-09-22T20:31:03.460Z",
     "method": "rss-synthesis"
   }
 }
