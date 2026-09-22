@@ -66,6 +66,10 @@ const result=clusters.slice(0,180).map(c=>({
  sources:c.sources.map(s=>({source:s.source,url:s.url,date:s.date})),
  summary:c.summary||"Aktuelle Meldung. Öffne die Quellen für weitere Details."
 }));
+if (!result.length) {
+  console.log("No stories were parsed; keeping existing news.json instead of overwriting it.");
+  process.exit(0);
+}
 await fs.mkdir("data",{recursive:true});
 await fs.writeFile("data/news.json",JSON.stringify(result,null,2));
 console.log("Wrote",result.length,"stories from",out.length,"feed items");
