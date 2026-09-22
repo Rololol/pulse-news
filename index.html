@@ -201,8 +201,9 @@ const $=(s,r=document)=>r.querySelector(s);
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ic=(id,cls)=>`<svg class="ic${cls?' '+cls:''}" aria-hidden="true"><use href="#i-${id}"/></svg>`;
 const cv=cat=>`--c1:${cat.c1};--c2:${cat.c2}`;
-function diffDays(d){const t=new Date();const today=new Date(t.getFullYear(),t.getMonth(),t.getDate());const p=d.split('-').map(Number);return Math.round((today-new Date(p[0],p[1]-1,p[2]))/86400000)}
-function dayLabel(d){const n=diffDays(d);if(n<=0)return 'Heute';if(n===1)return 'Gestern';if(n<7)return 'Vor '+n+' Tagen';const p=d.split('-').map(Number);return new Intl.DateTimeFormat('de-DE',{day:'numeric',month:'short',year:n>300?'numeric':undefined}).format(new Date(p[0],p[1]-1,p[2]))}
+function dateOnly(d){const x=new Date(d);return Number.isNaN(x.getTime())?null:new Date(x.getFullYear(),x.getMonth(),x.getDate())}
+function diffDays(d){const t=new Date();const today=new Date(t.getFullYear(),t.getMonth(),t.getDate());const day=dateOnly(d);return day?Math.round((today-day)/86400000):9999}
+function dayLabel(d){const n=diffDays(d);if(n===9999)return '';if(n<=0)return 'Heute';if(n===1)return 'Gestern';if(n<7)return 'Vor '+n+' Tagen';const day=dateOnly(d);return new Intl.DateTimeFormat('de-DE',{day:'numeric',month:'short',year:n>300?'numeric':undefined}).format(day)}
 function groupOf(d){const n=diffDays(d);return n<=0?'Heute':n===1?'Gestern':n<7?'Diese Woche':'Älter'}
 function regionTag(it){const co=COUNTRIES[it.c]||COUNTRIES.INT;const name=it.city||(it.st&&STATES[it.st])||co.n;return co.flag+' '+esc(name)}
 function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.length:(it.src?1:0)}
