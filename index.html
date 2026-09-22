@@ -3,40 +3,63 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Pulse — World News</title>
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Pulse — ein Quellenabgleich, der Meldungen mehrerer RSS-Quellen zu neutralen KI-Zusammenfassungen bündelt.">
+<title>Pulse — Quellenabgleich</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%2334507a%22/><circle cx=%2232%22 cy=%2250%22 r=%227%22 fill=%22%23f2efe6%22/><circle cx=%2250%22 cy=%2250%22 r=%227%22 fill=%22%23f2efe6%22/><circle cx=%2268%22 cy=%2250%22 r=%227%22 fill=%22%23e0a63c%22/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,420;9..144,560;9..144,680&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="app">
-<header>
-  <div class="brand"><div class="logo">P</div><div><h1>Pulse</h1><small>World News</small></div></div>
-  <button class="iconbtn" id="settingsBtn" aria-label="Einstellungen">⚙︎</button>
-</header>
-<section class="hero">
-  <h2>Die Welt. Kurz gefasst.</h2>
-  <p>Aktuelle Meldungen, automatisch nach deinen Interessen gefiltert.</p>
-</section>
-<div class="filters" id="filters"></div>
-<p class="status" id="status">News werden geladen …</p>
-<main class="grid" id="news"></main>
-<div class="footer">RSS-Quellen · letzte 24 Stunden · Quellen sichtbar · keine Volltexte kopiert</div>
+<div class="wrap">
+  <header>
+    <div class="mark">
+      <div class="dots"><span></span><span></span><span></span></div>
+      <div>
+        <div class="wordmark">Pulse</div>
+        <div class="tagline">Quellenabgleich, kein Meinungsmix</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="hdr-tools">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="searchInput" type="text" placeholder="Meldungen durchsuchen …" aria-label="Meldungen durchsuchen">
+      </label>
+      <button class="iconbtn" id="themeBtn" aria-label="Farbschema wechseln">
+        <svg id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"></svg>
+      </button>
+    </div>
+  </header>
+
+  <section class="lead" id="lead"></section>
+
+  <div class="filterbar">
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="status-row">
+    <span id="statusText"></span>
+    <span id="syncText"></span>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <footer>
+    <b>Wie Pulse arbeitet:</b> Pulse gleicht RSS-Meldungen mehrerer Redaktionen ab. Die KI fasst nur die gelieferten RSS-Informationen zusammen. Übereinstimmungen und abweichende Angaben werden getrennt dargestellt; Quellen bleiben verlinkt. Pulse kopiert keine vollständigen Artikeltexte.
+  </footer>
 </div>
 
-<div class="overlay" id="overlay"></div>
-
-<aside class="sheet" id="articleSheet" aria-label="Meldung">
-<button class="iconbtn" id="articleCloseBtn" aria-label="Meldung schließen">✕</button>
-<div id="articleDetail"></div>
-</aside>
-
-<aside class="sheet" id="sheet">
-<button class="iconbtn" id="closeBtn">✕</button>
-<h2>Einstellungen</h2>
-<div class="section">
-<div class="row"><div><label>Sprache</label><small>Nachrichten werden auf Deutsch dargestellt</small></div><span class="setting-value">Deutsch</span></div>
-</div>
-<h3>Interessen</h3>
-<div class="section" id="interestRows"></div>
+<div class="scrim" id="scrim"></div>
+<aside class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="panelTitle">
+  <div class="panel-inner">
+    <button class="closebtn" id="closeBtn" aria-label="Schließen">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+    <div id="panelBody"></div>
+  </div>
 </aside>
 
 <script src="app.js"></script>
