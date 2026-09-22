@@ -1,7 +1,4 @@
 name: Update news
-concurrency:
-  group: pulse-news-update
-  cancel-in-progress: true
 on:
   workflow_dispatch:
   push:
@@ -10,44 +7,41 @@ on:
       - "scripts/fetch-news.mjs"
       - "scripts/summarize-news.mjs"
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "*/30 * * * *"
 permissions:
   contents: write
+concurrency:
+  group: pulse-news-update
+  cancel-in-progress: true
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: {node-version: 22}
+        with:
+          node-version: 22
       - name: Collect fresh RSS news
         run: node scripts/fetch-news.mjs
-      - name: Create AI summaries with Gemini
+      - name: Create AI source comparison
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-3.5-flash-lite
         run: node scripts/summarize-news.mjs
-      - name: Commit updated news
+      - name: Commit generated news data
         run: |
           git config user.name "pulse-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/news.json
-          if [ -f data/ai-cache.json ]; then git add data/ai-cache.json; fi
-          git diff --cached --quiet || git commit -m "Update news"
-
+          git add data.json data/news.json data/ai-cache.json
+          git diff --cached --quiet || git commit -m "Update news data"
           for attempt in 1 2 3; do
-            if git push; then
-              exit 0
-            fi
-
+            if git push; then exit 0; fi
             git fetch origin main
             git rebase origin/main || {
-              echo "Resolving generated-data race in favor of this run's generated data."
-              git checkout --theirs data/news.json data/ai-cache.json
-              git add data/news.json data/ai-cache.json
+              git checkout --theirs data.json data/news.json data/ai-cache.json
+              git add data.json data/news.json data/ai-cache.json
               GIT_EDITOR=true git rebase --continue
             }
           done
-
-          echo "Could not push generated news after 3 attempts."
           exit 1
