@@ -3748,5 +3748,641 @@
     "updatedAt": "2026-09-22T20:58:19.996Z",
     "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/18h-trump-deixa-ultimato-ao-irao-na-onu_a1_1767077",
     "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNnxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbXVuZG8vcmV1bmlhby10cnVtcC16ZWxlbnNreS11Y3JhbmlhLWFwb250YS1maW0t": {
+    "t": "UN-Generaldebatte und Treffen zwischen Trump und Zelensky",
+    "s": "Das hochrangige Debattentreffen der UN-Vollversammlung in New York begann am Dienstag mit der Rede von António Guterres.",
+    "m": "Die Generaldebatte der Vereinten Nationen in New York startete am Dienstag und läuft bis zum 28. September. Neben dem scheidenden UN-Generalsekretär António Guterres sprachen auch Lula da Silva, Donald Trump und Emmanuel Macron. Zudem wird über ein Treffen zwischen Trump und Zelensky sowie Aussagen der Ukraine zum Ende des Krieges in den nächsten Monaten berichtet.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten über die Generaldebatte der UN in New York und ein Treffen oder Diskussionen im Zusammenhang mit Trump und Zelensky.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet detailliert über den Start des Debatten der UN-Assemblee am Dienstag mit António Guterres als letzter Rede als UN-Chef, sowie Reden von Lula da Silva, Donald Trump und Emmanuel Macron bis zum 28. September."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Führt den Titel bezüglich der Reunião Trump-Zelensky und dem ukrainischen Ausblick auf das Kriegsende auf und enthält HTML-Links."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:17:47.169Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964|https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTk2fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9hbWVyaWthL2Fia29tbWVuLXp1LWdyb2VubGFuZC11bnRlcnplaWNo": {
+    "t": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
+    "s": "Grönland, die USA und Dänemark haben am Rande der UN-Vollversammlung in New York ein gemeinsames Sicherheitsabkommen unterzeichnet.",
+    "m": "Die Einigung erfolgte im bisherigen Streit um die Arktisinsel. Die Regierungschefs aller drei beteiligten Parteien unterzeichneten die Vereinbarung in New York.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Grönland, die USA und Dänemark ein Sicherheitsabkommen unterzeichnet haben.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich einen Kommentar zum Abkommen mit dem Titel 'Ein alter Deal in neuer Verpackung'."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:17:54.201Z",
+    "sourceSignature": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html|https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVNGVUVXUXF3R1BjSUs4dWhQUWdlTXFlVUowNlFxOVh6Umw5eS1tdjJBX1hmTTMtcldsY0EtbjA0T25ZUFdNV1pTemhnUVl3Wi13WTJLWFpzNmhhZ1lWbkdKM0d4dC1RZEMzVkd1bmxMVW1NNTNHU0NybEtySUkwTU4zNHpaRnpWamdZbnNzTQ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzA2fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL2lubmVucG9saXRpay9rcmFua2Vua2Fzc2VuLXN5c3RlbS1tZXJ6LWRl": {
+    "t": "Debatte über das Krankenkassensystem nach Aussagen von Merz",
+    "s": "Kanzler Merz hat am Montag Änderungen beim Nebeneinander von gesetzlichen und privaten Krankenkassen angedeutet und dies mit einem Gerechtigkeitsproblem begründet.",
+    "m": "Die Äußerungen von Kanzler Merz zu den Krankenkassen haben eine Debatte ausgelöst. Fast nebenbei sprach er am Montag über mögliche Änderungen an der Struktur von gesetzlichen und privaten Kassen. Dafür nannte er ein Gerechtigkeitsproblem als Grund. Für seine Aussagen erhält er nun überraschend Zustimmung vom Juso-Chef.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Kanzler Merz am Montag in einer Debatte über das Krankenkassensystem Änderungen angedeutet und dies mit einem Gerechtigkeitsproblem begründet hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet zusätzlich, dass Merz Zustimmung von ungewohnter Seite, nämlich dem Juso-Chef, erhält."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält technische Metadaten und Teaser-Fragmente, die auf tagesschau.de verweisen."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:18:01.754Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html|https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDQwcERZYXFsS2ZHTzA1LWM4TXpzMEtCTnZtU29XdDlOVnN5ZElmOFFJdmlQVHAxMW9fdXplbEwzaWNhUExvcGxPX0NTRHFCUGJwOVZBZmJGRG11Mm1TeHRVZDlGRE93Ulk0VEN4cVRqTXN5OE9KSzk3VlFYeWcydzhtdlF6OC05NU9aSTVGcHZDZw?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNHxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZWNvbm9taWEvZXVyby1jYWktZmFjZS1hby1kb2xhci1wZWxhLW5vbmEtc2Vzc2Fv": {
+    "t": "Euro fällt zum neunten Mal in Folge gegenüber US-Dollar",
+    "s": "Der Euro ist gegenüber dem US-Dollar zum neunten Mal in Folge gefallen.",
+    "m": "Der Kursrückgang des Euros gegenüber dem US-Dollar erfolgte am selben Tag, an dem der US-Präsident erklärte, er müsse zwischen der 'Annihilation' des Irans und dem Erreichen eines Abkommens wählen.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass der Euro gegenüber dem US-Dollar in dieser Sitzung gefallen ist und dies die neunte Sitzung in Folge war.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:18:08.902Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/euro-cai-face-ao-dolar-pela-nona-sessao-consecutiva_n1767071",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNXxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZWNvbm9taWEvcHJlc2lkZW50ZS1kby1pbmUtZ2FyYW50ZS1xdWUtbm92by1tZXRv": {
+    "t": "INE-Präsident verteidigt neue Bevölkerungsschätzungsmethode",
+    "s": "Der Präsident des INE, António Rua, erklärte, dass eine neue Methodik zur Schätzung der ansässigen Bevölkerung die Konsistenz und Kohärenz zwischen Quellen verbessert.",
+    "m": "António Rua betonte zudem, dass die neuen Verfahren detailliertere jährliche Bevölkerungsabschätzungen ermöglichen. Das Ziel ist es, die Qualität und Genauigkeit der demografischen Daten durch den Abgleich verschiedener Informationsquellen zu erhöhen.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass der INE-Präsident António Rua eine neue Methode zur Verbesserung der Bevölkerungsschätzungen verteidigt hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:18:16.064Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/presidente-do-ine-garante-que-novo-metodo-melhora-estimativas-sobre-populacao_n1767076",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOHxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvcGFpcy9pdmEtbm9zLWNvbWJ1c3RpdmVpcy12ZW50dXJhLWFjdXNhLXBzLWUtcHNk": {
+    "t": "André Ventura wirft PS und PSD Nichtangriffspakt vor",
+    "s": "André Ventura hat PS und PSD beschuldigt, einen Nichtangriffspakt geschlossen zu haben, um die Senkung der Mehrwertsteuer auf Kraftstoffe zu verhindern.",
+    "m": "Der Chega-Vorsitzende kritisierte, dass das bevorstehende parlamentarische Debattieren über die Senkung der Treibstoffsteuer und den Null-Mehrwertsteuersatz für Grundgüter zeige, dass die Ablehnung durch die PS reine Politik sei. Er warf den beiden großen Parteien vor, gemeinsam gegen Steuersenkungen zu stimmen.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quelle ist sich einig, dass André Ventura PS und PSD beschuldigt, die Senkung der Mehrwertsteuer auf Kraftstoffe zu blockieren.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:18:23.414Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/iva-nos-combustiveis-ventura-acusa-ps-e-psd-de-acordo-de-nao-agressao_v1767117",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTB8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL3BhaXMvcG9sZW1pY2Etbm92YXMtZnJhZ2F0YXMtbWluaXN0cm8tZGEtZGVmZXNh": {
+    "t": "Verteidigungsminister Nuno Melo wirft Chega-Abgeordneten Difamierung vor",
+    "s": "Der portugiesische Verteidigungsminister Nuno Melo wirft Chega-Abgeordneten Difamierung im Zusammenhang mit dem Kauf von drei Fregatten vor.",
+    "m": "In der parlamentarischen Verteidigungskommission kündigte Nuno Melo an, juristisch gegen André Ventura und Pedro Frazão vorzugehen, um seinen Ruf zu verteidigen. Grund dafür sind Verdächtigungen, die die Partei Chega bezüglich des Erwerbs von drei Fregatten aus Italien geäußert hatte.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der Verteidigungsminister den Vorwurf der Difamierung gegen Chega-Politiker erhoben hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:18:30.741Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/polemica-novas-fragatas-ministro-da-defesa-acusa-chega-de-difamacao_v1767112",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTMyfGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9lY29ub21pYS9wcmVjby1kYXMtY2FzYXMtZS1hLXByaW5jaXBhbC12dWxuZXJh": {
+    "t": "FMI sieht Immobilienpreise als Hauptrisiko für Portugals Finanzsektor",
+    "s": "Der Internationale Währungsfonds stuft die Wohnimmobilienpreise als die wichtigste Verwundbarkeit für das portugiesische Finanzwesen ein.",
+    "m": "Das Thema wurde vom FMI als zentrales Risiko mit potenziellen Auswirkungen auf die Zukunft des Finanzsektors in Portugal hervorgehoben. Diese Einschätzung wurde unter anderem vom Jornal Económico aufgegriffen.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Beide Quellen stimmen darin überein, dass laut FMI die Hauspreise die größte Schwachstelle des portugiesischen Finanzsektors darstellen.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt zusätzlich den Bezug zum Jornal Económico."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:18:38.239Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/preco-das-casas-e-a-principal-vulnerabilidade-do-setor-financeiro-portugues-considera-fmi_n1767030|https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTl8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyNi9zZXAvMjIvdHJ1bXAtZGllc2VsLWV4cG9ydC1iYW4": {
+    "t": "Trump unterstützt Exportverbot für Diesel zur Senkung der Energiekosten",
+    "s": "Donald Trump sprach sich für ein Verbot von Dieselexporten aus, um die stark gestiegenen Energiekosten zu senken.",
+    "m": "Die Idee eines Exportverbots wird von einigen US-Politikern gefordert, um die hohen Energiepreise einzudämmen. Die Dieselpreise in Europa und den USA haben Rekordhöhen erreicht. Ein Industrieverband warnt jedoch, dass ein solcher Plan nach hinten losgehen und zu noch höheren Benzinpreisen führen würde.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Donald Trump ein Verbot von Dieselexporten zur Senkung der Energiekosten befürwortet.",
+    "diff": [
+      {
+        "name": "Guardian Business",
+        "note": "Berichtet zusätzlich, dass ein Industrieverband warnt, der Plan würde nach hinten losgehen und zu noch höheren Benzinpreisen führen."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:18:45.507Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTU5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jeWNsaW5nL2FydGljbGVzL2M2M2VxeXZkbmR3ZG8_YXRfbWVkaXVtPVJTUyZh": {
+    "t": "Afghanische Radfahrerin gewinnt Silbermedaille bei Asienspielen",
+    "s": "Die aus Afghanistan geflüchtete Radfahrerin Fariba Hashimi hat bei den Asienspielen die Silbermedaille im Straßenrennen gewonnen.",
+    "m": "Fariba Hashimi, die in Italien lebt, musste zuvor vor den Taliban in ihrer Heimat fliehen, wo die Behörden die Freiheiten von Frauen stark eingeschränkt haben. Sie musste sich in der Vergangenheit als Mann verkleiden, um ihren sportlichen Träumen nachzugehen. Das Rennen fand nahe Nagoya in Japan statt, wo sie hinter der Chinesin Guo Li als Zweite das Ziel erreichte und den Erfolg als etwas Besonderes bezeichnete, das die Widerstandskraft afghanischer Frauen zeigen kann.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass die afghanische Radfahrerin Fariba Hashimi nach ihrer Flucht vor den Taliban bei den Asienspielen eine Silbermedaille im Straßenrennen gewonnen hat.",
+    "diff": [
+      {
+        "name": "Guardian Sport",
+        "note": "Erwähnt zusätzlich, dass das Rennen an einem Dienstag stattfand, dass Hashimi in Italien lebt, hinter der Chinesin Guo Li ins Ziel kam und das Rennen nahe Nagoya in Japan ausgetragene wurde."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:18:53.248Z",
+    "sourceSignature": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss|https://www.theguardian.com/sport/2026/sep/22/fariba-hashimi-afghan-cyclist-disguised-as-man-evade-taliban-wins-asian-games-silver",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMXxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZ3VlcnJhLW5hLXVjcmFuaWEva2lldi1jb25zaWRlcmEtdmVyZ29uaG9zYS1lLWlu": {
+    "t": "Ukraine kritisiert EU-Entscheidung zu Sanktionen gegen Oligarchen",
+    "s": "Der ukrainische Außenminister Andriy Sybiga hat die Aufhebung von EU-Sanktionen gegen zwei russische Oligarchen kritisiert.",
+    "m": "Andriy Sybiga stufte die Entscheidung der Europäischen Union als vergonhosa e injustificável ein. Die betroffenen russischen Oligarchen werden von der Ukraine beschuldigt, an der Invasion gegen das Land mitschuldig zu sein.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten über die Kritik des ukrainischen Außenministers an der Aufhebung von EU-Sanktionen gegen russische Oligarchen.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:00.300Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-considera-vergonhosa-e-injustificavel-retirada-de-sancoes-a-oligarcas-russos_n1767088",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzZkajRrOTgxMDdkbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Ukraine verärgert über EU-Sanktionsstreichungen für Oligarchen",
+    "s": "Die EU hat die russischen Oligarchen Alisher Usmanov und Mikhail Fridman von ihrer Sanktionsliste gestrichen.",
+    "m": "Kyiv kritisierte diesen Schritt scharf und erklärte, er sende falsche Signale nach Moskau. Sowohl Usmanov als auch Fridman haben enge Verbindungen zum russischen Präsidenten Wladimir Putin.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die EU hat Alisher Usmanov und Mikhail Fridman von der Sanktionsliste entfernt, was in der Ukraine auf Kritik stieß.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:07.378Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktODJ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsL2xpdmUvMjAyNi9zZXAvMjIvYmF5ZXJuLW11bmljaC12LW1hbmNo": {
+    "t": "Bayern München und Manchester City spielen 2:2 in der Women's Champions League",
+    "s": "Bayern München führte nach 28 Minuten mit 2:0, aber Manchester City kämpfte sich zu einem Unentschieden zurück.",
+    "m": "Das Spiel der Women's Champions League fand an einem sonnigen Abend in München statt, wo zahlreiche Flaggen im Stadion zu sehen waren. Trotz einer vergebenen Elfmeterchance durch Khadija Shaw gelang es Manchester City, das 2:2-Unentschieden zu erreichen.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Bayern München gegen Manchester City in der Women's Champions League 2:2 unentschieden gespielt hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:14.533Z",
+    "sourceSignature": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktODZ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjYvc2VwLzIyL2JheWVybi1tdW5pY2gtbWFuY2hlc3Rlci1j": {
+    "t": "Manchester City erkämpft 2:2-Unentschieden bei Bayern München in der Champions League",
+    "s": "Manchester City holte nach einem Rückstand ein 2:2-Unentschieden bei Bayern München in der Champions League.",
+    "m": "Die Gäste zeigten eine kämpferische Leistung und sicherten sich durch Tore von Beth Mead und Carlotta Wamser einen Punkt. Zuvor hatten Giulia Gwinn und ein Eigentor von Kerstin Casparij Bayern in Führung gebracht. Citys Trainer Andrée Jeglertz lobte nach dem Spiel die Moral und Qualität seiner Mannschaft.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass das Champions-League-Spiel zwischen Bayern München und Manchester City mit einem 2:2-Unentschieden endete.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:21.869Z",
+    "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/bayern-munich-manchester-city-womens-champions-league-match-report",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOTN8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWl0Z0ZCVlY5NWNVeE5SV1pFVUY5TFREaHRhRXBYTmxWUlNE": {
+    "t": "Bayern-Frauen verspielen 2:0-Führung gegen Manchester City",
+    "s": "Die Bayern-Frauen gaben in der Partie gegen Manchester City eine 2:0-Führung aus der Hand und erlitten einen späten Schock.",
+    "m": "In einem spannenden Duell gegen Manchester City sahen die Bayern-Frauen zunächst wie die sicheren Sieger aus, als sie mit 2:0 in Führung gingen. Im weiteren Verlauf des Spiels wendete sich jedoch das Blatt, sodass die Führung verspielt wurde und am Ende ein enttäuschendes Ergebnis stand.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die Bayern-Frauen eine 2:0-Führung gegen Manchester City verspielt haben.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:29.271Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWZEUF9LTDhtaEpXNlVRSDh6UlBhTlFMT2xaSkVyM2tOR0dKY2Qwc255VmM2RUpnNWRQQ3g1TnIzY2ZaWVQyTU8wZDJtdkVIT1Nwbmp5bm9SNkFLNEd4TmlQYnl2cHlfeXA4RkhTRVVNRHdrVktVSHdFZkNOSkplaTI3NmZ2bjhQZ09kRFBCZ2F5NVNrSHU5MmRtWnBVN1JTQk1wWE8yTXpXRkJRTy1hSGE1ZVJtZw?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOTZ8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL3Nwb3J0aW5nL2x1Y3JvLWRhLXNwb3J0aW5nLXNhZC1kaXNwYXJhLTc0LXBhcmEt": {
+    "t": "Sporting SAD verzeichnet Gewinnsteigerung von 74 Prozent auf 34,7 Millionen Euro",
+    "s": "Die Sporting SAD hat für das Geschäftsjahr 2025/26 einen Nettogewinn von 34,7 Millionen Euro bekanntgegeben. Das entspricht einem Anstieg von 74 Prozent im Vergleich zum Vorjahr.",
+    "m": "Der Gewinn der Sporting SAD stieg im Zeitraum 2025/26 um 74 Prozent auf knapp 35 Millionen Euro (genau 34,7 Millionen Euro). In der vorherigen Spielzeit lag der Gewinn noch bei 20 Millionen Euro. Dies gab das Unternehmen offiziell dem Markt bekannt.",
+    "k": "sport",
+    "p": 3,
+    "agree": "",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:36.401Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/sporting/lucro-da-sporting-sad-dispara-74-para-quase-35-me-em-202526_d1767079",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjR8aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI1OTA0MDItaG93LXR1cm5pbmctZWxlY3RyaWNpdHktZGlyZWN0": {
+    "t": "Wie die Umwandlung von Elektrizität in Nahrung den Planeten retten könnte",
+    "s": "Die Landwirtschaft zählt zu den umweltschädlichsten menschlichen Aktivitäten. Die Methode der Elektro-Landwirtschaft nutzt erneuerbare Elektrizität zur direkten Nahrungsmittelproduktion.",
+    "m": "Kolumnist Michael Le Page zeigt sich begeistert von diesen Entwicklungen in der Elektro-Landwirtschaft. Dieser Ansatz könnte dazu beitragen, den Planeten zu retten, indem er die traditionelle und zerstörerische Landwirtschaft ersetzt.",
+    "k": "umwelt",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die Umwandlung von Elektrizität direkt in Nahrungsmittel dabei helfen kann, den Planeten zu retten.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:43.616Z",
+    "sourceSignature": "https://www.newscientist.com/article/2590402-how-turning-electricity-directly-into-food-could-help-save-the-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktODR8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2F1c3RyYWxpYS1uZXdzLzIwMjYvc2VwLzIzL2Nvc3Qtb2YtcmFpc2luZy10d28t": {
+    "t": "Kosten für Kindererziehung in Australien stark gestiegen",
+    "s": "Laut einer neuen Studie sind die Kosten für die Erziehung von zwei Kindern in Australien in zwei Jahrzehnten um 134% gestiegen.",
+    "m": "Die jährlichen Kosten belaufen sich demnach auf mindestens 36.500 Dollar. Die Interessenvertretung The Parenthood, vertreten durch Georgie Dent, macht vor allem steigende Kinderbetreuungskosten für die finanzielle Belastung verantwortlich und fordert mehr bezahlten Elternurlaub.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Alle Angaben basieren auf einer neuen Studie der Interessenvertretung The Parenthood über die gestiegenen Kosten für die Kindererziehung in Australien.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:19:50.685Z",
+    "sourceSignature": "https://www.theguardian.com/australia-news/2026/sep/23/cost-of-raising-two-children-in-australia-has-risen-134-in-two-decades-study-says",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzJ8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vdGVjaC1wb2xpY3kvMjAyNi8wOS9jaXRpZXMtYWNyb3NzLXVzLW9wcG9zZS10cnVtcC1m": {
+    "t": "US-Städte lehnen FCC-Pläne von Trump zu Breitbandregeln ab",
+    "s": "Zahlreiche Städte in den USA wehren sich gegen Pläne der FCC unter Trump, lokale Breitbandregeln zu umgehen.",
+    "m": "Die betroffenen Städte verteidigen ihre bestehenden Genehmigungsanforderungen. Sie argumentieren, dass Internetdienstanbieter (ISPs) ihre Netzwerke nicht schnell genug ausbauen.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Städte in den USA den FCC-Plan zur Aufhebung lokaler Breitbandregeln ablehnen.",
+    "diff": [
+      {
+        "name": "Ars Technica",
+        "note": "Berichtet, dass die Städte ihre Genehmigungspflichten verteidigen und argumentieren, ISPs würden Netze nicht schnell genug bauen."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:19:58.085Z",
+    "sourceSignature": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTF8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3NvdW5kcy9wbGF5L3czY3Q4anlnP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz": {
+    "t": "China konkurriert mit den USA und anderen Nationen bei KI",
+    "s": "China konkurriert mit den USA und weiteren Ländern bei der Entwicklung von Künstlicher Intelligenz.",
+    "m": "Das Thema verdeutlicht das globale Wettrennen um technologische Führung im Bereich der Künstlichen Intelligenz, an dem neben China vor allem die Vereinigten Staaten und andere Nationen beteiligt sind.",
+    "k": "technik",
+    "p": 2,
+    "agree": "Alle Quellen sind sich einig, dass China mit den USA und anderen Nationen um die Entwicklung von KI konkurriert.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:20:05.180Z",
+    "sourceSignature": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTJ8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlwd0ZCVlY5NWNVeFBjVWsxY2swMFJTMUJVWFJaVFhscGQz": {
+    "t": "Qualcomm stellt zwei neue High-End-Chips vor",
+    "s": "Qualcomm hat zwei neue High-End-Chips namens Snapdragon 8 Elite Gen 6 vorgestellt.",
+    "m": "Die Präsentation der beiden neuen High-End-Prozessoren wurde von heise online aufgegriffen. Es handelt sich um Chips der Snapdragon-Reihe mit der Bezeichnung 8 Elite Gen 6.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Alle Quellen stimmen überein, dass Qualcomm zwei High-End-Chips unter dem Namen Snapdragon 8 Elite Gen 6 vorgestellt hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:20:12.360Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUk1ck00RS1BUXRZTXlpd3pCQVl5X0hKUlotYlZHZ0lGUmtPZG5uZVJxaEFSSDE0Z01BQ0dqUXNsdExMakFLSml3aXpQSXRWcWdKTy1Pa0w0S29ndUs2WUNBVndPMDc3YVVkZjJHVlVKUk13MlpJXzQwOWdGZTZXMHdxd0RLVGQxcktYQ3I0VDN5OXhtVno5NUt2V01vRTR2NUZrOFdKRQ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjJ8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vc2VjdXJpdHkvMjAyNi8wOS9taWNyb3NvZnQtZGlzcnVwdHMtYWktYXNzaXN0ZWQtcGxh": {
+    "t": "Microsoft blockiert KI-gestützte Plattform für Konto-Kompromittierungen",
+    "s": "Microsoft hat eine Plattform namens EvilTokens gestört, die für massenhafte Konto-Kompromittierungen genutzt wurde.",
+    "m": "Die Plattform EvilTokens bot einen End-to-End-Dienst an, der Angriffe auf Konten schneller und einfacher machen sollte. Durch das Vorgehen von Microsoft wurde dieser Dienst unterbrochen.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Microsoft eine Plattform namens EvilTokens gestört hat, die bei der Kompromittierung von Konten half.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:20:19.573Z",
+    "sourceSignature": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjd8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vdGVjaC1wb2xpY3kvMjAyNi8wOS9sYXdzdWl0LWRlbWFuZHMtb3BlbmFpLXBheS1mb3It": {
+    "t": "Klage gegen OpenAI nach Amoklauf gefordert",
+    "s": "Eine kanadische Provinz verklagt OpenAI und fordert die ChatGPT-Protokolle des Todesschützen von Tumbler Ridge.",
+    "m": "Der Vorfall steht im Zusammenhang mit einer Klage, die verlangt, dass OpenAI für eine neue Schule aufkommt. Es wird gefordert, die ChatGPT-Nutzungsprotokolle des Täters offenzulegen. Die Provinz British Columbia hat rechtliche Schritte gegen das KI-Unternehmen eingeleitet.",
+    "k": "panorama",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass es eine Klage gegen OpenAI im Zusammenhang mit einem Schützen gibt, bei der dessen ChatGPT-Protokolle gefordert werden.",
+    "diff": [
+      {
+        "name": "Ars Technica",
+        "note": "Berichtet zusätzlich, dass in der Klage gefordert wird, OpenAI solle für eine neue Schule zahlen."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:20:26.946Z",
+    "sourceSignature": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzh8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDI2LzA5L2Fkb2JlLXByZW1pZXJlLWZpbmFsbHktYnJpbmdzLXBvd2Vy": {
+    "t": "Adobe veröffentlicht kostenlose Premiere-App für Android",
+    "s": "Adobe hat eine Video-Bearbeitungs-App für Android veröffentlicht, die kostenlos genutzt werden kann.",
+    "m": "Die Anwendung erfordert keinen Login bei Creative Cloud für die normale Videobearbeitung. Allerdings sind erweiterte Funktionen, die auf Künstlicher Intelligenz (AI) basieren, kostenpflichtig. Die App bringt leistungsstarke Bearbeitungswerkzeuge auf Mobilgeräte.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Adobe eine kostenlose Video-Editor-App für Android herausgebracht hat.",
+    "diff": [
+      {
+        "name": "Ars Technica",
+        "note": "Erwähnt zusätzlich, dass kein Creative Cloud-Login nötig ist und KI-Funktionen extra kosten."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:20:34.381Z",
+    "sourceSignature": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTF8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL211bmRvL2NyaXNlLW1pZ3JhdG9yaWEtZW0tY2V1dGEtZXNwYW5oYS1lLW1hcnJv": {
+    "t": "Espanha e Marrocos reforçam segurança nas fronteiras de Ceuta e Melilla",
+    "s": "Espanha e Marrocos reforçaram a segurança nas fronteiras de Ceuta e Melilla devido à possibilidade de novas entradas massivas de migrantes.",
+    "m": "As autoridades dos dois países tomaram medidas de segurança adicionais nas fronteiras dos enclaves para prevenir potenciais tentativas de passagens em massa.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Spanien und Marokko die Sicherheit an den Grenzen von Ceuta und Melilla wegen der drohenden Masseneinwanderung verstärkt haben.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet von einem Treffen zwischen Spanien und Marokko in Marokko zur Migrantenkrise in Ceuta."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Erwähnt konkret, dass eine neue versuchte Masseneinreise für den morgigen Tag, an dem in Marokko Parlamentswahlen stattfinden, angesetzt ist."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:20:41.788Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-espanha-e-marrocos-reunem-se-em-marrocos_v1767111|https://www.rtp.pt/noticias/mundo/espanha-e-marrocos-voltam-a-reforcar-a-seguranca-nas-fronteiras-de-ceuta-e-melilla_v1766987",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjB8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3F5N3oyNzV5eDY1bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Gericht in Sri Lanka verurteilt 15 Männer nach Ostern-Anschlägen",
+    "s": "Ein Gericht in Sri Lanka hat 15 Männer wegen der tödlichen Oster-Anschläge von 2019 verurteilt.",
+    "m": "Die Anschläge trafen im Jahr 2019 drei Kirchen und drei Luxushotels. Sie gehören zu den tödlichsten in der Geschichte des Landes.",
+    "k": "panorama",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass ein Gericht in Sri Lanka 15 Männer wegen der tödlichen Ostern-Anschläge verurteilt hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt, dass drei Kirchen und drei Luxushotels zielgerichtet waren und insgesamt 270 Menschen starben."
+      },
+      {
+        "name": "NPR World",
+        "note": "Erwähnt, dass die Angriffe vom Islamischen Staat inspiriert waren und 42 Ausländer unter den Todesopfern waren."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:20:49.106Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss|https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTE1fGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nYW1lcy8yMDI2L3NlcC8yMi9zaXgteWVhci1vbGQtY2hpbmVzZS1naXJsLXJ1": {
+    "t": "Sechsjähriges chinesisches Mädchen stellt Rubik-Cube-Weltrekord auf",
+    "s": "Ein sechsjähriges Mädchen aus China hat laut Medienberichten einen neuen Frauen-Weltrekord im Lösen eines Rubik-Würfels aufgestellt.",
+    "m": "Lian Yunzhi hat den Durchschnittsrekord für den 3x3-Würfel laut dem Staatssender CCTV diesen Monat bei zwei vom Weltverband zertifizierten Wettkämpfen in Wuhan und Guangzhou zweimal gebrochen. Sie löste das Puzzle demnach in einer Durchschnittszeit von unter 4,5 Sekunden.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Beide Quellen berichten über einen neuen Frauen-Weltrekord im Lösen des Rubik's Cube durch ein sechsjähriges chinesisches Mädchen.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Die Quelle enthält im Gegensatz zum Guardian keinen eigenen Artikeltext, sondern verweist lediglich per Schlagzeile und Link auf den Bericht des Guardians."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:20:56.525Z",
+    "sourceSignature": "https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi|https://news.google.com/rss/articles/CBMirAFBVV95cUxObmVPUjJmVklQN1J6aEhpR3c4bmJSTjBKVmhOMnFPMzJDZ0lLUjlpaUxsbmNnaExVUUU5U2JERERoaWljNUR1TzdueFlad3N4MHVvYjM3UHpPREdkTmpZbGJoc3kyN01hSms1ajd0Vm1NREdwR2g2Z2lHZ3VTSFc1T0hackJpUFpkdFZZam8waE5LNmoxdW1YYVpHRU1xSG15YmF0YmR1S3JLVFRI?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMnxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvY3VsdHVyYS9jcmlhY2FvLWVtLW11c2ljYS1lLW9wZXJhLWFwb2lhLTc3LXByb2pl": {
+    "t": "DGArtes: Mängeln bei Budget führt zu Absagen für Projekte",
+    "s": "Das Programm zur Unterstützung von Projekten im Bereich Musik und Oper hat viele Anträge abgelehnt, da die verfügbaren Mittel erschöpft waren.",
+    "m": "Beim Wettbewerb für Musik und Oper im Rahmen des Förderprogramms 2025 der DGArtes wurden 77 Projekte unterstützt, während 131 Anträge aufgrund fehlender finanzieller Mittel abgewiesen wurden.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass zahlreiche Anträge beim DGArtes-Wettbewerb mangels Budget nicht berücksichtigt wurden.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet genau von 77 unterstützten Projekten und 131 abgelehnten Anträgen."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:21:03.979Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/cultura/criacao-em-musica-e-opera-apoia-77-projetos-131-ficam-de-fora-por-falta-de-verba_n1767081",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktM3xodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZWNvbm9taWEvcmFpbXVuZG8tYWN1c2EtZ3JhbmRlLWRpc3RyaWJ1aWNhby1kZS11": {
+    "t": "PCP wirft Supermärkten Ausreden bei Lohnerhöhungen vor",
+    "s": "Der Generalsekretär der PCP warf der großen Distribution vor, sich stets auf Krisen zu berufen, um keine höheren Löhne zu zahlen.",
+    "m": "Paulo Raimundo kritisierte, dass Arbeitgeberverbände eine angebliche Krise nutzen, um Lohnerhöhungen zu blockieren, selbst wenn die Gewinne nur minimal sinken. Er bezeichnete dieses Vorgehen als ständige Klage ohne echten Grund.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quelle ist sich einig, dass die große Distribution Ausreden nutzt, um Lohnerhöhungen zu vermeiden.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:11.243Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/raimundo-acusa-grande-distribuicao-de-usar-sempre-a-mesma-choradeira-para-nao-subir-salarios_n1767070",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktN3xodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbm90aWNpYXJpby1hbnRlbmExLzIxaC1nb3Zlcm5vLWF2YW5jYS1jb20tdW0tZ3J1": {
+    "t": "Regierung setzt Arbeitsgruppe zur Bewertung des Medizintourismus ein",
+    "s": "Die portugiesische Regierung hat eine Arbeitsgruppe zur Bewertung des Medizintourismus im Nationalen Gesundheitsdienst (SNS) eingesetzt.",
+    "m": "Die Initiative wurde am Abend bekannt gegeben. Ziel der neu geschaffenen Arbeitsgruppe ist es, das Phänomen des Medizintourismus innerhalb des SNS umfassend zu analysieren und zu bewerten.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass die Regierung eine Arbeitsgruppe zur Bewertung des Medizintourismus im SNS einsetzt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:18.297Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/21h-governo-avanca-com-um-grupo-de-trabalho-para-avaliar-o-fenomeno-do-turismo-de-saude-no-sns_a1_1767119",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOXxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvY3VsdHVyYS9teGdwdS1hdHVhbS1uby1tZXRyby1zZXJhLW8tcHJpbWVpcm8tY29u": {
+    "t": "MXGPU geben erstes Konzert im U-Bahnhof Olaias",
+    "s": "Das DJ-Duo MXGPU tritt in der U-Bahn-Station Olaias auf. Es ist das erste Konzert in diesem unterirdischen Raum.",
+    "m": "Das Konzert der DJs von MXGPU findet in der U-Bahnhof-Station Olaias statt. Der Veranstaltungsraum befindet sich unterhalb der Gleise, auf denen die Züge verkehren.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Die DJs MXGPU treten in der U-Bahn-Station Olaias auf und es ist das erste Konzert an diesem Ort.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:25.429Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/cultura/mxgpu-atuam-no-metro-sera-o-primeiro-concerto-na-sala-subterranea-na-estacao-das-olaias_v1767114",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzd8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjYvc2VwLzIyL2h1cnJpY2FuZS1wb2xvLW1leGljbw": {
+    "t": "Hurrikan Polo rast vor der mexikanischen Küste entlang",
+    "s": "Hurrikan Polo hat sich vor der Küste Mexikos zu einem Kategorie-5-Sturm verstärkt und zieht mit starken Winden über den Pazifik.",
+    "m": "Der Sturm bildete sich durch stärkere El-Niño-Muster im Pazifischen Ozean und erreichte innerhalb von weniger als 24 Stunden Kategorie 5. Am Dienstag betrugen die maximalen anhaltenden Winde 165 Meilen pro Stunde, während das Zentrum etwa 215 Meilen südlich der Küstenstadt Zihuatanejo lag. Ein direkter Einschlag in Mexiko wird derzeit jedoch als unwahrscheinlich angesehen.",
+    "k": "panorama",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass sich Hurrikan Polo vor der Küste Mexikos befindet und stark an Intensität gewonnen hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:32.899Z",
+    "sourceSignature": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTJ8aHR0cHM6Ly93d3cuZXVyb25ld3MuY29tLzIwMjYvMDkvMjIva3lpdi1hbmQtd2FzaGluZ3Rvbi13YW50LXdhci1pbi11a3JhaW5l": {
+    "t": "Selenskyj trifft Trump in New York",
+    "s": "Der ukrainische Präsident Wolodymyr Selenskyj traf am Dienstag in New York mit dem US-Präsidenten Donald Trump zusammen.",
+    "m": "Das Treffen mit Donald Trump in New York wurde von Wolodymyr Selenskyj als positiv und produktiv beschrieben. Zudem äußerten Kiew und Washington den Wunsch, dass der Krieg in der Ukraine noch vor dem Winter beendet werden soll.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen stimmen überein, dass Wolodymyr Selenskyj und Donald Trump am Dienstag in New York ein positives und produktives Treffen hatten, bei dem der Wunsch geäußert wurde, den Krieg in der Ukraine vor dem Winter zu beenden.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:39.930Z",
+    "sourceSignature": "https://www.euronews.com/2026/09/22/kyiv-and-washington-want-war-in-ukraine-to-end-before-winter-zelenskyy-says",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvdXMtc2lnbnMtdHJlbWVuZG91cy1zZWN1": {
+    "t": "US-Sicherheitsabkommen mit Dänemark und Grönland unterzeichnet",
+    "s": "Die USA haben ein neues Sicherheitsabkommen mit Dänemark und Grönland unterzeichnet.",
+    "m": "Das Abkommen ermöglicht eine erweiterte US-Militärpräsenz in Grönland. US-Präsident Trump und die Führungspersönlichkeiten von Grönland und Dänemark haben das Dokument besiegelt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die USA ein Sicherheitsabkommen mit Dänemark und Grönland unterzeichnet haben, das eine erweiterte US-Militärpräsenz in Grönland ermöglicht.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:46.995Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvcWF0YXJpLWVtaXItc2F5cy1jb3VudHJ5": {
+    "t": "Katar betont Rolle als mehr als nur ein Vermittler",
+    "s": "Der Emir von Katar, Scheich Tamim bin Hamad Al Thani, erklärte vor der UN-Vollversammlung, dass Katar sich als Golf-Mediator nicht einschränken will.",
+    "m": "Vor der UN-Vollversammlung machte der qatarische Emir Scheich Tamim bin Hamad Al Thani deutlich, dass sein Land weit mehr ist als nur ein Vermittler. Er betonte, dass Katar sich in dieser Rolle nicht begrenzen lassen wird.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Der Emir von Katar erklärte vor der UN-Vollversammlung, dass das Land sich als Golf-Mediator nicht einschränken will und mehr als nur ein Vermittler ist.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:21:54.302Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTV8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvbWFjcm9uLWZyYW5jZS13b250LXlpZWxk": {
+    "t": "Frankreich sichert unverminderten Beistand für die Ukraine zu",
+    "s": "Der französische Präsident Emmanuel Macron bekräftigte, dass die Unterstützer der Ukraine nicht nachgeben werden.",
+    "m": "Frankreich und eine sogenannte Koalition der Willigen stehen weiterhin fest an der Seite der Ukraine. Macron betonte, dass man beim Beistand für das osteuropäische Land keinen Zollbreit nachgeben werde.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der französische Präsident Emmanuel Macron erklärt hat, dass Frankreich und seine Verbündeten ihre Unterstützung für die Ukraine fortsetzen und nicht nachgeben werden.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:22:01.429Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTZ8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL3BhaXMvbWluaXN0cm8tZGUtZWR1Y2FjYW8tZ2FyYW50ZS1xdWUtYWx1bm9zLWVz": {
+    "t": "Bildungsminister garantiert Schulkarrige innerhalb von 24 Stunden",
+    "s": "Laut dem Bildungsminister werden Schüler innerhalb von 24 Stunden platziert. Am Montag gab es landesweit nur noch 54 unplatzierte Schüler.",
+    "m": "Bildungsminister Fernando Alexandre versicherte, dass das Problem rasch gelöst wird und die Platzierung der Schüler sehr schnell erfolgt. Am Montag lag die Zahl der noch nicht zugewiesenen Schüler im ganzen Land bei lediglich 54.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der Bildungsminister eine schnelle Platzierung der Schüler innerhalb von 24 Stunden garantiert und am Montag nur noch 54 Schüler unplatziert waren.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:22:08.597Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/ministro-de-educacao-garante-que-alunos-estao-a-ser-colocados-em-24-horas_v1767110",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTd8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2F1c3RyYWxpYS1uZXdzL2xpdmUvMjAyNi9zZXAvMjMvYW50aG9ueS1hbGJhbmVz": {
+    "t": "Australiens Premierminister Albanese fordert digitale Souveränität bei UN-Rede",
+    "s": "Premierminister Anthony Albanese hat vor der UN-Generalversammlung erklärt, dass die Wahrung der Souveränität eine digitale Dimension haben muss.",
+    "m": "In New York sprach er vor der Koalition für Kinderrechte und -schutz im Zeitalter der KI über ein geplantes Verbot sozialer Medien für Jugendliche, Opt-out-Algorithmen und eine KI-Erklärung. Zudem kritisierte der ABC-Wächter eine Kultur der Geheimhaltung und des Faktenchecks bei 'Four Corners'.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten über Auftritte und Aussagen von Australiens Premierminister Anthony Albanese im Zusammenhang mit digitalen Themen und der UN.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet zusätzlich über die Kritik des ABC-Wächters an einer Kultur der Geheimhaltung und des Faktenchecks bei 'Four Corners'."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:22:15.941Z",
+    "sourceSignature": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTh8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvbGl2ZS8yMDI2L3NlcC8yMi9kb25hbGQtdHJ1bXAtdW5nYS1zcGVl": {
+    "t": "Trump verteidigt Handeln vor UN-Vollversammlung",
+    "s": "Donald Trump hat bei der UN-Vollversammlung seine Politik in Bezug auf den Iran und Venezuela verteidigt.",
+    "m": "Während seiner Rede drohte Trump dem Iran im Falle ausbleibender Abkommen mit massiver Vergeltung und betonte die US-Politik zu weiteren Themen wie Kuba, Mexiko, Grönland und künstlicher Intelligenz.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen stimmen überein, dass Trump auf der UN-Vollversammlung auf den Iran und Venezuela eingegangen ist.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet über Trumps Drohung gegen den Iran und seine Erwähnung von Kuba, Mexiko, Grönland und KI."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:22:23.208Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTl8aHR0cHM6Ly93d3cuZnJhbmNlMjQuY29tL2VuL2FtZXJpY2FzLzIwMjYwOTIyLXVuLXNlY3JldGFyeS1nZW5lcmFsLWd1dGVycmVz": {
+    "t": "Guterres hält letzte Rede vor UN-Generalversammlung",
+    "s": "UN-Generalsekretär Antonio Guterres hielt am Dienstag seine letzte Ansprache vor der jährlichen Versammlung von Weltführern.",
+    "m": "In seiner Rede plädierte Guterres für eine Welt, die auf gegenseitiger Abhängigkeit aufgebaut ist. Die versammelten Staats- und Regierungschefs sahen sich einer Reihe von Herausforderungen gegenüber, darunter Klimawandel, Kriege, Ungleichheit und der Aufstieg künstlicher Intelligenz.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass Antonio Guterres am Dienstag seine letzte Ansprache vor der UN-Generalversammlung hielt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:22:30.545Z",
+    "sourceSignature": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjB8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2N1bHR1cmEvam9yZ2UtcGFsbWEtZGVpeGEtdW0tbGVnYWRvLWRlLTUwLWFub3Mt": {
+    "t": "Jorge Palma feiert 50 Jahre Karriere",
+    "s": "Jorge Palma blickt auf ein 50-jähriges Karrierejubiläum zurück und hat zahlreiche prägende Lieder hinterlassen.",
+    "m": "Der Künstler ist Autor von bekannten und bedeutsamen Musikstücken wie \"Encosta-te a Mim\", \"Frágil\", \"Deixa-me Rir\", \"A Gente Vai Continuar\" und \"Estrela do Mar\". Diese Lieder sind fest im Gedächtnis der Öffentlichkeit verankert.",
+    "k": "panorama",
+    "p": 3,
+    "agree": "Die Quelle ist sich einig, dass Jorge Palma eine 50-jährige Karriere hat und markante Lieder wie \"Encosta-te a Mim\" geschaffen hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:22:37.490Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/cultura/jorge-palma-deixa-um-legado-de-50-anos-de-carreira_n1767108",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjF8aHR0cHM6Ly93d3cuZXVyb25ld3MuY29tL3ZpZGVvLzIwMjYvMDkvMjIvYXJ0aXN0cy1wcm90ZXN0LWN1bHR1cmUtY3V0cy13aXRo": {
+    "t": "Künstler protestieren in Bogotá gegen geplante Kulturkürzungen",
+    "s": "Hunderte Künstler und Studenten gingen in Bogotá auf die Straße, um gegen geplante Kürzungen des Kulturbudgets und die Aussetzung von Kunststipendien zu protestieren.",
+    "m": "Die Proteste in Kolumbiens Hauptstadt Bogotá wurden von Musik, Tanz und Puppen begleitet. Die Teilnehmer wandten sich gegen die von der Regierung geplanten Kürzungen im Kulturbereich sowie die Aussetzung nationaler Kunstförderungen.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass hunderte Künstler und Studenten in Bogotá gegen geplante Kürzungen des Kulturbudgets und ausgesetzte Kunststipendien protestierten.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:22:44.850Z",
+    "sourceSignature": "https://www.euronews.com/video/2026/09/22/artists-protest-culture-cuts-with-music-dance-and-puppets-in-bogota",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjJ8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzhyNHY3bjZweTk3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Marokkos Wahlen im Zeichen von Fußball, Ceuta und Israel",
+    "s": "Marokkos Wahlen rücken junge Wähler in den Fokus, wobei politische Kampagnen auf Fußball-Slogans und Arbeitsversprechen setzen.",
+    "m": "Junge Wähler werden in Marokko intensiv umworben. Die politischen Kampagnen nutzen dabei gezielt Fußball-Slogans, Versprechen für Arbeitsplätze sowie anti-israelische Parolen. Auch die Themen Ceuta, Fußball und Israel prägen das politische Geschehen rund um die Wahl.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass junge Wähler in Marokko umworben werden und dabei Fußball-Slogans sowie Arbeitsversprechen eine Rolle spielen.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:22:52.148Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjN8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL211bmRvL2lyYW8tYXByZXNlbnRvdS1jb25kaWNvZXMtcGFyYS1yZWFiZXJ0dXJh": {
+    "t": "Iran nennt Bedingungen für Öffnung der Straße von Hormus gegenüber US-Gesandtem",
+    "s": "Der iranische Außenminister Abbas Araghchi traf am Dienstag am Rande der UN-Generalversammlung mit dem US-Sondergesandten Steve Witkoff zusammen.",
+    "m": "Das Treffen zwischen dem iranischen Außenminister Abbas Araghchi und dem US-Sondergesandten Steve Witkoff fand am Rande der UN-Generalversammlung statt. Laut iranischen Staatsmedien präsentierte der Iran dabei Bedingungen für eine mögliche Wiedereröffnung der Straße von Hormus.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten über ein Treffen zwischen Außenminister Abbas Araghchi und US-Sondergesandtem Steve Witkoff am Rande der UN-Generalversammlung.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet, dass das Treffen laut iranischen Staatsmedien stattfand und der Iran dabei Bedingungen für die Wiedereröffnung der Straße von Hormus präsentierte."
+      }
+    ],
+    "updatedAt": "2026-09-22T21:22:59.426Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/irao-apresentou-condicoes-para-reabertura-do-estreito-de-ormuz-a-representantes-dos-eua_n1767105",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjR8aHR0cHM6Ly93d3cuZnJhbmNlMjQuY29tL2VuL3R2LXNob3dzL2J1c2luZXNzLzIwMjYwOTIyLWZyZW5jaC1nb3Zlcm5tZW50LXNj": {
+    "t": "Französische Regierung weitet gezielte Kraftstoffhilfen aus",
+    "s": "Die französische Regierung hat angekündigt, gezielte Hilfen gegen steigende Kraftstoffpreise für besonders Betroffene auszuweiten.",
+    "m": "Die neuen Maßnahmen kosten 450 Millionen Euro, wodurch sich die Gesamtsumme bisher auf 1,4 Milliarden Euro beläuft. Präsident Emmanuel Macron fordert zudem, dass mehr Biokraftstoffe dem Diesel beigemischt werden dürfen. Dies wirft Fragen bezüglich der Umweltauswirkungen eines schnellen Anstiegs der Biokraftstoffnutzung auf.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die französische Regierung gezielte Hilfen gegen hohe Kraftstoffpreise ausweitet.",
+    "diff": [],
+    "updatedAt": "2026-09-22T21:23:06.739Z",
+    "sourceSignature": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
+    "method": "gemini"
   }
 }
