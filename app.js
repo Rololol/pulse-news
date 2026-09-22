@@ -8,8 +8,8 @@ function render(){
  let q=search.value.toLowerCase();
  let list=data.filter(x=>(topic==="Alle"||x.topic===topic)&&(country==="Alle"||x.country===country)&&(!q||(x.title+" "+x.summary+" "+(x.sources||[]).map(s=>s.source).join(" ")).toLowerCase().includes(q)));
  count.textContent=list.length+" Meldungen";
- hero.innerHTML=list[0]?`<div class="hero"><span class="meta">${esc(list[0].source||"Pulse News")} · ${list[0].sourceCount||1} Quelle(n) · ${new Date(list[0].date).toLocaleString("de-DE")}</span><h2>${esc(list[0].title)}</h2><p>${esc(list[0].summary||"Aktuelle Meldung.")}</p></div>`:"";
- news.innerHTML=list.length?list.map(x=>`<article class="card"><span class="meta">${esc(x.topic)} · ${esc(x.country||"INT")} · ${x.sourceCount||1} Quellen</span><h3>${esc(x.title)}</h3><p>${esc(x.summary||"Quelle öffnen für Details.")}</p><div class="source">${(x.sources||[]).slice(0,4).map(s=>'<a href="'+s.url+'" target="_blank" rel="noopener">'+esc(s.source)+'</a>').join(" · ")}</div></article>`).join(""):'<div class="empty">Keine Meldungen für diese Auswahl.</div>';
+ hero.innerHTML=list[0]?`<div class="hero"><span class="meta">${esc(list[0].source||"Pulse News")} · ${list[0].sourceCount||1} Quelle(n) · ${new Date(list[0].date).toLocaleString("de-DE")}</span><h2>${esc(list[0].title)}</h2><p>${esc(list[0].aiSummary||list[0].summary||"Aktuelle Meldung.")}</p></div>`:"";
+ news.innerHTML=list.length?list.map(x=>`<article class="card"><span class="meta">${esc(x.topic)} · ${esc(x.country||"INT")} · ${x.sourceCount||1} Quellen</span><h3>${esc(x.title)}</h3><p>${esc(x.aiSummary||x.summary||"Quelle öffnen für Details.")}</p><div class="source">${(x.sources||[]).slice(0,4).map(s=>'<a href="'+s.url+'" target="_blank" rel="noopener">'+esc(s.source)+'</a>').join(" · ")}</div></article>`).join(""):'<div class="empty">Keine Meldungen für diese Auswahl.</div>';
 }
 async function load(){try{const r=await fetch("data/news.json?"+Date.now());data=await r.json()}catch(e){data=[]}render()}
 function setTopic(v){topic=v;document.querySelectorAll(".chip").forEach(x=>x.classList.toggle("active",x.textContent===topic));render()}
