@@ -1,21 +1,19 @@
 <!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#f5f5f7"><title>Pulse News</title><link rel="stylesheet" href="style.css"></head>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#f7f8fc"><title>Pulse News</title><link rel="stylesheet" href="style.css"></head>
 <body>
 <aside>
-  <div class="brand"><span class="brand-dot"></span><span>Pulse</span></div>
-  <div class="side-label">NEWS</div>
-  <nav id="nav"></nav>
-  <button class="topics-side" id="openTopics">⌁&nbsp; Alle Themen</button>
-  <div class="side-bottom"><button id="theme">◐&nbsp; Erscheinungsbild</button><span>Pulse News · 2026</span></div>
+  <div class="brand"><span class="brand-mark">P</span><span>Pulse</span></div>
+  <div class="side-label">FEED</div><nav id="nav"></nav>
+  <button class="topics-side" id="openTopics">＋&nbsp; Themen entdecken</button>
+  <div class="side-bottom"><button id="theme">◐&nbsp; Erscheinungsbild</button><span>Pulse News · RSS + AI</span></div>
 </aside>
 <main>
-<header><div><span class="eyebrow">PULSE NEWS</span><h1>Was gerade wichtig ist.</h1><p class="subhead">Mehrere Quellen. Eine klare Zusammenfassung.</p></div><button class="round" id="desktopTheme">◐</button></header>
+<header><div><div class="brandline"><span class="live-dot"></span> LIVE FEED</div><h1>Deine News.<br><em>Dein Überblick.</em></h1><p class="subhead">RSS-Quellen aus aller Welt, automatisch sortiert und kompakt zusammengefasst.</p></div><button class="round" id="desktopTheme">◐</button></header>
 <section class="home-tabs" id="homeTabs"></section>
-<section class="toolbar"><div class="searchbox"><span>⌕</span><input id="search" placeholder="News durchsuchen …"></div><div class="filter-label">Länder</div><div id="countries"></div></section>
-<section id="hero"></section>
-<div class="section-title"><div><span class="eyebrow">DEIN FEED</span><h2 id="feedTitle">Top News</h2></div><span id="count"></span></div>
-<section id="news" class="grid"></section>
+<section class="toolbar"><div class="searchbox"><span>⌕</span><input id="search" placeholder="News durchsuchen …"></div><div class="filter-label">REGION</div><div id="countries"></div></section>
+<div class="feed-head"><div><span class="eyebrow">AKTUELL</span><h2 id="feedTitle">Top News</h2></div><span id="count"></span></div>
+<section id="news" class="feed"></section>
 </main>
-<div class="modal" id="topicModal" aria-hidden="true"><div class="modal-card"><div class="modal-head"><div><span class="eyebrow">AUSWAHL</span><h2>Alle Themen</h2></div><button class="round" id="closeTopics">×</button></div><div id="allTopics" class="topic-grid"></div></div></div>
-<nav class="bottom"><button data-nav="home">⌂<span>Home</span></button><button data-nav="topics">⌁<span>Themen</span></button><button data-nav="search">⌕<span>Suche</span></button></nav>
+<div class="modal" id="topicModal" aria-hidden="true"><div class="modal-card"><div class="modal-head"><div><span class="eyebrow">ENTDECKEN</span><h2>Alle Themen</h2><p>Wähle aus, was dich gerade interessiert.</p></div><button class="round" id="closeTopics">×</button></div><div id="allTopics" class="topic-grid"></div></div></div>
+<nav class="bottom"><button data-nav="home">⌂<span>Home</span></button><button data-nav="topics">＋<span>Themen</span></button><button data-nav="search">⌕<span>Suche</span></button></nav>
 <script src="app.js"></script></body></html>
