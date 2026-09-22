@@ -50,7 +50,7 @@ async function ask(item){
   const sourceText=(item.sources||[]).slice(0,8).map((src,i)=>
     "["+(src.source||"Quelle "+(i+1))+"]\n"+clean(src.title||"")+"\n"+clean(src.snippet||"")
   ).join("\n\n");
-  const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format:
+  const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m und agree auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
 {"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"gemeinsame Kurzfassung, 1-2 Sätze, max. 220 Zeichen, nur was alle Quellen bestätigen","m":"zusätzliche Details, 2-4 Sätze, max. 500 Zeichen","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
 Wenn es keine Abweichungen gibt, gib diff als leeres Array zurück. Erfinde nichts, das nicht in den gelieferten Texten steht. Bei nur einer Quelle bleiben agree und diff leer.
 Quellen:
@@ -106,7 +106,7 @@ let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
   const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
-  const key=hashKey(item.id+"|"+signature);
+  const key=hashKey("v2-de|"+item.id+"|"+signature);
   let ai=cache[key];
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
