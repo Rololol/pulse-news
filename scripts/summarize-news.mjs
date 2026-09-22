@@ -14,8 +14,9 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function cleanSnippet(text="") {
   return String(text)
-    .replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&amp;/g,"&")
-    .replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/<[^>]+>/g," ")
+    .replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&amp;/gi,"&").replace(/&nbsp;/gi," ")
+    .replace(/&#39;/g,"'").replace(/&#x27;/g,"'").replace(/&quot;/gi,'"').replace(/<[^>]+>/g," ")
+    .replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16)))
     .replace(/\s+/g," ").trim();
 }
 
@@ -23,8 +24,8 @@ function fallbackSummary(story) {
   const snippets = (story.sources || []).map(s => cleanSnippet(s.snippet || "")).filter(Boolean);
   const unique = [...new Set(snippets)];
   const parts = unique.flatMap(s => s.split(/(?<=[.!?])\s+/)).filter(Boolean);
-  const useful = parts.filter(p => p.length > 35).slice(0, 2);
-  if (!useful.length) return story.title;
+  const useful = parts.filter(p => p.length > 35 && p.toLowerCase() !== story.title.toLowerCase()).slice(0, 2);
+  if (!useful.length) return story.title + ".";
   return useful.join(" ").slice(0, 520).replace(/\s+$/,"");
 }
 
