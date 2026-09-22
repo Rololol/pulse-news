@@ -7,6 +7,7 @@
 <title>Pulse</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23007AFF'/%3E%3Cpath d='M14 35h9l5-15 8 27 5-17h9' fill='none' stroke='white' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <style>
 :root{
   box-sizing:border-box;
@@ -349,17 +350,27 @@ function showError(){
 }
 async function loadData(){
   showLoading();
-  try{
-    const r=await fetch('./data.json?ts='+Date.now(),{cache:'no-store'});
-    if(!r.ok) throw new Error('HTTP '+r.status);
-    const data=await r.json();
-    if(!Array.isArray(data)) throw new Error('Invalid data');
-    ITEMS=data;
-    renderAll();
-  }catch(e){
-    console.error(e);
-    showError();
+  const urls=[
+    new URL('data.json',document.baseURI).href,
+    './data.json?ts='+Date.now(),
+    'data/data.json?ts='+Date.now()
+  ];
+  let lastError=null;
+  for(const url of urls){
+    try{
+      const r=await fetch(url,{cache:'no-store'});
+      if(!r.ok) throw new Error('HTTP '+r.status+' for '+url);
+      const data=await r.json();
+      if(!Array.isArray(data)) throw new Error('Invalid data from '+url);
+      ITEMS=data;
+      renderAll();
+      return;
+    }catch(e){
+      lastError=e;
+    }
   }
+  console.error('Pulse data load failed:',lastError);
+  showError();
 }
 loadData();
 })();
