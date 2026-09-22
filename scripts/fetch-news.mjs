@@ -55,7 +55,7 @@ for(const x of unique){
  if(Date.parse(x.date)>Date.parse(best.date))best.date=x.date;
 }
 
-const result=clusters.sort((a,b)=>(b.sources.length-a.sources.length)||Date.parse(b.date)-Date.parse(a.date)).slice(0,180).map(c=>({...c,sourceCount:c.sources.length,sources:c.sources.map(s=>({source:s.source,url:s.url,date:s.date})) ,summary:c.summary||"Aktuelle Meldung."}));
+const result=clusters.sort((a,b)=>(b.sources.length-a.sources.length)||Date.parse(b.date)-Date.parse(a.date)).slice(0,180).map(c=>({...c,sourceCount:c.sources.length,sources:c.sources.map(s=>({source:s.source,url:s.url,date:s.date,snippet:s.summary})),summary:c.summary||"Aktuelle Meldung."}));
 if(!result.length){console.log("No fresh stories in last 24h; keeping existing news.json.");process.exit(0)}
 await fs.mkdir("data",{recursive:true});await fs.writeFile("data/news.json",JSON.stringify(result,null,2));
 console.log("Wrote",result.length,"stories from",out.length,"fresh RSS items. Window: 24h.");
