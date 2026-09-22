@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
 const apiKey=process.env.GEMINI_API_KEY;
-const model=process.env.GEMINI_MODEL||"gemini-3.6-flash";
+const model=process.env.GEMINI_MODEL||"gemini-3.5-flash-lite";
 const file="data/news.json";
 const cacheFile="data/ai-cache.json";
 
@@ -75,7 +75,7 @@ ${sources}`;
       contents:[{role:"user",parts:[{text:prompt}]}],
       generationConfig:{
         temperature:0.2,
-        maxOutputTokens:500,
+        maxOutputTokens:700,
         response_mime_type:"application/json",
         response_schema:schema
       }
@@ -112,7 +112,7 @@ async function summarize(story){
       last=e;
       if(!e.retryable||attempt===2)throw e;
       const headerDelay=Number(e.retryAfter);
-      const delay=Number.isFinite(headerDelay)?Math.max(1000,headerDelay*1000):[8000,16000,30000][attempt];
+      const delay=Number.isFinite(headerDelay)?Math.max(10000,headerDelay*1000):[10000,20000,40000][attempt];
       console.log(`Retrying Gemini after ${delay}ms for "${story.title}"`);
       await sleep(delay);
     }
@@ -124,7 +124,7 @@ let generated=0,fallbackCount=0,failed=0;
 const candidates=stories
   .map((story,index)=>({story,index,key:keyFor(story)}))
   .sort((a,b)=>(b.story.sourceCount||b.story.sources?.length||1)-(a.story.sourceCount||a.story.sources?.length||1))
-  .slice(0,35);
+  .slice(0,20);
 
 for(const {story,index,key} of candidates){
   const signature=(story.sources||[]).map(s=>s.url).join("|");
@@ -150,7 +150,7 @@ for(const {story,index,key} of candidates){
       });
       cache[key]={...result,sourceSignature:signature,updatedAt:new Date().toISOString(),method:"gemini"};
       generated++;
-      await sleep(8000);
+      await sleep(10000);
       continue;
     }catch(e){
       failed++;
