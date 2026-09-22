@@ -99,7 +99,7 @@ ${sourceText}`;
 const ranked=raw.slice().sort((a,b)=>{
   const pa=a.sources?.length||1,pb=b.sources?.length||1;
   return (pb-pa)||((b.topic==="politik")-(a.topic==="politik"))||(Date.parse(b.date)-Date.parse(a.date));
-}).slice(0,55);
+}).slice(0,45);
 
 const output=[];
 let generated=0,fallbacks=0,failures=0;
@@ -132,7 +132,7 @@ for(const item of ranked){
 }
 
 output.sort((a,b)=>(b.d.localeCompare(a.d))||(b.p-a.p));
-const final=output.slice(0,55);
+const final=output.slice(0,45);
 await fs.writeFile(outputFile,JSON.stringify(final,null,2));
 await fs.writeFile(cacheFile,JSON.stringify(cache,null,2));
 console.log(`data.json: ${final.length} items · ${generated} Gemini · ${fallbacks} fallback · ${failures} Gemini failures`);
