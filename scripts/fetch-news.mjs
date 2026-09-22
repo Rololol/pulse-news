@@ -4,11 +4,12 @@ const feeds=[
   ["Tagesschau","https://www.tagesschau.de/xml/rss2","DE"],
   ["DW Deutsch","https://rss.dw.com/xml/rss-de-all","DE"],
   ["BBC World","https://feeds.bbci.co.uk/news/world/rss.xml","UK"],
-  ["BBC Technology","https://feeds.bbci.co.uk/news/technology/rss.xml","UK"],
-  ["BBC Science","https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","UK"],
+  ["BBC Technology","https://feeds.bbci.co.uk/news/technology/rss.xml","UK","technik"],
+  ["BBC Science","https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","UK","wissenschaft"],
   ["Guardian World","https://www.theguardian.com/world/rss","UK"],
-  ["Guardian Business","https://www.theguardian.com/business/rss","UK"],
-  ["Guardian Science","https://www.theguardian.com/science/rss","UK"],
+  ["Guardian Business","https://www.theguardian.com/business/rss","UK","wirtschaft"],
+  ["Guardian Science","https://www.theguardian.com/science/rss","UK","wissenschaft"],
+  ["Guardian Environment","https://www.theguardian.com/environment/rss","UK","umwelt"],
   ["Guardian Sport","https://www.theguardian.com/sport/rss","UK"],
   ["Guardian Culture","https://www.theguardian.com/culture/rss","UK"],
   ["RTP Notícias","https://www.rtp.pt/noticias/rss","PT"],
@@ -20,18 +21,18 @@ const feeds=[
   ["Google News DE","https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de","DE"],
   ["Google News World","https://news.google.com/rss/search?q=world+news&hl=en-US&gl=US&ceid=US:en","INT"],
   ["NPR World","https://feeds.npr.org/1004/rss.xml","US"],
-  ["NPR Technology","https://feeds.npr.org/1019/rss.xml","US"],
-  ["NPR Science","https://feeds.npr.org/1007/rss.xml","US"],
+  ["NPR Technology","https://feeds.npr.org/1019/rss.xml","US","technik"],
+  ["NPR Science","https://feeds.npr.org/1007/rss.xml","US","wissenschaft"],
   ["NPR Business","https://feeds.npr.org/1006/rss.xml","US"],
-  ["NASA","https://www.nasa.gov/rss/dyn/breaking_news.rss","US"],
+  ["NASA","https://www.nasa.gov/rss/dyn/breaking_news.rss","US","wissenschaft"],
   ["France24 English","https://www.france24.com/en/rss","INT"],
   ["Euronews","https://www.euronews.com/rss?level=theme&name=news","INT"],
   ["Al Jazeera","https://www.aljazeera.com/xml/rss/all.xml","INT"],
-  ["The Verge","https://www.theverge.com/rss/index.xml","US"],
-  ["Ars Technica","https://feeds.arstechnica.com/arstechnica/index","US"],
-  ["New Scientist","https://www.newscientist.com/feed/home/","INT"],
-  ["ESA","https://www.esa.int/rssfeed/Our_Activities","INT"],
-  ["NOAA","https://www.noaa.gov/rss.xml","US"],
+  ["The Verge","https://www.theverge.com/rss/index.xml","US","technik"],
+  ["Ars Technica","https://feeds.arstechnica.com/arstechnica/index","US","technik"],
+  ["New Scientist","https://www.newscientist.com/feed/home/","INT","wissenschaft"],
+  ["ESA","https://www.esa.int/rssfeed/Our_Activities","INT","wissenschaft"],
+  ["NOAA","https://www.noaa.gov/rss.xml","US","umwelt"],
   ["WHO","https://www.who.int/rss-feeds/news-english.xml","INT"]
 ];
 
@@ -78,7 +79,7 @@ const related=(a,b)=>{
 };
 
 const now=Date.now(),cutoff=now-24*60*60*1000,fresh=[];
-for(const [source,url,country] of feeds){
+for(const [source,url,country,feedTopic] of feeds){
   try{
     const res=await fetch(url,{headers:{"user-agent":"PulseNews/1.0 (+https://rololol.github.io/pulse-news/)"}});
     if(!res.ok) throw new Error("HTTP "+res.status);
@@ -90,7 +91,7 @@ for(const [source,url,country] of feeds){
       const title=get("title"),link=get("link"),desc=get("description"),rawDate=get("pubDate")||get("dc:date");
       const time=Date.parse(rawDate||"");
       if(!title||!link||!Number.isFinite(time)||time<cutoff||time>now+6*60*60*1000)continue;
-      fresh.push({title,url:link,summary:desc.slice(0,700),source,date:new Date(time).toISOString(),topic:topicOf(title,desc),country});
+      fresh.push({title,url:link,summary:desc.slice(0,700),source,date:new Date(time).toISOString(),topic:feedTopic||topicOf(title,desc),country});
     }
   }catch(e){console.log(source,e.message)}
 }
