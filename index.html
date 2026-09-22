@@ -1,16 +1,49 @@
 <!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#f7f8fc"><title>Pulse News</title><link rel="stylesheet" href="style.css"></head>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f2f2f7">
+<title>Pulse — World News</title>
+<link rel="stylesheet" href="style.css">
+</head>
 <body>
-<aside><div class="brand"><span class="brand-mark">P</span><span>Pulse</span></div><div class="side-label">FEED</div><nav id="nav"></nav><button class="topics-side" id="openTopics">＋&nbsp; Themen entdecken</button><div class="side-bottom"><button id="theme">◐&nbsp; Erscheinungsbild</button><span>Pulse News · RSS Reader</span></div></aside>
-<main>
-<header><div><div class="brandline"><span class="live-dot"></span> RSS NEWS AGGREGATOR</div><h1>Viele Quellen.<br><em>Eine Nachricht.</em></h1><p class="subhead">Pulse bündelt Meldungen aus vielen RSS-Quellen, erkennt Berichte zum selben Ereignis und erstellt daraus eine kompakte, neutrale Zusammenfassung.</p></div><button class="round" id="desktopTheme">◐</button></header>
-<div class="trustbar"><span>● Automatisch aktualisiert</span><span>◆ Quellen sichtbar</span><span>◇ Keine Volltexte kopiert</span><button id="about">Wie Pulse zusammenfasst</button></div>
-<section class="home-tabs" id="homeTabs"></section>
-<section class="toolbar"><div class="searchbox"><span>⌕</span><input id="search" placeholder="News durchsuchen …"></div></section>
-<div class="feed-head"><div><span class="eyebrow">ZUSAMMENGEFÜHRTE MELDUNGEN</span><h2 id="feedTitle">Top News</h2></div><span id="count"></span></div>
-<section id="news" class="feed"></section>
-</main>
-<div class="modal" id="topicModal" aria-hidden="true"><div class="modal-card"><div class="modal-head"><div><span class="eyebrow">ENTDECKEN</span><h2>Alle Themen</h2><p>Wähle aus, was dich gerade interessiert.</p></div><button class="round" id="closeTopics">×</button></div><div id="allTopics" class="topic-grid"></div></div></div>
-<div class="modal" id="aboutModal" aria-hidden="true"><div class="modal-card about-card"><div class="modal-head"><div><span class="eyebrow">TRANSPARENZ</span><h2>So arbeitet Pulse</h2></div><button class="round" id="closeAbout">×</button></div><div class="about-grid"><div><b>1 · Quellen</b><p>Pulse liest RSS-Feeds verschiedener Medien und Institutionen. Jede Meldung zeigt die verwendeten Quellen und deren Links.</p></div><div><b>2 · Zusammenführen</b><p>Ähnliche Überschriften werden automatisch zu einem Ereignis gebündelt. Das ist eine technische Gruppierung, keine unabhängige Faktenprüfung.</p></div><div><b>3 · Zusammenfassung</b><p>Die KI erhält Titel, RSS-Kurztext und Quellenangaben. Sie soll nur diese Informationen zusammenfassen und Unterschiede kenntlich machen.</p></div><div><b>4 · Grenzen</b><p>Pulse liest nicht automatisch den vollständigen Artikel. Eine Zusammenfassung ersetzt deshalb nicht die Originalquellen.</p></div></div></div></div>
-<nav class="bottom"><button data-nav="home">⌂<span>Home</span></button><button data-nav="topics">＋<span>Themen</span></button><button data-nav="search">⌕<span>Suche</span></button></nav>
-<script src="app.js"></script></body></html>
+<div class="app">
+  <header>
+    <div class="brand"><div class="logo">P</div><div><h1>Pulse</h1><small>World News</small></div></div>
+    <button class="iconbtn" id="themeBtn" aria-label="Erscheinungsbild">◐</button>
+  </header>
+
+  <section class="hero">
+    <div class="hero-kicker"><span></span> RSS NEWS AGGREGATOR</div>
+    <h2>Die Welt. Kurz gefasst.</h2>
+    <p>Viele Quellen, ein Überblick. Pulse bündelt ähnliche Meldungen und zeigt transparent, woher die Informationen stammen.</p>
+  </section>
+
+  <div class="filters" id="filters"></div>
+  <div class="toolbar">
+    <div class="search"><span>⌕</span><input id="search" placeholder="News durchsuchen …" autocomplete="off"></div>
+    <button class="settings-btn" id="topicsBtn">Themen</button>
+  </div>
+  <p class="status" id="status">News werden geladen …</p>
+  <main class="grid" id="news"></main>
+
+  <div class="footer">RSS-Quellen · letzte 24 Stunden · automatisch aktualisiert · Originalquellen bleiben verlinkt</div>
+</div>
+
+<div class="overlay" id="overlay"></div>
+<aside class="sheet" id="topicSheet" aria-label="Themen">
+  <button class="iconbtn closebtn" id="topicClose">✕</button>
+  <div class="sheet-kicker">ENTDECKEN</div><h2>Alle Themen</h2>
+  <p class="sheet-intro">Wähle ein Thema für deinen Feed.</p>
+  <div class="topic-grid" id="topicGrid"></div>
+</aside>
+
+<aside class="sheet" id="articleSheet" aria-label="Meldung">
+  <button class="iconbtn closebtn" id="articleClose">✕</button>
+  <div id="articleDetail"></div>
+</aside>
+
+<script src="app.js"></script>
+</body>
+</html>
