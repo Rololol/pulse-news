@@ -3,45 +3,40 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#f2f2f7">
 <title>Pulse — World News</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="app">
-  <header>
-    <div class="brand"><div class="logo">P</div><div><h1>Pulse</h1><small>World News</small></div></div>
-    <button class="iconbtn" id="themeBtn" aria-label="Erscheinungsbild">◐</button>
-  </header>
-
-  <section class="hero">
-    <div class="hero-kicker"><span></span> RSS NEWS AGGREGATOR</div>
-    <h2>Die Welt. Kurz gefasst.</h2>
-    <p>Viele Quellen, ein Überblick. Pulse bündelt ähnliche Meldungen und zeigt transparent, woher die Informationen stammen.</p>
-  </section>
-
-  <div class="filters" id="filters"></div>
-  <div class="toolbar">
-    <div class="search"><span>⌕</span><input id="search" placeholder="News durchsuchen …" autocomplete="off"></div>
-    <button class="settings-btn" id="topicsBtn">Themen</button>
-  </div>
-  <p class="status" id="status">News werden geladen …</p>
-  <main class="grid" id="news"></main>
-
-  <div class="footer">RSS-Quellen · letzte 24 Stunden · automatisch aktualisiert · Originalquellen bleiben verlinkt</div>
+<header>
+  <div class="brand"><div class="logo">P</div><div><h1>Pulse</h1><small>World News</small></div></div>
+  <button class="iconbtn" id="settingsBtn" aria-label="Einstellungen">⚙︎</button>
+</header>
+<section class="hero">
+  <h2>Die Welt. Kurz gefasst.</h2>
+  <p>Aktuelle Meldungen, automatisch nach deinen Interessen gefiltert.</p>
+</section>
+<div class="filters" id="filters"></div>
+<p class="status" id="status">News werden geladen …</p>
+<main class="grid" id="news"></main>
+<div class="footer">RSS-Quellen · letzte 24 Stunden · Quellen sichtbar · keine Volltexte kopiert</div>
 </div>
 
 <div class="overlay" id="overlay"></div>
-<aside class="sheet" id="topicSheet" aria-label="Themen">
-  <button class="iconbtn closebtn" id="topicClose">✕</button>
-  <div class="sheet-kicker">ENTDECKEN</div><h2>Alle Themen</h2>
-  <p class="sheet-intro">Wähle ein Thema für deinen Feed.</p>
-  <div class="topic-grid" id="topicGrid"></div>
-</aside>
 
 <aside class="sheet" id="articleSheet" aria-label="Meldung">
-  <button class="iconbtn closebtn" id="articleClose">✕</button>
-  <div id="articleDetail"></div>
+<button class="iconbtn" id="articleCloseBtn" aria-label="Meldung schließen">✕</button>
+<div id="articleDetail"></div>
+</aside>
+
+<aside class="sheet" id="sheet">
+<button class="iconbtn" id="closeBtn">✕</button>
+<h2>Einstellungen</h2>
+<div class="section">
+<div class="row"><div><label>Sprache</label><small>Nachrichten werden auf Deutsch dargestellt</small></div><span class="setting-value">Deutsch</span></div>
+</div>
+<h3>Interessen</h3>
+<div class="section" id="interestRows"></div>
 </aside>
 
 <script src="app.js"></script>
