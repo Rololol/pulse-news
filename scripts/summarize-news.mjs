@@ -96,10 +96,32 @@ ${sourceText}`;
   return parsed;
 }
 
-const ranked=raw.slice().sort((a,b)=>{
-  const pa=a.sources?.length||1,pb=b.sources?.length||1;
-  return (pb-pa)||((b.topic==="politik")-(a.topic==="politik"))||(Date.parse(b.date)-Date.parse(a.date));
-}).slice(0,45);
+const categories=["politik","wirtschaft","sport","wissenschaft","technik","panorama","umwelt"];
+const byCategory=new Map(categories.map(k=>[k,[]]));
+for(const item of raw){
+  const list=byCategory.get(item.topic)||byCategory.get("panorama");
+  list.push(item);
+}
+for(const list of byCategory.values()){
+  list.sort((a,b)=>{
+    const pa=a.sources?.length||1,pb=b.sources?.length||1;
+    return (pb-pa)||(Date.parse(b.date)-Date.parse(a.date));
+  });
+}
+const ranked=[];
+const perCategory=7;
+for(const k of categories){
+  ranked.push(...byCategory.get(k).slice(0,perCategory));
+}
+if(ranked.length<45){
+  const used=new Set(ranked);
+  for(const item of raw.slice().sort((a,b)=>Date.parse(b.date)-Date.parse(a.date))){
+    if(ranked.length>=45)break;
+    if(used.has(item))continue;
+    ranked.push(item);used.add(item);
+  }
+}
+
 
 const output=[];
 let generated=0,fallbacks=0,failures=0;
