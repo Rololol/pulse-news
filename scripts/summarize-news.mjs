@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
 const apiKey = process.env.GEMINI_API_KEY;
-const model = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+const model = process.env.GEMINI_MODEL || "gemini-3.6-flash";
 const file = "data/news.json";
 const cacheFile = "data/ai-cache.json";
 
