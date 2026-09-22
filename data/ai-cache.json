@@ -4384,5 +4384,660 @@
     "updatedAt": "2026-09-22T21:23:06.739Z",
     "sourceSignature": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
     "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjV8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlmRUZWWDNseFRGQk9RbXRNTVUwelNITjFhbk0zTTFwWGFs": {
+    "t": "Trumps Iran-Drohung bei UN-Generalversammlung schockiert Beobachter",
+    "s": "US-Präsident Donald Trump drohte während der UN-Generalversammlung mit der Vernichtung des Iran.",
+    "m": "Elf Minuten in seiner 40-minütigen Rede erklärte der US-Präsident, er stehe vor einer großen Entscheidung bezüglich des Iran. Das Land leistet demnach einen entschlosseneren Widerstand als von Trump erwartet, als er im Februar den Krieg gegen das Land begann. Die Äußerungen zur Vernichtung eines UN-Mitgliedstaates werden als außergewöhnlicher Affront bewertet.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen stimmen überein, dass Donald Trump bei der UN-Generalversammlung mit der Vernichtung des Iran drohte.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt im Titel, dass die Drohung selbst für Trump schockierend ist, und verweist auf The Guardian."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Berichtet ausführlich, dass die Rede 40 Minuten dauerte, die Drohung nach elf Minuten fiel, und vergleicht das Auftreten mit dem sowjetischen Führer Nikita Chruschtschow."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:23:40.971Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQmtMMU0zSHN1anM3M1pXal9JRGc4UnJLY2UtNWEwY2tqdlh6STl0cEgzdEg4STJsMmJuQWZqUXFTNmV5QXhKaVQxTkwxWWRJejNDYV9kaVRCd3RmMzByaVJHUHRmVU5ib3B4bmNjMmMyRlhZN1pRR3NIRG4?oc=5|https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzUyZTB5d2w5cHI3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Trump droht in UN-Rede mit Vernichtung des Iran",
+    "s": "US-Präsident Trump hat in einer Rede vor der UN-Generalversammlung dem Iran mit Vernichtung gedroht.",
+    "m": "Am Rande der UN-Versammlungen traten Beamte zusammen, während über die Möglichkeiten eines Friedensabkommens oder extremer Maßnahmen gegen den Iran beraten wurde. Trump stellte in seiner Rede die Frage, ob es zu einer Einigung kommen oder ob er zu extremem Handeln greifen müsse.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Beide Quellen stimmen überein, dass Trump in einer UN-Rede dem Iran mit Vernichtung drohte und dies im Rahmen von Treffen von Beamten am Rande stattfand.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt zusätzlich Live-Updates der UN und dass die Rede vor der Generalversammlung stattfand."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:23:48.920Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss|https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDd8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL211bmRvL3JldW5pYW8tdHJ1bXAtemVsZW5za3ktdWNyYW5pYS1hcG9udGEtZmlt": {
+    "t": "UN-Generaldebatte in New York und Treffen Trump-Zelensky",
+    "s": "Das Debatte der UN-Generalversammlung in New York begann am Dienstag mit Reden von António Guterres, Lula da Silva, Donald Trump und Emmanuel Macron.",
+    "m": "Das Treffen zwischen Donald Trump und Wolodymyr Selenskyj wird im Zusammenhang mit der Erwartung der Ukraine genannt, dass das Ende des Krieges in den kommenden Monaten bevorsteht. Das hochrangige Debattentreffen endet am 28. September.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten über den Beginn des UN-Generaldebatten-Treffens in New York mit hochrangigen Rednern.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Erwähnt António Guterres als seinen letzten Auftritt als UN-Chef, sowie die Reden von Lula, Trump und Macron und das Ende der Debatte am 28."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Nennt zusätzlich den Titel zur Reunião Trump-Zelensky und der ukrainischen Einschätzung zum Kriegsende."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:23:56.453Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964|https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzA0fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9hdWZydWYtc3RhYXRzY2hlZnMta2ktcmVndWxpZXJ1bmctMTAwLmh0": {
+    "t": "Künstliche Intelligenz: Staatschefs fordern internationale Aufsicht",
+    "s": "Angesichts von Cyberattacken durch Künstliche Intelligenz fordert eine Gruppe von 22 Staats- und Regierungschefs mehr Kontrolle und eine internationale Aufsicht.",
+    "m": "Die Entwicklung von Künstlicher Intelligenz schreitet rasant voran, was zuletzt vermehrt zu Berichten über Cyberangriffe durch KI führte. Um dieser Entwicklung zu begegnen, hat sich eine Gruppe von 22 Staats- und Regierungschefs zusammengeschlossen und fordert eine internationale Aufsicht.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Beide Quellen berichten, dass Staatschefs angesichts von Entwicklungen bei Künstlicher Intelligenz mehr Kontrolle fordern.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt auf den Beitrag der Tagesschau und enthält den Zusatz tagesschau.de sowie HTML-Code im Text."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:24:03.947Z",
+    "sourceSignature": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html|https://news.google.com/rss/articles/CBMiggFBVV95cUxQcE1PSGVqS2t5RDRrQ0w2dEVvMzl4MWRhQ2tKd3c5YUtjOUJ3VkFiNU1EU0VOaGdKekU3OU9qaDVnaFlKdHVLWnowbVZPQU50WDE4aDVwV1paaXVSbE8wdnI5dDJRMUF0eTJtc3JOZ2FzOE5SR0h2WkRYV19TQV90alZn?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzM0fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL2lubmVucG9saXRpay9rcmFua2Vua2Fzc2VuLXN5c3RlbS1tZXJ6LWRl": {
+    "t": "Debatte über das Krankenkassensystem nach Aussagen von Merz",
+    "s": "Kanzler Merz hat am Montag Änderungen beim Nebeneinander von gesetzlichen und privaten Krankenkassen angedeutet und dies mit einem Gerechtigkeitsproblem begründet.",
+    "m": "Die Äußerungen von Kanzler Merz zur Debatte über das Krankenkassensystem stießen am Montag auf Aufmerksamkeit. Nebenbei deutete er Änderungen am System der gesetzlichen und privaten Krankenkassen an und begründete dies mit einem Gerechtigkeitsproblem. Für seine Aussagen erhielt er überraschend Zustimmung vom Juso-Chef.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass es eine Debatte über das Krankenkassensystem gibt und Kanzler Merz am Montag Aussagen dazu gemacht hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet detailliert, dass Merz Änderungen am Nebeneinander von gesetzlichen und privaten Krankenkassen wegen eines Gerechtigkeitsproblems angedeutet hat und Zustimmung vom Juso-Chef bekommt."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält lediglich Verweise und Fragestellungen zum Thema ohne zusätzliche inhaltliche Details."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:24:11.466Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html|https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDQwcERZYXFsS2ZHTzA1LWM4TXpzMEtCTnZtU29XdDlOVnN5ZElmOFFJdmlQVHAxMW9fdXplbEwzaWNhUExvcGxPX0NTRHFCUGJwOVZBZmJGRG11Mm1TeHRVZDlGRE93Ulk0VEN4cVRqTXN5OE9KSzk3VlFYeWcydzhtdlF6OC05NU9aSTVGcHZDZw?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMnxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZ3VlcnJhLW5vLW1lZGlvLW9yaWVudGUvYWJzdXJkby1ncm90ZXNjby1uZXRhbnlh": {
+    "t": "Netanyahu kritisiert Macrons Aussagen zu Gaza",
+    "s": "Benjamin Netanyahu hat die Äußerungen von Emmanuel Macron über Gaza scharf kritisiert und die israelische Militäraktion verteidigt.",
+    "m": "Benjamin Netanyahu reagierte sehr harsch auf die Aussagen von Emmanuel Macron, der Gaza als verhängnisvolles oder schändliches Spektakel während der UN-Vollversammlung bezeichnet hatte. Netanyahu bezeichnete die Kritik als grotesken Unsinn und stellte sich hinter das Vorgehen Israels.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Netanyahu Macrons Aussagen über Gaza scharf kritisiert und die israelische Haltung verteidigt hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:24:18.838Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/absurdo-grotesco-netanyahu-reage-a-declaracoes-de-macron-sobre-gaza_n1767127",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNHxodHRwczovL25ld3MuZ29vZ2xlLmNvbS9yc3MvYXJ0aWNsZXMvQ0JNaTZnRkJWVjk1Y1V4T1UzZ3RlR1ZSTFhCcGJWTklWbGxyTFRN": {
+    "t": "Neuer Stromzähler ermöglicht Rabatte und lukrative Tarife",
+    "s": "Ein neuer Stromzähler eröffnet Verbrauchern neue Wege zu Stromrabatten und lukrativen Tarifen.",
+    "m": "Der Artikel berichtet über einen neuen Stromzähler, der es Haushalten ermöglichen soll, von speziellen Stromrabatten und besonders lukrativen Tarifen zu profitieren. Genauere technische Details oder Hintergründe werden in der kurzen Meldung nicht genannt.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass ein neuer Stromzähler Wege zu Stromrabatten und lukrativen Tarifen eröffnet.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf den WELT-Artikel über den neuen Stromzähler und dessen Vorteile bei Tarifen."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:24:26.023Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3gteGVRLXBpbVNIVllrLTM1ejdOX1lORUZsbmFsdEtUbFhpVDMwajJ2WENPeDlnSU1TTjFxTjdyUjh0MXhhR0RSbldDRGR2UTZERWNraVd5dndaNHVhNXZQUTVFblRUaTJwMm9YWF9ndUNySTNseVlXbWduLUxtM2picmxlamVmdXdzSHhLdmlsb3huc3JGMkthU2NXbGFKdWhjRG1WMGxib0l6S1BWM1VnTENlTmlocHpTVVU1bnRKRWRXTFNDeDdWT2ZNRjlSQ1pVSG0xOFM2RVFXUXlkMzdHTF8wNzJfc1E?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTc1fGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9lY29ub21pYS9wcmVjby1kYXMtY2FzYXMtZS1hLXByaW5jaXBhbC12dWxuZXJh": {
+    "t": "FMI stuft Immobilienpreise als Hauptrisiko für Portugals Finanzsektor ein",
+    "s": "Der Internationale Währungsfonds (FMI) sieht in den Hauspreisen die größte Verwundbarkeit und potenzielle Gefahr für den portugiesischen Finanzsektor.",
+    "m": "Laut Berichten bewertet der FMI die aktuellen Immobilienpreise in Portugal als den kritischsten Schwachpunkt für das Finanzwesen. Dies könnte langfristige Auswirkungen auf den Sektor haben. Weitere spezifische Details wurden in den Meldungen nicht genannt.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass der FMI die Hauspreise als Hauptvulnerabilität des portugiesischen Finanzsektors betrachtet.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt zusätzlich den 'Jornal Económico' als Medium und enthält einen HTML-Link."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:24:33.327Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/preco-das-casas-e-a-principal-vulnerabilidade-do-setor-financeiro-portugues-considera-fmi_n1767030|https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOTJ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyNi9zZXAvMjIvdHJ1bXAtc3RvY2stdHJhZGVzLWp1bHktZmls": {
+    "t": "Trump tätigte im Juli Aktiengeschäfte im Wert von bis zu 270 Millionen",
+    "s": "Finanzunterlagen enthüllen, dass der US-Präsident im Juli über 1.000 Aktientransaktionen im Wert von bis zu 270 Millionen Dollar getätigt hat.",
+    "m": "Laut einer Analyse seiner am Dienstag veröffentlichten Finanzoffenlegung machte der Präsident im Juli über 440 Käufe und 700 Verkäufe. Seine beiden größten Verkäufe betrafen Amazon- und Microsoft-Aktien im Wert von jeweils 5 bis 25 Millionen Dollar am 20. Juli. Am selben Tag verkaufte er zudem Oracle- und Costco-Aktien im Wert von bis zu 5 Millionen Dollar, Nvidia-Aktien im Wert von 500.000 bis 1 Million Dollar und kaufte Intuit- sowie Salesforce-Aktien.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:24:40.685Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTA5fGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjYvc2VwLzIyL3RydW1wLWRpZXNlbC1leHBvcnQtYmFu": {
+    "t": "Trump unterstützt Exportverbot für Diesel zur Senkung der Energiekosten",
+    "s": "Donald Trump sprach sich am Dienstag für ein Verbot von Dieselexporten aus, um die stark gestiegenen Energiekosten zu senken.",
+    "m": "Dieselpreise haben in den USA und Europa Rekordhöhen erreicht, was auf Kriege zurückzuführen ist. Während einige US-Politiker ein Exportverbot fordern, warnt ein Industrieverband davor, dass dieser Plan nach hinten losgehen und zu noch höheren Benzinpreisen führen würde.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Donald Trump ein Verbot von Dieselexporten befürwortet, um die hohen Energiekosten zu bekämpfen.",
+    "diff": [
+      {
+        "name": "Guardian Business",
+        "note": "Erwähnt zusätzlich, dass ein Industrieverband vor dem Plan warnt, da er zu noch höheren Benzinpreisen führen würde, und verweist auf Rekordhöhen der Dieselpreise in Europa und den USA infolge von Kriegen."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:24:48.132Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTk2fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jeWNsaW5nL2FydGljbGVzL2M2M2VxeXZkbmR3ZG8_YXRfbWVkaXVtPVJTUyZh": {
+    "t": "Afghanische Radfahrerin gewinnt Silbermedaille bei Asienspielen",
+    "s": "Die aus Afghanistan geflüchtete Radfahrerin Fariba Hashimi hat bei den Asienspielen die Silbermedaille im Straßenrennen gewonnen.",
+    "m": "Fariba Hashimi flüchtete nach der Machtergreifung der Taliban aus ihrer Heimat, um ihren Traum weiterzuverfolgen, und lebt nun in Italien. Sie gewann die Silbermedaille im Straßenrennen der Frauen nahe Nagoya in Japan hinter der Chinesin Guo Li. Die Athletin bezeichnete den Erfolg als etwas Besonderes und hofft, dass er andere Frauen in einem Land inspiriert, in dem die Freiheiten stark eingeschränkt sind.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass die afghanische Radfahrerin Fariba Hashimi nach ihrer Flucht vor den Taliban bei den Asienspielen die Silbermedaille im Straßenrennen gewonnen hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt zusätzlich, dass sie sich als Mann verkleidete, um den Taliban zu entkommen."
+      },
+      {
+        "name": "Guardian Sport",
+        "note": "Nennt die chinesische Siegerin Guo Li, den Austragungsort Nagoya in Japan, das Zitat des Erfolgs als 'etwas Besonderes' und dass sie nun in Italien lebt."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:24:55.785Z",
+    "sourceSignature": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss|https://www.theguardian.com/sport/2026/sep/22/fariba-hashimi-afghan-cyclist-disguised-as-man-evade-taliban-wins-asian-games-silver",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjh8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjYvc2VwLzIyL2Zhci1yaWdodC1hY3RpdmlzdC1kYW5pZWwtdGhv": {
+    "t": "Rechtsextremer Aktivist schlitzt Schlauchboot im Ärmelkanal auf",
+    "s": "Der Rechtsextremist Daniel Thomas hat ein Schlauchboot im Ärmelkanal mit einem Messer beschädigt, während eine Rettungskraft an Bord war.",
+    "m": "Hunderte Demonstranten versammelten sich am Dienstagabend in Gosport in Hampshire, um die Ankunft von Asylbewerbern zu stören. Die Grenzschutzboote landeten stattdessen jedoch in Dover. Wohltätigkeitsorganisationen verurteilten die Videoaufnahmen der Aktion scharf, die eine Eskalation organisierter Anti-Einwanderungsproteste darstellen.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass der Rechtsextremist Daniel Thomas ein Schlauchboot im Ärmelkanal mit einem Messer beschädigt hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:03.100Z",
+    "sourceSignature": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzZ8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2d1ZXJyYS1uYS11Y3JhbmlhL2tpZXYtY29uc2lkZXJhLXZlcmdvbmhvc2EtZS1p": {
+    "t": "Ukraine kritisiert EU-Aufhebung von Sanktionen gegen russische Oligarchen",
+    "s": "Der ukrainische Außenminister Andriy Sybiga hat die Aufhebung von EU-Sanktionen gegen zwei russische Oligarchen scharf kritisiert.",
+    "m": "Andriy Sybiga, der ukrainische Minister für auswärtige Angelegenheiten, bezeichnete die Entscheidung der Europäischen Union als vergonhosa e injustificável. Die betroffenen zwei russischen Oligarchen werden von der Ukraine beschuldigt, Mitschuld an der Invasion des Landes zu tragen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der ukrainische Außenminister die EU-Entscheidung zur Aufhebung von Sanktionen gegen zwei Oligarchen kritisierte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:10.320Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-considera-vergonhosa-e-injustificavel-retirada-de-sancoes-a-oligarcas-russos_n1767088",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjZ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjYvc2VwLzIyL2Fyc2VuYWwtaGIta29nZS13b21lbnMtY2hh": {
+    "t": "Mariona Caldentey schießt Arsenal zum Sieg gegen HB Køge",
+    "s": "Mariona Caldentey sicherte Arsenal im Champions-League-Auftaktspiel gegen HB Køge durch einen späten Elfmeter einen knappen Sieg.",
+    "m": "In der 93. Minute verwandelte Mariona Caldentey einen Elfmeter zum Siegtreffer für Arsenal gegen HB Køge im Meadow Park. Trotz des Erfolgs zeigte sich die Mannschaft im Abschluss äußerst verschwenderisch, was bei Trainerin Renée Slegers nach Abpfiff für Erleichterung, aber auch für deutliche Sorgenfalten sorgte.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Mariona Caldentey durch einen späten Elfmeter den knappen Sieg für Arsenal gegen HB Køge gesichert hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:17.597Z",
+    "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/arsenal-hb-koge-womens-champions-league-match-report",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jOHhrdnpsejB4NG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1y": {
+    "t": "Indiens grüne Energie leidet unter Netzausfällen",
+    "s": "Indien produziert mehr grüne Energie, verschwendet jedoch einen großen Teil davon durch Probleme bei der Stromübertragung.",
+    "m": "Indien hat die Stromerzeugung rasant dekarbonisiert. Diese Erfolge werden jedoch durch Engpässe und Mängel bei den Übertragungsnetzen getrübt.",
+    "k": "umwelt",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Indien seine grüne Energieproduktion stark ausgebaut hat, aber gleichzeitig viel davon aufgrund von Übertragungsproblemen verschwendet wird.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:24.928Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTE1fGh0dHBzOi8vd3d3Lm5ld3NjaWVudGlzdC5jb20vYXJ0aWNsZS8yNTkwNDAyLWhvdy10dXJuaW5nLWVsZWN0cmljaXR5LWRpcmVj": {
+    "t": "Wie die direkte Umwandlung von Strom in Nahrungsmittel den Planeten retten kann",
+    "s": "Die Landwirtschaft gehört zu den zerstörerischsten menschlichen Aktivitäten. Die Entwicklung von Electro-Ag könnte jedoch helfen, den Planeten zu retten.",
+    "m": "Der Kolumnist Michael Le Page zeigt sich begeistert über neue Entwicklungen in der sogenannten Electro-Ag. Dabei wird erneuerbarer Strom direkt in Nahrungsmittel umgewandelt. Dies könnte eine Alternative zur traditionellen Landwirtschaft darstellen und somit zum Schutz der Umwelt beitragen.",
+    "k": "umwelt",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die Umwandlung von Elektrizität direkt in Nahrungsmittel durch Electro-Ag dazu beitragen kann, den Planeten zu retten.",
+    "diff": [
+      {
+        "name": "New Scientist",
+        "note": "Erwähnt, dass Kolumnist Michael Le Page von dieser Entwicklung begeistert ist und die Landwirtschaft als eine der zerstörerischsten menschlichen Aktivitäten bezeichnet."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:25:32.285Z",
+    "sourceSignature": "https://www.newscientist.com/article/2590402-how-turning-electricity-directly-into-food-could-help-save-the-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMmR3ZzN6ZXhrcG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1y": {
+    "t": "Rechenzentren wechseln zu Lichttechnologie für mehr Leistung und Stromersparnis",
+    "s": "Um Strom zu sparen und Kapazitäten zu erhöhen, wechseln Rechenzentren von Kupferkabeln zu Technologie, die Licht nutzt.",
+    "m": "Die Umstellung auf Lichttechnologie soll in Rechenzentren dabei helfen, den Energieverbrauch zu senken und gleichzeitig die Kapazität zu erweitern. Dies geschieht als Ersatz für herkömmliche Kupferkabel.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Rechenzentren von Kupferkabeln auf Lichttechnologie umsteigen, um Strom zu sparen und die Kapazität zu erhöhen.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:39.385Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzJ8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWltd0ZCVlY5NWNVeFFTMjlwTnpWWmFIWkhYMHhmUzAxcmFF": {
+    "t": "Qualcomm stellt erste 2nm-Chips vor",
+    "s": "Qualcomm hat die ersten 2nm-Chips unter dem Namen Snapdragon 8 Elite Extreme Gen 6 vorgestellt.",
+    "m": "Der Chiphersteller Qualcomm hat eine neue Generation von Prozessoren angekündigt. Es handelt sich dabei um die ersten 2nm-Chips, die unter der Bezeichnung Snapdragon 8 Elite Extreme Gen 6 präsentiert wurden. Die Meldung beleuchtet die technische Neuerung im Bereich der mobilen Prozessoren.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen berichten über die Vorstellung der ersten 2nm-Chips namens Snapdragon 8 Elite Extreme Gen 6 durch Qualcomm.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:46.530Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS29pNzVZaHZHX0xfS01raE9nM21nRUY1Qy1jZzRkeVB0WXhjaVN1TGp1ZjNQaFJjd2xrTkdVNU44Sko1NHRvb3pkeXp6STNwN2t0OWVDT093bHdqY3hHX2tadDFrd2dzRVlQdk1IY1NkWGJkNEtaalB1SU9wbWN4MGdmdzFHSlhMNGl3SUFsbElHNE5TWUlQdmo2bw?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDJ8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY201eWR6NGtsNjVybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Neues Rechenzentrum prägt ländliche Region in China",
+    "s": "Neue Rechenzentren entstehen in ländlichen Regionen Chinas, während sich Trump und Xi zum Thema KI-Sicherheit treffen.",
+    "m": "In ländlichen Regionen Chinas wächst eine neue Landschaft aus Rechenzentren heran, wo Kartoffelbauern auf glänzende neue Anlagen treffen. Gleichzeitig kommen Donald Trump und Xi Jinping zusammen, um über die Sicherheit im Bereich der Künstlichen Intelligenz zu beraten.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass neue Rechenzentren im ländlichen China entstehen und ein Treffen von Trump und Xi zur KI-Sicherheit stattfindet.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:25:53.584Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvdmlkZW9zL2N3ZThlanZ2MGxlbm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1y": {
+    "t": "Einblicke in Chinas KI-Rechenzentren in der Inneren Mongolei",
+    "s": "In der Inneren Mongolei entstehen zahlreiche chinesische Rechenzentren, da das Land weltweit führend in der künstlichen Intelligenz werden möchte.",
+    "m": "Die BBC erhielt einen seltenen Einblick in diese entlegenen Bereiche, die Chinas Ambitionen im Bereich der künstlichen Intelligenz antreiben.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass in der Inneren Mongolei chinesische Rechenzentren gebaut werden, um Chinas KI-Ambitionen zu unterstützen.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:26:00.740Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDh8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vaGVhbHRoLzIwMjYvMDkvd29tYW5zLWJyYWluLXdvcm0taW5mZWN0aW9uLWNvbmZpcm1l": {
+    "t": "Wurm-Infektion im Gehirn einer Frau durch Labor-Eier bestätigt",
+    "s": "Bei einer Frau wurde eine Wurm-Infektion im Gehirn bestätigt, nachdem Eier in einem Labortest Schwänze entwickelten.",
+    "m": "Es gibt keinen einzelnen definitiven Test für diese Würmer, aber die Entwicklung eines Schwanzes im Labor gilt als ziemlich überzeugend für die Bestätigung der Infektion.",
+    "k": "wissenschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass eine Gehirnwurm-Infektion einer Frau durch im Labor gewachsene Schwänze an Eiern bestätigt wurde.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:26:07.757Z",
+    "sourceSignature": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTV8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vYWkvMjAyNi8wOS9uZXctYW50aHJvcGljLW9wZW5haS1tb2RlbHMtbWFrZS1zYW1lLXBy": {
+    "t": "Anthropic und OpenAI kündigen günstigere KI-Modelle an",
+    "s": "Die Unternehmen Anthropic und OpenAI stellen neue, günstigere KI-Modelle in Aussicht.",
+    "m": "Das Rennen um fortschrittliche KI-Modelle befindet sich in einer Phase, in der verstärkt auf den Preis geachtet wird. Die neuen Modelle versprechen mehr Leistung für deutlich weniger Geld.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass neue Anthropic- und OpenAI-Modelle mit dem Versprechen auftreten, für weniger Geld mehr zu bieten.",
+    "diff": [
+      {
+        "name": "Ars Technica",
+        "note": "Erwähnt zusätzlich, dass sich das Rennen um Frontier-KI-Modelle in einer Phase des Preisvergleichs befindet."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:26:15.051Z",
+    "sourceSignature": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktODR8aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vdGVjaC1wb2xpY3kvMjAyNi8wOS9jaXRpZXMtYWNyb3NzLXVzLW9wcG9zZS10cnVtcC1m": {
+    "t": "US-Städte lehnen FCC-Pläne von Trump ab",
+    "s": "US-Städte widersetzen sich einem Plan der FCC zur Vorwegnahme lokaler Breitbandregeln.",
+    "m": "Zahlreiche Städte in den USA wehren sich gegen die von der Trump-Regierung unterstützten FCC-Pläne, welche lokale Vorschriften aushebeln könnten. Dabei verteidigen die Kommunen ihre Anforderungen an Genehmigungen und argumentieren, dass Internetdienstanbieter Netze nicht schnell genug ausbauen.",
+    "k": "technik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass US-Städte gegen den FCC-Plan zur Umgehung lokaler Breitbandregeln sind.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:26:22.420Z",
+    "sourceSignature": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjN8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL211bmRvL2NyaXNlLW1pZ3JhdG9yaWEtZW0tY2V1dGEtZXNwYW5oYS1lLW1hcnJv": {
+    "t": "Espanha e Marrocos reforçam segurança nas fronteiras de Ceuta e Melilla",
+    "s": "Espanha e Marrocos reforçaram a segurança nas fronteiras de Ceuta e Melilla devido à possibilidade de uma nova tentativa de entrada massiva de migrantes.",
+    "m": "As autoridades de Espanha e Marrocos decidiram reforçar conjuntamente a segurança perante o risco iminente de novas entradas em massa de migrantes nestas cidades autónomas.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Spanien und Marokko die Grenzen von Ceuta und Melilla wegen der drohenden Masseneinwanderung verstärkt haben.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Erwähnt zusätzlich, dass die neue versuchte Masseneinwanderung für den morgigen Tag, den Tag der Parlamentswahlen in Marokko, angesetzt ist."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:26:29.683Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-espanha-e-marrocos-reunem-se-em-marrocos_v1767111|https://www.rtp.pt/noticias/mundo/espanha-e-marrocos-voltam-a-reforcar-a-seguranca-nas-fronteiras-de-ceuta-e-melilla_v1766987",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjd8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWl5Z0ZCVlY5NWNVeFBkREpIWjFocU0wczBSRVJSUXpWRVMx": {
+    "t": "Iran nennt Bedingungen für Öffnung der Straße von Hormus",
+    "s": "Iran hat Vertretern der USA Bedingungen für die Wiedereröffnung der Straße von Hormus genannt.",
+    "m": "Das iranische Außenministerium und staatliche Medien berichteten, dass der iranische Außenminister Abbas Araghchi am Dienstag am Rande der UN-Generalversammlung mit dem US-Sondergesandten Steve Witkoff zusammengetroffen ist, um diese Bedingungen zu übermitteln.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass der Iran Vertretern der USA Bedingungen für die Wiedereröffnung der Straße von Hormus präsentiert hat.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet zusätzlich, dass das Treffen am Dienstag am Rande der UN-Generalversammlung zwischen dem iranischen Außenminister Abbas Araghchi und dem US-Sondergesandten Steve Witkoff stattfand und bezieht sich auf die iranische Staats Presse."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:26:39.475Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDJHZ1hqM0s0RERRQzVES1RiQVFRVDdGOTZDQl9RcGtoVmVrYkZLc2l3Z0ZwMXM1RlpOam42bmxxWV96SFQ3bDR3RGJPOXd4R21wbC1XelVjQVM5ZHpXbGNra2poOU52Q0h0b3A1UjA2NGhvbWNLTlN4VXQxRE1ZUXY3SWsxbEJURU9IZVBlc0xlOXAwNXdOMEtnSG1yTzdjbWN5OG5sa29yeFIwbG5JZnc3SE84TnZWd1dUTGNpZ0lmRFNnRnkzOUFR?oc=5|https://www.rtp.pt/noticias/mundo/irao-apresentou-condicoes-para-reabertura-do-estreito-de-ormuz-a-representantes-dos-eua_n1767105",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTEwfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NxeTd6Mjc1eXg2NW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWln": {
+    "t": "Gericht in Sri Lanka verurteilt 15 Männer wegen Ostersonntag-Anschlägen",
+    "s": "Ein Gericht in Sri Lanka hat 15 Männer wegen der verheerenden Oster-Anschläge aus dem Jahr 2019 verurteilt.",
+    "m": "Bei den Anschlägen im Jahr 2019 wurden drei Kirchen und drei Luxushotels ins Visier genommen. Insgesamt gab es 270 Todesopfer, zu denen auch 42 Ausländer zählten. Zudem handelte es sich um Angriffe, die durch die Terrormiliz Islamischer Staat inspiriert wurden und zu den tödlichsten in der Geschichte des Landes gehören.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen stimmen überein, dass ein Gericht in Sri Lanka 15 Männer wegen der tödlichen Ostersonntag-Anschläge aus dem Jahr 2019 verurteilt hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt konkret die Ziele (drei Kirchen und drei Luxushotels) und nennt 270 Todesopfer."
+      },
+      {
+        "name": "NPR World",
+        "note": "Erwähnt, dass die Angriffe vom Islamischen Staat inspiriert waren, zu den tödlichsten der Geschichte gehören und 42 Ausländer töteten."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:26:47.033Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss|https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMXxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZWNvbm9taWEvbW9udGVuZWdyby1kZXN0YWNhLW1hZ25pZmljby1tb21lbnRvLWRh": {
+    "t": "Luís Montenegro betont exzellentes Verhältnis zu den USA",
+    "s": "Der portugiesische Regierungschef Luís Montenegro hob in New York das hervorragende Verhältnis zwischen Portugal und den USA hervor.",
+    "m": "Während seines Aufenthalts in New York sprach Luís Montenegro von einem magnifikanten Moment in den bilateralen Beziehungen zu den Vereinigten Staaten. Er kündigte zudem an, diese Analyse am Mittwoch weiter auszuführen.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quelle ist sich einig, dass Luís Montenegro in New York das exzellente Verhältnis zu den USA hervorgehoben hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:26:54.375Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/montenegro-destaca-magnifico-momento-das-relacoes-bilaterais-com-eua_n1767129",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktM3xodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbm90aWNpYXJpby1hbnRlbmExLzIzaC1qYS1yZWFicml1LWEtZXN0cmFkYS1uYWNp": {
+    "t": "Wiedereröffnung der Estrada Nacional 105 in Santo Tirso",
+    "s": "Die Estrada Nacional 105 im Bereich Santo Tirso wurde am späten Abend wieder für den Verkehr freigegeben.",
+    "m": "Die Straßenverbindung war zuvor gesperrt gewesen und wurde um 23 Uhr wiedereröffnet. Genauere Umstände der vorherigen Sperrung oder Details zum genauen Standort wurden in der Meldung nicht genannt. Autofahrer können die Strecke in Santo Tirso nun wieder regulär befahren.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Alle Quellen bestätigen, dass die Estrada Nacional 105 in der Zone von Santo Tirso wieder geöffnet wurde.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:01.551Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ja-reabriu-a-estrada-nacional-105-na-zona-de-santo-tirso_a1_1767128",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNXxodHRwczovL25ld3MuZ29vZ2xlLmNvbS9yc3MvYXJ0aWNsZXMvQ0JNaW53RkJWVjk1Y1V4T2FsTnVVMXBRVVdKaE5USk5hVlk0TFhR": {
+    "t": "Universitäten in Iowa steigen im US News & World Report",
+    "s": "Universitäten in Iowa verzeichnen einen Anstieg in den Rankings des US News & World Report.",
+    "m": "Die Nachrichtenplattform News From The States berichtet, dass Universitäten in Iowa in den aktuellen Rankings von US News & World Report gestiegen sind. Genauere Details über welche spezifischen Universitäten oder Plätze genannt werden, enthält die Meldung nicht.",
+    "k": "wissenschaft",
+    "p": 2,
+    "agree": "Die Quellen stimmen überein, dass Universitäten in Iowa in den Rankings von US News & World Report gestiegen sind.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:08.720Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalNuU1pQUWJhNTJNaVY4LXQ3bmpQUG1BQTU0Y3ByVEtmOGhUUFg3TDh3cE5rT3FoTFZrQk1Dc0NPR0ZLaE9qWTN1QVFEOUNBbEhlX0JmQkdCYkY4MVRLdE85TVZpSHNaeVhveWZYa1laOUk3OGlxNDYtZVRUNWZXMTF4ZlhYbHRHRDltVXpDYUwwOHdQdmJYTDZiRVNuLWs?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNnxodHRwczovL25ld3MuZ29vZ2xlLmNvbS9yc3MvYXJ0aWNsZXMvQ0JNaWxBRkJWVjk1Y1V4UVpqVnhZbGRGTVVwWGREZFFjVXBWYjNZ": {
+    "t": "Barba e Cabelo vom 23. September 2026",
+    "s": "Es wird über die Ausgabe von Barba e Cabelo vom 23. September 2026 berichtet.",
+    "m": "Die Berichterstattung bezieht sich auf A Bola und das Datum 23. September 2026 im Zusammenhang mit Barba e Cabelo.",
+    "k": "sport",
+    "p": 1,
+    "agree": "Alle Quellen erwähnen Barba e Cabelo vom 23. September 2026 in Verbindung mit A Bola.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:15.761Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjVxYldFMUpXdDdQcUpVb3YwS0pkVGdvSWsyQUxWTlh1YTZRUVRlajh1eE5Pclh5Um5VXzl4WmVTMnJfcXhGTkd5bTRTY196V0U0VnVTS2NhSlZJd3N1T3lZZjNjcGNmRmdXVGo0azl3S21sSTFiXy05dXdKQjRtUno1dmp4RTY4eHVqVmpLYlN5VG1X?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjF8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50LzIwMjYvc2VwLzIyL3VuLWFudG9uaW8tZ3V0ZXJyZXMtY2xp": {
+    "t": "Abschiedsrede von UN-Generalsekretär António Guterres zur Klimakrise",
+    "s": "Der scheidende UN-Generalsekretär António Guterres hat bei seiner letzten Rede vor der UN das Versagen der Weltgemeinschaft bei der Klimakrise kritisiert.",
+    "m": "Guterres warf Öl- und Gaskonzernen vor, die Atmosphäre wie eine offene Müllgrube zu behandeln. Trotz eines Sommers voller klimabedingter Katastrophen seien Weltstaatschefs weiterhin hauptsächlich auf andere Themen fokussiert. Er forderte, dass diese Firmen für die Klimaschäden zahlen müssen, und warnte erneut vor katastrophalen Folgen.",
+    "k": "umwelt",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass der scheidende UN-Chef António Guterres Ölkonzerne und die Untätigkeit von Weltführern beim Klimawandel kritisierte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:23.290Z",
+    "sourceSignature": "https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktN3xodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYXVzdHJhbGlhLW5ld3MvbGl2ZS8yMDI2L3NlcC8yMy9hbnRob255LWFsYmFuZXNl": {
+    "t": "Australische Nachrichten: Wohnungsbaupolitik und Flughafendelays",
+    "s": "Andrew Bragg schlägt vor, Rentengelder als Kreditsicherheit für Wohnungsbaudarlehen zu nutzen.",
+    "m": "Der Schattenbauminister Andrew Bragg brachte den Vorschlag ein, Menschen die Nutzung ihrer Altersvorsorge als Sicherheit für Wohnungsbaudarlehen zu erlauben. Diese Politik wurde jedoch noch nicht von der Opposition übernommen, und der Vorsitzende Angus Taylor betonte, es handele sich nicht um Koalitionspolitik. Zudem gab es Berichte über Gespräche zwischen One Nation und der Koalition über eine Machtbeteiligung sowie Flugverpätungen am Flughafen Sydney durch Nebel.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen berichten über aktuelle politische und regionale Ereignisse in Australien.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Erwähnt zusätzlich, dass Barnaby Joyce sagte, One Nation spreche mit der Koalition über eine Machtvereinbarung, und dass Nebel zu Verspätungen am Flughafen Sydney führte."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:27:32.733Z",
+    "sourceSignature": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTB8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlxZ0ZCVlY5NWNVeFFTRmczY1ZoblQzRmFPRGN6V1VGR1Yx": {
+    "t": "Trump schimpft über CNN-Journalisten bei den Vereinten Nationen",
+    "s": "Donald Trump hat einen Journalisten von CNN bei der UN-Vollversammlung zurechtgewiesen.",
+    "m": "Am Rande einer Auseinandersetzung bei den Vereinten Nationen sagte der ehemalige beziehungsweise amtierende US-Präsident Donald Trump zu einem Journalisten des Senders CNN die Worte You Should Not Be Here und schalt ihn. Der Vorfall ereignete sich im Rahmen eines Streits.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen stimmen überein, dass Trump einen CNN-Journalisten bei den UN mit den Worten You Should Not Be Here gescholten hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:39.972Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFg3cVhnT3FaODczWUFGV1ZndUNoRHFFR1l1WW9DTUR2UWNYZ3JPQW1FaGhWd0tXLURibDQzTkhGbnJ3NkZTS1lLNDdxWkx0cDROZFlfRkNSR1otT1lWRzZKNUp6c194c3JwdVowam9aSEFLRlJEbzNob2hvNWF5Rm1YbFFkT3dnTFFKd2lQQUpzWFBXbGotQW1lYTZrdHg5SmFjZGtrMWVxZ9IBsgFBVV95cUxPeVVCZk12MW9uQW5icHlMSk1kdkQtZkgzWFlqT3loQjhwNGxzOXBoVzRHc09XTkNIOFhPOVl5X2ZzczVTV2tDY2V2X1ZzUXZaSWxZc0Z0SWdzam91ZjVsRmpfcEVKVUVXeTVFdkpwaWdtb0RqTVU1cGNqOUtyeENkSVU2VERWbURLeWl3S2RSLW5rRGRMNFcxaWdkdWJJanBPTnhyaEV3QmZ3dDBLdmdCZkR3?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTF8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjYvc2VwLzIzL3BheS1yZW50LWVhdC1vci1rZWVwLXdhcm0t": {
+    "t": "Wohlstandsgefälle: Mieter kämpfen mit wachsender Lücke beim Wohngeld",
+    "s": "Immer mehr Mieter stehen vor der schwierigen Wahl zwischen Miete, Nahrung und Heizung, da die Lücke zum Wohngeld wächst.",
+    "m": "Laura Braddock, eine alleinerziehende Mutter aus Wirral, Merseyside, zahlt laut Berichten immer zuerst die Miete, obwohl diese die lokale Wohngeldbeihilfe (LHA) weit übersteigt. Die monatliche Lücke zwischen einer Zweizimmerwohnung und dem Wohngeld beträgt im Durchschnitt 158 Pfund und steigt in London auf bis zu 324 Pfund an, was Familien zunehmend zu Tafeln treibt.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass eine wachsende Lücke zwischen der Miete und dem Wohngeld für viele Mieter zu extremen finanziellen Belastungen führt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:47.281Z",
+    "sourceSignature": "https://www.theguardian.com/business/2026/sep/23/pay-rent-eat-or-keep-warm-growing-numbers-face-hard-choices-as-housing-benefit-gap-grows",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTJ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzLzIwMjYvc2VwLzIzL2VuZ2xhbmQtbWF5b3JzLWdyZWF0ZXItc2Ny": {
+    "t": "Denkfabrik fordert stärkere Kontrolle für englische Bürgermeister",
+    "s": "Englische Bürgermeister sollen nach Ansicht einer Denkfabrik stärker kontrolliert werden, da sie mehr Macht und Gelder erhalten.",
+    "m": "Ein Bericht von IPPR North warnt, dass eine einzige Fehlentscheidung die Dezentralisierungsagenda gefährden könnte. Nächsten Monat wollen Minister Pläne vorstellen, um regionalen Führungskräften die Kontrolle über potenziell Milliarden zusätzlicher Mittel zu übertragen. Dies stellt eine drastische Verlagerung der Macht weg von Whitehall dar.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass englische Bürgermeister künftig über mehr Macht und erhebliche Finanzmittel verfügen werden und eine Denkfabrik mehr Kontrolle fordert.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:27:54.593Z",
+    "sourceSignature": "https://www.theguardian.com/politics/2026/sep/23/england-mayors-greater-scrutiny-powers-expand-thinktank",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTN8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2Vjb25vbWlhL3ByLXBlZGUtZXN0YWRvLWFsaWFkby1kb3MtY29udGFiaWxpc3Rh": {
+    "t": "Präsident António José Seguro fordert Staat als Partner der Buchhalter",
+    "s": "Der portugiesische Präsident António José Seguro hat gefordert, dass der Staat ein Verbündeter der Buchhalter sein muss.",
+    "m": "In seiner Forderung betonte der Präsident, dass der Staat Garant für Stabilität in der Steuergesetzgebung, Schnelligkeit in der Justiz, weniger Bürokratie und eine stärkere Modernisierung der Verfahren sein sollte. Die Aussagen richten sich an die Gruppe der Buchhalter, deren Arbeit durch solche Maßnahmen unterstützt werden soll.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Der Präsident António José Seguro forderte, dass der Staat ein Verbündeter der Buchhalter sein muss.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:28:01.816Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/pr-pede-estado-aliado-dos-contabilistas-com-estabilidade-na-legislacao-fiscal-e-celeridade-na-justica_n1767121",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTR8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlod0ZCVlY5NWNVeFFOREpvY0ZWSFIyRjVUekk1VGpGdk4w": {
+    "t": "Alzheimer-Medikament Leqembi verlangsamt den Krankheitsverlauf um Monate",
+    "s": "Das Medikament Leqembi verlangsamt die Alzheimer-Krankheit nach Angaben von BornCity um sechs bis neun Monate.",
+    "m": "Der Bericht von BornCity informiert über die Wirkung des Alzheimer-Medikaments Leqembi. Konkret wird beschrieben, dass das Mittel den Verlauf der Erkrankung um einen Zeitraum von sechs bis neun Monaten verlangsamen kann. Weitere Details zu Zulassung, Nebenwirkungen oder Anwendung werden in der kurzen Meldung nicht genannt.",
+    "k": "wissenschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Leqembi die Alzheimer-Krankheit um sechs bis neun Monate verlangsamt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:28:09.055Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDJocFVHR2F5TzI5TjFvN0sxTjJMdlVCcHVQV3FvQ18zdDhOc1lZYzQtU1liaVZGTUY5MTk0VWpKZU9jMnlMakpaaWVmdjM4RUdiMXR3VHQ5VXV3c0EtdzlEdUprcmZURTNOTHVfaFBmMFg1VndSYUtPZ0hsYVlKcWF1STZzN0k?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTV8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL3BvbGl0aWNhL3BtLWFzc2VndXJhLW5vcy1ldWEtcXVlLXBvcnR1Z2FsLXZhaS10": {
+    "t": "Premierministro Luis Montenegro garante excedente e crescimento em Nova Iorque",
+    "s": "O primeiro-ministro assegurou em Nova Iorque que Portugal terá um excedente orçamental e crescerá acima da média europeia.",
+    "m": "Durante uma intervenção na bolsa de Nova Iorque, o primeiro-ministro português garantiu que o país alcançará um novo excedente orçamental este ano. Além disso, destacou que a economia continuará a crescer acima da média europeia e apelou ao aumento do investimento norte-americano em Portugal.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der portugiesische Premierminister in den USA ein Haushaltsüberschuss und ein überdurchschnittliches europäisches Wachstum ankündigte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:28:16.229Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/politica/pm-assegura-nos-eua-que-portugal-vai-ter-excedente-este-ano-e-crescer-acima-da-media-europeia_n1767116",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTZ8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWltQUZCVlY5NWNVeE9MVEJNWjBwcFprNDFWRU52UW5KTk5W": {
+    "t": "Trump kündigt Treffen mit iranischen Offiziellen an",
+    "s": "US-Präsident Trump erklärte, dass sich US-amerikanische und iranische Offizielle an einem Dienstag getroffen haben.",
+    "m": "Das Treffen fand kurz nach einer Warnung von Trump statt, in der er drohte, den Iran zu vernichten. Weitere Details zu dem Treffen oder den Inhalten der Gespräche wurden in der kurzen Meldung nicht genannt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Trump von einem Treffen zwischen US- und iranischen Offiziellen am Dienstag berichtet hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:28:23.391Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTd8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvbGl2ZS8yMDI2L3NlcC8yMi9kb25hbGQtdHJ1bXAtdW5nYS1zcGVl": {
+    "t": "Trump verteidigt Handeln vor UN-Vollversammlung",
+    "s": "US-Präsident Trump hat in seiner Rede vor der UN-Vollversammlung seine Politik verteidigt und dabei über Iran und Venezuela gesprochen.",
+    "m": "Donald Trump ist am UN-Hauptquartier eingetroffen und hat nach kurzen Kommentaren vor der UN-Vollversammlung gesprochen. Inmitten wachsender Spannungen mit Verbündeten äußerte er sich zu Iran und Venezuela. Zudem bedrohte er den Iran mit harten Worten und betonte die US-Politik zu weiteren Themen wie Kuba, Mexiko, Grönland und künstlicher Intelligenz.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen stimmen überein, dass Trump vor der UN-Vollversammlung seine Handlungen in Bezug auf Iran und Venezuela verteidigt hat.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet zusätzlich über Trumps Ankunft am UN-Hauptquartier, sehr kurze Tür-Kommentare, Drohungen gegen den Iran (\"annihilate\") sowie die Erwähnung von Kuba, Mexiko, Grönland und KI."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:28:31.054Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTh8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvdW5nYS1kYXktMS11cy1hbmQtaXJhbi1o": {
+    "t": "USA und Iran führen Gespräche trotz Trumps Drohungen",
+    "s": "Am ersten Tag der UN-Vollversammlung halten die USA und der Iran Gespräche ab.",
+    "m": "Die Gespräche finden statt, obwohl US-Präsident Trump in seiner Eröffnungsrede zuvor gedroht hatte, den Iran zu 'vernichten'.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass die USA und der Iran am ersten Tag der UN-Vollversammlung Gespräche geführt haben.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet zusätzlich, dass Trump in seiner Eröffnungsrede gedroht hatte, den Iran zu 'annihilieren'."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:28:38.217Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTl8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2N1bHR1cmEvbGlzdGEtZGUtZmluYWxpc3Rhcy1kZS1wcmVtaW8tbGl0ZXJhcmlv": {
+    "t": "Zwei ehemalige Gewinner unter den Finalisten des Booker-Preises 2026",
+    "s": "Die Organisation gab die sechs Finalisten des Booker-Preises bekannt. Darunter befinden sich zwei Autoren, die den Preis bereits gewonnen haben, sowie eine frühere Finalistin.",
+    "m": "Die Bekanntgabe erfolgte heute durch die Organisation des renommierten Literaturpreises. Der Kreis der letzten sechs Nominierten umfasst somit sowohl etablierte Preisträger als auch bekannte Gesichter aus früheren Editionen.",
+    "k": "wissenschaft",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass unter den sechs Finalisten des Booker-Preises 2026 zwei ehemalige Gewinner sowie eine frühere Finalistin sind.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:28:45.462Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/cultura/lista-de-finalistas-de-premio-literario-booker-2026-inclui-dois-antigos-vencedores_n1767109",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjB8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWl4Z0ZCVlY5NWNVeFBWbXhLTVVaT09VOW9SMnhGVmpsSk1G": {
+    "t": "Archäologen entdecken unterirdische Welt",
+    "s": "Archäologen haben eine jahrhundertelang versteckte unterirdische Welt entdeckt.",
+    "m": "Die Entdeckung gibt Einblicke in eine bisher verborgene unterirdische Welt, die über Jahrhunderte unentdeckt geblieben war.",
+    "k": "wissenschaft",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Archäologen eine jahrhundertelang versteckte unterirdische Welt entdeckt haben.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Die Quelle nennt MARCA als Ursprung für den Bericht über die archäologische Entdeckung."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:28:52.974Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmxKMUZOOU9oR2xFVjlJMFJXWUMyb0h6NlVtZDdYTzZHcE5LWlFCZEtiQmtDVGZfcnpaUk5FdjZ0bU0ybDRlX3pMSEoxUmJFM09FT05ZOEZlRnVwN1FZZVY0RmRrM3lHUy1DTWRLdFJnUFNSRXhiNFJjWVY3UU9pcmlBTGJBRmJuOHlxeEpQTUFiSFJNQjBDYlF3NkdPYTdRRVlMN2I3dWVmYURIUFU5cThNRTZIOW5paDQzbDFhQnZmb0JBcEHSAcYBQVVfeXFMTUlIRlZyWmN6cC1DcUl6b2RVMnNWaTVZZHRhcjcySFZfdTl0dmIzN2lLZ3NUM2RxVmNDUmlQQ1ZzQWdnMHQzTHdpWkoxdjlIcDNFRUozTzg2cGhfUUREZU5jMnBCVkZGWEZwOFBRZXZlSDd0QmR3cENWajN1ZWFoZlBDbzZFREl0VS0tRlRuYXlNaFNJYThXSmxEOEcxTnZ6aENZeGprWEtXN1JNWTBpSDhzODhkSWdvU2pyMjVXNXV2MS00QUF3?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjF8aHR0cHM6Ly93d3cudGFnZXNzY2hhdS5kZS9hdXNsYW5kL2FtZXJpa2EvdHJ1bXAtcmVkZS11bi1rb21tZW50YXItMTAwLmh0bWw": {
+    "t": "US-Präsident Trump zeigt sich bei UN-Vollversammlung diszipliniert",
+    "s": "US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert.",
+    "m": "Hinter dem überraschenden Kurswechsel bei der UN-Vollversammlung stecken laut Einschätzung vor allem innenpolitischer Druck und die Suche nach einem Ausweg für den US-Präsidenten.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass sich US-Präsident Trump bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Ergänzt, dass hinter dem Kurswechsel vor allem innenpolitischer Druck und die Suche nach einem Ausweg stecken."
+      }
+    ],
+    "updatedAt": "2026-09-22T23:29:00.144Z",
+    "sourceSignature": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjJ8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL3BhaXMvY2FtYXJhLWRlLWxpc2JvYS1yZWN1c2EtcmV2ZXJ0ZXItZGVzcGVqby1k": {
+    "t": "Câmara de Lisboa recusa despejo de mãe viúva em Marvila",
+    "s": "Die Stadtverwaltung von Lissabon lehnte es ab, die Räumung einer alleinerziehenden Witwe mit zwei Kindern aus einer Gemeindewohnung rückgängig zu machen.",
+    "m": "Der zuständige Wohnungsstadtrat begründete die Entscheidung damit, dass es bereits 2.800 Familien auf der Warteliste für geförderten Wohnraum gibt. Der Fall betrifft eine städtische Wohnung im Viertel Marvila.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass die Stadtverwaltung von Lissabon den Räumungsprozess einer verwitweten Mutter mit zwei Kindern in Marvila abgelehnt hat und dabei auf 2.800 Familien auf der Warteliste verwies.",
+    "diff": [],
+    "updatedAt": "2026-09-22T23:29:07.399Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/camara-de-lisboa-recusa-reverter-despejo-de-mae-viuva-com-duas-criancas-e-diz-que-ha-2800-familias-a-frente_n1767102",
+    "method": "gemini"
   }
 }
