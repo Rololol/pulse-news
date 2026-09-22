@@ -3144,5 +3144,609 @@
     "updatedAt": "2026-09-22T20:49:49.537Z",
     "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
     "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTc4fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9hbWVyaWthL2Fia29tbWVuLXp1LWdyb2VubGFuZC11bnRlcnplaWNo": {
+    "t": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
+    "s": "Die USA, Dänemark und Grönland haben im Streit um die Arktisinsel ein neues Sicherheitsabkommen unterzeichnet.",
+    "m": "Die Vereinbarung wurde von den Regierungschefs der drei Parteien am Rande der UN-Vollversammlung in New York besiegelt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Grönland, die USA und Dänemark ein Sicherheitsabkommen unterzeichnet haben.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Enthält zusätzlich einen Kommentar zum Grönland-Abkommen unter dem Titel \"Ein alter Deal in neuer Verpac\"."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:52:54.930Z",
+    "sourceSignature": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html|https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVNGVUVXUXF3R1BjSUs4dWhQUWdlTXFlVUowNlFxOVh6Umw5eS1tdjJBX1hmTTMtcldsY0EtbjA0T25ZUFdNV1pTemhnUVl3Wi13WTJLWFpzNmhhZ1lWbkdKM0d4dC1RZEMzVkd1bmxMVW1NNTNHU0NybEtySUkwTU4zNHpaRnpWamdZbnNzTQ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjk3fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL2lubmVucG9saXRpay9rcmFua2Vua2Fzc2VuLXN5c3RlbS1tZXJ6LWRl": {
+    "t": "Debatte über das Krankenkassensystem nach Aussagen von Kanzler Merz",
+    "s": "Kanzler Merz hat am Montag Änderungen am Nebeneinander von gesetzlichen und privaten Krankenkassen angedeutet.",
+    "m": "Kanzler Merz begründete die angedeuteten Änderungen am Nebeneinander von gesetzlichen und privaten Krankenkassen mit einem Gerechtigkeitsproblem. Für seine Äußerungen, die er fast nebenbei machte, erhält er nun Zustimmung vom Juso-Chef.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass es eine Debatte über das Krankenkassensystem gibt und Kanzler Merz entsprechende Äußerungen getätigt hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich den Bezug zu tagesschau.de und dass Merz und die Krankenkassen diskutiert werden."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:53:02.312Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html|https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDQwcERZYXFsS2ZHTzA1LWM4TXpzMEtCTnZtU29XdDlOVnN5ZElmOFFJdmlQVHAxMW9fdXplbEwzaWNhUExvcGxPX0NTRHFCUGJwOVZBZmJGRG11Mm1TeHRVZDlGRE93Ulk0VEN4cVRqTXN5OE9KSzk3VlFYeWcydzhtdlF6OC05NU9aSTVGcHZDZw?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktOHxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbXVuZG8vY3Jpc2UtbWlncmF0b3JpYS1lbS1jZXV0YS1lc3BhbmhhLWUtbWFycm9j": {
+    "t": "Spanien und Marokko verstärken Grenzen von Ceuta und Melilla",
+    "s": "Spanien und Marokko haben angesichts der Gefahr neuer Migrantenströme die Sicherheit an den Grenzen von Ceuta und Melilla verstärkt.",
+    "m": "Die Behörden beider Länder gehen davon aus, dass ein neuer massiver Einreiseversuch von Migranten stattfinden könnte. RTP Mundo präzisiert ergänzend, dass dieser versuchte Masseneinbruch für den morgigen Tag geplant ist, an dem in Marokko Parlamentswahlen stattfinden.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Spanien und Marokko die Sicherheit an den Grenzen von Ceuta und Melilla wegen der drohenden Gefahr einer massiven Migranteneinreise verstärkt haben.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Erwähnt zusätzlich, dass die neue versuchte Masseneinreise für den morgigen Tag, den Tag der Parlamentswahlen in Marokko, angesetzt ist."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:53:09.711Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-espanha-e-marrocos-reunem-se-em-marrocos_v1767111|https://www.rtp.pt/noticias/mundo/espanha-e-marrocos-voltam-a-reforcar-a-seguranca-nas-fronteiras-de-ceuta-e-melilla_v1766987",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3F5N3oyNzV5eDY1bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Gericht in Sri Lanka verurteilt 15 Männer nach Oster-Anschlägen",
+    "s": "Ein Gericht in Sri Lanka hat 15 Männer wegen der verheerenden Oster-Anschläge aus dem Jahr 2019 verurteilt.",
+    "m": "Bei den koordinierten Anschlägen im Jahr 2019 wurden drei Kirchen und drei Luxushotels ins Visier genommen. Insgesamt starben bei der Bluttat 270 Menschen. Die Angriffe gehören zu den tödlichsten in der Geschichte des Landes und fordern unter anderem das Leben von 42 Ausländern.",
+    "k": "panorama",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass ein Gericht in Sri Lanka 15 Männer wegen der tödlichen Oster-Anschläge aus dem Jahr 2019 verurteilt hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Berichtet, dass drei Kirchen und drei Luxushotels das Ziel waren und insgesamt 270 Menschen getötet wurden."
+      },
+      {
+        "name": "NPR World",
+        "note": "Erwähnt, dass die Angriffe vom IS inspiriert, unter den tödlichsten der Geschichte Sri Lankas waren und 42 Ausländer töteten."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:53:17.710Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss|https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTh8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlyQUZCVlY5NWNVeE9ibVZQVWpKbVZrbFFOMUo2YUVocFIz": {
+    "t": "Sechsjähriges chinesisches Mädchen stellt neuen Rubik's-Cube-Weltrekord auf",
+    "s": "Ein sechsjähriges chinesisches Mädchen hat einen neuen Frauen-Weltrekord im Lösen des Rubik's Cube aufgestellt.",
+    "m": "Die sechsjährige Lian Yunzhi löste das 3x3-Puzzle mehrfach in einer Durchschnittszeit von unter 4,5 Sekunden. Laut dem Staatssender CCTV brach sie den Frauen-Rekord diesen Monat gleich zweimal bei zertifizierten Wettkämpfen der World Cube Association in Wuhan und Guangzhou.",
+    "k": "sport",
+    "p": 2,
+    "agree": "Die Quellen stimmen überein, dass ein sechsjähriges chinesisches Mädchen einen neuen Frauen-Weltrekord im Rubik's Cube aufgestellt hat.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "nennt den Namen Lian Yunzhi, die Durchschnittszeit von unter 4,5 Sekunden, die Städte Wuhan und Guangzhou sowie den Sender CCTV als Quelle."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:53:25.237Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmVPUjJmVklQN1J6aEhpR3c4bmJSTjBKVmhOMnFPMzJDZ0lLUjlpaUxsbmNnaExVUUU5U2JERERoaWljNUR1TzdueFlad3N4MHVvYjM3UHpPREdkTmpZbGJoc3kyN01hSms1ajd0Vm1NREdwR2g2Z2lHZ3VTSFc1T0hackJpUFpkdFZZam8waE5LNmoxdW1YYVpHRU1xSG15YmF0YmR1S3JLVFRI?oc=5|https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTE0fGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9lY29ub21pYS9wcmVjby1kYXMtY2FzYXMtZS1hLXByaW5jaXBhbC12dWxuZXJh": {
+    "t": "FMI stuft portugiesische Immobilienpreise als Finanzrisiko ein",
+    "s": "Das Fundo Monetário Internacional (FMI) betrachtet die aktuellen Hauspreise in Portugal als Hauptrisiko für den Finanzsektor.",
+    "m": "Das FMI sieht in der Entwicklung des portugiesischen Immobilienmarktes die größte Schwachstelle mit potenziellen Auswirkungen auf das Finanzwesen. Dies wurde in aktuellen Berichten hervorgehoben, die unter anderem vom Jornal Económico aufgegriffen wurden.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass laut FMI die Hauspreise in Portugal die wichtigste Verwundbarkeit des Finanzsektors darstellen.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den entsprechenden Artikel im Jornal Económico."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:53:32.486Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/preco-das-casas-e-a-principal-vulnerabilidade-do-setor-financeiro-portugues-considera-fmi_n1767030|https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTM5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jeWNsaW5nL2FydGljbGVzL2M2M2VxeXZkbmR3ZG8_YXRfbWVkaXVtPVJTUyZh": {
+    "t": "Afghanische Radfahrerin gewinnt Silbermedaille bei den Asienspielen",
+    "s": "Die aus Afghanistan geflohene Radfahrerin Fariba Hashimi hat bei den Asienspielen die Silbermedaille im Straßenrennen gewonnen.",
+    "m": "Fariba Hashimi, die in Italien lebt, musste zuvor vor den Taliban in ihrer Heimat fliehen, die die Freiheiten von Frauen drastisch eingeschränkt haben. Sie belegte im Straßenrennen nahe Nagoya in Japan den zweiten Platz hinter der Chinesin Guo Li und hofft, dass ihr Erfolg andere afghanische Frauen inspiriert.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass die afghanische Radfahrerin Fariba Hashimi nach ihrer Flucht vor den Taliban bei den Asienspielen eine Silbermedaille im Straßenrennen gewonnen hat.",
+    "diff": [
+      {
+        "name": "Guardian Sport",
+        "note": "Erwähnt zusätzlich, dass das Rennen an einem Dienstag stattfand, dass Hashimi in Italien lebt, in Japan (nahe Nagoya) stattfand, hinter der Chinesin Guo Li ins Ziel kam, und zitiert sie mit den Worten, dass die Medaille die Widerstandskraft afghanischer Frauen zeigen kann und etw"
+      }
+    ],
+    "updatedAt": "2026-09-22T20:53:40.183Z",
+    "sourceSignature": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss|https://www.theguardian.com/sport/2026/sep/22/fariba-hashimi-afghan-cyclist-disguised-as-man-evade-taliban-wins-asian-games-silver",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMXxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZWNvbm9taWEvZXVyby1jYWktZmFjZS1hby1kb2xhci1wZWxhLW5vbmEtc2Vzc2Fv": {
+    "t": "Euro fällt zum US-Dollar in neunter Sitzung in Folge",
+    "s": "Der Euro verzeichnete gegenüber dem US-Dollar den neunten Kursrückgang in Folge.",
+    "m": "Der Kursverlust des Euro gegenüber dem US-Dollar erfolgte am selben Tag, an dem der US-Präsident äußerte, er stehe vor der Wahl, entweder den Iran zu \"aniquilar\" (vernichten) oder eine Einigung zu erzielen.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass der Euro gegenüber dem US-Dollar in der neunten Sitzung in Folge gefallen ist.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:53:47.866Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/euro-cai-face-ao-dolar-pela-nona-sessao-consecutiva_n1767071",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMnxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvZWNvbm9taWEvcHJlc2lkZW50ZS1kby1pbmUtZ2FyYW50ZS1xdWUtbm92by1tZXRv": {
+    "t": "INE verteidigt neue Methodik für Bevölkerungsschätzungen",
+    "s": "Der Präsident des INE, António Rua, erklärte, dass eine neue Methode zur Schätzung der ansässigen Bevölkerung verwendet wird.",
+    "m": "Laut António Rua, dem Präsidenten des Verwaltungsrats des INE, ermöglicht die neue Methodik eine größere Konsistenz und Kohärenz zwischen den verschiedenen Quellen. Zudem soll sie die Produktion jährlicher Bevölkerungsschätzungen mit größerem Detailreichtum erlauben.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen berichten über die Aussagen des INE-Präsidenten António Rua bezüglich der neuen Methode zur Bevölkerungsschätzung.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:53:55.073Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/presidente-do-ine-garante-que-novo-metodo-melhora-estimativas-sobre-populacao_n1767076",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktM3xodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbXVuZG8vcmV1bmlhby10cnVtcC16ZWxlbnNreS11Y3JhbmlhLWFwb250YS1maW0t": {
+    "t": "UN-Generaldebatte in New York eröffnet",
+    "s": "Das Debakel der UN-Generalversammlung in New York begann an diesem Dienstag mit der Rede von António Guterres.",
+    "m": "Es ist die letzte Rede von António Guterres in diesem Event als UN-Chef. Auch Lula da Silva, Donald Trump und Emmanuel Macron traten auf. Das hochrangige Treffen endet am 28.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass das Debakel der UN-Generalversammlung in New York diesen Dienstag begann und António Guterres sprach.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:02.332Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNXxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvcGFpcy9pdmEtbm9zLWNvbWJ1c3RpdmVpcy12ZW50dXJhLWFjdXNhLXBzLWUtcHNk": {
+    "t": "André Ventura wirft PS und PSD Nichtangriffspakt vor",
+    "s": "André Ventura hat PS und PSD beschuldigt, ein Nichtangriffspakt zur Verhinderung der Mehrwertsteuersenkung bei Kraftstoffen zu haben.",
+    "m": "Der Chega-Vorsitzende erklärte, dass die kommende Parlamentsdebatte über die Reduzierung der Kraftstoffsteuer und Null-Mehrwertsteuer auf Grundgüter zeigen werde, dass das Nein der PS reine Parteipolitik ist.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass André Ventura PS und PSD eines Abkommens zur Verhinderung der IVA-Senkung bei Kraftstoffen beschuldigt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:09.507Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/iva-nos-combustiveis-ventura-acusa-ps-e-psd-de-acordo-de-nao-agressao_v1767117",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktN3xodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvcGFpcy9wb2xlbWljYS1ub3Zhcy1mcmFnYXRhcy1taW5pc3Ryby1kYS1kZWZlc2Et": {
+    "t": "Verteidigungsminister Nuno Melo wirft Chega-Abgeordneten Difamierung vor",
+    "s": "Der portugiesische Verteidigungsminister Nuno Melo hat André Ventura und Pedro Frazão der Difamierung beschuldigt und angekündigt, rechtliche Schritte einzuleiten.",
+    "m": "Hintergrund ist eine parlamentarische Sitzung des Verteidigungsausschusses, in der die Partei Chega Verdächtigungen im Zusammenhang mit dem Kauf von drei Fregatten aus Italien geäußert hatte. Nuno Melo kündigte an, vor Gericht zu kämpfen, um seinen Namen zu verteidigen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der Verteidigungsminister Nuno Melo Chega-Politiker der Difamierung beschuldigt hat und rechtliche Schritte ankündigte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:16.668Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/polemica-novas-fragatas-ministro-da-defesa-acusa-chega-de-difamacao_v1767112",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTN8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlWa0ZWWDNseFRGQlphblZaUW1sbldrNTRUMDFRZGpneE5q": {
+    "t": "Trump äußert sich zu Burnham und kritisiert Chagos-Abkommen",
+    "s": "Donald Trump erklärte, er könne mit Burnham zusammenarbeiten, kritisierte jedoch das Chagos-Abkommen als schrecklich.",
+    "m": "In Berichten wurde bekannt, dass der gewählte US-Präsident Donald Trump einerseits Gesprächsbereitschaft oder Geschäftsfähigkeit in Bezug auf Burnham signalisierte, andererseits aber deutliche Kritik an dem Abkommen bezüglich der Chagos-Inseln äußerte, welches er als schrecklich bezeichnete. Die Aussagen wurden unter anderem von der BBC aufgegriffen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Trump meint, mit Burnham Geschäfte machen zu können, und das Chagos-Abkommen kritisiert.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:23.938Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTR8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL3BhaXMvZ292ZXJuby1mYWxoYS1hbGFyZ2FtZW50by1kby1wYXNzZS1mZXJyb3Zp": {
+    "t": "Regierung verfehlt Einführung des grünen Bahnpasses",
+    "s": "Entgegen der Ankündigung der Regierung wurde der grüne Bahnpass während der Europäischen Mobilitätswoche nicht für die Stadtzüge von CP in Lissabon und Porto bereitgestellt.",
+    "m": "Bei der Fertagus wird die Umsetzung noch mehr Zeit in Anspruch nehmen. Die Transportes Metropolitanos do Porto bezweifeln eine große Wirkung des Andante-Passes durch die Maßnahme, während die Transportes Metropolitanos de Lisboa die Auswirkungen auf den Navegante-Pass abwarten wollen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der grüne Bahnpass von der Regierung für die Stadtzüge der CP in Lissabon und Porto nicht wie angekündigt während der Europäischen Mobilitätswoche eingeführt wurde.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:31.163Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/governo-falha-alargamento-do-passe-ferroviario-verde-durante-semana-europeia-da-mobilidade_n1767101",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTV8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2Z1dGVib2wtaW50ZXJuYWNpb25hbC9yZWFsLXF1ZXItdW0tbGlkZXItY2FwYXot": {
+    "t": "Real Madrid kritisiert Aussagen von La-Liga-Präsident Tebas",
+    "s": "Der Real Madrid hat die Äußerungen von Ligapräsident Javier Tebas als schwer und unverständlich bezeichnet und einen fähigen Anführer gefordert.",
+    "m": "Die Reaktion des Vereins erfolgte auf Anschuldigungen von Tebas, der dem Club eine permanente Verschwörung in Bezug auf die Schiedsrichter vorgeworfen hatte. Real Madrid äußerte sich scharf über diese Vorwürfe und betonte den Wunsch nach einem kompetenten und fähigen Führungsperson an der Spitze der Liga.",
+    "k": "sport",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass Real Madrid die Erklärung des spanischen Ligapräsidenten Javier Tebas über angebliche Schiedsrichter-Verschwörungen als schwer und unverständlich kritisiert und einen fähigen Anführer fordert.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:38.590Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/futebol-internacional/real-quer-um-lider-capaz-face-a-declaracao-grave-e-incompreensivel-de-tebas_d1767099",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTZ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvbGl2ZS8yMDI2L3NlcC8yMi9kb25hbGQtdHJ1bXAtdW5nYS1zcGVl": {
+    "t": "Trump verteidigt Handeln vor UN-Generalversammlung",
+    "s": "US-Präsident Trump hielt eine Rede vor der UN-Generalversammlung und äußerte sich zu verschiedenen Ländern.",
+    "m": "Trump traf am UN-Hauptquartier ein und gab sehr kurze Kommentare ab. In seiner Rede verteidigte er sein Handeln in Bezug auf Iran und Venezuela vor dem Hintergrund steigender Spannungen mit Verbündeten. Zudem äußerte er sich zur US-Politik bezüglich Kuba, Mexiko, Grönland und KI. Ausserdem drohte er dem Iran im Falle ausbleibender Abkommen mit massiven Konsequenzen.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass Trump eine Rede vor der UN-Generalversammlung gehalten und sich dabei zu Themen wie Iran und Venezuela geäußert hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:45.972Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTd8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFNTJVak5ZZW1ac1EyOHhWMnRTTTJWSVNV": {
+    "t": "Trump äußert sich zu Kontakten zwischen USA und Iran",
+    "s": "US-Präsident Trump erklärte, dass sich die USA und der Iran kurz nach seiner UN-Rede getroffen haben.",
+    "m": "Die Live-Updates von AP News thematisieren die Aussagen von US-Präsident Trump über ein Treffen zwischen den USA und dem Iran. Dies geschah zeitlich kurz nach einer UN-Rede, in der er mit einer Auslöschung gedroht hatte. Weitere Details über den genauen Inhalt oder die Teilnehmer des Treffens werden in der Kurzmeldung nicht genannt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Trump von einem Treffen zwischen den USA und dem Iran kurz nach seiner UN-Rede sprach.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:54:53.138Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52UjNYemZsQ28xV2tSM2VISUdXQWRsbDdyZnNtZ1BBQ2x3Q3U4aGxvR09uZ1RJOEZnUzVuN1dXQkhKWlJUX1k2SDg5bTNuMmZLd0FJcVBaRkcxemFlcTEwc1UzN1BpQVlEemYtOUNTd2I?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMTl8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL25vdGljaWFyaW8tYW50ZW5hMS8yMGgtYWxhcmdhbWVudG8tZG8tcGFzc2UtdmVy": {
+    "t": "Alargamento do Passe Verde aguarda aprovação presidencial",
+    "s": "Das Vorhaben zur Ausweitung des Passe Verde wartet auf die Entscheidung des Präsidenten.",
+    "m": "Die Maßnahme betrifft die Erweiterung des Passe Verde. Aktuell befindet sich der Prozess in der Warteschleife, während die offizielle Entscheidung des portugiesischen Präsidenten erwartet wird.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass die Ausweitung des Passe Verde auf die Entscheidung des Präsidenten wartet.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:00.879Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/20h-alargamento-do-passe-verde-a-espera-do-presidente_a1_1767094",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjF8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvdHJ1bXAtdXMtaXJhbi1tZWV0aW5nLWF0": {
+    "t": "Trump bezeichnet Treffen mit iranischen Vertretern als sehr gut",
+    "s": "US-Präsident Donald Trump berichtete von einem sehr guten dreistündigen Treffen mit iranischen Vertretern bei der UN.",
+    "m": "Das Treffen zwischen dem US-Präsidenten und iranischen Offiziellen dauerte drei Stunden. Donald Trump äußerte sich anschließend positiv über die Zusammenkunft bei den Vereinten Nationen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Donald Trump ein dreistündiges und sehr gutes Treffen mit iranischen Vertretern bei der UN hatte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:08.249Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjJ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyNi9zZXAvMjIvdHJ1bXAtc3RvY2stdHJhZGVzLWp1bHktZmls": {
+    "t": "Finanzbericht enthüllt zahlreiche Aktiengeschäfte von Donald Trump im Juli",
+    "s": "Neuesten Finanzunterlagen zufolge tätigte Donald Trump im Juli über 1.000 Aktienkäufe und -verkäufe im Wert von bis zu 270 Millionen US-Dollar.",
+    "m": "Laut einer Analyse seiner Offenlegung tätigte der Präsident im Juli über 440 Käufe und 700 Verkäufe. Die Gesamtsumme beläuft sich auf 79 bis 270 Millionen US-Dollar, trotz Wählerwut über den Aktienhandel gewählter Amtsträger. Zu den größten Verkäufen am 20. Juli gehörten Amazon- und Microsoft-Aktien im Wert von jeweils 5 bis 25 Millionen Dollar. Am selben Tag verkaufte er zudem Oracle, Costco und Nvidia und kaufte Intuit sowie Salesforce.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass Donald Trump im Juli laut neuen Finanzberichten über 1.000 Aktienkäufe und -verkäufe im Millionenwert tätigte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:15.949Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjV8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL211bmRvL3NvbW9zLW9zLW1lbGhvcmVzLXRydW1wLW5hcy1uYWNvZXMtdW5pZGFz": {
+    "t": "Trump lobt amerikanische Überlegenheit vor den Vereinten Nationen",
+    "s": "US-Präsident Donald Trump hielt eine Rede vor der Generalversammlung der Vereinten Nationen und betonte die Überlegenheit der Vereinigten Staaten.",
+    "m": "Trump trat als Redner vor die Generalversammlung der Vereinten Nationen und positionierte die Vereinigten Staaten als Hüter des Weltgeschehens. In seiner Rede erwähnte er zudem den Gedanken, ob er den Iran vernichten solle, und übergab diesen Text an das für den Weltfrieden zuständige Gremium.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass der US-Präsident vor der Generalversammlung der Vereinten Nationen eine Rede hielt und die USA thematisierte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:23.331Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/somos-os-melhores-trump-nas-nacoes-unidas-com-elogio-da-superioridade-americana_n1767091",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjd8aHR0cHM6Ly93d3cuZnJhbmNlMjQuY29tL2VuL2ZyYW5jZS8yMDI2MDkyMi1tYWNyb24tdXJnZXMtd29ybGQtc3RhbmQtZmlybS1h": {
+    "t": "Macrons letzte UN-Rede: Aufruf gegen Machtmissbrauch und für internationale Solidarität",
+    "s": "Der französische Präsident Emmanuel Macron hielt seine letzte UN-Vollversammlung als französischer Staatschef und rief die Welt auf, gegen Machtmissbrauch zusammenzustehen.",
+    "m": "Macron warnte vor der Rückkehr des Rechts des Stärkeren und forderte die Nationen auf, sich hinter die Vereinten Nationen zu stellen. Zudem schlug er ein Moratorium für Angriffe auf zivile sowie Energieinfrastruktur im Russland-Ukraine-Krieg vor. Ein weiteres Anliegen war ein von China und den USA unabhängiges, Open-Source-Modell für fortschrittliche KI.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass Emmanuel Macron in seiner letzten UN-Rede als französischer Staatschef die Welt zu Einigkeit gegen Machtmissbrauch und Imperien aufgerufen hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:30.844Z",
+    "sourceSignature": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMjh8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWltQUZCVlY5NWNVeE9MVEJNWjBwcFprNDFWRU52UW5KTk5W": {
+    "t": "Trump kündigt Treffen mit iranischen Offiziellen an",
+    "s": "US-Präsident Trump erklärte, dass sich US-amerikanische und iranische Offizielle am Dienstag getroffen haben.",
+    "m": "Das Treffen fand kurz nach einer Warnung Trumps statt, in der er drohte, den Iran zu vernichten. Weitere Details zum Inhalt des Treffens oder den genauen Teilnehmern wurden nicht genannt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Trump von einem Treffen zwischen US- und iranischen Offiziellen am Dienstag berichtet hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:37.869Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzF8aHR0cHM6Ly93d3cuZHcuY29tL2RlL21lcnotdW50ZXItZHJ1Y2std2FzLWhlacOfdC1kYXMtZsO8ci1kZXV0c2NobGFuZHMtZXUt": {
+    "t": "Merz unter Druck: Auswirkungen auf Deutschlands EU-Politik",
+    "s": "Die CDU-Landtagswahlergebnisse sind nach Aussage des deutschen Bundeskanzlers ein Desaster. Es stellt sich die Frage nach den Folgen für die EU-Politik.",
+    "m": "Der deutsche Bundeskanzler bezeichnete die CDU-Landtagswahlergebnisse des letzten Wochenendes als ein Desaster. Zudem steht Merz unter Druck. Es wird diskutiert, ob diese Wahlergebnisse Auswirkungen auf europäischer Ebene haben werden.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die CDU-Landtagswahlergebnisse vom letzten Wochenende als Desaster bezeichnet wurden und Merz unter Druck steht.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:45.051Z",
+    "sourceSignature": "https://www.dw.com/de/merz-unter-druck-was-heißt-das-für-deutschlands-eu-politik/a-79379950?maca=de-rss-de-all-1119-xml-mrss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzV8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvYnJhemlscy1sdWxhLWdhemFzLXBhaW4t": {
+    "t": "Brasiliens Präsident Lula verurteilt Israels Vorgehen in Gaza",
+    "s": "Der brasilianische Präsident Luiz Inacio Lula da Silva hat das Leid und die Traumata kritisiert, die durch Israels Regierung in Gaza verursacht wurden.",
+    "m": "Brasiliens Präsident Luiz Inacio Lula da Silva hat in einer Stellungnahme das Vorgehen der israelischen Regierung im Gazastreifen scharf verurteilt. Dabei betonte er insbesondere das dortige Leid sowie die langfristigen Traumata, die das Handeln der Regierung über Generationen hinweg hinterlassen werde.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Der brasilianische Präsident Luiz Inacio Lula da Silva kritisierte das von Israels Regierung verursachte Leid und die Traumata in Gaza.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet, dass Lula betonte, der Schmerz und das Trauma würden Generationen überdauern."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:55:52.620Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzZ8aHR0cHM6Ly93d3cudGFnZXNzY2hhdS5kZS9pbmxhbmQvaW5uZW5wb2xpdGlrL2ZyZWktdW5pb24tZnJha3Rpb24tbWVyei0xMDAu": {
+    "t": "Frei stellt sich nach Wahldebakel hinter Kanzler Merz",
+    "s": "Nach dem CDU-Wahldebakel sieht Unionsfraktionsvorsitzender Frei enormen Aussprachebedarf, stellt sich aber im Interview hinter Kanzler Merz.",
+    "m": "Obwohl es beim Treffen der Unionsfraktion deutliche Kritik gegeben hat, sichert der Fraktionsvorsitzende Frei dem Kanzler Merz im tagesthemen-Interview seinen Rückhalt zu. Zuvor hatte die CDU ein Wahldebakel erlebt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Unionsfraktionschef Frei Kanzler Merz nach dem CDU-Wahldebakel trotz Kritik im Fraktionstreffen den Rückhalt ausspricht.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:55:59.928Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzd8aHR0cHM6Ly93d3cuZXVyb25ld3MuY29tLzIwMjYvMDkvMjIvYnVybmhhbS10b3V0cy1nb29kLWNvbm5lY3Rpb24td2l0aC10cnVt": {
+    "t": "Erstes Treffen zwischen Burnham und Trump in New York",
+    "s": "Andy Burnham und Donald Trump haben sich zu ihrem ersten Treffen in New York zusammengefunden.",
+    "m": "Bei ihrer ersten Begegnung in New York sprach Burnham von einer 'guten Verbindung' zu Trump. Nach dem Treffen zeigte sich Trump auf einer Pressekonferenz durchgehend höflich sowie freundlich und gab überwiegend diplomatische Antworten auf potenziell heikle Themen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Burnham und Trump trafen sich zum ersten Mal in New York.",
+    "diff": [
+      {
+        "name": "Euronews",
+        "note": "Berichtet über Burnhams Aussage einer 'guten Verbindung' und Trumps höfliches und diplomatisches Auftreten auf der Pressekonferenz."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:56:07.111Z",
+    "sourceSignature": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktMzh8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvZGppYm91dGktbWluaXN0ZXItYXBwZWFs": {
+    "t": "Dschibuti bittet um internationale Hilfe für jemenitische Flüchtlinge",
+    "s": "Die Ministerin für Soziales und Solidarität in Dschibuti, Ouloufa Ismail Abdo, fordert Unterstützung für jemenitische Flüchtlinge.",
+    "m": "Angesichts der Situation im Jemen hat sich die dschibutische Ministerin Ouloufa Ismail Abdo an die Öffentlichkeit gewandt. In ihrer Funktion als Ministerin für Soziales und Solidarität bittet sie eindringlich um humanitäre Hilfe für die aus dem Jemen geflüchteten Menschen.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass Dschibutis Ministerin für Soziales und Solidarität, Ouloufa Ismail Abdo, um Hilfe für jemenitische Flüchtlinge bittet.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:56:14.487Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDB8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOS8yMi90cnVtcC1hZG1pbi1hc2tzLXRvcC11cy1jb3VydC10by1y": {
+    "t": "Trump-Regierung fordert Aufhebung der Freilassung von palästinensischem Wissenschaftler",
+    "s": "Die US-Regierung bittet das Oberste Gericht, die Freilassung eines palästinensischen Wissenschaftlers rückgängig zu machen.",
+    "m": "Der US Solicitor General ficht die Entscheidung eines niederen Gerichts zur Inhaftierung des Georgetown-Wissenschaftlers an. Dieser Fall sorgt für verfassungsrechtliche Debatten in den USA.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die US-Regierung das oberste Gericht gebeten hat, die Freilassung eines palästinensischen Wissenschaftlers der Georgetown-Universität rückgängig zu machen.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:56:21.651Z",
+    "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDF8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyNi9zZXAvMjIvdHJ1bXAtc2F5cy1yZWxhdGlvbnMtYmV0dGVy": {
+    "t": "Trump lobt Verhältnis zu Andy Burnham bei UN-Treffen",
+    "s": "US-Präsident Donald Trump lobte bei einem Treffen bei der UN-Versammlung in New York das Verhältnis zu dem britischen Premierminister Andy Burnham.",
+    "m": "Donald Trump erklärte, seine Beziehung sei unter Andy Burnham besser als unter Keir Starmer. Er bezeichnete Burnham als geborenen Geschäftsmann und glaubt, er werde ein großartiger Premierminister sein, trotz Spannungen bei Themen wie Künstlicher Intelligenz, den Chagos-Inseln und dem Krieg im Iran. Es war ihr erstes persönliches Treffen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten über ein Treffen zwischen US-Präsident Donald Trump und dem britischen Premierminister Andy Burnham bei der UN-Versammlung, bei dem Trump dessen wirtschaftliche Fähigkeiten lobte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:56:29.210Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNDJ8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyNi9zZXAvMjIvdHJ1bXAtZGllc2VsLWV4cG9ydC1iYW4": {
+    "t": "Trump unterstützt Diesel-Exportverbot zur Senkung der Energiepreise",
+    "s": "Donald Trump hat erklärt, dass er ein Verbot von Diesel-Exporten zur Senkung der steigenden Energiepreise unterstützt.",
+    "m": "Ein solches Exportverbot wird von einigen US-Politikern gefordert, um die stark gestiegenen Energiekosten einzudämmen. Die Dieselpreise haben in den USA und Europa Rekordhöhen erreicht. Ein Industrieverband warnt jedoch, dass der Plan nach hinten losgehen und zu noch höheren Benzinpreisen führen könnte.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Donald Trump ein Verbot von Diesel-Exporten zur Senkung der Energiepreise unterstützt.",
+    "diff": [
+      {
+        "name": "Guardian Business",
+        "note": "Erwähnt zusätzlich die Warnung eines Industrieverbands, dass der Plan zu noch höheren Benzinpreisen führen würde, sowie den Kontext von Rekordpreisen und Kriegen."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:56:36.706Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTB8aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWkxd0ZCVlY5NWNVeFBTME5aTjBoSGNFcFpWRU5oV1V4NU5s": {
+    "t": "EU hebt Sanktionen gegen zwei russische Milliardäre auf",
+    "s": "Im Zuge des Ukraine-Krieges hat die EU die Sanktionen gegen zwei russische Milliardäre aufgehoben.",
+    "m": "Die Europäische Union hat im Rahmen der Maßnahmen rund um den Ukraine-Krieg beschlossen, die Sanktionen gegen zwei russische Milliardäre zu beenden. Nähere Details zu den Identitäten der Personen oder den genauen Gründen für diese Entscheidung gehen aus den vorliegenden Informationen nicht hervor.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass die EU im Kontext des Ukraine-Krieges die Sanktionen gegen zwei russische Milliardäre aufgehoben hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:56:43.947Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS0NZN0hHcEpZVENhWUx5NlMwR0tXY3dnMS1zTmpZWlM1UzVYREpOUnVYbVNiM1AxcFZxUU1KeEhXYjlXR2xQbTZSQ2Y2bU9ySGZiTjByTG4tdTQyU1pmSngwOTh3dUZITVVkelRyWjdWM2RpcV9HUFFTd3RRNEFtenM2WTc5RUZzeUd1RlAwQjF3ZWJOejUwbE9IQUNGcGVPYmlabURDSmJRV25DWUVfTDBiSm1teFRiVHU5LUR6ZTFDZnJiSGhBWFByWjcyNWxISnFPMkh3SQ?oc=5",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTJ8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzhkeDVkeTVyenoybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWdu": {
+    "t": "Streit zwischen US-Präsident Donald Trump und TV-Sendern um den White House pool",
+    "s": "Präsident Donald Trump und TV-Netzwerke befinden sich in einem großen Streit wegen des White House press pool.",
+    "m": "Der White House press pool steht im Zentrum einer heftigen Auseinandersetzung zwischen US-Präsident Donald Trump und verschiedenen Fernsehsendern. Die genauen Hintergründe und Ursachen dieses Streits werden in der Berichterstattung jedoch nicht weiter ausgeführt. Es geht um die Rolle und Funktion dieses traditionellen Medienpools im Weißen Haus.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass es einen großen Streit zwischen Präsident Donald Trump und TV-Netzwerken bezüglich des White House press pool gibt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:56:51.186Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTV8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyNi9zZXAvMjIvZG9vcmRhc2gtbmV3LXlvcmstc2V0dGxlbWVu": {
+    "t": "DoorDash zahlt 131,5 Millionen Dollar nach Unterbezahlung in New York",
+    "s": "DoorDash zahlt 131,5 Millionen Dollar, um eine Untersuchung der Stadt New York wegen unterbezahlter Arbeiter beizulegen.",
+    "m": "Das Unternehmen zahlt Nachzahlungen an 264.000 Arbeiter. Die Einigung folgt auf eine Untersuchung der Stadtregierung, die ergab, dass DoorDash Arbeiter unterbezahlt oder zu lange auf ihr Geld warten ließ. Bürgermeister Zohran Mamdani bezeichnete die Einigung als größte Arbeitsmarktdurchsetzungsaktion der Stadt.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass DoorDash 131,5 Millionen Dollar zahlt, um eine Untersuchung in New York wegen unterbezahlter Arbeiter beizulegen.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:56:58.568Z",
+    "sourceSignature": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTd8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL25vdGljaWFyaW8tYW50ZW5hMS8xOWgtdHJ1bXAtZm9pLWFzLW5hY29lcy11bmlk": {
+    "t": "Trump droht dem Iran bei den Vereinten Nationen",
+    "s": "US-Präsident Trump hielt bei den Vereinten Nationen eine Rede und richtete ein Ultimatum an den Iran.",
+    "m": "Donald Trump trat vor die Vereinten Nationen, um dort ein Ultimatum gegenüber dem Iran auszusprechen. Die genauen Forderungen oder Hintergründe dieses Ultimatums wurden in der Quelle nicht weiter ausgeführt. Der Auftritt fand am Abend statt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Trump bei den Vereinten Nationen ein Ultimatum an den Iran richtete.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:57:05.782Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/19h-trump-foi-as-nacoes-unidas-deixar-ultimato-ao-irao_a1_1767085",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNTl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzkvMjIvZXJkb2dhbi1hY2N1c2VzLWlzcmFlbC1v": {
+    "t": "Erdogan wirft Israel bei UN-Vollversammlung Völkermord-Mentalität vor",
+    "s": "Der türkische Präsident Recep Tayyip Erdogan hat Israel bei der UN-Vollversammlung einer völkermörderischen Mentalität bezichtigt.",
+    "m": "In seiner Rede vor den Vereinten Nationen attackierte der türkische Staatschef Israel scharf und sprach von einem „genocidal mindset“. Weitere Einzelheiten wurden von der Quelle nicht genannt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der türkische Präsident Erdogan Israel bei der UN-Vollversammlung beschuldigt hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:57:13.013Z",
+    "sourceSignature": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjB8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2xpdmUvMjAyNi9zZXAvMjIvbWlkZGxlLWVhc3QtaXJhbi1pcmdjLWRv": {
+    "t": "Iran signalisiert Bereitschaft zur Öffnung der Straße von Hormus",
+    "s": "Teheran zeigt sich bereit, die Straße von Hormus unter bestimmten Bedingungen innerhalb von sieben Tagen wieder zu öffnen.",
+    "m": "Der Iran hat anscheinend seine Vorbedingungen für die Wiedereröffnung der Straße von Hormus gelockert und verlangt nun, dass die USA im Gegenzug den Druck auf das Land verringern. Zuvor hatte Teheran noch sieben strenge Vorbedingungen gestellt, darunter ein Ende des Krieges an allen Fronten und die Einstellung aller aggressiven Handlungen sowie Sanktionen durch die USA. Zudem äußerte sich Trump zu möglichen Verhandlungen nach den US-Zwischenwahlen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Der Iran zeigt sich unter bestimmten Bedingungen zur baldigen Öffnung der Straße von Hormus bereit, nachdem zuvor strengere Forderungen galten.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet über Trumps Aussage, dass der Iran nach den US-Zwischenwahlen einen Deal machen werde, und erwähnt den Live-Blog-Kontext."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:57:20.595Z",
+    "sourceSignature": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjR8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3Nwb3J0L2xpdmUvMjAyNi9zZXAvMjIvZW5nbGFuZC12LXNyaS1sYW5rYS1maXJz": {
+    "t": "England besiegt Sri Lanka im ersten One-Day International",
+    "s": "England hat Sri Lanka im ersten Männer-One-Day-Cricket-International auf einem schwierigen Pitch in Durham mit 89 Runs geschlagen.",
+    "m": "Will Jacks zeigte eine starke Leistung mit Schläger und Ball. Im Spiel gab es unter anderem frühe Aktionen wie einen Boundary durch Nachlässigkeit in der Abwehr sowie das Ausscheiden von Banton, der von einem präzisen Wurf von Asitha Fernando bowled bezwungen wurde.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass England und Sri Lanka im ersten Männer-One-Day-Cricket-International gegeneinander gespielt haben und Will Jacks eine Rolle spielte.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:57:27.990Z",
+    "sourceSignature": "https://www.theguardian.com/sport/live/2026/sep/22/england-v-sri-lanka-first-one-day-cricket-international-live-score-updates",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNjh8aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjYvc2VwLzIyL2dpYW5uaS1pbmZhbnRpbm8tZmlmYS1wcmVz": {
+    "t": "FIFA-Präsident Infantino wirbt um Unterstützung für Wiederwahl",
+    "s": "FIFA-Präsident Gianni Infantino lobbyiert trotz fehlender Gegenkandidaten bei Staatschefs für seine Wiederwahl im kommenden Jahr.",
+    "m": "Infantino wird voraussichtlich bei der Generalversammlung der Vereinten Nationen in New York auftreten, um die Unterstützung von Staats- und Regierungschefs für die Verbände zu gewinnen. Er setzt seine globale Kampagne fort, nachdem die FIFA ihren Plan zum Verkauf der Weltmeisterschaft im vergangenen Monat aufgegeben hatte. Es sind bisher keine anderen Kandidaten an die Öffentlichkeit getreten, um ihn herauszufordern.",
+    "k": "sport",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Gianni Infantino trotz fehlender Gegenkandidaten um Unterstützung für seine Wiederwahl als FIFA-Präsident wirbt.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:57:35.758Z",
+    "sourceSignature": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzB8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9pbnNpZGUtc3RvcnkvMjAyNi85LzIyL2lzLWV0aGlvcGlhLWhlYWRpbmct": {
+    "t": "Äthiopien vor erneutem Bürgerkrieg? Sieben bewaffnete Gruppen verbünden sich",
+    "s": "Sieben bewaffnete Gruppen haben in Äthiopien ein Bündnis angekündigt, um die Regierung zu stürzen. Dies wirft die Frage nach einem neuen Bürgerkrieg auf.",
+    "m": "Die Nachrichtenagenturen berichten über den Zusammenschluss von sieben bewaffneten Gruppen in Äthiopien. Ihr erklärtes Ziel ist es, die derzeitige Regierung zu stürzen. Es stellt sich die dringende Frage, ob das ostafrikanische Land dadurch auf einen erneuten Bürgerkrieg zusteuert.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass sieben bewaffnete Gruppen ein Bündnis zum Sturz der Regierung in Äthiopien gebildet haben und ein neuer Bürgerkrieg droht.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:57:43.404Z",
+    "sourceSignature": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzJ8aHR0cHM6Ly93d3cuZXVyb25ld3MuY29tLzIwMjYvMDkvMjIvdHJ1bXAtdGhyZWF0ZW5zLXRvLWFubmloaWxhdGUtaXJhbi1hdC11": {
+    "t": "Trump droht Iran bei UNO mit Vernichtung und bestätigt Gespräche",
+    "s": "US-Präsident Trump drohte bei der UNO mit der Vernichtung des Iran, bestätigte aber auch direkte Gespräche.",
+    "m": "Während seiner Rede vor der UN-Vollversammlung am Dienstag stellte Trump die Frage, ob er die Islamische Republik vernichten oder ihr einen Deal zum Wiederaufbau anbieten solle. Später bestätigte er vor Reportern, dass sich US-amerikanische und iranische Beamte am Rande getroffen hatten. Die meisten Mitglieder der iranischen Delegation verließen während seiner Rede den Saal.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Donald Trump sprach vor der UN-Vollversammlung über den Iran und bestätigte direkte Gespräche zwischen US- und iranischen Beamten.",
+    "diff": [
+      {
+        "name": "Euronews",
+        "note": "Berichtet, dass Trump mit der Vernichtung des Iran drohte und die iranische Delegation während der Rede den Saal verließ."
+      }
+    ],
+    "updatedAt": "2026-09-22T20:57:50.892Z",
+    "sourceSignature": "https://www.euronews.com/2026/09/22/trump-threatens-to-annihilate-iran-at-un-then-confirms-direct-talks",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOS8yMi9xYXRhcnMtZW1pci11cmdlcy1kaXBsb21hY3ktYXMtZ3Vs": {
+    "t": "Katar fordert Diplomatie in gefährlicher Golf-Krise",
+    "s": "Der Emir von Katar ruft angesichts einer gefährlichen Phase zu Diplomatie auf. Verzögerte Verhandlungen hätten zum US-Israel-Krieg gegen den Iran geführt.",
+    "m": "Scheich Tamim erklärte, dass jahrelange verzögerte Diplomatie zu dem aktuellen US-Israel-Krieg gegen den Iran geführt habe. Er betonte, dass sich die Region derzeit in einer der gefährlichsten Phasen befinde und drängte auf diplomatische Lösungen.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Der Emir von Katar fordert angesichts der extrem gefährlichen Lage am Golf verstärkte Diplomatie und macht verzögerte Verhandlungen für den Konflikt mit dem Iran verantwortlich.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:57:58.163Z",
+    "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzZ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOS8yMi91cy1zaWducy10cmVtZW5kb3VzLWFyY3RpYy1zZWN1cml0": {
+    "t": "USA schließen Arktis-Sicherheitsabkommen mit Dänemark und Grönland",
+    "s": "Die USA haben ein Sicherheitsabkommen mit Dänemark und Grönland unterzeichnet, das nach Drohungen von Trump einen monatelangen Streit beendet.",
+    "m": "Das Abkommen wurde von Al Jazeera als „tremendous“ (enorm) bezeichnet. Sowohl die NATO als auch die Europäische Union begrüßten die Vereinbarung ausdrücklich. Der Pakt setzt einem monatelangen diplomatischen und politischen Stillstand ein Ende, nachdem der US-Präsident zuvor gedroht hatte, Grönland einzunehmen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die USA ein Sicherheitsabkommen mit Dänemark und Grönland unterzeichnet haben, welches einen vorherigen Konflikt beendet und von NATO sowie EU begrüßt wurde.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:58:05.476Z",
+    "sourceSignature": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktNzl8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2d1ZXJyYS1uby1tZWRpby1vcmllbnRlL2VyZG9nYW4tY29uZGVuYS1hdGFxdWVz": {
+    "t": "Erdogan verurteilt Angriffe im Schwarzen Meer bei UN-Generalversammlung",
+    "s": "Der türkische Präsident Recep Tayyip Erdogan hat in seiner Rede vor der UN-Generalversammlung Angriffe auf Handelsschiffe im Schwarzen Meer verurteilt.",
+    "m": "Zudem appellierte der türkische Staatschef in seiner Ansprache an die internationalen Teilnehmer, sich für den sofortigen Wiederaufbau des Gazastreifens einzusetzen.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quelle berichtet übereinstimmend, dass Erdogan bei der UN-Generalversammlung Angriffe auf Handelsschiffe verurteilt und die Reconstruction von Gaza gefordert hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:58:12.737Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/erdogan-condena-ataques-a-navios-no-mar-negro-e-pede-reconstrucao-de-gaza_n1767075",
+    "method": "gemini"
+  },
+  "djItZGV8c3RvcnktODR8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL25vdGljaWFyaW8tYW50ZW5hMS8xOGgtdHJ1bXAtZGVpeGEtdWx0aW1hdG8tYW8t": {
+    "t": "Trump stellt Iran ein Ultimatum bei der UN",
+    "s": "Donald Trump hat bei der UN ein Ultimatum an den Iran gerichtet.",
+    "m": "Der US-Präsident Donald Trump äußerte sich bei den Vereinten Nationen und setzte dem Iran ein Ultimatum. Weitere Details sind in der kurzen Meldung nicht enthalten.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Trump ein Ultimatum an den Iran bei der UN gerichtet hat.",
+    "diff": [],
+    "updatedAt": "2026-09-22T20:58:19.996Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/18h-trump-deixa-ultimato-ao-irao-na-onu_a1_1767077",
+    "method": "gemini"
   }
 }
