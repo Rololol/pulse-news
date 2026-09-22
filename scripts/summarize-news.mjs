@@ -72,7 +72,7 @@ const candidates=stories
 for (const {story,index,key} of candidates) {
   const signature=(story.sources||[]).map(s=>s.url).join("|");
   const cached=cache[key];
-  if (cached?.summary && cached.sourceSignature===signature) {
+  if (cached?.summary && cached.sourceSignature===signature && (!apiKey || cached.method==="gemini")) {
     stories[index].aiSummary=cached.summary;
     continue;
   }
