@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="light dark">
-<title>Weltticker</title>
+<title>Pulse</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -154,13 +154,12 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
   </defs>
 </svg>
 <div class="statusfill"></div>
-<header class="navbar" id="navbar"><span class="navtitle">Ticker</span></header>
+<header class="navbar" id="navbar"><span class="navtitle">Pulse</span></header>
 
 <main class="wrap">
-  <div class="large"><h1>Ticker</h1><p class="sub" id="dateSub"></p></div>
+  <div class="large"><h1>Pulse</h1><p class="sub" id="dateSub"></p></div>
   <div class="mq" id="mq" hidden></div>
   <div class="controls">
-    <div class="seg" id="seg" role="group" aria-label="Reichweite"></div>
     <div class="chips" id="chips" role="group" aria-label="Themen"></div>
   </div>
   <div id="feed"></div>
@@ -174,7 +173,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 (function(){
 'use strict';
 
-const SNAPSHOT='Sonntagabend, 20.09.2026';
+const SNAPSHOT='Pulse';
 
 const CATS={
   politik:{n:'Politik',c1:'#0A84FF',c2:'#0046D6'},
@@ -194,7 +193,7 @@ let ITEMS=[];
 /* ------------------------------------------------------------------ *
  *  Zustand (nur im Speicher, keine Einstellungsseite mehr)
  * ------------------------------------------------------------------ */
-let S={scope:'all',cat:'all'};
+let S={cat:'all'};
 let currentSheet=null,lastFocus=null;
 
 const $=(s,r=document)=>r.querySelector(s);
@@ -208,14 +207,7 @@ function regionTag(it){const co=COUNTRIES[it.c]||COUNTRIES.INT;const name=it.cit
 function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.length:(it.src?1:0)}
 
 function visible(){
-  const list=ITEMS.filter(it=>{
-    if(S.cat!=='all'&&it.k!==S.cat)return false;
-    switch(S.scope){
-      case 'state':return !!it.st;
-      case 'local':return !!it.city;
-      default:return true;
-    }
-  });
+  const list=ITEMS.filter(it=>S.cat==='all'||it.k===S.cat);
   return list.sort((a,b)=>a.d===b.d?b.p-a.p:(a.d<b.d?1:-1));
 }
 
@@ -229,8 +221,6 @@ function renderMarquee(){
   el.innerHTML=`<div class="mq-label">${ic('wave')}Top</div><div class="mq-view"><div class="mq-track" style="--dur:${Math.max(40,Math.round(chars/7))}s"><div class="mq-list">${list}</div><div class="mq-list" aria-hidden="true">${list.replace(/<button /g,'<button tabindex="-1" ')}</div></div></div>`;
 }
 function renderControls(){
-  const scopes=[['all','Alle'],['state','Bundesland'],['local','Lokal']];
-  $('#seg').innerHTML=scopes.map(s=>`<button data-scope="${s[0]}" aria-pressed="${S.scope===s[0]}">${s[1]}</button>`).join('');
   $('#chips').innerHTML=`<button class="chip all" data-cat="all" aria-pressed="${S.cat==='all'}">Alle Themen</button>`+Object.keys(CATS).map(k=>`<button class="chip" data-cat="${k}" aria-pressed="${S.cat===k}" style="${cv(CATS[k])}"><span class="ci">${ic(k)}</span>${CATS[k].n}</button>`).join('');
 }
 function heroHTML(it){
@@ -333,9 +323,8 @@ document.addEventListener('click',e=>{
   const d=t.dataset;
   if(d.open!==undefined){openSheet(d.open);return}
   if(d.close!==undefined){closeSheet();return}
-  if(d.scope!==undefined){S.scope=d.scope}
   if(d.cat!==undefined){S.cat=d.cat}
-  if(d.scope!==undefined||d.cat!==undefined){renderControls();renderFeed();return}
+  if(d.cat!==undefined){renderControls();renderFeed();return}
   if(d.share!==undefined){
     const it=ITEMS.find(i=>i.id===d.share);if(!it)return;
     try{navigator.share({title:it.t,text:it.s,url:it.url||undefined}).catch(()=>{})}catch(err){}
