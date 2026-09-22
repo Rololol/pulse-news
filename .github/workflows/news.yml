@@ -1,4 +1,7 @@
 name: Update news
+concurrency:
+  group: pulse-news-update
+  cancel-in-progress: true
 on:
   workflow_dispatch:
   push:
@@ -31,4 +34,9 @@ jobs:
           git add data/news.json
           if [ -f data/ai-cache.json ]; then git add data/ai-cache.json; fi
           git diff --cached --quiet || git commit -m "Update news"
-          git push
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git fetch origin main
+            git rebase origin/main
+          done
+          exit 1
