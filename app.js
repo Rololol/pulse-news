@@ -1,7 +1,8 @@
 const topics=["Alle","Politik","Wissenschaft","Technologie","Gesundheit","Wirtschaft","Klima","Sport","Kultur","Raumfahrt","Energie","Digitales","Mobilität","Finanzen","Bildung"];
 const countries=["Alle","DE","UK","US","INT"];let data=[],topic="Alle",country="Alle";
-const nav=document.querySelector("#nav"),chips=document.querySelector("#topics"),news=document.querySelector("#news"),hero=document.querySelector("#hero"),search=document.querySelector("#search"),count=document.querySelector("#count");
+const nav=document.querySelector("#nav"),chips=document.querySelector("#topics"),countriesEl=document.querySelector("#countries"),news=document.querySelector("#news"),hero=document.querySelector("#hero"),search=document.querySelector("#search"),count=document.querySelector("#count");
 nav.innerHTML=topics.slice(0,9).map(x=>"<button>"+x+"</button>").join("");
+countriesEl.innerHTML='<div class="chips">'+countries.map(x=>'<button class="chip country-chip '+(x==="Alle"?"active":"")+'">'+x+"</button>").join("")+"</div>";
 chips.innerHTML='<div class="chips">'+topics.map(x=>'<button class="chip '+(x==="Alle"?"active":"")+'">'+x+"</button>").join("")+"</div>";
 function esc(s=""){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 function render(){
@@ -13,7 +14,8 @@ function render(){
 }
 async function load(){try{const r=await fetch("data/news.json?"+Date.now());data=await r.json()}catch(e){data=[]}render()}
 function setTopic(v){topic=v;document.querySelectorAll(".chip").forEach(x=>x.classList.toggle("active",x.textContent===topic));render()}
-document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>setTopic(b.textContent));
+document.querySelectorAll(".country-chip").forEach(b=>b.onclick=()=>{country=b.textContent;document.querySelectorAll(".country-chip").forEach(x=>x.classList.toggle("active",x.textContent===country));render()});
+document.querySelectorAll("#topics .chip").forEach(b=>b.onclick=()=>setTopic(b.textContent));
 document.querySelectorAll("#nav button").forEach(b=>b.onclick=()=>setTopic(b.textContent));
 search.oninput=render;
 document.querySelector("#theme").onclick=()=>document.body.classList.toggle("dark");
