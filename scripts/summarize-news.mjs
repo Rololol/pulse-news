@@ -17,7 +17,7 @@ for(const [k,v] of Object.entries(cache)){const t=Date.parse(v?.updatedAt||"");i
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g," ").replace(/&nbsp;/gi," ").replace(/&amp;/gi,"&").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&#39;/g,"'").replace(/&#x27;/g,"'").replace(/&quot;/gi,'"').replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/\s+/g," ").trim();
 const hashKey=s=>Buffer.from(String(s)).toString("base64url").slice(0,120);
-const stableId=s=>"story-"+hashKey(s).slice(0,24);
+const stableId=s=>{let h=2166136261;for(let i=0;i<String(s).length;i++){h^=String(s).charCodeAt(i);h=Math.imul(h,16777619)}return "story-"+(h>>>0).toString(16).padStart(8,"0")+(((h>>>0)^0x9e3779b9)>>>0).toString(16).padStart(8,"0")};
 const cacheTTL=48*60*60*1000;
 
 const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
