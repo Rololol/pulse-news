@@ -444,7 +444,10 @@ let drag=null;
 document.addEventListener('touchstart',e=>{if(!e.target.closest('.grip'))return;drag={y:e.touches[0].clientY,dy:0}},{passive:true});
 document.addEventListener('touchmove',e=>{if(!drag)return;drag.dy=Math.max(0,e.touches[0].clientY-drag.y);const s=$('.sheet');if(s){s.style.transition='none';s.style.transform='translateY('+drag.dy+'px)'}},{passive:true});
 document.addEventListener('touchend',()=>{if(!drag)return;const s=$('.sheet');if(s){s.style.transition='';s.style.transform=''}const far=drag.dy>90;drag=null;if(far)closeSheet()});
-window.addEventListener('scroll',()=>{const on=window.scrollY>44;$('#navbar').classList.toggle('scrolled',on);document.body.classList.toggle('nav-scrolled',on)},{passive:true});
+function syncNavbar(){const on=window.scrollY>44;$('#navbar').classList.toggle('scrolled',on);document.body.classList.toggle('nav-scrolled',on)}
+window.addEventListener('scroll',syncNavbar,{passive:true});
+window.addEventListener('pageshow',syncNavbar);
+syncNavbar();
 
 function updateDateTime(){
   const now=new Date();
