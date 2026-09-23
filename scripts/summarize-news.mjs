@@ -117,8 +117,8 @@ ${sourceText}`;
   parsed.agree=clean(parsed.agree||"").slice(0,260);
   parsed.chg=clean(parsed.chg||"").slice(0,420);
   // Zahlen müssen in den gelieferten Quellen vorkommen.
-  const sourceNumbers=new Set((sourceText.match(/\b\d[\d.,%/-]*\b/g)||[]).map(x=>x.replace(/[^\\d]/g,"")));
-  const outputNumbers=(parsed.s+" "+parsed.m+" "+parsed.r).match(/\\b\\d[\\d.,%/-]*\\b/g)||[];
+  const sourceNumbers=new Set((sourceText.match(/\b\d[\d.,%/-]*\b/g)||[]).map(x=>x.replace(/[^\d]/g,"")));
+  const outputNumbers=(parsed.s+" "+parsed.m+" "+parsed.r).match(/\b\d[\d.,%/-]*\b/g)||[];
   for(const n of outputNumbers){const key=n.replace(/[^\\d]/g,"");if(key.length>=2&&!sourceNumbers.has(key))throw new Error("Qualitätsprüfung: Zahl nicht in Quelle belegt")};
   parsed.diff=Array.isArray(parsed.diff)?parsed.diff.filter(x=>x&&x.name&&x.note).slice(0,6).map(x=>({name:clean(x.name),note:clean(x.note).slice(0,280)})):[];
   // Qualitätsprüfung: Kurzfassung und Kontext dürfen nicht nahezu identisch sein.
@@ -206,7 +206,6 @@ const final=output.slice(0,45);
 // Historie: Die aus dem aktuellen Fenster fallenden Meldungen werden monatlich archiviert.
 // Es werden nur die bisherigen data.json-Meldungen übernommen, die nicht mehr in final stehen.
 let previousCurrent=[];
-try{previousCurrent=JSON.parse(await fs.readFile(outputFile,"utf8"))}catch{}
 await fs.mkdir(archiveDir,{recursive:true});
 const finalIds=new Set(final.map(x=>x.id));
 const archiveCandidates=previousCurrent.filter(x=>x&&x.id&&!finalIds.has(x.id));
@@ -228,7 +227,7 @@ for(const [month,items] of months){
 }
 const archiveMonths=new Set();
 try{
-  for(const name of await fs.readdir(archiveDir))if(/^\\d{4}-\\d{2}\\.json$/.test(name))archiveMonths.add(name.slice(0,-5));
+  for(const name of await fs.readdir(archiveDir))if(/^\d{4}-\d{2}\.json$/.test(name))archiveMonths.add(name.slice(0,-5));
 }catch{}
 for(const item of archiveCandidates){const d=new Date(item.d);if(Number.isFinite(d.getTime()))archiveMonths.add(d.toISOString().slice(0,7));}
 const monthList=[...archiveMonths].sort().reverse();
