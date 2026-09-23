@@ -1,401 +1,286 @@
 [
   {
-    "id": "story-b070f6912e478f28",
-    "c": "DE",
-    "k": "politik",
+    "id": "story-8e361e961001672f",
+    "c": "INT",
+    "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-09-23T07:01:00.000Z",
-    "p": 4,
-    "st": "BW",
-    "city": "",
-    "t": "STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt",
-    "s": "Serkan Eren, der Gründer von STELP, sitzt im Iran im Gefängnis und wurde zu zehn Jahren Haft verurteilt.",
-    "m": "Die vorliegenden Quellen berichten, dass STELP-Gründer Serkan Eren im Iran inhaftiert ist und zu zehn Jahren Haft verurteilt wurde.",
-    "r": "Die Inhaftierung eines prominenten baden-württembergischen Vereinsgründers im Ausland ist von hoher regionaler und außenpolitischer Relevanz.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-09-23-100.html",
-        "date": "2026-09-23T07:01:00.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bw-newsticker-am-morgen-stelp-gruender-serkan-eren-sitzt-im-iran-im-gefaengnis-zehn-jahre-haft-oktoberfest-gebuehr-fuer-influencer-kommt-das-modell-auch-auf-den-wasen-100.html",
-        "date": "2026-09-23T06:55:00.000Z"
-      }
-    ],
-    "agree": "Beide Quellen stimmen überein, dass der STELP-Gründer Serkan Eren im Iran im Gefängnis sitzt und zu zehn Jahren Haft verurteilt wurde.",
-    "diff": [],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-09-23-100.html"
-  },
-  {
-    "id": "story-c47b20465a4c59ff",
-    "c": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T07:00:00.000Z",
-    "p": 2,
+    "d": "2026-09-23T09:00:19.000Z",
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "SPD-Bundesspitze setzt der Partei Die Linke in Berlin ein Stoppsignal",
-    "s": "Die Berliner Partei Die Linke strebt eine Regierungszusammenarbeit mit SPD und Grünen an, sieht sich jedoch Kritik ausgesetzt.",
-    "m": "Die Linke in Berlin möchte gemeinsam mit SPD und Grünen regieren. Allerdings steht sie in der Kritik. Darauf hat nun die SPD-Bundesspitze reagiert und ein Stoppsignal gesetzt. Dies geht aus einem aktuellen Nachrichtenüberblick hervor.",
-    "r": "Die Meldung ist relevant, da sie mögliche Koalitionsoptionen und politische Spannungen auf Landesebene sowie die Haltung der SPD-Bundespartei dazu beleuchtet.",
+    "t": "OCDE. Economia mundial deve crescer 2,9% este ano e ter recuperação gradual",
+    "s": "Die OECD erwartet für dieses Jahr ein globales Wirtschaftswachstum von 2,9 Prozent und rechnet mit einer schrittweisen Erholung im Jahr 2027.",
+    "m": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung prognostiziert für das laufende Jahr ein weltweites Wirtschaftswachstum von 2,9 Prozent. Für das Jahr 2027 wird eine schrittweise wirtschaftliche Erholung erwartet. Dennoch warnt die Institution vor erheblichen Risiken, die insbesondere mit Energie, Inflation, Finanzbedingungen, Extremwetterereignissen sowie der Entwicklung von Investitionen in Künstliche Intelligenz zusammenhängen.",
+    "r": "Die Einschätzungen der OECD geben Aufschluss über die globalen Wirtschaftsperspektiven und potenzielle Risikofaktoren für die internationale Finanz- und Energiestabilität.",
+    "srcs": [
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/ocde-economia-mundial-deve-crescer-29-este-ano-e-ter-recuperacao-gradual-em-2027_n1767170",
+        "date": "2026-09-23T09:00:19.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/ocde-economia-mundial-deve-crescer-29-este-ano-e-ter-recuperacao-gradual-em-2027_n1767170",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-b288bae02cbfc359",
+    "c": "INT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T08:02:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Peter Thiel: Einflussreicher Investor sieht Demokratie und Freiheit als unvereinbar",
+    "s": "Der Investor Peter Thiel ist einer der reichsten Menschen der Welt und hält Demokratie und Freiheit für unvereinbar.",
+    "m": "Peter Thiel war einer der ersten Unterstützer von Donald Trump und investierte früh in Facebook. Er gehört zu den reichsten und einflussreichsten Menschen weltweit. Nun wurde bekannt, dass er Demokratie und Freiheit für unvereinbar hält.",
+    "r": "Die Aussichten und Weltanschauungen von einflussreichen Technologie-Investoren sind für die globale Politik und Wirtschaft von Bedeutung.",
     "srcs": [
       {
         "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/spd-setzt-linken-in-berlin-ein-stoppsignal-news-kompakt-das-wichtigste-kurz-gefasst/a-79382341?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-09-23T07:00:00.000Z"
+        "url": "https://www.dw.com/de/peter-thiel-macht-politik-palantir-und-der-antichrist/a-79326432?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-09-23T08:02:00.000Z"
       }
     ],
+    "url": "https://www.dw.com/de/peter-thiel-macht-politik-palantir-und-der-antichrist/a-79326432?maca=de-rss-de-all-1119-xml-mrss",
     "agree": "",
-    "diff": [],
-    "url": "https://www.dw.com/de/spd-setzt-linken-in-berlin-ein-stoppsignal-news-kompakt-das-wichtigste-kurz-gefasst/a-79382341?maca=de-rss-de-all-1119-xml-mrss"
+    "diff": []
   },
   {
-    "id": "story-d2fe3d6e4cc944d7",
+    "id": "story-8993f54717a48cfe",
+    "c": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T08:01:59.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Bundeswehr startet Großübung Red Storm Charlie in Hamburg",
+    "s": "Rund 500 Bundeswehrsoldaten üben drei Tage lang gemeinsam mit etwa 60 Organisationen in Hamburg für den Ernstfall.",
+    "m": "Die Bundeswehr hält die Übung namens Red Storm Charlie in Hamburg ab. Daran nehmen etwa 500 Soldaten sowie rund 60 Organisationen teil. Die Übung dauert drei Tage und soll auf den Ernstfall vorbereiten.",
+    "r": "Die Übung ist für die Bevölkerung und die zivile sowie militärische Zusammenarbeit in Hamburg von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-alles-ueber-die-bundeswehr-uebung-in-hamburg,redstormcharlie-100.html",
+        "date": "2026-09-23T08:01:59.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-alles-ueber-die-bundeswehr-uebung-in-hamburg,redstormcharlie-100.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-52a99efacc9ee743",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
-    "d": "2026-09-23T06:59:53.000Z",
+    "d": "2026-09-23T08:01:43.000Z",
     "p": 2,
-    "st": "BW",
+    "st": "SH",
     "city": "",
-    "t": "Mordprozess trotz eingeschlafenem Schöffen fortgesetzt",
-    "s": "Der Mordprozess um einen Fall aus Schrozberg wird trotz eines eingeschlafenen Schöffen normal fortgeführt.",
-    "m": "Während des Mordprozesses ist ein Schöffe im Gerichtssaal eingeschlafen. Daraufhin hatte die Verteidigung einen Befangenheitsantrag gestellt. Dieser Antrag führte jedoch nicht zum Abbruch des Prozesses, sodass das Verfahren regulär fortgesetzt werden kann.",
-    "r": "Der Vorfall betrifft den ordnungsgemäßen Ablauf eines Mordprozesses und die Frage der richterlichen beziehungsweise ehrenamtlichen Unparteilichkeit bei einem Befangenheitsantrag.",
+    "t": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt",
+    "s": "Das Dorf Nieblum auf Föhr hat den Wettbewerb um das schönste Dorf Deutschlands gewonnen.",
+    "m": "In der letzten Runde des Awards des Online-Reisemagazins Travelbook setzte sich Nieblum gegen vier weitere Dörfer durch und wurde zum schönsten Dorf Deutschlands gewählt.",
+    "r": "Die Auszeichnung prämiert das Dorf im nationalen Vergleich und hebt seine touristische Bedeutung hervor.",
     "srcs": [
       {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/mord-prozess-schrozberg-femizid-ehefrau-hinter-doenerimbiss-erschossen-schoeffe-eingeschlafen-befangenheit-100.html",
-        "date": "2026-09-23T06:59:53.000Z"
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/nieblum-auf-foehr-zum-schoensten-dorf-deutschlands-gewaehlt,nieblum-dorf-foehr-100.html",
+        "date": "2026-09-23T08:01:43.000Z"
       }
     ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/nieblum-auf-foehr-zum-schoensten-dorf-deutschlands-gewaehlt,nieblum-dorf-foehr-100.html",
     "agree": "",
-    "diff": [],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/mord-prozess-schrozberg-femizid-ehefrau-hinter-doenerimbiss-erschossen-schoeffe-eingeschlafen-befangenheit-100.html"
+    "diff": []
   },
   {
-    "id": "story-894644e017713d59",
+    "id": "story-fdafceca6398b773",
     "c": "DE",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-09-23T06:59:25.000Z",
+    "d": "2026-09-23T08:01:00.000Z",
     "p": 2,
-    "st": "RP",
+    "st": "",
     "city": "",
-    "t": "Klinikum Ludwigshafen verzeichnet hohe Nachfrage nach Ausbildungsplätzen",
-    "s": "Am Klinikum Ludwigshafen gibt es deutlich mehr Bewerber für Ausbildungsplätze als offene Stellen vorhanden sind.",
-    "m": "Die Ausbildungsplätze am Klinikum Ludwigshafen erfreuen sich großer Beliebtheit. Azubis werden dort nach Angaben des SWR eng betreut und erhalten gute Übernahmegarantien.",
-    "r": "Die Meldung zeigt auf, dass bestimmte medizinische Ausbildungseinrichtungen trotz des Fachkräftemangels in der Pflege sehr attraktiv für den Nachwuchs sind.",
+    "t": "Wettbewerbszentrale klagt gegen Online-Apotheke von dm",
+    "s": "Die Drogeriemarktkette dm muss sich vor Gericht gegen eine Klage der Wettbewerbszentrale verteidigen. Diese fordert ein Verbot der Online-Apotheke dm-med.",
+    "m": "Die Drogeriemarktkette dm hat mit der Online-Apotheke dm-med ein neues Angebot gestartet. Dagegen ist die Wettbewerbszentrale vor Gericht gezogen. Ziel der Klage ist es, ein vollständiges Verbot der Online-Apotheke zu erwirken.",
+    "r": "Die rechtliche Auseinandersetzung um dm-med betrifft den stark reglementierten Apothekenmarkt im Internet und könnte Grundsatzfragen für den Online-Vertrieb von Gesundheitsprodukten klären.",
     "srcs": [
       {
-        "name": "SWR Aktuell Rheinland-Pfalz",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/hohe-bewerberzahlen-bei-ausbildungen-pflege-klinikum-ludwigshafen-100.html",
-        "date": "2026-09-23T06:59:25.000Z"
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/online-apotheke-dm-med-gericht-streit-wettbewerb-100.html",
+        "date": "2026-09-23T08:01:00.000Z"
       }
     ],
+    "url": "https://www.zdfheute.de/panorama/online-apotheke-dm-med-gericht-streit-wettbewerb-100.html",
     "agree": "",
-    "diff": [],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/hohe-bewerberzahlen-bei-ausbildungen-pflege-klinikum-ludwigshafen-100.html"
+    "diff": []
   },
   {
-    "id": "story-eb538b887564f231",
+    "id": "story-7de4c426e3d3bd9f",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
-    "d": "2026-09-23T06:58:29.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Jäger bei Gewehrreparatur schwer verletzt",
-    "s": "Ein Jäger hat sich beim Reparieren seines Gewehrs schwer verletzt.",
-    "m": "Bei der Reparatur seines Gewehrs hat sich ein Jäger schwere Verletzungen zugezogen. Bisher sind keine weiteren Details zu dem Unfall bekannt.",
-    "r": "Der Vorfall verdeutlicht Gefahren im Umgang mit Jagdwaffen bei Wartungsarbeiten. Solche Unfälle sind von lokalem Interesse für die öffentliche Sicherheit.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-09/23/jaeger-verletzt-sich-beim-reparieren-seines-gewehrs-schwer",
-        "date": "2026-09-23T06:58:29.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.zeit.de/news/2026-09/23/jaeger-verletzt-sich-beim-reparieren-seines-gewehrs-schwer"
-  },
-  {
-    "id": "story-a438709a3a0f0923",
-    "c": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T06:58:22.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Nachrichtenüberblick für Rheinland-Pfalz vom Morgen",
-    "s": "In Rheinland-Pfalz gab es in der vergangenen Nacht Ermittlungen nach einem Kampfjet-Absturz und einen Brand in Ludwigshafen.",
-    "m": "Nach Angaben des RLP-Newstickers laufen Ermittlungen nach dem Absturz eines Kampfjets. Zudem verletzte sich eine Frau bei einem Brand in Ludwigshafen. Auch marode Straßen in Kaiserslautern sind Thema.",
-    "r": "Die Meldung gibt einen morgendlichen Überblick über aktuelle polizeiliche und lokale Ereignisse sowie Infrastrukturprobleme in Rheinland-Pfalz.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ermittlungen-nach-absturz-kampfjet-flugzeug-unfall-frau-bei-brand-in-ludwigshafen-verletzt-marode-strassen-kaiserslautern-rlp-newsticker-2026-09-23-100.html",
-        "date": "2026-09-23T06:58:22.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ermittlungen-nach-absturz-kampfjet-flugzeug-unfall-frau-bei-brand-in-ludwigshafen-verletzt-marode-strassen-kaiserslautern-rlp-newsticker-2026-09-23-100.html"
-  },
-  {
-    "id": "story-c3f055ca5dc72c73",
-    "c": "INT",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-09-23T06:57:00.000Z",
+    "d": "2026-09-23T08:00:27.000Z",
     "p": 3,
-    "st": "",
+    "st": "BE",
     "city": "",
-    "t": "FC Bayern verspielt 2:0-Führung gegen Manchester City",
-    "s": "Die Spielerinnen des FC Bayern haben zum Auftakt der Champions League eine 2:0-Führung verspielt und gegen Manchester City einen Dämpfer erlebt.",
-    "m": "Beim Spiel kam es zu einer strittigen Szene beim Anschlusstreffer von Manchester City, da ein Rauchtopf auf dem Platz lag. Die Münchnerinnen übten deshalb Kritik an der Schiedsrichterin. Das Spiel endete schließlich ohne Sieg für Bayern.",
-    "r": "Das Ergebnis und die Begleitumstände zum Auftakt der Women's Champions League sind für den sportlichen Verlauf des Turniers von Bedeutung.",
+    "t": "Polizeirazzien in Berlin wegen illegalen Schusswaffenhandels",
+    "s": "In Berlin laufen seit dem Morgen stadtweit Razzien. Hintergrund sind monatelange Ermittlungen wegen illegalen Schusswaffenhandels und Schusswaffengewalt.",
+    "m": "Sondereinheiten von Polizei und Staatsanwaltschaft ermitteln seit Monaten im Zusammenhang mit Schusswaffengewalt in Berlin. Seit dem Morgen des heutigen Tages gibt es im Zuge dieser Ermittlungen weitere Zugriffe und Razzien in der gesamten Stadt.",
+    "r": "Die groß angelegten Durchsuchungen verdeutlichen das anhaltende Vorgehen der Behörden gegen illegale Waffengeschäfte und Bandenkriminalität in der Hauptstadt.",
     "srcs": [
       {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-verspielt-2-0-fuehrung-gegen-manchester-city-spielerinnen-von-bengalo-irritiert-a-216e8a74-620b-4a5b-93af-9e2dc5456dc8#ref=rss",
-        "date": "2026-09-23T06:57:00.000Z"
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-durchsucht-in-berlin-wohnungen-wegen-illegalen-schusswaffenhandels-102.html",
+        "date": "2026-09-23T08:00:27.000Z"
       }
     ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-durchsucht-in-berlin-wohnungen-wegen-illegalen-schusswaffenhandels-102.html",
     "agree": "",
-    "diff": [],
-    "url": "https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-verspielt-2-0-fuehrung-gegen-manchester-city-spielerinnen-von-bengalo-irritiert-a-216e8a74-620b-4a5b-93af-9e2dc5456dc8#ref=rss"
+    "diff": []
   },
   {
-    "id": "story-11db86658fecffdc",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:56:38.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "USA priorisieren weiße Südafrikaner als Flüchtlinge",
-    "s": "Die US-Einwanderungspolitik legt laut Berichten den Fokus darauf, weiße Südafrikaner als Flüchtlinge zu priorisieren.",
-    "m": "Es wurde bekannt, dass die USA in ihrer Einwanderungspolitik weiße Südafrikaner als Flüchtlinge priorisieren. Weitere Details zu den konkreten Hintergründen oder der Umsetzung dieser Maßnahme gehen aus der Meldung nicht hervor.",
-    "r": "Die Neuausrichtung der US-Einwanderungspolitik bezüglich bestimmter Flüchtlingsgruppen ist von internationalem Interesse für die Migrationspolitik.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-09/23/usa-priorisieren-weisse-suedafrikaner-als-fluechtlinge",
-        "date": "2026-09-23T06:56:38.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.zeit.de/news/2026-09/23/usa-priorisieren-weisse-suedafrikaner-als-fluechtlinge"
-  },
-  {
-    "id": "story-98dd82a306eafb1a",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:55:11.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Trump und Selenskyj sprechen bei UN-Vollversammlung über Ukraine-Krieg",
-    "s": "US-Präsident Trump und der ukrainische Staatschef Selenskyj haben am Rande der UN-Vollversammlung über den russischen Angriffskrieg gesprochen.",
-    "m": "Der US-Präsident war bei der UN-Vollversammlung ein gefragter Gesprächspartner. Zu den Inhalten des Treffens mit dem ukrainischen Staatschef Selenskyj gehörte der russische Angriffskrieg und die Deeskalation mit Russland. Zudem erhielt Trump Gegenwind vom französischen Präsidenten Macron.",
-    "r": "Das Treffen und die diplomatischen Reaktionen am Rande der UN-Vollversammlung berühren zentrale Fragen der internationalen Sicherheit und des Krieges in der Ukraine.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html",
-        "date": "2026-09-23T06:55:11.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html"
-  },
-  {
-    "id": "story-08b50a969682732f",
-    "c": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-09-23T06:52:13.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Kylian Mbappé lobt Jürgen Klopp und warnt vor DFB-Team",
-    "s": "In einem Interview schwärmt Kylian Mbappé von Jürgen Klopp, verrät dessen früheres Transferinteresse und warnt davor, Deutschland abzuschreiben.",
-    "m": "Kylian Mbappé bezeichnete Jürgen Klopp in einem Interview als einen der besten Trainer der letzten 20 Jahre. Zudem enthüllte er, dass Klopp ihn einst nach Liverpool holen wollte, und riet dazu, die deutsche Nationalmannschaft nicht abzuschreiben.",
-    "r": "Die Aussagen eines prominenten Spielers über den neuen Bundestrainer und die deutsche Nationalmannschaft sind von sportlichem Interesse.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/sport/fussball/kylian-mbappe-schwaernt-in-den-hoechsten-toenen-von-juergen-klopp-accg-201254397.html",
-        "date": "2026-09-23T06:52:13.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblJZOEY1QWxiY0xydGRLeVhvVGEtaEZFdVkxSmwtb0Z6bTNXMjhjZm5tSWdWZHNFVVpsUTczQXN0WVNxSXVvMWZIRENjUUdlelNBSXZFdlI0SndZVGpLQ0pSZ3N1TU9GcmpXVmJMdTQ0QkZwWGpiS0NIamE2Zm9aSkpCX0ZnTWR5V3VscWpRNEJoYk9ESWZhUXMzNkZyTHJEV242TURHenFhTGsza3BEV2p3NTE0MXdiSkdNaXFwOTBGUUVZRnR2QjdYNmd4ZmVhTFNGb3VGQmZGdXVnNEppNjhCNzZKa0pUUzdzcg?oc=5",
-        "date": "2026-09-23T06:14:00.000Z"
-      }
-    ],
-    "agree": "Die Quellen stimmen überein, dass Mbappé in einem Interview von Jürgen Klopp als einem der besten Trainer schwärmte.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Berichtet ausführlich über die Details, dass Klopp Mbappé einst nach Liverpool holen wollte und Mbappé vor einer Unterschätzung der deutschen Nationalmannschaft warnt."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Enthält lediglich die Überschrift über das Schwärmen von Klopp mit Verweis auf den Spiegel."
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/sport/fussball/kylian-mbappe-schwaernt-in-den-hoechsten-toenen-von-juergen-klopp-accg-201254397.html"
-  },
-  {
-    "id": "story-c11703845f207a3d",
-    "c": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:51:26.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Kritik an Kanzler: Brinkhaus rechnet in Unionsfraktionssitzung ab",
-    "s": "Der ehemalige Unionsfraktionschef Ralph Brinkhaus hat dem Bundeskanzler in einer Sitzung schwere Vorwürfe gemacht und Veränderungen gefordert.",
-    "m": "In der Unionsfraktionssitzung soll der ehemalige Fraktionschef Brinkhaus mit dem Kanzler abgerechnet haben. Laut einem Bericht warf er ihm vor, sich verändern zu müssen.",
-    "r": "Die Äußerungen eines prominenten Unionspolitikers gegenüber dem Kanzler beleben die innerparlamentarische und politische Debatte.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-09/ralph-brinkhaus-friedrich-merz-unionsfraktion-kritik",
-        "date": "2026-09-23T06:51:26.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.zeit.de/politik/deutschland/2026-09/ralph-brinkhaus-friedrich-merz-unionsfraktion-kritik"
-  },
-  {
-    "id": "story-63535eadfd642714",
-    "c": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:51:13.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Kritik an Linken-Politikerin belastet Berliner Olympia-Chancen",
-    "s": "Nach dem Wahlsieg der Linken sieht der Beauftragte Niroomand Berlins Olympia-Chancen auf dem Nullpunkt und kritisiert Elif Eralp.",
-    "m": "Der Olympia-Beauftragte Niroomand zeigt sich fassungslos über den respektlosen Umgang von Elif Eralp mit ihm und seiner Arbeit. Er äußert scharfe Kritik an diesem neuen Stil im Umgang mit Andersdenkenden. Grund für diese Spannungen ist der Wahlsieg der Linken.",
-    "r": "Die Auseinandersetzung zwischen politischen Akteuren gefährdet maßgeblich das Vorhaben, Olympische Spiele nach Berlin zu holen.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/article6ab36fc8a15a9fecb668c5b9/elif-eralp-und-berlins-olympia-aus-wenn-das-der-stil-ist-wie-man-mit-andersdenkenden-umgehen-will.html",
-        "date": "2026-09-23T06:51:13.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.welt.de/sport/article6ab36fc8a15a9fecb668c5b9/elif-eralp-und-berlins-olympia-aus-wenn-das-der-stil-ist-wie-man-mit-andersdenkenden-umgehen-will.html"
-  },
-  {
-    "id": "story-a9d6cc3337e1b58a",
-    "c": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-09-23T06:51:00.000Z",
-    "p": 2,
-    "st": "SL",
-    "city": "",
-    "t": "Manuel Feil wechselt von SV Elversberg zum FC Homburg",
-    "s": "Der langjährige Elversberger Spieler Manuel Feil wechselt zum Regionalligisten FC Homburg und bleibt dem Saarland damit treu.",
-    "m": "Manuel Feil hat den Aufschwung der SV Elversberg von der Regionalliga bis zum Bundesliga-Aufstieg mitgeprägt. Nun verlässt der gebürtige Augsburger den Verein und wird künftig für den FC Homburg in der Regionalliga spielen.",
-    "r": "Der Transfer eines prägenden Spielers von der SV Elversberg zum FC Homburg ist für den saarländischen Regionalligafußball von Bedeutung.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Saarland",
-        "url": "https://www.tagesschau.de/inland/regional/saarland/sr-langjaehriger-elversberger-manuel-feil-schliesst-sich-fc-homburg-an-102.html",
-        "date": "2026-09-23T06:51:00.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.tagesschau.de/inland/regional/saarland/sr-langjaehriger-elversberger-manuel-feil-schliesst-sich-fc-homburg-an-102.html"
-  },
-  {
-    "id": "story-eee3706a70d409d3",
-    "c": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T06:50:45.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Mailänder Modewoche startet mit Prada",
-    "s": "Die Mailänder Modewoche hat begonnen und zieht mit der Präsentation von Prada frühzeitig Einkäufer und Journalisten in die Stadt.",
-    "m": "Das Event startet in diesem Jahr mit Prada, wodurch Fachbesucher und Medienvertreter bereits früh anreisen. Miuccia Prada legt ihren Fokus bei dieser Präsentation besonders auf ein bestimmtes Kleidungsstück, nämlich den Rock.",
-    "r": "Die Mailänder Modewoche ist ein wichtiges internationales Ereignis für die Modebranche, das Fachpublikum und Medien anzieht.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/besser-leben/stil/prada-eroeffnet-die-milan-fashion-week-2026-accg-201254084.html",
-        "date": "2026-09-23T06:50:45.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.faz.net/aktuell/besser-leben/stil/prada-eroeffnet-die-milan-fashion-week-2026-accg-201254084.html"
-  },
-  {
-    "id": "story-7ffa21fae1cd5843",
+    "id": "story-841736c21a204f7b",
     "c": "DE",
     "k": "umwelt",
     "lang": "de",
-    "d": "2026-09-23T06:50:12.000Z",
+    "d": "2026-09-23T08:00:17.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wetter im Herbst 2026: Aussichten zum Altweibersommer",
+    "s": "Am 23. September 2026 ist die Tag-und-Nacht-Gleiche und damit der astronomische Herbstanfang. Ein Meteorologe hat eine Wetterprognose abgegeben.",
+    "m": "Vom Spätsommer geht es in den Herbst über. Am 23. September 2026 findet die Tag-und-Nacht-Gleiche statt, die den kalendarischen beziehungsweise astronomischen Herbstanfang markiert. Ein Meteorologe hat in diesem Zusammenhang eine Wetterprognose für den Altweibersommer vorgestellt.",
+    "r": "Die Meldung ist relevant, da sie die Wetterprognose und den Übergang vom Spätsommer zum Herbstanfang für das Jahr 2026 beleuchtet.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/kalendarischer-herbstanfang-wie-wird-das-wetter-im-herbst-100.html",
+        "date": "2026-09-23T08:00:17.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/kalendarischer-herbstanfang-wie-wird-das-wetter-im-herbst-100.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-88ef10ad16d86914",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T07:59:14.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Großer Felssturz an der Zugspitze sorgt für Staubwolke",
-    "s": "An der Zugspitze hat sich ein großer Felssturz ereignet. Dabei kam es zu einer riesigen Staubwolke und bröselnden Felsen.",
-    "m": "An der Zugspitze kam es zu einem großen Felssturz mit bröselnden Felsen und einer riesigen Staubwolke. Laut der Meldung besteht trotz des Naturereignisses keine Gefahr für Wege oder Gebäude.",
-    "r": "Das Ereignis ist relevant, da es Einblicke in alpine Naturprozesse im Zuge des Klimawandels gibt. Es zeigt, wie sich Felsstürze auf die Region auswirken, auch wenn keine unmittelbare Gefahr für die Infrastruktur besteht.",
+    "t": "Maßnahmen gegen Motorrad-Raser auf B500 besprochen",
+    "s": "Auf der Schwarzwaldhochstraße kommt es immer wieder zu tödlichen Motorrad-Unfällen. Nun haben sich Polizei und Behörden zu einem Runden Tisch getroffen.",
+    "m": "Aufgrund wiederkehrender tödlicher Motorrad-Unfälle auf der Schwarzwaldhochstraße (B500) fand in Baden-Baden ein Runder Tisch statt. Daran nahmen Polizei und Behörden aus der Region teil. Diskutiert wurden mögliche Maßnahmen wie Rüttelstreifen und der Einsatz von Drohnen gegen Motorrad-Raser.",
+    "r": "Die Meldung ist relevant, da auf der Schwarzwaldhochstraße wiederholt tödliche Motorrad-Unfälle passieren und nun behördliche Gegenmaßnahmen beraten wurden.",
     "srcs": [
       {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/bayern/bayern-zugspitze-klimawandel-li.3552575",
-        "date": "2026-09-23T06:50:12.000Z"
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/motorrad-runder-tisch-b500-baden-baden-raserei-unfall-polizei-100.html",
+        "date": "2026-09-23T07:59:14.000Z"
       }
     ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/motorrad-runder-tisch-b500-baden-baden-raserei-unfall-polizei-100.html",
     "agree": "",
-    "diff": [],
-    "url": "https://www.sueddeutsche.de/bayern/bayern-zugspitze-klimawandel-li.3552575"
+    "diff": []
+  },
+  {
+    "id": "story-f4e741b06ad03809",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T07:58:32.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Landgericht Karlsruhe verhandelt über Online-Medikamentenverkauf von dm",
+    "s": "Das Landgericht Karlsruhe muss entscheiden, ob die Drogeriemarktkette dm apothekenpflichtige Arzneimittel online verkaufen darf.",
+    "m": "Die Karlsruher Drogeriemarktkette dm bietet auf ihrer Internetseite apothekenpflichtige Arzneimittel zum Verkauf an. Über die Zulässigkeit dieses Angebots muss nun das Landgericht Karlsruhe in einer Verhandlung entscheiden.",
+    "r": "Das Verfahren klärt grundlegende Vertriebsrechte für apothekenpflichtige Arzneimittel im E-Commerce durch große Drogeriemarktketten.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/wettbewerbszentrale-klagt-gegen-dm-wegen-medikamenten-online-verkauf-100.html",
+        "date": "2026-09-23T07:58:32.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/wettbewerbszentrale-klagt-gegen-dm-wegen-medikamenten-online-verkauf-100.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-ebeae16f75dd98d6",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T07:57:58.000Z",
+    "p": 2,
+    "st": "TH",
+    "city": "",
+    "t": "Arzt aus Dornburg verliert 100.000 Euro durch Quishing-Betrug",
+    "s": "Kriminelle haben einen Arzt aus Dornburg mit einer Quishing-Masche um knapp 100.000 Euro betrogen. Dabei nutzten sie gefälschte Schreiben im Namen der Apobank mit betrügerischen QR-Codes.",
+    "m": "Ein Arzt aus Dornburg wurde Opfer von Cyberkriminellen, die es gezielt auf Mediziner abgesehen haben. Die Täter verschickten Schreiben im Namen der Apobank, die einen gefälschten QR-Code enthielten. Dem Arzt entstand dadurch ein Schaden von knapp 100.000 Euro.",
+    "r": "Der Fall verdeutlicht die anhaltende Bedrohung durch gezielte Phishing- und Quishing-Angriffe auf bestimmte Berufsgruppen im Finanzsektor.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Thüringen",
+        "url": "https://www.tagesschau.de/inland/regional/thueringen/quishing-abzocke-konto,betrug-172.html",
+        "date": "2026-09-23T07:57:58.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/thueringen/quishing-abzocke-konto,betrug-172.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-6fd5151ef1e26ca7",
+    "c": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Chinas Staats- und Parteichef Xi reist zu Staatsbesuch in die USA",
+    "s": "US-Präsident Trump empfängt Chinas Staats- und Parteichef Xi zu einem dreitägigen Staatsbesuch in Washington.",
+    "m": "US-Präsident Trump empfängt heute den chinesischen Staats- und Parteichef Xi in Washington zu einem dreitägigen Staatsbesuch. Als Zeichen der besonderen Ehrerbietung ist geplant, dass Trump Xi persönlich auf dem Militärflughafen Joint Base Andrews in Empfang nimmt. Zudem wird zu Ehren des chinesischen Gastes ein Staatsbankett gegeben.",
+    "r": "Das Treffen der beiden Staatsführer markiert ein hochrangiges diplomatisches Ereignis zwischen den USA und China, das durch besondere protokollarfische Gesten gewürdigt wird.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/chinas-staats-und-parteichef-xi-zu-gast-in-den-usa-100.html",
+        "date": "2026-09-23T07:57:49.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/chinas-staats-und-parteichef-xi-zu-gast-in-den-usa-100.html",
+    "agree": "",
+    "diff": []
   },
   {
     "id": "story-285c0d89b66b7430",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 4,
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 3,
     "st": "",
     "city": "",
     "t": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-    "s": "Angesichts steigender Treibstoffpreise prüfen die USA einen Exportstopp für Dieselkraftstoff.",
-    "m": "Wegen stark gestiegener Spritpreise erwägen die USA, den Export von Diesel zu stoppen. Eine solche Maßnahme wurde zuletzt während der Ölkrise in den 1970er Jahren angewandt.",
-    "r": "Die Maßnahme ist relevant, da ein Exportstopp der USA den globalen Dieselsektor und die internationalen Kraftstoffpreise stark beeinflussen könnte.",
+    "s": "Angesichts steigender Treibstoffpreise prüfen die USA einen Exportstopp für Diesel. Eine solche Maßnahme wurde zuletzt in der Ölkrise der 1970er Jahre angewandt.",
+    "m": "Wegen stark gestiegener Spritpreise, insbesondere für Diesel, diskutieren die USA über einen Exportstopp des Kraftstoffs. Laut den Berichten wurde ein solcher Schritt zuletzt während der Ölkrise in den 1970er Jahren ergriffen.",
+    "r": "Die Maßnahme betrifft den weltweiten Kraftstoffmarkt und ist angesichts stark steigender Energiepreise von ökonomischer Bedeutung.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
+        "date": "2026-09-23T07:57:49.000Z"
       },
       {
         "name": "Tagesschau",
@@ -403,229 +288,451 @@
         "date": "2026-09-23T06:22:27.000Z"
       }
     ],
-    "agree": "Beide Quellen stimmen darin überein, dass die USA wegen hoher Spritpreise einen Exportstopp für Diesel prüfen, welcher zuletzt in den 1970er Jahren angewandt wurde.",
+    "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
+    "agree": "Die Quellen stimmen darin überein, dass die USA angesichts hoher Spritpreise einen Exportstopp für Diesel prüfen und ein solcher Schritt zuletzt in den 70er Jahren angewandt wurde.",
     "diff": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt die Folgen des Irankriegs im Titel."
+        "note": "Erwähnt die Folgen des Irankriegs als Kontext."
       },
       {
         "name": "Tagesschau",
-        "note": "Berichtet, dass sich US-Präsident Trump direkt für einen Diesel-Exportstopp ausgesprochen hat."
+        "note": "Berichtet, dass sich US-Präsident Trump für den Diesel-Exportstopp ausgesprochen hat."
       }
-    ],
-    "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html"
+    ]
   },
   {
-    "id": "story-b3e426ce2dd35f77",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Wadephul fordert Reformen für handlungsfähigeren UNO-Sicherheitsrat",
-    "s": "Bundesaußenminister Wadephul hat sich bei der UN-Generaldebatte für Reformen des Sicherheitsrates ausgesprochen.",
-    "m": "Am Rande der Generaldebatte der Vereinten Nationen in New York hat sich Bundesaußenminister Wadephul für Reformen des UNO-Sicherheitsrates ausgesprochen. Der CDU-Politiker erklärte im Deutschlandfunk, dass Blockaden aufgehoben werden müssten, um den Sicherheitsrat wieder handlungsfähiger zu machen.",
-    "r": "Die Äußerungen des Bundesaußenministers berühren zentrale Fragen der internationalen Diplomatie und der Funktionsfähigkeit des wichtigsten Gremiums der Vereinten Nationen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html"
-  },
-  {
-    "id": "story-6fd5151ef1e26ca7",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Chinas Staatschef Xi zu dreitägigem Staatsbesuch in den USA",
-    "s": "US-Präsident Trump empfängt Chinas Staats- und Parteichef Xi zu einem dreitägigen Staatsbesuch in Washington.",
-    "m": "US-Präsident Trump empfängt Chinas Staats- und Parteichef Xi in Washington zu einem dreitägigen Staatsbesuch. Als Zeichen der besonderen Ehrerbietung will Trump ihn persönlich auf dem Militärflughafen Joint Base Andrews empfangen und zu Xis Ehren ein Staatsbankett geben.",
-    "r": "Das Treffen markiert einen hochrangigen diplomatischen Austausch zwischen den USA und China, der durch besondere protokollatorische Gesten wie einen persönlichen Flughafenempfang und ein Staatsbankett unterstrichen wird.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/chinas-staats-und-parteichef-xi-zu-gast-in-den-usa-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/chinas-staats-und-parteichef-xi-zu-gast-in-den-usa-100.html"
-  },
-  {
-    "id": "story-b5075ea02b302719",
-    "c": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "UNICEF: Humanitäre Lage und Mangel an Hilfsgütern im Sudan katastrophal",
-    "s": "Laut UNICEF ist die humanitäre Lage im Sudan weiterhin katastrophal. Schätzungsweise 17 Millionen Kinder sind auf Hilfe angewiesen.",
-    "m": "Nach Angaben der UNO-Kinderhilfsorganisation UNICEF ist die humanitäre Situation im Sudan unverändert katastrophal. Der Geschäftsführer von UNICEF Deutschland, Schneider, erklärte im Deutschlandfunk, dass allein schätzungsweise 17 Millionen Kinder auf humanitäre Hilfe angewiesen sind.",
-    "r": "Die Meldung ist relevant, da sie das Ausmaß der humanitären Krise und den Hilfsbedarf von Millionen Kindern im Sudan verdeutlicht.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/mangel-an-hilfsguetern-im-sudan-weiterhin-gross-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/mangel-an-hilfsguetern-im-sudan-weiterhin-gross-100.html"
-  },
-  {
-    "id": "story-841394ec1a24ed55",
-    "c": "DE",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Deutschland ratifiziert offiziell UNO-Hochseeschutzabkommen",
-    "s": "Deutschland ist dem UNO-Hochseeschutzabkommen offiziell beigetreten. Bundesumweltminister Schneider hat die Ratifikationsurkunde bei den Vereinten Nationen in New York hinterlegt.",
-    "m": "Mit der Hinterlegung der Ratifikationsurkunde durch Bundesumweltminister Schneider bei den Vereinten Nationen in New York ist Deutschland dem UNO-Hochseeschutzabkommen offiziell beigetreten. Damit gehört die Bundesrepublik nun zu insgesamt 94 Staaten, die dieses Abkommen ratifiziert haben.",
-    "r": "Der Beitritt Deutschlands zum UNO-Hochseeschutzabkommen ist ein internationaler Schritt im Meeresschutz, der nun von insgesamt 94 Staaten vollzogen wurde.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/deutschland-ratifiziert-uno-hochseeschutzabkommen-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/deutschland-ratifiziert-uno-hochseeschutzabkommen-100.html"
-  },
-  {
-    "id": "story-0cdb84f292ecfd4b",
-    "c": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundestag berät Gesetz für härtere Bestrafung bei Einsatz von K.O.-Tropfen",
-    "s": "Der Bundestag berät über ein Gesetz, das die Bestrafung für das Betäuben von Menschen mit K.O.-Tropfen verschärfen soll.",
-    "m": "Wer Menschen mit K.O.-Tropfen betäubt, um sie zu vergewaltigen oder auszurauben, soll künftig härter bestraft werden können. Der Gesetzentwurf wird aktuell im Bundestag beraten. Politikerin Hubig bezeichnete das Vorhaben als starkes Signal.",
-    "r": "Die Gesetzesänderung betrifft den Schutz vor schwerer Kriminalität im Zusammenhang mit Betäubungsmitteln und soll Täter strenger ahnden.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/bundestag-beraet-gesetz-gegen-k-o-tropfen-hubig-starkes-signal-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
-      }
-    ],
-    "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/bundestag-beraet-gesetz-gegen-k-o-tropfen-hubig-starkes-signal-100.html"
-  },
-  {
-    "id": "story-3cbf4000a28839b9",
+    "id": "story-26958f5eb8a2f6e7",
     "c": "DE",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 2,
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 3,
     "st": "",
     "city": "",
     "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
     "s": "Der ADAC spricht sich für die Aufhebung der 12-Uhr-Regel an Tankstellen aus.",
-    "m": "Der ADAC fordert die Abschaffung der Regelung, nach der Tankstellen die Preise für Benzin und Diesel nur einmal täglich um 12 Uhr erhöhen dürfen. Laut Kritik habe diese Regel das Tanken nicht billiger gemacht, sondern zu erheblichen Zusatzkosten und Belastungen für die Verbraucher geführt. Auch andere Stimmen üben Kritik an der bisherigen Regelung.",
-    "r": "Die Forderung betrifft die Preisgestaltung von Kraftstoffen und berührt damit direkt die Verbraucherausgaben im Alltag.",
+    "m": "Der ADAC fordert die Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen. Bisher gibt es zu dieser Forderung und dem Hintergrund übereinstimmende Berichte der Quellen.",
+    "r": "Die Regelung betrifft die Preisgestaltung an Tankstellen und damit Millionen Verbraucher in Deutschland.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
+        "date": "2026-09-23T07:57:49.000Z"
       },
       {
         "name": "ZDF heute",
         "url": "https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
         "date": "2026-09-23T06:24:00.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-09/12-uhr-regel-tankstellen-adac-spritpreise",
-        "date": "2026-09-23T05:33:45.000Z"
       }
     ],
-    "agree": "Die Quellen stimmen überein, dass der ADAC die Abschaffung der 12-Uhr-Regel an Tankstellen fordert.",
+    "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der ADAC die Abschaffung der 12-Uhr-Regel an Tankstellen fordert.",
     "diff": [
       {
         "name": "ZDF heute",
-        "note": "Erwähnt, dass die Regel das Tanken nicht billiger gemacht, sondern Verbraucher belastet hat und dass es auch weitere Kritik gibt."
-      },
+        "note": "Ergänzt, dass die Regel das Tanken nicht billiger gemacht, sondern Verbraucher belastet habe und dass auch andere Kritik üben."
+      }
+    ]
+  },
+  {
+    "id": "story-841394ec1a24ed55",
+    "c": "INT",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Deutschland ratifiziert UNO-Hochseeschutzabkommen",
+    "s": "Deutschland ist dem UNO-Hochseeschutzabkommen offiziell beigetreten. Bundesumweltminister Schneider hinterlegte die Ratifikationsurkunde bei den Vereinten Nationen.",
+    "m": "Deutschland gehört nun offiziell zu den Staaten, die das UNO-Hochseeschutzabkommen ratifiziert haben. Die entsprechende Urkunde wurde von Bundesumweltminister Schneider bei den Vereinten Nationen in New York hinterlegt. Insgesamt haben damit 94 Staaten das Abkommen ratifiziert.",
+    "r": "Der Beitritt Deutschlands zum internationalen Hochseeschutzabkommen ist ein relevanter Schritt im globalen Meeresschutz.",
+    "srcs": [
       {
-        "name": "ZEIT ONLINE",
-        "note": "Erklärt die Funktion der Regel genauer (Preiserhöhungen nur einmal täglich um 12 Uhr) und spricht von »erheblichen Zusatzkosten« danach."
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/deutschland-ratifiziert-uno-hochseeschutzabkommen-100.html",
+        "date": "2026-09-23T07:57:49.000Z"
       }
     ],
-    "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html"
+    "url": "https://www.deutschlandfunk.de/deutschland-ratifiziert-uno-hochseeschutzabkommen-100.html",
+    "agree": "",
+    "diff": []
   },
   {
     "id": "story-bc93aebf22a4d706",
     "c": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
-    "p": 2,
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Gesundheitsminister Linnemann stellt sich im Bundestag den Fragen der Abgeordneten",
-    "s": "Der neue Gesundheitsminister Linnemann stellt sich heute im Bundestag den Fragen der Abgeordneten.",
-    "m": "Im Bundestag stellt sich heute der neue Gesundheitsminister Linnemann den Fragen der Abgeordneten. Weitere Details zu den Inhalten oder dem genauen Ablauf der Befragung sind bisher nicht bekannt.",
-    "r": "Die Befragung im Bundestag ist für die parlamentarische Arbeit und die Vorstellung der politischen Agenda des neuen Ministers von Bedeutung.",
+    "t": "Carsten Linnemann stellt sich als neuer Gesundheitsminister den Fragen im Bundestag",
+    "s": "Der neue Gesundheitsminister Carsten Linnemann stellt sich heute im Bundestag den Fragen der Abgeordneten.",
+    "m": "Im Deutschen Bundestag findet eine Befragung des neuen Gesundheitsministers Carsten Linnemann statt. Dabei stellt er sich den Fragen der Abgeordneten. Weitere Details zum Ablauf oder Inhalt der Befragung sind nicht bekannt.",
+    "r": "Die erste Befragung des neu im Amt befindlichen Gesundheitsministers im Parlament ist für die parlamentarische Arbeit und die Gesundheitspolitik von unmittelbarem Interesse.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/pistorius-und-linnemann-stellen-sich-den-fragen-der-abgeordneten-100.html",
-        "date": "2026-09-23T06:48:35.000Z"
+        "date": "2026-09-23T07:57:49.000Z"
       }
     ],
+    "url": "https://www.deutschlandfunk.de/pistorius-und-linnemann-stellen-sich-den-fragen-der-abgeordneten-100.html",
     "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/pistorius-und-linnemann-stellen-sich-den-fragen-der-abgeordneten-100.html"
+    "diff": []
   },
   {
-    "id": "story-f121b6606f16cfd9",
+    "id": "story-2df03446b3c74dff",
     "c": "DE",
-    "k": "politik",
+    "k": "umwelt",
     "lang": "de",
-    "d": "2026-09-23T06:48:35.000Z",
+    "d": "2026-09-23T07:57:49.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Junge Gruppe in der Union hält an Rentenreform fest",
-    "s": "Nach Wahlniederlagen wendet sich die Junge Gruppe in der CDU/CSU-Bundestagsfraktion gegen Forderungen, den Kompromiss zur Rente mit 63 aufzuschnüren.",
-    "m": "Die Junge Gruppe in der CDU/CSU-Bundestagsfraktion spricht sich gegen Forderungen aus der SPD und Teilen der eigenen Union aus. Diese hatten gefordert, den Kompromiss zur sogenannten Rente mit 63 nach Wahlniederlagen neu zu verhandeln bzw. wieder aufzuschnüren. Die Nachwuchspolitiker halten jedoch an der bestehenden Vereinbarung fest.",
-    "r": "Die Debatte berührt zentrale Fragen der Rentenpolitik und zeigt interne sowie koalitionspolitische Spannungen nach Wahlniederlagen auf.",
+    "t": "Extremwetterkongress in Hamburg berät über Klimawandelfolgen",
+    "s": "In Hamburg hat ein Extremwetterkongress begonnen. Experten beraten dort über den Umgang mit den Folgen des Klimawandels.",
+    "m": "Ab heute diskutieren Experten in Hamburg auf einem Extremwetterkongress über die Auswirkungen des Klimawandels.",
+    "r": "Der Kongress ist relevant, da dort Fachleute zusammenkommen, um über den praktischen Umgang mit den bereits spürbaren Folgen des Klimawandels zu beraten.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/junge-gruppe-in-der-union-haelt-an-rentenreform-fest-102.html",
-        "date": "2026-09-23T06:48:35.000Z"
+        "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
+        "date": "2026-09-23T07:57:49.000Z"
       }
     ],
+    "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
     "agree": "",
-    "diff": [],
-    "url": "https://www.deutschlandfunk.de/junge-gruppe-in-der-union-haelt-an-rentenreform-fest-102.html"
+    "diff": []
+  },
+  {
+    "id": "story-39b5541ea7822da7",
+    "c": "INT",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Greenpeace warnt vor anhaltender Ölverschmutzung in der Straße von Hormus",
+    "s": "Greenpeace berichtet von einer fortbestehenden Umweltverschmutzung durch Öl in der Straße von Hormus.",
+    "m": "Die Organisation Greenpeace macht auf eine anhaltende Umweltverschmutzung durch Öl in der Straße von Hormus aufmerksam. In dieser Region, die zwischen den USA und dem Iran umkämpft ist, bleibt die Bedrohung für die Umwelt nach Angaben groß.",
+    "r": "Die Meldung ist relevant, da sie auf anhaltende Umweltschäden durch Öl in einer geopolitisch umkämpften internationalen Seeschifffahrtsstraße hinweist.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/weiter-umweltverschmutzung-durch-oel-in-der-strasse-von-hormus-104.html",
+        "date": "2026-09-23T07:57:49.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/weiter-umweltverschmutzung-durch-oel-in-der-strasse-von-hormus-104.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-b3e426ce2dd35f77",
+    "c": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T07:57:49.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Vereinte Nationen - Wadephul: \"UNO-Sicherheitsrat muss handlungsfähiger werden\"",
+    "s": "Bundesaußenminister Wadephul hat sich am Rande der UN-Generaldebatte in New York für Reformen des UNO-Sicherheitsrates ausgesprochen.",
+    "m": "Im Deutschlandfunk erklärte der CDU-Politiker, dass Blockaden im UNO-Sicherheitsrat aufgehoben werden müssten. Ziel sei es, das Gremium wieder handlungsfähiger zu machen. Die Äußerungen tätigte er am Rande der Generaldebatte der Vereinten Nationen in New York.",
+    "r": "Die Aussagen eines Bundesministers zur Reform eines zentralen internationalen Organs betreffen die deutsche Außenpolitik und internationale Diplomatie.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
+        "date": "2026-09-23T07:57:49.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-348c0824aabb719d",
+    "c": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T07:57:29.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Aus ehemaligem Gericht wird Schwimmstätte",
+    "s": "Aus einem ehemaligen Gerichtsgebäude wird eine neue Schwimmstätte entwickelt. Die entsprechenden Arbeiten dazu laufen bereits.",
+    "m": "Das Projekt zur Umgestaltung eines früheren Gerichtsgebäudes in eine Schwimmstätte ist in die Wege geleitet worden. Derzeit wird an der Umsetzung dieses Vorhabens gearbeitet.",
+    "r": "Die Umnutzung von Bestandsimmobilien für den Sportbereich zeigt neue Wege in der kommunalen Infrastruktur auf.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/arbeiten-laufen-aus-ehemaligem-gericht-wird-schwimmstaette",
+        "date": "2026-09-23T07:57:29.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/arbeiten-laufen-aus-ehemaligem-gericht-wird-schwimmstaette",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-fbdd3fa965ea4610",
+    "c": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T07:55:36.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Die besten Deals für Apples neue AirPods 5",
+    "s": "Business Insider Deutschland berichtet über günstige Angebote und die besten Deals für die neuen In-Ears AirPods 5 von Apple.",
+    "m": "Es wird über Möglichkeiten informiert, die neuen Apple AirPods 5 günstig zu erwerben. Dabei werden die besten Deals für diese In-Ears vorgestellt.",
+    "r": "Die Meldung ist relevant für Verbraucher, die am Kauf der neuen Apple-Kopfhörer interessiert sind und nach Sparmöglichkeiten suchen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEM1OEJCRlJLYUFLcGdvNkNCQndZelhYeW9hWlFsX1BhMFhlQXlEbGtJZ1dJRFNnRTE4bDE3OW1TdjRDNWJic3hiRUxvbGk1cnJpMXF4NWpfMVE5bDR1TXZLbzBrdzZpZl9mMGthQlFtVTB1SndoYnVCT1Q3M0JpM2NZZjViNlBWd3BqdGc1YXloSS04Yl9acWVjNF9zSTdpYWNNVHA0Sm1VLTlpa3RRT2VqYmN5ME1wbzNCa2xB?oc=5",
+        "date": "2026-09-23T07:55:36.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEM1OEJCRlJLYUFLcGdvNkNCQndZelhYeW9hWlFsX1BhMFhlQXlEbGtJZ1dJRFNnRTE4bDE3OW1TdjRDNWJic3hiRUxvbGk1cnJpMXF4NWpfMVE5bDR1TXZLbzBrdzZpZl9mMGthQlFtVTB1SndoYnVCT1Q3M0JpM2NZZjViNlBWd3BqdGc1YXloSS04Yl9acWVjNF9zSTdpYWNNVHA0Sm1VLTlpa3RRT2VqYmN5ME1wbzNCa2xB?oc=5",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-5dbcd566c38bacdf",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T07:51:51.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "„Mathematik scheint nicht besonders populär zu sein in Deutschland“",
+    "s": "Der Wirtschaftswissenschaftler Bernd Raffelhüschen kritisiert die Rentenpläne der Bundesregierung als unzureichend für eine nachhaltige Finanzierung.",
+    "m": "Bernd Raffelhüschen hält die aktuellen Rentenpläne der Koalition für unzureichend und sieht keine nachhaltige Sicherung der gesetzlichen Rente. Zudem argumentiert er, dass derjenige, der von Gerechtigkeit spricht, für eine Rente mit 70 bis zum Jahr 2030 eintreten müsse. Er kommentierte die Situation mit der Aussage, dass Mathematik in Deutschland offenbar nicht besonders populär sei.",
+    "r": "Die Debatte betrifft die finanzielle Stabilität und Ausgestaltung des deutschen Rentensystems, was für die Sozialpolitik und künftige Generationen von Bedeutung ist.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/video6ab37c22a15a9fecb668c690/rentenpaket-mathematik-scheint-nicht-besonders-populaer-zu-sein-in-deutschland.html",
+        "date": "2026-09-23T07:51:51.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/deutschland/video6ab37c22a15a9fecb668c690/rentenpaket-mathematik-scheint-nicht-besonders-populaer-zu-sein-in-deutschland.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-c30e24dd5d395d64",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T07:50:01.000Z",
+    "p": 2,
+    "st": "NI",
+    "city": "",
+    "t": "Wohnhausbrand in Friesoythe: Hoher Sachschaden und gerettete Hunde",
+    "s": "Bei einem Brand im Landkreis Cloppenburg entstand ein Schaden von rund 200.000 Euro. Menschen wurden nicht verletzt.",
+    "m": "In Friesoythe im Landkreis Cloppenburg kam es zu einem Feuer in einem Haus. Dabei entstand ein Sachschaden in Höhe von etwa 200.000 Euro. Personen kamen bei dem Vorfall nicht zu Schaden. Zudem wurden drei Hunde aus dem brennenden Gebäude gerettet.",
+    "r": "Der Brand verdeutlicht die Gefahr von Sachschäden bei Hausbränden, auch wenn keine Menschen zu Schaden kamen und Tiere gerettet werden konnten.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/friesoythe-drei-hunde-aus-brennendem-haus-gerettet-brand-feuer,brand-1100.html",
+        "date": "2026-09-23T07:50:01.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/friesoythe-drei-hunde-aus-brennendem-haus-gerettet-brand-feuer,brand-1100.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-f725c0cd6912b974",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T07:49:58.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "Fortsetzung der Haspa-Prozesse nach Einbruch",
+    "s": "Nach einer Entscheidung des OLG Hamburg im Mai werden die ruhenden Haspa-Prozesse nach einem Einbruch nun fortgesetzt.",
+    "m": "Das OLG Hamburg hatte der Bank im Mai in einem der Prozesse recht gegeben. Nun werden die weiteren Verfahren, die bisher geruht hatten, fortgeführt.",
+    "r": "Die Fortführung der Prozesse ist für die juristische Aufarbeitung der Einbrüche und die rechtliche Klärung für die Bank relevant.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/haspa-prozesse-nach-einbruch-ruhende-verfahren-gehen-weiter,regionnorderstedtnews-3790.html",
+        "date": "2026-09-23T07:49:58.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/haspa-prozesse-nach-einbruch-ruhende-verfahren-gehen-weiter,regionnorderstedtnews-3790.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-19ce0d3887f97481",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T07:47:26.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+    "s": "Der ADAC kritisiert die seit April geltende Regelung, Spritpreise nur um 12 Uhr zu erhöhen.",
+    "m": "Seit April ist vorgeschrieben, dass Tankstellen ihre Spritpreise nur noch um 12 Uhr erhöhen dürfen. Laut ADAC hat diese Maßnahme jedoch nicht zu stabileren Preisen geführt, sondern stattdessen zu noch größeren Preisschwankungen im Verlauf des Tages.",
+    "r": "Die Debatte betrifft die Regulierung von Kraftstoffpreisen und deren Auswirkungen auf das Verbraucherverhalten sowie den Wettbewerb an Tankstellen.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/tankrabatt-adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen/100256787.html",
+        "date": "2026-09-23T07:47:26.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/politik/deutschland/tankrabatt-adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen/100256787.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-1d8a146d83bd6dd4",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T07:45:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
+    "s": "Viele Deutsche setzen auf vermietete Immobilien als Altersvorsorge. Das Handelsblatt hat die tatsächliche Rendite für Vermieter nachgerechnet.",
+    "m": "Der Traum vieler Deutscher ist es, die Altersvorsorge mit einer vermieteten Immobilie abzusichern. Das Handelsblatt hat in diesem Zusammenhang analysiert, wie viel Rendite Vermieter mit dem Kauf einer Mietwohnung tatsächlich erwirtschaften können. Weitere Details werden nicht genannt.",
+    "r": "Die Frage nach der realen Rendite von vermieteten Immobilien ist für private Investoren bei der Planung ihrer Altersvorsorge von großer finanziellem Bedeutung.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gut-eignen-sich-mietwohnungen-fuer-die-altersvorsorge/100180922.html",
+        "date": "2026-09-23T07:45:00.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gut-eignen-sich-mietwohnungen-fuer-die-altersvorsorge/100180922.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-def1203740c6598e",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T07:44:06.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Razzien und Festnahmen in Berlin im Zuge von Ermittlungen gegen Schusswaffengewalt",
+    "s": "Sondereinheiten von Polizei und Staatsanwaltschaft haben in Berlin im Rahmen von Ermittlungen wegen Schusswaffengewalt weitere Razzien durchgeführt und Festnahmen vorgenommen.",
+    "m": "Seit mehreren Monaten ermitteln Sondereinheiten der Berliner Polizei und der Staatsanwaltschaft in Fällen von Schusswaffengewalt. Nun kam es im Zuge dieser andauernden Ermittlungen zu neuen Zugriffen, Durchsuchungen und Festnahmen in Berlin.",
+    "r": "Die Einsätze verdeutlichen das fortgesetzte Vorgehen von Behörden gegen Schusswaffengewalt und die damit verbundene Kriminalität in der Hauptstadt.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/inland/festnahmen-bei-razzien-gegen-schusswaffengewalt-in-berlin-accg-201254599.html",
+        "date": "2026-09-23T07:44:06.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/razzien-gegen-schusswaffengewalt-in-berlin-festnahmen",
+        "date": "2026-09-23T07:42:23.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/politik/inland/festnahmen-bei-razzien-gegen-schusswaffengewalt-in-berlin-accg-201254599.html",
+    "agree": "Die Quellen stimmen überein, dass es in Berlin im Rahmen von Ermittlungen wegen Schusswaffengewalt Razzien durch Sondereinheiten und Festnahmen gab.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Berichtet ergänzend, dass die Ermittlungen von Sondereinheiten der Polizei und Staatsanwaltschaft bereits seit Monaten andauern."
+      }
+    ]
+  },
+  {
+    "id": "story-34185818aa2f21a1",
+    "c": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T07:39:41.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Gelungener Saisonstart des SC Freiburg im Profifußball",
+    "s": "Der SC Freiburg hat mit sechs Siegen aus sieben Pflichtspielen einen sehr guten Start in die Saison hingelegt.",
+    "m": "Der erfolgreiche Saisonstart mit sechs Siegen aus sieben Pflichtspielen ist das Resultat einer kontinuierlichen Aufbauarbeit beim Sport-Club Freiburg.",
+    "r": "Die sportliche Entwicklung verdeutlicht den nachhaltigen Erfolgsweg des Vereins in die sportliche Spitze.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/sport/fussball/sc-freiburg-starker-saisonstart-100.html",
+        "date": "2026-09-23T07:39:41.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/sport/fussball/sc-freiburg-starker-saisonstart-100.html",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-d5d786ef4be0ff56",
+    "c": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T07:38:46.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Nürnbergs Profi Finn Jeltsch am Meniskus operiert",
+    "s": "Der Fußball-Profi Becker vom 1. FC Nürnberg muss sich einer Meniskusoperation unterziehen.",
+    "m": "Der Spieler Becker aus dem Profi-Kader der 2. Fußball-Bundesliga vom Verein Nürnberg wird am Meniskus operiert. Weitere Details zu dem Eingriff oder der Ausfalldauer wurden nicht mitgeteilt.",
+    "r": "Die Verletzung und anstehende Operation eines Stamm- oder Kaderspielers ist für den sportlichen Verlauf und die Kaderplanung des Zweitligisten von Bedeutung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/nuernberg-profi-becker-wird-am-meniskus-operiert",
+        "date": "2026-09-23T07:38:46.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/nuernberg-profi-becker-wird-am-meniskus-operiert",
+    "agree": "",
+    "diff": []
+  },
+  {
+    "id": "story-5bd36cf3c5e4154a",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T06:22:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Arnold Schwarzenegger dirigiert Blasmusik auf dem Oktoberfest",
+    "s": "Schauspieler Arnold Schwarzenegger war zu Gast auf dem Oktoberfest in München. Dort dirigierte er im Marstall-Zelt die Musik.",
+    "m": "Arnold Schwarzenegger ist ein bekannter Gast auf der Wiesn. Von der Bühne aus gab er zur Musik den Takt an. Diese Aktion ist inzwischen zu einer Tradition des Hollywoodstars geworden.",
+    "r": "Die Meldung beleuchtet den prominenten Besuch und eine wiederkehrende Tradition auf dem Oktoberfest, die mediales Interesse erzeugt.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdE02NnQ4Mk9wcTlBQUh3bld1UHZBcXFTN3g2akxTb0syeGZod19DajhoeURhTkpZSC1ydFR2Q0lCT0NYdUJmenlDQXFCU29iN0tRRTRDdW9NUFZjOGx4Q3VhZzB6RXZUa01JdEZ3UG9ZY3ktV1UxNWRodGxkZFZOWWJpRXZjZDhYUjRkTjB6Y081RFB3c2dKUy04SGh2V3BVQ1BSLWc2Q0ZDOU9Zc2lmVXJQcUZVUS1PTDlwSmkzZXkzdGtQdE9ZUHFaWGhXM3kxMEFoNzdLNWpXLXM?oc=5",
+        "date": "2026-09-23T06:22:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-auf-dem-oktoberfest-der-terminator-dirigiert-a-fc9d83d1-d93e-49b9-b153-646478c66c73#ref=rss",
+        "date": "2026-09-23T06:22:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdE02NnQ4Mk9wcTlBQUh3bld1UHZBcXFTN3g2akxTb0syeGZod19DajhoeURhTkpZSC1ydFR2Q0lCT0NYdUJmenlDQXFCU29iN0tRRTRDdW9NUFZjOGx4Q3VhZzB6RXZUa01JdEZ3UG9ZY3ktV1UxNWRodGxkZFZOWWJpRXZjZDhYUjRkTjB6Y081RFB3c2dKUy04SGh2V3BVQ1BSLWc2Q0ZDOU9Zc2lmVXJQcUZVUS1PTDlwSmkzZXkzdGtQdE9ZUHFaWGhXM3kxMEFoNzdLNWpXLXM?oc=5",
+    "agree": "",
+    "diff": []
   },
   {
     "id": "story-92bfb6cd0c88cf74",
@@ -637,9 +744,9 @@
     "st": "MV",
     "city": "",
     "t": "DHL-Zentrum in Leizen nach Verdacht auf Quecksilber evakuiert",
-    "s": "Nach dem Verdacht auf Quecksilber in einem Paket wurde das DHL-Zentrum in Leizen evakuiert. Eine Zustellerin klagte über körperliche Beschwerden.",
-    "m": "In Leizen kam es zu einem Großeinsatz, nachdem eine Paketzustellerin körperliche Beschwerden meldete und eine verdächtige Substanz in oder an einem Paket entdeckt wurde. Daraufhin wurde das DHL-Zentrum geräumt. Erst kurz zuvor hatte es einen ähnlichen Fall von Quecksilber in Neustadt-Glewe in Mecklenburg-Vorpommern gegeben.",
-    "r": "Der Vorfall betrifft die Sicherheit von Post- und Logistikzentren sowie den Umgang mit gefährlichen Substanzen in Transportnetzwerken.",
+    "s": "Nach körperlichen Beschwerden einer Paketzustellerin wurde ein DHL-Zentrum in Leizen evakuiert. Die Polizei vermutet eine verdächtige Substanz.",
+    "m": "In Mecklenburg-Vorpommern kam es zu einem Großeinsatz, nachdem eine Paketzustellerin körperliche Beschwerden gemeldet hatte. Daraufhin wurde das DHL-Zentrum in Leizen geräumt. Laut Polizei befand sich die verdächtige Substanz in oder an einem Paket. Bereits vor Kurzem gab es im Bundesland einen ähnlichen Fall von Quecksilber-Funden.",
+    "r": "Der Vorfall betrifft die kritische Infrastruktur der Logistik sowie die öffentliche Sicherheit und ruft wegen möglicher Gesundheitsgefahren durch gefährliche Substanzen in der Post ein behördliches Echo hervor.",
     "srcs": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
@@ -652,18 +759,52 @@
         "date": "2026-09-22T20:24:00.000Z"
       }
     ],
-    "agree": "Die Quellen stimmen darin überein, dass ein DHL-Zentrum in Leizen wegen des Verdachts auf Quecksilber evakuiert wurde und es vor Kurzem bereits einen ähnlichen Fund in Mecklenburg-Vorpommern gab.",
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/verdacht-auf-quecksilber-dhl-zentrum-in-leizen-evakuiert,mvregioschwerin-5788.html",
+    "agree": "Die Quellen stimmen überein, dass ein DHL-Zentrum in Leizen in Mecklenburg-Vorpommern evakuiert wurde und ein Zusammenhang mit Quecksilber sowie einem vorherigen Vorfall im Bundesland besteht.",
     "diff": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Berichtet, dass die Polizei bestätigt hat, dass sich die verdächtige Substanz in oder an einem Paket befand, und nennt Neustadt-Glewe als konkreten Ort des Fundes vom Freitag."
+        "note": "Erwähnt konkret den früheren Quecksilber-Fund am Freitag in Neustadt-Glewe."
       },
       {
         "name": "DER SPIEGEL",
-        "note": "Erwähnt zusätzlich, dass eine Paketzustellerin körperliche Beschwerden meldete, was zur Räumung führte, und spricht von einer mutmaßlichen Quecksilbervergiftung."
+        "note": "Berichtet, dass eine Paketzustellerin körperliche Beschwerden meldete, wodurch die Räumung ausgelöst wurde, und spricht von einer mutmaßlichen Quecksilbervergiftung."
+      }
+    ]
+  },
+  {
+    "id": "story-2c62e9c4b255907d",
+    "c": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T05:57:37.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kanzleramtschefin Warken verspricht zügige Reformen trotz Koalitionsunruhe",
+    "s": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass geplante Reformen trotz Unruhe in der Koalition zügig kommen werden.",
+    "m": "Kanzleramtschefin Warken sprach bei einem Treffen mit einflussreichen Wirtschaftsverbänden und versicherte ein zügiges Vorankommen der geplanten Reformen. Dies geschieht trotz bestehender Unruhe in der Koalition. Über ein Treffen der Koalitionsspitzen drang unterdessen nichts nach außen.",
+    "r": "Die Zusagen der Kanzleramtschefin zu Reformen und die Unruhe innerhalb der Regierungskoalition sind für die wirtschaftliche und politische Entwicklung von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+        "date": "2026-09-23T05:57:37.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJV3BVYnZkOVN2Q0FMZGFyQ2tWeExYbldhYkQ5SlIxMlZObFBqXy03VmdnZkh2NFNBVkU2MEhXNjdtVmh1RXRQbEJtdm41Vm1zZGdSeDhnR24tNjRpdndTV3hZMGJRTlRGOGdTbDloWFJycGU4dTY5Q0tMenQ?oc=5",
+        "date": "2026-09-23T05:57:00.000Z"
       }
     ],
-    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/verdacht-auf-quecksilber-dhl-zentrum-in-leizen-evakuiert,mvregioschwerin-5788.html"
+    "url": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Kanzleramtschefin Warken Tempo bei Reformen versprochen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich, dass es sich um einen Verweis auf tagesschau.de handelt und weitere Schlagzeilen sowie Meinungen vorliegen."
+      }
+    ]
   },
   {
     "id": "story-17496790897e1e29",
@@ -674,10 +815,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Freude und Skepsis nach Unterzeichnung des Grönland-Abkommens",
-    "s": "Zwischen den USA und Grönland wurde ein Abkommen zur Arktisinsel unterzeichnet. In New York gab es ein Happy End im zuvor langwierigen Streit.",
-    "m": "Nach langer Ungewissheit über den Ausgang des Streits mit den USA gibt es nun ein Abkommen über die Arktis-Inel, das in New York unterzeichnet wurde. Die Erleichterung in Grönland ist groß, allerdings bleibt Skepsis bestehen, ob US-Präsident Trump sich dauerhaft zufrieden geben wird.",
-    "r": "Das Abkommen beendet einen langwierigen Streit zwischen den USA und Grönland um die Arktisinsel und betrifft die geopolitische Stabilität sowie internationale Beziehungen.",
+    "t": "Freude über Grönland-Abkommen mit den USA und anhaltende Skepsis",
+    "s": "Nach langem Streit zwischen den USA und Grönland über die Arktisinsel gibt es ein Abkommen. Die Erleichterung vor Ort ist groß.",
+    "m": "Lange war unklar, wie der Streit mit den USA um die Arktisinsel Grönland ausgehen würde. Nun wurde ein Abkommen erzielt, was zu großer Erleichterung bei den Grönländern führt. Dennoch bleibt Skepsis bestehen, ob US-Präsident Trump dauerhaft Ruhe geben wird.",
+    "r": "Das Abkommen beendet einen langwierigen Streit um eine strategisch bedeutsame Arktisinsel und betrifft die internationalen Beziehungen sowie die US-Außenpolitik.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -690,14 +831,14 @@
         "date": "2026-09-23T05:57:00.000Z"
       }
     ],
-    "agree": "Die Quellen sind sich einig, dass es große Freude und Erleichterung über das neue Grönland-Abkommen gibt, aber auch eine gewisse Skepsis bleibt.",
+    "url": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html",
+    "agree": "Die Quellen sind sich einig, dass es große Freude und Erleichterung über das geschlossene Grönland-Abkommen gibt, aber auch eine gewisse Skepsis bezüglich des Verhaltens von US-Präsident Trump bestehen bleibt.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Erwähnt zusätzlich, dass das Abkommen in New York als taz.de-Meldung ein Happy End fand."
+        "note": "Teilt den Inhalt der Tagesschau und verlinkt auf den entsprechenden Online-Artikel."
       }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html"
+    ]
   },
   {
     "id": "story-487b5b13d64c22aa",
@@ -705,13 +846,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-09-23T05:36:00.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Qantas plant ab 2028 Direktflüge von Sydney nach New York",
-    "s": "Die Fluggesellschaft Qantas plant ab 2028 Nonstop-Flüge von Sydney nach New York.",
-    "m": "Ab dem Jahr 2028 will Qantas die Strecke von Sydney nach New York direkt bedienen. Dafür sollen zwölf Airbus-Maschinen zusätzliche Tanks erhalten, die Platz für 20 Tonnen extra Treibstoff bieten. Dies ermöglicht den Flug ohne Zwischenstopp, wobei die Flugzeit 18 Stunden betragen soll.",
-    "r": "Die Verbindung ermöglicht erstmals Nonstop-Flüge auf einer sehr langen internationalen Strecke und verdeutlicht technische Anpassungen im Langstreckenflugverkehr.",
+    "t": "Qantas plant Nonstop-Flüge von Sydney nach New York ab 2028",
+    "s": "Die Fluggesellschaft Qantas will ab 2028 direkte Flüge von Sydney nach New York anbieten. Dafür erhalten zwölf Maschinen zusätzliche Tanks.",
+    "m": "Ab dem Jahr 2028 will Qantas die Strecke von Sydney direkt nach New York bedienen. Dafür werden zwölf Airbus-Maschinen mit XXL-Tanks für zwanzig Tonnen extra Treibstoff ausgestattet. Dadurch soll die Strecke ohne Zwischenstopp in einer Flugzeit von 18 Stunden bewältigt werden.",
+    "r": "Die Maßnahme ermöglicht extrem lange Direktverbindungen im internationalen Flugverkehr, die bisher so nicht ohne Zwischenlandung möglich waren.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -724,14 +865,14 @@
         "date": "2026-09-23T05:36:00.000Z"
       }
     ],
-    "agree": "Die Quellen sind sich einig, dass Qantas ab 2028 mit XXL-Tanks direkt von Sydney nach New York fliegen will.",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Qantas ab 2028 mit XXL-Tanks direkt von Sydney nach New York fliegen will.",
     "diff": [
       {
         "name": "DER SPIEGEL",
-        "note": "Berichtet zusätzlich, dass zwölf Airbus-Maschinen mit zusätzlichen Tanks für 20 Tonnen extra Sprit ausgestattet werden und der Flug 18 Stunden dauern soll."
+        "note": "Die Quelle nennt ergänzend Details wie den Einsatz von zwölf Airbus-Maschinen, die 20 Tonnen extra Sprit fassen und eine Flugzeit von 18 Stunden."
       }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5"
+    ]
   },
   {
     "id": "story-0ab6a7b99481de00",
@@ -742,10 +883,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Unionsfraktion zeigt sich nach Wahldebakel loyal zu Kanzler Merz",
-    "s": "Nach dem Wahldebakel am Wochenende kam Kanzler Merz zu einer Sitzung mit der Unionsfraktion im Bundestag zusammen und erhielt dort Zuspruch.",
-    "m": "Nach dem Wahldebakel vom Wochenende stand für Kanzler Merz die Sitzung der Unionsfraktion im Bundestag an. Dort musste er sich keinem Aufstand stellen, sondern vernahm großes Grummeln. Letztlich erhielt er vor allem Zuspruch, ist nun aber aufgefordert zu liefern.",
-    "r": "Die Haltung der Unionsfraktion gegenüber Kanzler Merz nach einem Wahldebakel gibt Aufschluss über den innerparteilichen Zusammenhalt und den Handlungsdruck der Regierung.",
+    "t": "Kein Aufstand gegen Merz - aber großes Grummeln",
+    "s": "Nach dem Wahldebakel am Wochenende kam Kanzler Merz zu einer Sitzung der Unionsfraktion im Bundestag zusammen. Dort erhielt er überwiegend Zuspruch.",
+    "m": "Nach den jüngsten Wahlergebnissen vom Wochenende musste sich Kanzler Merz in der Sitzung der Unionsfraktion im Bundestag verantworten. Trotz des Debakels blieb ein Aufstand aus, stattdessen gab es laut übereinstimmenden Berichten großes Grummeln und Zuspruch für ihn. Er steht nun jedoch in der Pflicht zu liefern.",
+    "r": "Die Unterstützung für den Kanzler innerhalb der eigenen Fraktion trotz einer Wahlniederlage ist zentral für die politische Stabilität der Regierung.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -758,14 +899,14 @@
         "date": "2026-09-23T05:13:21.000Z"
       }
     ],
-    "agree": "Die Quellen sind sich einig, dass es nach dem Wahldebakel am Wochenende trotz großen Grummelns in der Unionsfraktion keinen Aufstand gegen Kanzler Merz gab und er Zuspruch erhielt.",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/merz-unionsfraktion-100.html",
+    "agree": "Sowohl SWR Aktuell als auch die Tagesschau berichten, dass es nach dem Wahldebakel keinen Aufstand, sondern großes Grummeln und Zuspruch in der Unionsfraktion gab.",
     "diff": [
       {
         "name": "Tagesschau",
-        "note": "Die Quelle ergänzt, dass Merz nun auch liefern müsse und nennt Katrin Aue als Autorin."
+        "note": "Erwähnt zusätzlich, dass Merz nun auch liefern müsse und nennt die Autorin Katrin Aue."
       }
-    ],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/merz-unionsfraktion-100.html"
+    ]
   },
   {
     "id": "story-86dcd6e818ebaf51",
@@ -776,10 +917,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Kellnerinnen retten Wiesnbesucher nach Herzstillstand",
-    "s": "Auf dem Oktoberfest bricht ein 78-jähriger Mann zusammen. Zwei Kellnerinnen reagieren sofort und retten ihm durch ihren Einsatz das Leben.",
-    "m": "Ein 78-jähriger Mann brach auf dem Oktoberfest zusammen. Zwei Kellnerinnen bemerkten den Vorfall sofort und leiteten umgehend Wiederbelebungsmaßnahmen ein, die dem Mann das Leben retteten.",
-    "r": "Die Meldung zeigt, dass schnelles Handeln von Ersthelfern bei medizinischen Notfällen lebensrettend ist.",
+    "t": "Kellnerinnen retten Wiesnbesucher auf dem Oktoberfest durch Wiederbelebung",
+    "s": "Ein 78-Jähriger ist auf dem Oktoberfest zusammengebrochen. Zwei Kellnerinnen haben sofort reagiert und ihm durch ihren Einsatz das Leben gerettet.",
+    "m": "Auf dem Oktoberfest kollabierte ein 78 Jahre alter Mann plötzlich. Zwei anwesende Kellnerinnen bemerkten den Vorfall umgehend und handelten sofort. Durch ihre schnelle Hilfe und eine Herzdruckmassage konnten sie das Leben des Mannes retten.",
+    "r": "Der Vorfall zeigt, wie lebensrettend schnelles Handeln bei medizinischen Notfällen im öffentlichen Raum sein kann. Es unterstreicht die Bedeutung von Ersthelferqualifikationen.",
     "srcs": [
       {
         "name": "Frankfurter Allgemeine",
@@ -792,14 +933,14 @@
         "date": "2026-09-23T04:58:00.000Z"
       }
     ],
-    "agree": "Die Quellen stimmen darin überein, dass zwei Kellnerinnen auf dem Oktoberfest einem 78-jährigen, zusammengebrochenen Mann das Leben retteten.",
+    "url": "https://www.faz.net/aktuell/gesellschaft/oktoberfest-kellnerinnen-retten-wiesnbesucher-das-leben-accg-201254136.html",
+    "agree": "Beide Quellen stimmen darin überein, dass zwei Kellnerinnen das Leben eines 78-jährigen Mannes retteten, der auf dem Oktoberfest zusammengebrochen war.",
     "diff": [
       {
         "name": "DER SPIEGEL",
-        "note": "Erwähnt konkret den Begriff Herzdruckmassage als Maßnahme."
+        "note": "Erwähnt explizit die 'Herzdruckmassage' als Maßnahme zur Rettung."
       }
-    ],
-    "url": "https://www.faz.net/aktuell/gesellschaft/oktoberfest-kellnerinnen-retten-wiesnbesucher-das-leben-accg-201254136.html"
+    ]
   },
   {
     "id": "story-d38add954dbda42c",
@@ -810,10 +951,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Podcast 11KM beleuchtet komplizierteres Regieren nach Landtagswahlen",
-    "s": "Nach den Landtagswahlen steht der Kanzler unter Druck, Reformen wackeln und der Politikbetrieb ist im Dauerstress. Der Podcast 11KM analysiert diese Entwicklung.",
-    "m": "Nach jüngsten Landtagswahlen ist der Kanzler angezählt und seine Reformvorhaben stehen auf der Kippe. Der gesamte Politikbetrieb wirkt aus dem Tritt. Der Podcast 11KM widmet sich in einer Folge der Frage, warum das Regieren in einer Demokratie im Dauerstress immer komplizierter wird.",
-    "r": "Die Analyse beleuchtet aktuelle Krisenerscheinungen des politischen Systems in Deutschland nach Wahlen und die Herausforderungen für die Regierungsarbeit.",
+    "t": "Warum Regieren immer komplizierter wird",
+    "s": "Nach den Landtagswahlen steht der Kanzler unter Druck, Reformen sind gefährdet und der Politikbetrieb wirkt gestresst.",
+    "m": "Der Podcast 11KM beschäftigt sich mit der Frage, warum Regieren immer komplizierter wird. Themen sind der angezählte Kanzler, auf der Kippe stehende Reformen und eine Demokratie im Dauerstress.",
+    "r": "Die Thematisierung des schwierigen Regierungsbetriebs und gefährdeter Reformen nach Landtagswahlen gibt Einblicke in aktuelle politische Herausforderungen.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -826,52 +967,23 @@
         "date": "2026-09-23T04:41:44.000Z"
       }
     ],
-    "agree": "Beide Quellen berichten übereinstimmend über den Podcast 11KM, der thematisiert, warum Regieren nach Landtagswahlen komplizierter wird, der Kanzler angezählt ist, Reformen auf der Kippe stehen und der Politikbetrieb aus dem Tritt geraten ist.",
-    "diff": [],
-    "url": "https://www.tagesschau.de/inland/podcast-11km-wahlen-reformen-kanzler-100.html"
-  },
-  {
-    "id": "story-fe76b03c6041c985",
-    "c": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T04:56:30.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Runder Tisch zu Maßnahmen gegen Motorrad-Raser auf der B500",
-    "s": "Auf der Schwarzwaldhochstraße kommt es wiederholt zu tödlichen Motorrad-Unfällen. Nun haben sich Polizei und Behörden zu einem Runden Tisch getroffen.",
-    "m": "Auf der Schwarzwaldhochstraße (B500) kam es immer wieder zu tödlichen Motorrad-Unfällen. Um gegen Motorrad-Raser vorzugehen, haben sich Polizei und Behörden aus der Region zu einem Runden Tisch in Baden-Baden getroffen. Dabei wurden mögliche Maßnahmen wie Rüttelstreifen und Drohnen besprochen.",
-    "r": "Das Thema betrifft die Verkehrssicherheit auf einer unfallträchtigen Strecke und zeigt konkrete behördliche Reaktionen auf wiederkehrende tödliche Unfälle.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/motorrad-runder-tisch-b500-baden-baden-raserei-unfall-polizei-100.html",
-        "date": "2026-09-23T04:56:30.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-kommen-ruettelstreifen-und-drohnen-massnahmen-gegen-motorrad-raser-auf-b500-besprochen-100.html",
-        "date": "2026-09-22T18:49:03.000Z"
-      }
-    ],
-    "agree": "Polizei und Behörden aus der Region haben sich in Baden-Baden an einen Runden Tisch gesetzt, um Maßnahmen gegen Motorrad-Raser auf der B500 zu besprechen, da es dort immer wieder zu tödlichen Unfällen kommt.",
-    "diff": [],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/motorrad-runder-tisch-b500-baden-baden-raserei-unfall-polizei-100.html"
+    "url": "https://www.tagesschau.de/inland/podcast-11km-wahlen-reformen-kanzler-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend über den Podcast 11KM und dessen Thema, warum Regieren nach Landtagswahlen komplizierter wird, sowie über den angezählten Kanzler und gefährdete Reformen.",
+    "diff": []
   },
   {
     "id": "story-50bc02eece8b7b57",
     "c": "DE",
-    "k": "politik",
+    "k": "panorama",
     "lang": "de",
     "d": "2026-09-23T04:43:44.000Z",
     "p": 3,
     "st": "RP",
     "city": "",
-    "t": "F-16-Kampfjet auf Airbase Spangdahlem abgestürzt",
+    "t": "F-16-Kampfjet auf US-Airbase Spangdahlem abgestürzt",
     "s": "Auf der US-Airbase Spangdahlem ist eine F-16 der US Air Force abgestürzt. Der Pilot konnte sich mit dem Schleudersitz retten.",
-    "m": "Auf der US-Airbase Spangdahlem ist eine F-16 der US Air Force aus bisher ungeklärter Ursache abgestürzt. Der Pilot rettete sich mit dem Schleudersitz.",
-    "r": "Der Absturz eines Militärjets auf einer US-Airbase in Deutschland mit Rettung des Piloten ist ein sicherheits- und luftfahrtrelevantes Ereignis.",
+    "m": "Auf der US-Airbase Spangdahlem kam es zum Absturz einer F-16 der US Air Force. Der Pilot rettete sich mithilfe des Schleudersitzes. Zur genauen Ursache des Unglücks gibt es bisher keine Informationen.",
+    "r": "Der Absturz eines Militärjets auf einer deutschen Airbase betrifft die regionale Sicherheit und wirft Fragen zur Unfallursache auf.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -884,28 +996,28 @@
         "date": "2026-09-22T18:28:00.000Z"
       }
     ],
-    "agree": "Beide Quellen sind sich einig, dass eine F-16 der US Air Force auf der US-Airbase Spangdahlem abgestürzt ist, sich der Pilot mit dem Schleudersitz gerettet hat und die Ursache unklar ist.",
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/f16-kampflugzeug-absturz-spangdahlem-us-airbase-100.html",
+    "agree": "Beide Quellen stimmen überein, dass eine F-16 der US Air Force auf der Airbase Spangdahlem abgestürzt ist, der Pilot sich mit dem Schleudersitz gerettet hat und die Ursache unklar ist.",
     "diff": [
       {
         "name": "Tagesschau Regional Rheinland-Pfalz",
         "note": "Berichtet zusätzlich, dass der Pilot medizinisch versorgt wird."
       }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/f16-kampflugzeug-absturz-spangdahlem-us-airbase-100.html"
+    ]
   },
   {
     "id": "story-60540da4fe63741d",
     "c": "INT",
-    "k": "politik",
+    "k": "panorama",
     "lang": "de",
     "d": "2026-09-23T04:08:17.000Z",
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Sri Lanka: 15 Personen wegen der Oster-Anschläge 2019 verurteilt",
+    "t": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
     "s": "Ein Gericht in Sri Lanka hat 15 Personen wegen der verheerenden Oster-Anschläge aus dem Jahr 2019 verurteilt.",
-    "m": "Die 2019 verübten Anschläge in Sri Lanka richteten sich gegen Kirchen und Luxushotels. Nun wurden 15 Personen von einem Gericht für diese Taten verurteilt. Die Zahl der Todesopfer wird in den Berichten unterschiedlich beziffert.",
-    "r": "Die Verurteilung stellt einen juristischen Meilenstein in der Aufarbeitung einer der folgenschwersten Anschlagserien des Landes dar.",
+    "m": "Die Anschläge im Jahr 2019 zielten auf drei Kirchen und drei Luxushotels ab. Die Zahl der Todesopfer wird von Al Jazeera mit 279 und von der BBC mit 270 angegeben. Nun wurden 15 Männer beziehungsweise Personen von einem Gericht verurteilt.",
+    "r": "Die Verurteilung stellt einen juristischen Meilenstein nach einer der folgenschwersten Terrortaten in Sri Lanka dar.",
     "srcs": [
       {
         "name": "Al Jazeera",
@@ -918,56 +1030,18 @@
         "date": "2026-09-22T19:47:44.000Z"
       }
     ],
-    "agree": "Die Quellen stimmen überein, dass 15 Personen in Sri Lanka wegen der Oster-Anschläge aus dem Jahr 2019 verurteilt wurden.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss",
+    "agree": "Die Quellen sind sich einig, dass 15 Personen von einem Gericht in Sri Lanka wegen der Oster-Anschläge aus dem Jahr 2019 verurteilt wurden.",
     "diff": [
       {
         "name": "Al Jazeera",
-        "note": "Berichtet von 279 getöteten Menschen bei den Anschlägen."
+        "note": "Erwähnt 279 Getötete und spricht pauschal von 15 verurteilten Personen."
       },
       {
         "name": "BBC World",
-        "note": "Nennt 270 Getötete und präzisiert, dass drei Kirchen und drei Luxushotels zielgerichtet angegriffen wurden sowie dass es sich um 15 Männer handelt."
+        "note": "Erwähnt die gezielten Angriffe auf drei Kirchen und drei Luxushotels, nennt 270 Tote und präzisiert die Verurteilten als 15 Männer."
       }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss"
-  },
-  {
-    "id": "story-1b2563a385121a1a",
-    "c": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T00:04:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Donald Trump erwägt Exportstopp für Diesel in den USA",
-    "s": "Donald Trump erwägt wegen extrem hoher Spritpreise in den USA einen Exportstopp für Diesel.",
-    "m": "Die USA exportieren große Mengen Diesel, während der Treibstoff im eigenen Land so teuer ist wie nie zuvor. US-Präsident Donald Trump zieht daher in Betracht, die Ausfuhr zu kappen. Ein solcher Schritt könnte laut Medienberichten jedoch negative Folgen haben.",
-    "r": "Die Maßnahme betrifft den weltweiten Energiemarkt und den US-Kraftstoffmarkt angesichts stark gestiegener Preise.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTVsaEhsSnN1SGpETkRDaGJWMTNxdlllWVE0SmJzWHVOc1lUYkZsZ05EazlOSGtDOTZGOTlrckp1MFNPNTV6TWRveW9OQ0I4SEJWa2FQb0diMWQyMkNqczA1QURXLTRhb0pEdzZkdmNDNUV6Vno5VVI2SlBjdlIyUXBDM05ZSjV6YWszVGZCS1RNLUpzc1VwX3kzdXpGMDZLRVFJZG12WnREMDdtMXZTVzhnNC0zRGZpcDZ0NmZtZEFLYW1rMzdCQXR3bDJ1OExSVUhLZ3lKNExRUQ?oc=5",
-        "date": "2026-09-23T00:04:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9#ref=rss",
-        "date": "2026-09-23T00:04:00.000Z"
-      }
-    ],
-    "agree": "Die Quellen stimmen überein, dass Donald Trump in den USA wegen hoher Spritpreise einen Exportstopp für Diesel erwägt.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt zusätzlich, dass die USA viel Diesel exportieren, der Treibstoff im Land so teuer ist wie nie und ein Exportstopp nach hinten losgehen könnte."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Führt auf, dass weitere Schlagzeilen und Meinungen zu dem Thema existieren."
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTVsaEhsSnN1SGpETkRDaGJWMTNxdlllWVE0SmJzWHVOc1lUYkZsZ05EazlOSGtDOTZGOTlrckp1MFNPNTV6TWRveW9OQ0I4SEJWa2FQb0diMWQyMkNqczA1QURXLTRhb0pEdzZkdmNDNUV6Vno5VVI2SlBjdlIyUXBDM05ZSjV6YWszVGZCS1RNLUpzc1VwX3kzdXpGMDZLRVFJZG12WnREMDdtMXZTVzhnNC0zRGZpcDZ0NmZtZEFLYW1rMzdCQXR3bDJ1OExSVUhLZ3lKNExRUQ?oc=5"
+    ]
   },
   {
     "id": "story-72cf976decf8eed4",
@@ -978,10 +1052,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "FMI: Hohe Immobilienpreise als Hauptrisiko für Portugals Finanzsektor",
-    "s": "Das Fundo Monetário Internacional (FMI) warnt, dass die Hauspreise in Portugal die größte Verwundbarkeit des portugiesischen Finanzsektors darstellen.",
-    "m": "Das Fundo Monetário Internacional (FMI) hat erklärt, dass der Preis für Immobilien in Portugal die primäre Schwachstelle mit potenziellen zukünftigen Auswirkungen auf das Finanzwesen des Landes ist. Weitere Details über konkrete Maßnahmen oder Ausmaße wurden in den Berichten nicht genannt.",
-    "r": "Die Einschätzung des Internationalen Währungsfonds zeigt strukturelle Risiken im portugiesischen Finanz- und Immobiliensektor auf, was für die wirtschaftliche Stabilität von Bedeutung ist.",
+    "t": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português -",
+    "s": "Der Internationale Währungsfonds stuft die Immobilienpreise in Portugal als die größte Schwachstelle des portugiesischen Finanzsektors ein.",
+    "m": "Der Internationale Währungsfonds (FMI) hat in einer Einschätzung erklärt, dass das Preisniveau für Wohnimmobilien in Portugal das größte Risiko und eine wesentliche Verwundbarkeit für die Stabilität des dortigen Finanzsektors darstellt.",
+    "r": "Die Einschätzung betrifft die finanzielle Stabilität und wirtschaftliche Entwicklung eines EU-Mitgliedstaates und ist daher von finanzpolitischer Relevanz.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -994,116 +1068,18 @@
         "date": "2026-09-22T17:42:50.000Z"
       }
     ],
-    "agree": "Die Quellen sind sich einig, dass laut dem FMI die Immobilienpreise die Hauptschwachstelle des portugiesischen Finanzsektors sind.",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+    "agree": "Die Quellen sind sich einig, dass der Internationale Währungsfonds die Immobilienpreise in Portugal als Hauptschwachstelle des Finanzsektors ansieht.",
     "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Nennt zusätzlich das Medium Jornal Económico."
+      },
       {
         "name": "RTP Economia",
-        "note": "Ergänzt, dass diese Verwundbarkeit künftige Implikationen für den Finanzsektor haben wird."
+        "note": "Ergänzt, dass diese Entwicklung künftige Implikationen für den Finanzsektor hat."
       }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5"
-  },
-  {
-    "id": "story-b3694ed42d5e376d",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-22T21:42:32.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "UN-Generalversammlung in New York mit Reden von Guterres, Lula, Trump und Macron",
-    "s": "Die Generaldebatte der UN-Assemblee in New York hat mit Reden von António Guterres, Lula da Silva, Donald Trump und Emmanuel Macron begonnen. Das Treffen dauert bis zum 28. an.",
-    "m": "Der Beginn der UN-Generalversammlung in New York wurde am Dienstag durch den Auftritt von António Guterres markiert, der damit seine letzte Rede in diesem Rahmen als UN-Chef hielt. Neben Guterres traten auch Lula da Silva, Donald Trump und Emmanuel Macron als Redner auf. Die hochrangige Debatte ist bis zum 28. angesetzt. Zudem wird auf ein Treffen zwischen Trump und Zelensky verwiesen sowie darauf, dass die Ukraine das Ende des Krieges in den kommenden Monaten in Aussicht stellt.",
-    "r": "Die UN-Generalversammlung ist das wichtigste jährliche Treffen der Staats- und Regierungschefs zur Besprechung globaler Konflikte und Krisen.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
-        "date": "2026-09-22T21:42:32.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5",
-        "date": "2026-09-22T20:44:01.000Z"
-      }
-    ],
-    "agree": "Die Quellen erwähnen die Eröffnung der Generalversammlung der Vereinten Nationen in New York.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Bezieht sich im Titel auf ein Treffen zwischen Trump und Zelensky sowie auf Aussagen der Ukraine zum Kriegsende in den kommenden Monaten."
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964"
-  },
-  {
-    "id": "story-d64509264872709f",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-22T21:14:47.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Espanha e Marrocos reforçam segurança nas fronteiras de Ceuta e Melilla",
-    "s": "Espanha e Marrocos verstärken die Grenzsicherheit an den Enklaven Ceuta und Melilla aus Furcht vor einem massiven Migrantenansturm.",
-    "m": "Die Behörden beider Länder haben die Sicherheitsmaßnahmen an den Grenzen von Ceuta und Melilla verstärkt. Grund für die erhöhten Vorkehrungen ist die Gefahr einer neuen massiven Einreise von Migranten, die für den Tag der Parlamentswahlen in Marokko angesetzt sein soll.",
-    "r": "Die koordinierten Sicherheitsmaßnahmen zweier Staaten an ihren Außengrenzen zur Verhinderung illegaler Masseneinreisen sind sicherheitsrelevant.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-espanha-e-marrocos-reunem-se-em-marrocos_v1767111",
-        "date": "2026-09-22T21:14:47.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/espanha-e-marrocos-voltam-a-reforcar-a-seguranca-nas-fronteiras-de-ceuta-e-melilla_v1766987",
-        "date": "2026-09-22T13:56:47.000Z"
-      }
-    ],
-    "agree": "Beide Quellen stimmen überein, dass Spanien und Marokko die Sicherheit an den Grenzen von Ceuta und Melilla verstärken und ein massiver Migrantenansturm befürchtet wird.",
-    "diff": [
-      {
-        "name": "RTP Mundo",
-        "note": "Erwähnt konkret, dass eine neue versuchte Masseneinreise für den morgigen Tag der Parlamentswahlen in Marokko markiert ist."
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-espanha-e-marrocos-reunem-se-em-marrocos_v1767111"
-  },
-  {
-    "id": "story-6721bbc7f916c27e",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-22T21:10:15.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Iran stellt Bedingungen für die Wiedereröffnung der Straße von Hormus",
-    "s": "Der Iran hat Vertretern der USA Bedingungen für eine Wiedereröffnung der Straße von Hormus genannt.",
-    "m": "Der iranische Außenminister Abbas Araghchi traf sich am Dienstag am Rande der UN-Generalversammlung mit dem US-Sondergesandten Steve Witkoff. Dabei wurden Bedingungen zur Wiedereröffnung der Straße von Hormus übermittelt. Dies geht aus Berichten der iranischen Staatsmedien hervor.",
-    "r": "Das Treffen zwischen hochrangigen Vertretern des Iran und der USA und die Bedingungen zur Straße von Hormus sind diplomatisch relevant für die internationalen Beziehungen und die Sicherheit der Schifffahrtswege.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDJHZ1hqM0s0RERRQzVES1RiQVFRVDdGOTZDQl9RcGtoVmVrYkZLc2l3Z0ZwMXM1RlpOam42bmxxWV96SFQ3bDR3RGJPOXd4R21wbC1XelVjQVM5ZHpXbGNra2poOU52Q0h0b3A1UjA2NGhvbWNLTlN4VXQxRE1ZUXY3SWsxbEJURU9IZVBlc0xlOXAwNXdOMEtnSG1yTzdjbWN5OG5sa29yeFIwbG5JZnc3SE84TnZWd1dUTGNpZ0lmRFNnRnkzOUFR?oc=5",
-        "date": "2026-09-22T21:10:15.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/irao-apresentou-condicoes-para-reabertura-do-estreito-de-ormuz-a-representantes-dos-eua_n1767105",
-        "date": "2026-09-22T20:58:41.000Z"
-      }
-    ],
-    "agree": "Die Quellen stimmen überein, dass der Iran den USA Bedingungen zur Wiedereröffnung der Straße von Hormus präsentiert hat.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet zusätzlich, dass das Treffen am Dienstag am Rande der UN-Generalversammlung stattfand und der iranische Außenminister Abbas Araghchi mit dem US-Sondergesandten Steve Witkoff zusammenkam."
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDJHZ1hqM0s0RERRQzVES1RiQVFRVDdGOTZDQl9RcGtoVmVrYkZLc2l3Z0ZwMXM1RlpOam42bmxxWV96SFQ3bDR3RGJPOXd4R21wbC1XelVjQVM5ZHpXbGNra2poOU52Q0h0b3A1UjA2NGhvbWNLTlN4VXQxRE1ZUXY3SWsxbEJURU9IZVBlc0xlOXAwNXdOMEtnSG1yTzdjbWN5OG5sa29yeFIwbG5JZnc3SE84TnZWd1dUTGNpZ0lmRFNnRnkzOUFR?oc=5"
+    ]
   },
   {
     "id": "story-f68b820368bcfbba",
@@ -1115,9 +1091,9 @@
     "st": "BW",
     "city": "",
     "t": "STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt",
-    "s": "Ein iranisches Gericht hat den Stuttgarter STELP-Gründer Serkan Eren zu zehn Jahren Haft verurteilt. Er wollte im Land Spenden verteilen.",
-    "m": "Die vorliegenden Quellen berichten, dass STELP-Gründer Serkan Eren im Iran inhaftiert ist und zu zehn Jahren Haft verurteilt wurde.",
-    "r": "Die Verurteilung eines deutschen Staatsbürgers und Hilfsorganisationsgründers zu einer langjährigen Haftstrafe im Iran ist von internationaler und außenpolitischer Relevanz.",
+    "s": "Ein iranisches Gericht hat den Stuttgarter STELP-Gründer Serkan Eren zu zehn Jahren Haft verurteilt. Er wollte in dem Land Spenden verteilen.",
+    "m": "Der 42-jährige Serkan Eren, Gründer der Hilfsorganisation STELP, wurde im Iran von einem Gericht zu zehn Jahren Freiheitsstrafe verurteilt. Der Vorwurf lautet auf angebliche Kontakte zu einem verfeindeten Land. Eren hatte sich in das Land begeben, um Spenden zu verteilen.",
+    "r": "Die Verteilung von Spenden durch einen deutschen Hilfsorganisationsgründer und dessen Inhaftierung im Iran berühren Fragen der internationalen Sicherheit und humanitärer Einsätze.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -1130,9 +1106,18 @@
         "date": "2026-09-22T13:08:00.000Z"
       }
     ],
-    "agree": "Beide Quellen stimmen darin überein, dass der STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt wurde, weil ihm angebliche Kontakte zu einem verfeindeten Land vorgeworfen werden, während er Spenden verteilen wollte.",
-    "diff": [],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/stelp-gruender-serkan-eren-im-iran-zu-zehn-jahren-haft-verurteilt-100.html"
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/stelp-gruender-serkan-eren-im-iran-zu-zehn-jahren-haft-verurteilt-100.html",
+    "agree": "Beide Quellen stimmen überein, dass der Stuttgarter STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt wurde, weil er dort Spenden verteilen wollte und ihm Kontakte zu einem verfeindeten Land vorgeworfen werden.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet allgemein über den STELP-Gründer Serkan Eren, ohne den konkreten Bezug zu Stuttgart im Titel zu nennen."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Erwähnt im Titel zusätzlich den Bezug zu Stuttgart."
+      }
+    ]
   },
   {
     "id": "story-0671065198467fe8",
@@ -1144,9 +1129,9 @@
     "st": "RP",
     "city": "",
     "t": "Schwierige Tarifgespräche in der Metall- und Elektroindustrie",
-    "s": "Vor den Tarifgesprächen in der Metall- und Elektroindustrie fordert die IG Metall ein Lohnplus sowie mehr Sicherheit. Die Autobranche kriselt, während die Rüstungsindustrie boomt.",
-    "m": "In der Metall- und Elektroindustrie stehen schwierige Tarifgespräche bevor. Die IG Metall fordert neben einem Lohnplus auch mehr Sicherheit und lehnt die 40-Stunden-Woche ab, während Gewinnbeteiligungen nicht überall möglich sind. Arbeitgeber kritisieren den Vorstoß als realitätsfern. Gleichzeitig befindet sich die Autobranche in einer Krise, wohingegen die Rüstungsindustrie boomt.",
-    "r": "Die Tarifgespräche betreffen eine zentrale Industriebranche mit gegensätzlichen Entwicklungen in Automobil- und Rüstungssektor sowie potenziellen Auswirkungen auf Arbeitsbedingungen und Löhne.",
+    "s": "Vor den Tarifgesprächen in der Metall- und Elektroindustrie fordert die IG Metall ein Lohnplus und mehr Sicherheit, während die Autobranche kriselt und Rüstung boomt.",
+    "m": "In der Metall- und Elektroindustrie stehen schwierige Tarifgespräche bevor. Die IG Metall fordert neben einem Lohnplus auch mehr Sicherheit, während die Autobranche kriselt und die Rüstungsindustrie boomt. Die Arbeitgeber kritisierten den Vorstoß als realitätsfern. Zudem wird diskutiert, dass Gewinnbeteiligungen nicht überall möglich sind und eine 40-Stunden-Woche abgelehnt wird.",
+    "r": "Die Tarifgespräche in einer kriselnden Autobranche und boomenden Rüstungsindustrie betreffen breite Wirtschaftszweige und Beschäftigte in Deutschland.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -1164,59 +1149,55 @@
         "date": "2026-09-22T13:25:44.000Z"
       }
     ],
-    "agree": "Die Quellen stimmen überein, dass die Tarifgespräche in der Metall- und Elektroindustrie schwierig werden, die Autobranche kriselt und die Rüstungsindustrie boomt.",
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ig-metall-forderungen--tarifverhandlungen-metall-elektroindustrie-100.html",
+    "agree": "Die Quellen sind sich einig, dass die Tarifgespräche in der Metall- und Elektroindustrie schwierig werden, die Autobranche kriselt und die Rüstung boomt.",
     "diff": [
       {
         "name": "SWR Aktuell Rheinland-Pfalz",
-        "note": "Berichtet zusätzlich über die Forderung der IG Metall Mitte nach fünf Prozent mehr Geld, die Ablehnung der 40-Stunden-Woche und dass Gewinnbeteiligungen nicht überall möglich sind."
+        "note": "Fordert fünf Prozent mehr Geld, lehnt die 40-Stunden-Woche ab und erwähnt, dass Gewinnbeteiligungen nicht überall möglich sind."
       },
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Berichtet zusätzlich, dass Arbeitgeber den Vorstoß der IG Metall als realitätsfern kritisieren."
+        "note": "Berichtet, dass Arbeitgeber den Vorstoß der IG Metall als realitätsfern kritisieren."
       }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ig-metall-forderungen--tarifverhandlungen-metall-elektroindustrie-100.html"
+    ]
   },
   {
-    "id": "story-ab3fcda83508b411",
-    "c": "DE",
+    "id": "story-e9fe30db77c94962",
+    "c": "INT",
     "k": "politik",
     "lang": "de",
-    "d": "2026-09-22T18:41:32.000Z",
-    "p": 3,
-    "st": "BE",
+    "d": "2026-09-22T18:23:08.000Z",
+    "p": 4,
+    "st": "",
     "city": "",
-    "t": "Kann die Linke in Berlin regieren?",
-    "s": "Nach der Wahl in Berlin muss sich die Linke Fragen zu ihrer Regierungsfähigkeit und dem Umgang mit Antisemitismus stellen.",
-    "m": "Die Partei hat die Wahl in der Hauptstadt gewonnen. Ihr Sieg wird jedoch von Kontroversen um Antisemitismus und Enteignungen überschattet. Zudem wird diskutiert, ob sie genug Erfahrung in den eigenen Reihen hat und regieren will.",
-    "r": "Die Frage der Regierungsfähigkeit und die Kontroversen um die Linke in Berlin sind nach der Wahl von hoher politischer Bedeutung für die Hauptstadt.",
+    "t": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even",
+    "s": "US-Präsident Donald Trump hat in einer Rede vor der UN-Vollversammlung den Iran mit der Vernichtung gedroht.",
+    "m": "Elf Minuten nach Beginn einer 40-minütigen Rede erklärte Trump, er stehe vor einer großen Entscheidung bezüglich des Irans. Der Iran leistet demnach seit Kriegsbeginn im Februar einen entschlosseneren Widerstand als erwartet. Zudem wird von einem Treffen zwischen Top-Beamten der USA und des Irans bei den UN berichtet.",
+    "r": "Die Äußerungen eines US-Präsidenten zur Vernichtung eines UN-Mitgliedstaates sowie die diplomatischen Treffen am Rande der Vereinten Nationen sind von internationaler Bedeutung.",
     "srcs": [
       {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-debatte-ueber-regierungsfaehigkeit-der-linken-reisst-alte-wunden-auf-102.html",
-        "date": "2026-09-22T18:41:32.000Z"
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+        "date": "2026-09-22T18:23:08.000Z"
       },
       {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-linke-berlin-eralp-li.3552010",
-        "date": "2026-09-22T15:08:18.000Z"
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQmtMMU0zSHN1anM3M1pXal9JRGc4UnJLY2UtNWEwY2tqdlh6STl0cEgzdEg4STJsMmJuQWZqUXFTNmV5QXhKaVQxTkwxWWRJejNDYV9kaVRCd3RmMzByaVJHUHRmVU5ib3B4bmNjMmMyRlhZN1pRR3NIRG4?oc=5",
+        "date": "2026-09-22T18:23:00.000Z"
       }
     ],
-    "agree": "Die Quellen sind sich einig, dass nach der Wahl in Berlin die Frage im Raum steht, ob die Linke regieren kann und ob es dabei Kontroversen gibt.",
+    "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+    "agree": "Die Quellen sind sich einig, dass Donald Trump den Iran vor der UN-Vollversammlung mit der Vernichtung gedroht hat.",
     "diff": [
       {
-        "name": "Tagesschau Regional Berlin",
-        "note": "Berichtet über die Fragen zur Regierungsfähigkeit, mangelnde Erfahrung und ob die Linke überhaupt regieren will."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Erwähnt im Podcast \"Auf den Punkt\", dass Elif Eralp die Wahl gewonnen hat, und nennt zusätzlich das Thema Enteignungen."
+        "name": "Google News World",
+        "note": "Berichtet zusätzlich, dass sich Spitzenbeamte der USA und des Irans bei der UN getroffen haben."
       }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-debatte-ueber-regierungsfaehigkeit-der-linken-reisst-alte-wunden-auf-102.html"
+    ]
   },
   {
-    "id": "story-881b7390162c0a29",
+    "id": "story-14a18d088a96f4b1",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -1224,14 +1205,14 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Trump droht Iran vor den Vereinten Nationen mit militärischer Gewalt",
-    "s": "US-Präsident Trump trat vor der UN-Generalversammlung in New York auf und äußerte sich zum Konflikt mit dem Iran.",
-    "m": "Vor der UN-Generalversammlung stellte US-Präsident Trump die Frage, ob er den Iran zur Hölle schicken solle. Laut den Berichten steht er in der Sache Iran vor der Entscheidung zwischen bombardieren oder verhandeln. Zudem wird ein möglicher Konflikt beziehungsweise ein mögliches Kriegsverbrechen erwähnt.",
-    "r": "Die Äußerungen eines US-Präsidenten vor den Vereinten Nationen zu militärischen Maßnahmen gegen den Iran haben internationale sicherheitspolitische Relevanz.",
+    "t": "Trump bei den UN: „Soll ich sie zur Hölle schicken?“",
+    "s": "US-Präsident Trump sprach vor der UN-Generalversammlung in New York über den Iran und stellte Aussagen in den Raum, die weltweit Beachtung fanden.",
+    "m": "Vor der UN-Generalversammlung in New York äußerte sich US-Präsident Trump zum Iran und stellte die Frage, ob er das Land „zur Hölle schicken“ solle. Dabei stand er laut Berichten vor der Entscheidung zwischen Verhandlungen und Bombardierungen. Zudem wurde sein Auftritt von einer Quelle als bizarr und als Ankündigung eines möglichen Kriegsverbrechens eingeordnet.",
+    "r": "Die Äußerungen des US-Präsidenten vor den Vereinten Nationen betreffen die internationale Sicherheit und die diplomatischen Beziehungen zum Iran.",
     "srcs": [
       {
         "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-ki-klimawandel-li.3551641",
+        "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-klimawandel-ki-li.3551641",
         "date": "2026-09-22T18:21:56.000Z"
       },
       {
@@ -1240,18 +1221,52 @@
         "date": "2026-09-22T16:17:00.000Z"
       }
     ],
-    "agree": "Beide Quellen berichten über eine Äußerung von US-Präsident Trump im Zusammenhang mit den Vereinten Nationen und dem Iran, bei der die Frage nach der Hölle fiel.",
+    "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-klimawandel-ki-li.3551641",
+    "agree": "Die Quellen stimmen überein, dass sich US-Präsident Trump bei den Vereinten Nationen zum Iran äußerte und dabei die Formulierung verwendete, ob er sie zur Hölle schicken solle.",
     "diff": [
       {
         "name": "Süddeutsche Zeitung",
-        "note": "Berichtet von einem bizarren Auftritt und der Ankündigung eines möglichen Kriegsverbrechens gegen Iran."
+        "note": "Beschreibt den Auftritt als bizarr und kündigt ein mögliches Kriegsverbrechen gegen Iran an."
       },
       {
         "name": "ZDF heute",
-        "note": "Erwähnt New York als Ort und die Entscheidung zwischen bombardieren oder verhandeln."
+        "note": "Erwähnt New York als Ort und die dort genannte Entscheidung zwischen bombardieren oder verhandeln."
+      }
+    ]
+  },
+  {
+    "id": "story-9761213e09565887",
+    "c": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-22T17:26:48.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Delegação cubana abandona AG das Nações Unidas após Trump anunciar mudança de",
+    "s": "Die kubanische Delegation hat die UN-Generalversammlung verlassen, nachdem der US-Präsident einen Machtwechsel in Havanna angekündigt hatte.",
+    "m": "Der US-Präsident kündigte einen Machtwechsel in Havanna an, woraufhin die kubanische Delegation die Generalversammlung der Vereinten Nationen verließ. Zudem erklärte er, dass er in engen Verhandlungen mit Russland und der Ukraine stehe und dieser Konflikt bald gelöst sein werde.",
+    "r": "Das Ereignis ist relevant, da es diplomatische Spannungen auf internationalem Parkett sowie Äußerungen zur Beendigung des Ukraine-Konflikts betrifft.",
+    "srcs": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/delegacao-cubana-abandona-ag-das-nacoes-unidas-apos-trump-anunciar-mudanca-de-poder-em-havana_v1767057",
+        "date": "2026-09-22T17:26:48.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONmhrWl9mQU5leWw2Y2hNWHlWZ1FGSk5tTTdIaWpoX1V5MkZWQTM3SjVtREo3b2RBZTJiNnphQkQwdzl0MkNEcHk2Q1VPbktpRW1hZDM3YXZIT2pheVV4dGlBSERfVGpqX3hkcGdjQlEyeVZyYkNnd2xCeHVMTjFPZHNIYUxyb2tYQU9Va0UwZVNjWkNSekJidFFwUmdiM3Z3cWprRHJJYmt6WWdxaVprR1pTQmNlTXBnMnhhYVhBNWdVWll3SnpxcWRTNk5FMlZxRkE?oc=5",
+        "date": "2026-09-22T16:26:48.000Z"
       }
     ],
-    "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-ki-klimawandel-li.3551641"
+    "url": "https://www.rtp.pt/noticias/mundo/delegacao-cubana-abandona-ag-das-nacoes-unidas-apos-trump-anunciar-mudanca-de-poder-em-havana_v1767057",
+    "agree": "Die Quellen sind sich einig, dass die kubanische Delegation die UN-Generalversammlung verließ, nachdem Trump einen Machtwechsel in Havanna angekündigt hatte.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Berichtet zusätzlich, dass der US-Präsident in engem Austausch mit Russland und der Ukraine stehe und an eine baldige Lösung des Konflikts glaube."
+      }
+    ]
   },
   {
     "id": "story-65f12ee9fbc65750",
@@ -1262,10 +1277,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Afghanische Radsportlerin gewinnt Silbermedaille bei den Asienspielen",
-    "s": "Die aus Afghanistan geflüchtete Radsportlerin Fariba Hashimi hat bei den Asienspielen die Silbermedaille im Straßenrennen gewonnen.",
-    "m": "Fariba Hashimi errang die Silbermedaille im Straßenrennen der Frauen bei den Asienspielen in der Nähe von Nagoya in Japan. Sie musste zuvor aus Afghanistan fliehen, nachdem die Taliban an die Macht kamen und die Freiheiten von Frauen stark einschränkten. Hashimi, die heute in Italien lebt, belegte den zweiten Platz hinter der Chinesin Guo Li und hofft, dass ihre Leistung andere Frauen inspiriert.",
-    "r": "Der Erfolg einer geflüchteten afghanischen Sportlerin bei einem internationalen Wettkampf verdeutlicht die Situation von Frauen unter dem Taliban-Regime und setzt ein Zeichen der Widerstandskraft.",
+    "t": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+    "s": "Die afghanische Radsportlerin Fariba Hashimi hat bei den Asienspielen die Silbermedaille im Straßenrennen gewonnen.",
+    "m": "Fariba Hashimi errang den zweiten Platz im Frauen-Straßenrennen der Asienspiele in der Nähe von Nagoya in Japan. Sie musste zuvor aus Afghanistan fliehen, nachdem die Taliban an die Macht zurückgekehrt waren und die Freiheiten von Frauen stark eingeschränkt hatten. Die in Italien lebende Athletin bezeichnete den Erfolg als etwas Besonderes und hofft, dass er andere afghanische Frauen inspiriert.",
+    "r": "Der Erfolg einer geflüchteten Sportlerin unterstreicht die anhaltenden Einschränkungen für Frauen unter der Taliban-Herrschaft in Afghanistan und zeigt gleichzeitig sportliche Resilienz auf internationaler Ebene.",
     "srcs": [
       {
         "name": "BBC World",
@@ -1278,84 +1293,17 @@
         "date": "2026-09-22T08:10:40.000Z"
       }
     ],
-    "agree": "Die Quellen stimmen überein, dass die afghanische Radsportlerin Fariba Hashimi, die vor den Taliban geflohen war, bei den Asienspielen eine Silbermedaille im Straßenrennen gewonnen hat.",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen darin überein, dass die afghanische Radsportlerin Fariba Hashimi, die sich früher als Mann verkleidete, um den Taliban zu entkommen, bei den Asienspielen eine Silbermedaille im Straßenrennen gewonnen hat.",
     "diff": [
       {
         "name": "BBC World",
-        "note": "Erwähnt, dass sie sich als Mann verkleidete, um den Taliban zu entkommen und ihren Traum zu verfolgen."
+        "note": "Erwähnt kurz, dass sie geflohen ist, um einen sportlichen Traum zu verfolgen."
       },
       {
         "name": "Guardian Sport",
-        "note": "Erwähnt zusätzlich, dass das Rennen am Dienstag in der Nähe von Nagoya in Japan stattfand, sie hinter der Chinesin Guo Li Zweite wurde, in Italien lebt und das Preisessen als etwas Besonderes bezeichnete."
+        "note": "Liefert zusätzliche Details: Das Rennen fand am Dienstag in der Nähe von Nagoya in Japan statt, sie wurde Zweite hinter der Chinesin Guo Li, sie lebt in Italien, nannte den Triumph etwas Besonderes und äußerte die Hoffnung, dass die Medaille die Widerstandskraft afghanischer Frau"
       }
-    ],
-    "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "story-fbe1547165d62dc8",
-    "c": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-22T15:49:08.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Union und SPD verhandeln erneut über geplante Reformen",
-    "s": "Union und SPD planen erneute Verhandlungen über Reformen. Kanzleramtschefin Warken trifft sich dazu mit Spitzenpolitikern.",
-    "m": "Die geplanten Reformen der Bundesregierung stehen vor neuen Beratungen. Am Abend ist ein Treffen von Kanzleramtschefin Warken mit Spitzenpolitikern von CDU, CSU und SPD geplant. Dabei soll unter anderem über das Thema Rente gesprochen werden.",
-    "r": "Das Treffen ist relevant, da zentrale Reformvorhaben der Bundesregierung noch einmal auf den Prüfstand gestellt und möglicherweise angepasst werden könnten.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html",
-        "date": "2026-09-22T15:49:08.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQTNjN2ViT1YtUGR2OFUwQkN3eWVPR09HakZkVWRlWmhvd1R4QzJRQTlMbjVJZTE1ZjRxdlZFc2hNdVA2MG1fRThUYUQ1djBrQkpRWnhXenkwaDdQWS1tY2pwc0w0aFJRVW5DaWhIZlI3aUFVREpfNFpJbVZMNjhFTkxpNHc5T1BpZFBnXw?oc=5",
-        "date": "2026-09-22T15:49:00.000Z"
-      }
-    ],
-    "agree": "Union und SPD wollen noch einmal über geplante Reformen verhandeln.",
-    "diff": [],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html"
-  },
-  {
-    "id": "story-10286e4a8e1f17f3",
-    "c": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-22T15:36:22.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Zweieinhalb Jahre Haft für österreichischen Investor René Benko",
-    "s": "Der neu aufgerollte Prozess gegen den österreichischen Investor René Benko endete mit einer Erhöhung des Strafmaßes.",
-    "m": "Vor rund einem Jahr wurde der österreichische Investor René Benko bereits einmal verurteilt. Da der Prozess neu aufgerollt werden musste, hat das Landesgericht Innsbruck das Verfahren in Teilen wiederholt und das Strafmaß auf zweieinhalb Jahre Haft erhöht. Es gilt als erwiesen, dass er seine Gläubiger geschädigt hat.",
-    "r": "Die Verurteilung eines prominenten Investors und die Erhöhung des Strafmaßes in einem Betrugs- beziehungsweise Insolvenzverfahren sind von öffentlichem und wirtschaftlichem Interesse.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/benko-prozess-urteil-100.html",
-        "date": "2026-09-22T15:36:22.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Signa-Gruender-Rene-Benko-zu-zweieinhalb-Jahren-Haft-verurteilt-Gericht-sieht-Glaeubigerschaedigung-id31335852.html",
-        "date": "2026-09-22T14:18:34.000Z"
-      }
-    ],
-    "agree": "Beide Quellen stimmen überein, dass der österreichische Investor René Benko in einem neu aufgerollten Prozess zu zweieinhalb Jahren Haft verurteilt wurde, weil er seine Gläubiger geschädigt hat.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass ein Mietkostenvorschuss dem Ex-Milliardär zum Verhängnis wurde."
-      },
-      {
-        "name": "ntv",
-        "note": "Nennt den Vornamen René sowie das zuständige Landesgericht Innsbruck und führt aus, dass das Verfahren in Teilen wiederholt wurde."
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/benko-prozess-urteil-100.html"
+    ]
   }
 ]
