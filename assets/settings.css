@@ -7,3 +7,7 @@
 .pulse-topbar{position:relative!important}
 .pulse-topbar>img{position:absolute!important;left:50%!important;top:50%!important;transform:translate(-50%,-50%)!important;margin:0!important;width:88px!important;height:auto!important}
 .pulse-topbar>.pulse-settings-toggle{position:absolute!important;right:12px!important;top:50%!important;transform:translateY(-50%)!important}
+
+.navbar{position:relative!important}
+.navbar>.pulse-settings-toggle{position:absolute!important;right:12px!important;top:50%!important;transform:translateY(-50%)!important;margin:0!important;width:32px!important;height:32px!important}
+.navbar>.pulse-settings-toggle svg{width:18px!important;height:18px!important}
