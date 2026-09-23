@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
 const data=JSON.parse(await fs.readFile("data.json","utf8"));
-if(!Array.isArray(data)||!data.length||data.length>45)throw new Error("Ungültiger Nachrichtenbestand");
+if(!Array.isArray(data)||!data.length||data.length>400)throw new Error("Ungültiger Nachrichtenbestand");
 const allowedCountries=new Set(["DE","INT"]);
 const allowedCategories=new Set(["politik","wirtschaft","sport","wissenschaft","technik","panorama","umwelt"]);
 const ids=new Set();
