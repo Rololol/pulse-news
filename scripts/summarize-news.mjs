@@ -205,7 +205,6 @@ const final=output.slice(0,45);
 
 // Historie: Die aus dem aktuellen Fenster fallenden Meldungen werden monatlich archiviert.
 // Es werden nur die bisherigen data.json-Meldungen übernommen, die nicht mehr in final stehen.
-let previousCurrent=[];
 await fs.mkdir(archiveDir,{recursive:true});
 const finalIds=new Set(final.map(x=>x.id));
 const archiveCandidates=previousCurrent.filter(x=>x&&x.id&&!finalIds.has(x.id));
