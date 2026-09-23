@@ -142,11 +142,12 @@ for(const item of ranked){
   const signature=(item.sources||[]).map(s=>s.url).join("|");
   const key=hashKey("v4-de-focus|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
+  let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
       // Kosten-Schutz: höchstens ein Gemini-Aufruf pro neuer Meldung; 429/Quota wird nicht erneut versucht.
       for(let attempt=0;attempt<3;attempt++){
-        try{ai=await ask(item);generated++;break}
+        try{ai=await ask(item);generated++;usedGemini=true;break}
         catch(e){
           if(e.status===429||!e.retryable||attempt===2){failures++;break}
           const retry=Number(e.retryAfter);
@@ -155,7 +156,7 @@ for(const item of ranked){
       }
     }
     if(!ai?.t){ai=localFallback(item);fallbacks++}
-    cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:generated>0&&apiKey?"gemini":"fallback"};
+    cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:usedGemini?"gemini":"fallback"};
   }
 
   output.push({
