@@ -99,7 +99,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .csum{display:block;margin-top:5px;font-size:15px;line-height:1.38;color:var(--label2)}
 .cmeta{display:flex;justify-content:space-between;gap:10px;margin-top:9px;font-size:12.5px;color:var(--label2);font-weight:500}
 .cmeta span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.empty{text-align:center;padding:48px 24px;color:var(--label2)}
+.empty{text-align:center;padding:48px 24px;color:var(--label2)}.archive-button{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin:18px 0 6px;padding:14px 18px;border:0;border-radius:14px;background:var(--fill);color:var(--label);text-decoration:none;font-size:16px;font-weight:600;box-shadow:0 1px 2px rgba(0,0,0,.06),inset 0 0 0 1px var(--sep);transition:background .15s,transform .15s}.archive-button:hover{background:var(--sep)}.archive-button:active{transform:scale(.985)}.archive-button svg{width:20px;height:20px;flex:none}.large-text .archive-button{font-size:19px}
 .empty h3{margin:12px 0 6px;color:var(--label);font-size:20px}
 .empty p{margin:0 0 16px;font-size:15px}
 .empty .big{width:64px;height:64px;border-radius:20px;margin:0 auto;display:grid;place-items:center;background:linear-gradient(145deg,#8E8E93,#636366);color:#fff}
@@ -280,7 +280,7 @@ function renderFeed(){
     html+=cardHTML(it);
   }
   if(open)html+='</div>';
-  el.innerHTML=html;
+  el.innerHTML=html+`<a class="archive-button" href="./archiv.html" aria-label="Archiv älterer Meldungen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16v13H4z"/><path d="M3 4h18v3H3z"/><path d="M9 11h6"/></svg><span>Archiv</span></a>`;
 }
 function renderFoot(){
   const latest=ITEMS.reduce((m,it)=>Math.max(m,Date.parse(it.d)||0),0);
