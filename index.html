@@ -217,7 +217,7 @@ function regionTag(it){const co=COUNTRIES[it.c]||COUNTRIES.INT;const name=it.cit
 function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.length:(it.src?1:0)}
 function sourceLabel(it){const n=sourceCount(it);return n+' Quelle'+(n===1?'':'n')}
 function independentSourceCount(it){return Number.isFinite(Number(it.independent))?Number(it.independent):sourceCount(it)}
-function sourceDiversityLabel(it){const n=sourceCount(it),u=independentSourceCount(it);return n>1&&u<n?(n+' Quellen · '+u+' unterschiedliche Herausgeber'):sourceLabel(it)}
+function sourceDiversityLabel(it){const n=sourceCount(it),u=independentSourceCount(it);return n>1&&u<n?(n+' Quellen · '+u+' unterschiedliche Domains'):sourceLabel(it)}
 function originalUrl(it){return it.url||(Array.isArray(it.srcs)&&it.srcs[0]?.url)||''}
 function sourceType(src){try{const h=new URL(src.url||'').hostname.replace(/^www\\./,'').toLowerCase();if(/bundesregierung|bundestag|bundesbank|polizei|justiz|gericht|nasa\\.gov|esa\\.int|noaa\\.gov|who\\.int|europa\\.eu/.test(h))return 'Primärquelle'}catch{}return 'Berichterstattung'}
 
