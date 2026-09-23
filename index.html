@@ -308,7 +308,7 @@ function heroHTML(it){
     <span class="hero-top"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span><span class="pill glass">Aktuell</span></span>
     <span class="htitle">${esc(it.t)}</span>
     <span class="hsum">${esc(it.s)}</span>
-    <span class="hfoot"><span>${sourceLabel(it)} · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
+    <span class="hfoot"><span>${sourceLabel(it)} · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
   </button>`;
 }
 function cardHTML(it){
@@ -319,7 +319,7 @@ function cardHTML(it){
       <span class="tags"><span class="tag cat">${cat.n}</span><span class="tag reg">${regionTag(it)}</span></span>
       <span class="ctitle">${esc(it.t)}</span>
       <span class="csum">${esc(it.s)}</span>
-      <span class="cmeta"><span>${sourceDiversityLabel(it)} · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
+      <span class="cmeta"><span>${sourceDiversityLabel(it)} · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
     </span>
   </button>`;
 }
@@ -351,7 +351,7 @@ function renderFeed(){
 
 function renderFoot(){
   const latest=ITEMS.reduce((m,it)=>Math.max(m,Date.parse(it.d)||0),0);
-  const when=latest?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(latest)):'–';
+  const when=latest?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(new Date(latest)):'–';
   $('#foot').innerHTML=`Mehrere RSS-Quellen · ${ITEMS.length} Meldungen<br><span class="update-badge"><i></i>Letztes Nachrichten-Update ${when} Uhr</span>`;
 }
 function renderAll(){
@@ -368,7 +368,7 @@ function sheetHTML(it,isOpen){
     <div class="shead">
       <button class="close" data-close="1" aria-label="Schließen">${ic('x')}</button>
       <span class="hero-top" style="margin:0"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span></span>
-      <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceDiversityLabel(it)}</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
+      <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceDiversityLabel(it)}</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
     </div>
     <div class="sbody">
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
@@ -448,7 +448,7 @@ window.addEventListener('scroll',()=>{$('#navbar').classList.toggle('scrolled',w
 function updateDateTime(){
   const now=new Date();
   const date=new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long'}).format(now);
-  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(now);
+  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(now);
   $('#dateSub').textContent=date+' · '+time+' Uhr';
 }
 updateDateTime();
