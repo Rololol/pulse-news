@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "pulse-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data.json data/news.json data/ai-cache.json
+          git add data.json data/news.json data/ai-cache.json data/archive/*.json
           git diff --cached --quiet || git commit -m "Update news data"
           for attempt in 1 2 3; do
             if git push; then exit 0; fi
