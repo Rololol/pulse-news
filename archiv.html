@@ -37,7 +37,7 @@ try{
  const groups=new Map();
  for(const it of entries){const m=String(it.d||'').slice(0,7);if(!groups.has(m))groups.set(m,[]);groups.get(m).push(it)}
  const months=[...groups.keys()].sort().reverse();
- monthsFilter.innerHTML='<button class="filter" data-month="all" aria-pressed="true">Alle</button>'+months.map(m=>'<button class="filter" data-month="'+esc(m)+'" aria-pressed="false">'+esc(new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(m+'-01T12:00:00'))+'</button>').join('');
+ monthsFilter.innerHTML='<button class="filter" data-month="all" aria-pressed="true">Alle</button>'+months.map(m=>'<button class="filter" data-month="'+esc(m)+'" aria-pressed="false">'+esc(new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(m+'-01T12:00:00')))+' </button>').join('');
  const render=()=>{
    const q=search.value.trim().toLocaleLowerCase('de-DE');
    const filtered=entries.filter(it=>(activeMonth==='all'||String(it.d||'').slice(0,7)===activeMonth)&&(!q||[it.t,it.s,it.m,it.r,it.chg,it.agree].join(' ').toLocaleLowerCase('de-DE').includes(q))).sort((a,b)=>String(a.d).localeCompare(String(b.d))>0?-1:1);
