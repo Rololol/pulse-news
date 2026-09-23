@@ -30,9 +30,9 @@ function localFallback(item){
   const sentences=first.split(/(?<=[.!?])\s+/).filter(Boolean);
   return {
     t:clean(item.title).replace(/Gewehfreparatur/gi,"Gewehrreparatur").slice(0,110),
-    s:(sentences.slice(0,2).join(" ")||clean(item.title)).slice(0,220),
-    m:sources.slice(0,2).join(" ").slice(0,500),
-    r:"Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet.",
+    s:(sentences.slice(0,4).join(" ")||clean(item.title)).slice(0,500),
+    m:sources.join(" ").slice(0,1200),
+    r:"Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
     k:categoryMap[item.topic]||"panorama",
     c:countryMap[item.country]==="DE"?"DE":"INT",
     p:Math.min(5,Math.max(1,(item.sources?.length||1))),
@@ -62,7 +62,7 @@ async function ask(item){
     "["+(src.source||"Quelle "+(i+1))+"]\n"+clean(src.title||"")+"\n"+clean(src.snippet||"")
   ).join("\n\n");
   const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m und agree auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
-{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"Was ist passiert? 1-2 Sätze, max. 220 Zeichen, nur was die Quellen bestätigen","m":"Was ist bisher bekannt? 2-4 Sätze, max. 500 Zeichen","r":"Warum ist die Meldung relevant? 1-2 nüchterne Sätze, max. 280 Zeichen, nur aus den gelieferten Informationen ableiten","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
+{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"Kurzfassung: Was ist passiert? 3-4 informative Sätze, max. 500 Zeichen. Nenne die wichtigsten Fakten und den aktuellen Stand, ohne Inhalte aus m unnötig vorwegzunehmen.","m":"Was ist bisher bekannt? 6-8 informative Sätze, max. 1200 Zeichen. Liefere deutlich mehr Kontext als s: zeitlicher Ablauf, konkrete Zahlen, beteiligte Akteure, Hintergründe, Folgen und offene Punkte, soweit die Quellen dies hergeben. Wiederhole s nicht einfach, sondern ergänze neue Informationen.","r":"Warum ist die Meldung relevant? 2-3 nüchterne Sätze, max. 400 Zeichen, nur aus den gelieferten Informationen ableiten","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
 Wenn es keine Abweichungen gibt, gib diff als leeres Array zurück. Erfinde nichts, das nicht in den gelieferten Texten steht. Bei nur einer Quelle bleiben agree und diff leer.
 Quellen:
 ${sourceText}`;
@@ -103,9 +103,9 @@ ${sourceText}`;
   const titleWords=parsed.t.toLowerCase().split(/\s+/).filter(w=>w.length>=5);
   const titleOverlap=titleWords.filter(w=>sourceTitles.includes(w)).length/Math.max(1,titleWords.length);
   if(titleOverlap<0.25 && item.country==="DE")parsed.t=clean(item.title).replace(/Gewehfreparatur/gi,"Gewehrreparatur").split(/\s+/).slice(0,12).join(" ");
-  parsed.s=clean(parsed.s).slice(0,220);
-  parsed.m=clean(parsed.m).slice(0,500);
-  parsed.r=clean(parsed.r).slice(0,280);
+  parsed.s=clean(parsed.s).slice(0,500);
+  parsed.m=clean(parsed.m).slice(0,1200);
+  parsed.r=clean(parsed.r).slice(0,400);
   parsed.k=categoryMap[parsed.k]?parsed.k:(categoryMap[item.topic]||"panorama");
   parsed.c=parsed.c==="DE"?"DE":"INT";
   parsed.p=Math.min(5,Math.max(1,Math.round(Number(parsed.p)||1)));
