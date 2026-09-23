@@ -13,7 +13,7 @@
   padding-top:env(safe-area-inset-top,0px);
   padding-bottom:env(safe-area-inset-bottom,0px);
   --font:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display","Segoe UI",Roboto,"Helvetica Neue",Arial,system-ui,sans-serif;
-  --nav:44px;
+  --nav:52px;
   --bg:#F2F2F7; --card:#FFFFFF;
   --label:#000000; --label2:rgba(60,60,67,.62); --label3:rgba(60,60,67,.3);
   --sep:rgba(60,60,67,.2); --fill:rgba(118,118,128,.12);
@@ -41,7 +41,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .ic{width:22px;height:22px;display:block}
 
 .statusfill{position:fixed;top:0;left:0;right:0;height:env(safe-area-inset-top,0px);background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);z-index:60}
-.navbar{position:fixed;left:0;right:0;top:env(safe-area-inset-top,0px);z-index:60;height:var(--nav);display:flex;align-items:center;justify-content:center;background:color-mix(in srgb,var(--bar) 72%,transparent);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom:.5px solid transparent;transition:border-color .2s}
+.navbar{position:fixed;left:0;right:0;top:env(safe-area-inset-top,0px);z-index:80;height:var(--nav);display:flex;align-items:center;justify-content:center;background:color-mix(in srgb,var(--bar) 78%,transparent);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom:.5px solid transparent;transition:border-color .2s}
 .navbar.scrolled{border-bottom-color:var(--sep);opacity:1;visibility:visible;pointer-events:auto}.navbar:not(.scrolled){opacity:0;visibility:hidden;pointer-events:none}
 .navtitle{display:flex;align-items:center;height:var(--nav);opacity:0;transition:opacity .2s}.navtitle img{display:block;width:86px;height:auto;max-height:30px;object-fit:contain}.theme-toggle{position:absolute;right:12px;top:6px;width:32px;height:32px;border:0;border-radius:50%;display:grid;place-items:center;background:color-mix(in srgb,var(--fill) 70%,transparent);color:var(--label2);transition:background .2s,transform .15s}.theme-toggle:hover{background:var(--sep)}.theme-toggle:active{transform:scale(.94)}.theme-toggle .ic{width:17px;height:17px}
 .navbar.scrolled .navtitle{opacity:1}.navbar>.pulse-settings-toggle{position:absolute!important;right:12px!important;top:50%!important;transform:translateY(-50%)!important;margin:0!important;width:32px!important;height:32px!important}.navbar>.pulse-settings-toggle svg{width:18px!important;height:18px!important}
@@ -61,7 +61,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .mq-item i{width:8px;height:8px;border-radius:50%;background:linear-gradient(145deg,var(--c1),var(--c2));flex:none}
 @keyframes mq{to{transform:translateX(-50%)}}
 
-.controls{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--nav));z-index:50;background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);margin:0 -16px;padding:5px 16px 0;display:flex;flex-direction:column;gap:4px}.search-meta{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:25px;margin:-8px 0 8px;color:var(--label2);font-size:12.5px;font-weight:550}.search-meta:empty,.state-chips:empty,.country-chips:empty{display:none}.search-meta-left{display:flex;align-items:center;gap:7px;min-width:0}.filter-chip{display:inline-flex;align-items:center;gap:6px;max-width:100%;padding:5px 8px 5px 10px;border-radius:999px;background:var(--card);box-shadow:var(--shadow);color:var(--label);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.filter-chip button{width:18px;height:18px;border:0;border-radius:50%;padding:0;background:var(--fill);display:grid;place-items:center;color:var(--label2);font-size:14px;line-height:1}.filter-clear{border:0;background:none;color:var(--tint);font-size:12.5px;font-weight:650;padding:4px 0}.country-chips,.state-chips{display:flex;gap:8px;overflow-x:auto;padding:4px 16px;margin:0 -16px;scrollbar-width:none}.country-chips::-webkit-scrollbar,.state-chips::-webkit-scrollbar{display:none}.mini-chip{flex:none;border:0;border-radius:999px;padding:7px 11px;background:var(--card);box-shadow:var(--shadow);font:600 13px/1 var(--font);white-space:nowrap}.mini-chip[aria-pressed="true"]{background:var(--label);color:var(--bg)}
+.controls{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--nav));z-index:70;background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);margin:0 -16px;padding:5px 16px 0;display:flex;flex-direction:column;gap:4px}.search-meta{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:25px;margin:-8px 0 8px;color:var(--label2);font-size:12.5px;font-weight:550}.search-meta:empty,.state-chips:empty,.country-chips:empty{display:none}.search-meta-left{display:flex;align-items:center;gap:7px;min-width:0}.filter-chip{display:inline-flex;align-items:center;gap:6px;max-width:100%;padding:5px 8px 5px 10px;border-radius:999px;background:var(--card);box-shadow:var(--shadow);color:var(--label);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.filter-chip button{width:18px;height:18px;border:0;border-radius:50%;padding:0;background:var(--fill);display:grid;place-items:center;color:var(--label2);font-size:14px;line-height:1}.filter-clear{border:0;background:none;color:var(--tint);font-size:12.5px;font-weight:650;padding:4px 0}.country-chips,.state-chips{display:flex;gap:8px;overflow-x:auto;padding:4px 16px;margin:0 -16px;scrollbar-width:none}.country-chips::-webkit-scrollbar,.state-chips::-webkit-scrollbar{display:none}.mini-chip{flex:none;border:0;border-radius:999px;padding:7px 11px;background:var(--card);box-shadow:var(--shadow);font:600 13px/1 var(--font);white-space:nowrap}.mini-chip[aria-pressed="true"]{background:var(--label);color:var(--bg)}
 .searchbox{position:relative;margin:0}.searchbox .ic{position:absolute;left:11px;top:50%;width:18px;height:18px;transform:translateY(-50%);color:var(--label2);pointer-events:none} .searchbox input{width:100%;height:38px;border:0;border-radius:10px;padding:0 12px 0 36px;background:var(--fill);color:var(--label);font:500 15px/1 var(--font);outline:none}.searchbox input::placeholder{color:var(--label2)}.searchbox input:focus{box-shadow:0 0 0 2px color-mix(in srgb,var(--tint) 35%,transparent)}
 /* Mehr anzeigen und Archiv teilen bewusst dieselbe Navigationskomponente. */.large-text .searchbox input{font-size:18px}.large-text .more-button{font-size:19px}
 .seg{display:flex;background:var(--fill);border-radius:9px;padding:2px;gap:2px;margin:0}
@@ -165,6 +165,19 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 </svg>
 <a class="skip-link" href="#mainContent">Zum Inhalt springen</a><div class="statusfill"></div>
 <header class="navbar" id="navbar"><span class="navtitle"><img src="assets/pulse-logo.svg" alt="Pulse"></span><button class="theme-toggle" id="settingsToggle" type="button" aria-label="Einstellungen" title="Einstellungen"><svg class="ic" aria-hidden="true"><use href="#i-settings"/></svg></button></header>
+<script>
+(function(){
+  function setScrolled(){
+    var y=(document.scrollingElement&&document.scrollingElement.scrollTop)||window.scrollY||0;
+    var n=document.getElementById('navbar');
+    if(n)n.classList.toggle('scrolled',y>44);
+  }
+  window.addEventListener('scroll',setScrolled,{passive:true});
+  window.addEventListener('pageshow',setScrolled);
+  document.addEventListener('DOMContentLoaded',setScrolled);
+  setScrolled();
+})();
+</script>
 
 <main class="wrap" id="mainContent" tabindex="-1">
   <div class="large"><h1 class="brand-title"><img src="assets/pulse-logo.svg" alt="Pulse"></h1><p class="sub" id="dateSub"></p><div class="freshline"><span class="freshdot"></span><span>Pulse fasst Nachrichten mithilfe von KI aus mehreren Quellen zusammen.</span></div><div class="explainer-tools" aria-label="Informationen"><a href="./erklaert.html" aria-label="Pulse erklärt">Pulse erklärt</a><a href="./medienkompetenz.html" aria-label="Informationen prüfen">Informationen prüfen</a></div></div>
@@ -443,8 +456,9 @@ let drag=null;
 document.addEventListener('touchstart',e=>{if(!e.target.closest('.grip'))return;drag={y:e.touches[0].clientY,dy:0}},{passive:true});
 document.addEventListener('touchmove',e=>{if(!drag)return;drag.dy=Math.max(0,e.touches[0].clientY-drag.y);const s=$('.sheet');if(s){s.style.transition='none';s.style.transform='translateY('+drag.dy+'px)'}},{passive:true});
 document.addEventListener('touchend',()=>{if(!drag)return;const s=$('.sheet');if(s){s.style.transition='';s.style.transform=''}const far=drag.dy>90;drag=null;if(far)closeSheet()});
-function syncNavbar(){ $('#navbar').classList.toggle('scrolled',window.scrollY>44); }
+function syncNavbar(){ const n=$('#navbar'); const y=(document.scrollingElement&&document.scrollingElement.scrollTop)||window.scrollY||0; n.classList.toggle('scrolled',y>44); }
 window.addEventListener('scroll',syncNavbar,{passive:true});
+window.addEventListener('pageshow',syncNavbar);
 syncNavbar();
 
 function updateDateTime(){
