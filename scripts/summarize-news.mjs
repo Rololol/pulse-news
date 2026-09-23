@@ -2,6 +2,8 @@ import fs from "node:fs/promises";
 
 const apiKey=process.env.GEMINI_API_KEY;
 const model=process.env.GEMINI_MODEL||"gemini-3.5-flash-lite";
+const freeTierModels=new Set(["gemini-3.5-flash-lite","gemini-3.1-flash-lite"]);
+if(apiKey&&!freeTierModels.has(model)) throw new Error(`Kosten-Schutz: Modell ${model} ist nicht für den Free-Tier-Guard freigegeben.`);
 const inputFile="data/news.json";
 const outputFile="data.json";
 const cacheFile="data/ai-cache.json";
@@ -67,7 +69,7 @@ ${sourceText}`;
       contents:[{role:"user",parts:[{text:prompt}]}],
       generationConfig:{
         temperature:0.15,
-        maxOutputTokens:700,
+        maxOutputTokens:500,
         response_mime_type:"application/json",
         response_schema:schema
       }
@@ -77,6 +79,7 @@ ${sourceText}`;
     const body=await res.text().catch(()=>"");
     const e=new Error("Gemini HTTP "+res.status);
     e.retryable=[429,500,502,503,504].includes(res.status);
+    e.status=res.status;
     e.retryAfter=res.headers.get("retry-after");
     e.body=body.slice(0,300);
     throw e;
@@ -141,17 +144,18 @@ for(const item of ranked){
   let ai=cache[key];
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
+      // Kosten-Schutz: höchstens ein Gemini-Aufruf pro neuer Meldung; 429/Quota wird nicht erneut versucht.
       for(let attempt=0;attempt<3;attempt++){
         try{ai=await ask(item);generated++;break}
         catch(e){
-          if(!e.retryable||attempt===2){failures++;break}
+          if(e.status===429||!e.retryable||attempt===2){failures++;break}
           const retry=Number(e.retryAfter);
           await sleep(Number.isFinite(retry)?Math.max(8000,retry*1000):10000*(attempt+1));
         }
       }
     }
     if(!ai?.t){ai=localFallback(item);fallbacks++}
-    cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:apiKey&&ai!==localFallback?"gemini":"fallback"};
+    cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:generated>0&&apiKey?"gemini":"fallback"};
   }
 
   output.push({
