@@ -24,7 +24,17 @@ const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g
 const hashKey=s=>Buffer.from(String(s)).toString("base64url").slice(0,120);
 const stableId=s=>{let h=2166136261;for(let i=0;i<String(s).length;i++){h^=String(s).charCodeAt(i);h=Math.imul(h,16777619)}return "story-"+(h>>>0).toString(16).padStart(8,"0")+(((h>>>0)^0x9e3779b9)>>>0).toString(16).padStart(8,"0")};
 const titleSimilarity=(a,b)=>{const A=new Set(clean(a).toLowerCase().split(/\s+/).filter(w=>w.length>=5)),B=new Set(clean(b).toLowerCase().split(/\s+/).filter(w=>w.length>=5));let n=0;for(const w of A)if(B.has(w))n++;return n/Math.max(1,new Set([...A,...B]).size)};
-const previousFor=item=>previousCurrent.find(x=>x.id===stableId((item.sources||[]).map(s=>s.url).join("|")+"|"+(item.stateHint||"")))||previousCurrent.find(x=>titleSimilarity(x.t||"",item.title)>=0.55);
+const previousFor=item=>{
+  const compatible=x=>x&&x.c===(countryMap[item.country]||"INT")&&(!item.stateHint||!x.st||x.st===item.stateHint);
+  const exact=previousCurrent.find(x=>compatible(x)&&x.id===stableId((item.sources||[]).map(s=>s.url).join("|")+"|"+(item.stateHint||"")));
+  if(exact)return exact;
+  const itemTime=Date.parse(item.date);
+  return previousCurrent
+    .filter(x=>compatible(x))
+    .filter(x=>{const t=Date.parse(x.d);return Number.isFinite(itemTime)&&Number.isFinite(t)&&Math.abs(itemTime-t)<=48*60*60*1000})
+    .sort((a,b)=>titleSimilarity(b.t||"",item.title)-titleSimilarity(a.t||"",item.title))
+    .find(x=>titleSimilarity(x.t||"",item.title)>=0.55);
+};
 const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
 const countryMap={DE:"DE",UK:"INT",PT:"INT",INT:"INT",US:"INT",EU:"INT"};
 
@@ -137,8 +147,10 @@ ${sourceText}`;
 
 const categories=["politik","wirtschaft","sport","wissenschaft","technik","panorama","umwelt"];
 const rankItems=list=>list.slice().sort((a,b)=>{
-  const pa=a.sources?.length||1,pb=b.sources?.length||1;
-  return (pb-pa)||(Date.parse(b.date)-Date.parse(a.date));
+  const da=Date.parse(a.date),db=Date.parse(b.date);
+  const ageA=Number.isFinite(da)?Math.max(0,Date.now()-da):Number.MAX_SAFE_INTEGER;
+  const ageB=Number.isFinite(db)?Math.max(0,Date.now()-db):Number.MAX_SAFE_INTEGER;
+  return (ageA-ageB)||((b.sources?.length||1)-(a.sources?.length||1));
 });
 const byCategory=new Map(categories.map(k=>[k,[]]));
 for(const item of raw)(byCategory.get(item.topic)||byCategory.get("panorama")).push(item);
@@ -173,10 +185,10 @@ if(ranked.length<45){
 const output=[];
 let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
-  const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
+  const srcs=(item.sources||[]).slice(0,8).filter(s=>{try{const u=new URL(s.url);return (u.protocol==="https:"||u.protocol==="http:")&&String(s.url).length<=2048}catch{return false}}).map(s=>({name:clean(s.source).slice(0,120),url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
   const previous=previousFor(item);
-  const key=hashKey("v7-event-tracking|"+item.id+"|"+signature+"|"+(item.stateHint||""));
+  const key=hashKey("v8-quality-hardening|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
@@ -195,6 +207,7 @@ for(const item of ranked){
     cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:usedGemini?"gemini":"fallback"};
   }
 
+  if(!srcs.length)continue;
   output.push({
     id:previous?.id||stableId(signature+"|"+(item.stateHint||"")),c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
     lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
