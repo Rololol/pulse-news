@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<link rel="manifest" href="./manifest.webmanifest">
+<title>Pulse – Archiv</title>
+<style>
+:root{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Arial,sans-serif;color:#000;background:#f2f2f7;--card:#fff;--muted:rgba(60,60,67,.62);--tint:#007aff}
+@media(prefers-color-scheme:dark){:root{color:#fff;background:#000;--card:#1c1c1e;--muted:rgba(235,235,245,.62);--tint:#0a84ff}}
+*{box-sizing:border-box}body{margin:0}.wrap{max-width:680px;margin:auto;padding:24px 16px 50px}a{color:var(--tint);text-decoration:none}.back{display:inline-block;margin-bottom:22px;font-weight:600}.brand{display:flex;align-items:center;gap:10px}.brand img{width:125px}.sub{color:var(--muted);margin:8px 0 24px}.month{display:block;width:100%;border:0;border-radius:16px;background:var(--card);color:inherit;text-align:left;padding:16px;margin:10px 0;font:600 16px inherit;box-shadow:0 4px 16px rgba(0,0,0,.08);cursor:pointer}.month small{display:block;color:var(--muted);font-weight:400;margin-top:4px}.story{background:var(--card);border-radius:16px;padding:15px;margin:9px 0}.story h3{font-size:17px;margin:0 0 7px}.story p{color:var(--muted);margin:0;line-height:1.4}.story time{display:block;color:var(--muted);font-size:12px;margin-top:9px}.empty{padding:30px 0;color:var(--muted)}
+</style>
+</head>
+<body>
+<main class="wrap">
+<a class="back" href="./">← Pulse</a>
+<div class="brand"><img src="assets/pulse-logo.svg" alt="Pulse"></div>
+<p class="sub">Archiv älterer Pulse-Meldungen. Die Meldungen sind KI-zusammengefasst und können Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p>
+<section id="months"><div class="empty">Archiv wird geladen …</div></section>
+</main>
+<script>
+(async()=>{
+const root=document.querySelector('#months');
+const monthNames=new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'});
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=d=>{const x=new Date(d);return Number.isNaN(x.getTime())?'':new Intl.DateTimeFormat('de-DE',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(x)+' Uhr'};
+try{
+ const months=await (await fetch('./data/archive/index.json?ts='+Date.now(),{cache:'no-store'})).json();
+ if(!Array.isArray(months)||!months.length){root.innerHTML='<div class="empty">Noch keine älteren Meldungen archiviert.</div>';return}
+ root.innerHTML='';
+ for(const entry of months){
+   const b=document.createElement('button');b.className='month';b.textContent=entry.month;
+   b.innerHTML=esc(monthNames.format(new Date(entry.month+'-01T12:00:00')));
+   const list=document.createElement('div');list.hidden=true;
+   b.onclick=async()=>{
+     if(!list.dataset.loaded){
+       try{
+         const data=await (await fetch('./data/archive/'+encodeURIComponent(entry.month)+'.json?ts='+Date.now(),{cache:'no-store'})).json();
+         list.innerHTML=(Array.isArray(data)?data:[]).map(it=>'<article class="story"><h3>'+esc(it.t)+'</h3><p>'+esc(it.s)+'</p><time>'+fmt(it.d)+'</time></article>').join('')||'<div class="empty">Keine Meldungen.</div>';
+         list.dataset.loaded='1';
+       }catch{list.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>';list.dataset.loaded='1'}
+     }
+     list.hidden=!list.hidden;
+   };
+   root.append(b,list);
+ }
+}catch{root.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>'}
+})();
+</script>
+</body>
+</html>
