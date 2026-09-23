@@ -57,7 +57,7 @@ try{
  search.addEventListener('input',render); clear.addEventListener('click',()=>{search.value='';render();search.focus()}); render();
 }catch(e){root.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>';count.textContent='Archiv nicht verfügbar'}
 })();
-const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply();
+
 </script>
 <script src="./assets/settings.js"></script>
 </body>
