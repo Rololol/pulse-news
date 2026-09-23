@@ -6,6 +6,8 @@ const freeTierModels=new Set(["gemini-3.5-flash-lite","gemini-3.1-flash-lite"]);
 if(apiKey&&!freeTierModels.has(model)) throw new Error(`Kosten-Schutz: Modell ${model} ist nicht für den Free-Tier-Guard freigegeben.`);
 const inputFile="data/news.json";
 const outputFile="data.json";
+const archiveDir="data/archive";
+const archiveIndexFile=`${archiveDir}/index.json`;
 const cacheFile="data/ai-cache.json";
 
 const raw=JSON.parse(await fs.readFile(inputFile,"utf8"));
@@ -181,6 +183,36 @@ for(const item of ranked){
 
 output.sort((a,b)=>(b.d.localeCompare(a.d))||(b.p-a.p));
 const final=output.slice(0,45);
+
+// Historie: Die aus dem aktuellen Fenster fallenden Meldungen werden monatlich archiviert.
+// Es werden nur die bisherigen data.json-Meldungen übernommen, die nicht mehr in final stehen.
+const previousCurrent=(()=>{try{return JSON.parse(require("node:fs").readFileSync(outputFile,"utf8"))}catch{return []}})();
+await fs.mkdir(archiveDir,{recursive:true});
+const finalIds=new Set(final.map(x=>x.id));
+const archiveCandidates=previousCurrent.filter(x=>x&&x.id&&!finalIds.has(x.id));
+const months=new Map();
+for(const item of archiveCandidates){
+  const d=new Date(item.d); if(!Number.isFinite(d.getTime()))continue;
+  const month=d.toISOString().slice(0,7);
+  if(!months.has(month))months.set(month,[]);
+  months.get(month).push(item);
+}
+for(const [month,items] of months){
+  const file=`${archiveDir}/${month}.json`;
+  let existing=[];
+  try{existing=JSON.parse(await fs.readFile(file,"utf8"))}catch{}
+  const byId=new Map(existing.filter(x=>x&&x.id).map(x=>[x.id,x]));
+  for(const item of items)byId.set(item.id,item);
+  const merged=[...byId.values()].sort((a,b)=>(b.d||"").localeCompare(a.d||""));
+  await fs.writeFile(file,JSON.stringify(merged,null,2));
+}
+const archiveMonths=new Set();
+try{
+  for(const name of await fs.readdir(archiveDir))if(/^\\d{4}-\\d{2}\\.json$/.test(name))archiveMonths.add(name.slice(0,-5));
+}catch{}
+for(const item of archiveCandidates){const d=new Date(item.d);if(Number.isFinite(d.getTime()))archiveMonths.add(d.toISOString().slice(0,7));}
+const monthList=[...archiveMonths].sort().reverse();
+await fs.writeFile(archiveIndexFile,JSON.stringify(monthList.map(month=>({month,file:`${month}.json`})),null,2));
 await fs.writeFile(outputFile,JSON.stringify(final,null,2));
 await fs.writeFile(cacheFile,JSON.stringify(cache,null,2));
-console.log(`data.json: ${final.length} items · ${generated} Gemini · ${fallbacks} fallback · ${failures} Gemini failures`);
+console.log(`data.json: ${final.length} items · archiviert: ${archiveCandidates.length} · Monate: ${monthList.length} · ${generated} Gemini · ${fallbacks} fallback · ${failures} Gemini failures`);
