@@ -221,6 +221,19 @@ function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.l
 function sourceLabel(it){const n=sourceCount(it);return n+' Quelle'+(n===1?'':'n')}
 function independentSourceCount(it){return Number.isFinite(Number(it.independent))?Number(it.independent):sourceCount(it)}
 function sourceDiversityLabel(it){const n=sourceCount(it),u=independentSourceCount(it);return n>1&&u<n?(n+' Quellen · '+u+' unterschiedliche Domains'):sourceLabel(it)}
+function isUpdated(it){
+  if(String(it.chg||'').trim())return true;
+  const previous=ARCHIVE_ITEMS.find(x=>x&&x.id===it.id);
+  if(!previous)return false;
+  const curSources=(it.srcs||[]).map(x=>x?.url||'').filter(Boolean).sort().join('|');
+  const oldSources=(previous.srcs||[]).map(x=>x?.url||'').filter(Boolean).sort().join('|');
+  return (Date.parse(it.d)||0)>(Date.parse(previous.d)||0)
+    ||curSources!==oldSources
+    ||String(it.t||'')!==String(previous.t||'')
+    ||String(it.s||'')!==String(previous.s||'')
+    ||String(it.m||'')!==String(previous.m||'')
+    ||String(it.r||'')!==String(previous.r||'');
+}
 function originalUrl(it){return it.url||(Array.isArray(it.srcs)&&it.srcs[0]?.url)||''}
 function sourceType(src){try{const h=new URL(src.url||'').hostname.replace(/^www\\./,'').toLowerCase();if(/bundesregierung|bundestag|bundesbank|polizei|justiz|gericht|nasa\\.gov|esa\\.int|noaa\\.gov|who\\.int|europa\\.eu/.test(h))return 'Primärquelle'}catch{}return 'Berichterstattung'}
 
@@ -239,7 +252,7 @@ function visible(){
     if(S.scope==='local'&&(it.c!=='DE'||(S.state&&it.st!==S.state)))return false;
     if(S.scope==='all'&&it.c==='DE')return false;
     if(S.scope==='all'&&S.country&&S.country!=='INT'&&it.c!==S.country&&it.o!==S.country)return false;
-    if(S.scope==='updated'&&!String(it.chg||'').trim())return false;
+    if(S.scope==='updated'&&!isUpdated(it))return false;
     if(q&&!searchableText(it).includes(q))return false;
     return true;
   });
@@ -290,7 +303,7 @@ function cardHTML(it){
   </button>`;
 }
 function emptyHTML(){
-  if(S.scope==='updated')return `<div class="empty"><div class="big">${ic('clock')}</div><h3>Noch keine Aktualisierungen</h3><p>Aktuell wurde noch keine Meldung nach ihrer Veröffentlichung mit neuen bestätigten Informationen aktualisiert.</p></div>`;
+  if(S.scope==='updated')return `<div class="empty"><div class="big">${ic('clock')}</div><h3>Noch keine Aktualisierungen</h3><p>Aktuell wurde noch keine Meldung nach ihrer Veröffentlichung mit neuen Quellen oder Informationen aktualisiert.</p></div>`;
   return `<div class="empty"><div class="big">${ic('search')}</div><h3>Nichts gefunden</h3><p>Für diese Auswahl gibt es im Moment keine Meldungen.<br>Wähle eine andere Reichweite oder ein anderes Thema.</p><button class="btn" data-scope="all" data-cat="all">Alles zeigen</button></div>`;
 }
 function renderFeed(){
