@@ -69,7 +69,6 @@ function closeEntry(){
   document.body.style.overflow='';
   setTimeout(()=>{if(root)root.innerHTML=''},220);
 }
-}
 root.addEventListener('click',e=>{
   const open=e.target.closest('[data-open]');
   if(open){openEntry(open.dataset.open);return}
