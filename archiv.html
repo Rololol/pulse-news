@@ -31,10 +31,17 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const fmt=d=>{const x=new Date(d);return Number.isNaN(x.getTime())?'':new Intl.DateTimeFormat('de-DE',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(x)+' Uhr'};
 let entries=[],activeMonth='all';
 try{
- const idx=await (await fetch('./data/archive/index.json?ts='+Date.now(),{cache:'no-store'})).json();
+ const base=new URL('./',window.location.href);
+ const loadJson=async path=>{
+   const res=await fetch(new URL(path,base).href+'?v=archive',{cache:'no-store'});
+   if(!res.ok)throw new Error('HTTP '+res.status+' für '+path);
+   return res.json();
+ };
+ const idx=await loadJson('data/archive/index.json');
  const files=Array.isArray(idx)?idx:[];
- const loaded=await Promise.all(files.map(entry=>fetch('./data/archive/'+encodeURIComponent(entry.file||entry.month+'.json')+'?ts='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[])));
+ const loaded=await Promise.all(files.map(entry=>loadJson('data/archive/'+(entry.file||entry.month+'.json')).catch(()=>[])));
  entries=loaded.flatMap(x=>Array.isArray(x)?x:[]);
+ if(!entries.length)throw new Error('Keine Archivmeldungen geladen');
  const groups=new Map();
  for(const it of entries){const m=String(it.d||'').slice(0,7);if(!groups.has(m))groups.set(m,[]);groups.get(m).push(it)}
  const months=[...groups.keys()].sort().reverse();
