@@ -218,6 +218,7 @@ function sourceLabel(it){const n=sourceCount(it);return n+' Quelle'+(n===1?'':'n
 function independentSourceCount(it){return Number.isFinite(Number(it.independent))?Number(it.independent):sourceCount(it)}
 function sourceDiversityLabel(it){const n=sourceCount(it),u=independentSourceCount(it);return n>1&&u<n?(n+' Quellen · '+u+' unterschiedliche Herausgeber'):sourceLabel(it)}
 function originalUrl(it){return it.url||(Array.isArray(it.srcs)&&it.srcs[0]?.url)||''}
+function sourceType(src){try{const h=new URL(src.url||'').hostname.replace(/^www\\./,'').toLowerCase();if(/bundesregierung|bundestag|bundesbank|polizei|justiz|gericht|nasa\\.gov|esa\\.int|noaa\\.gov|who\\.int|europa\\.eu/.test(h))return 'Primärquelle'}catch{}return 'Berichterstattung'}
 
 function visible(){
   const list=ITEMS.filter(it=>{
@@ -311,7 +312,7 @@ function sheetHTML(it,isOpen){
       ${it.chg?`<h4>Was hat sich geändert?</h4><p class="relevance">${esc(it.chg)}</p>`:''}
       ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:''}
       <h4>Quellen</h4>
-      <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
+      <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a><small style="display:block;color:var(--label3);margin-top:2px">${sourceType(src)}</small></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
       ${Array.isArray(it.diff)&&it.diff.length?`<h4>Abweichende Angaben</h4>${it.diff.map(d=>`<p><strong>${esc(d.name)}:</strong> ${esc(d.note)}</p>`).join('')}`:''}
       <p class="note">${sourceDiversityLabel(it)} · ${dayLabel(it.d)} · Die Meldung kann Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p><div class="sact">
