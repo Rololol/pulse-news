@@ -311,8 +311,7 @@ function sheetHTML(it,isOpen){
       <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
       ${Array.isArray(it.diff)&&it.diff.length?`<h4>Abweichende Angaben</h4>${it.diff.map(d=>`<p><strong>${esc(d.name)}:</strong> ${esc(d.note)}</p>`).join('')}`:''}
-      <p class="note">${sourceCount(it)} Quelle${sourceCount(it)===1?'':'n'} · ${dayLabel(it.d)}</p>
-      <a class="report-link" href="mailto:ranking-blot-churn@duck.com?subject=Hinweis%20zu%20einer%20Pulse-Meldung&body=Bitte%20Meldung%20und%20Hinweis%20beschreiben.">Fehler oder fehlende Information melden</a><div class="sact">
+      <p class="note">${sourceCount(it)} Quelle${sourceCount(it)===1?'':'n'} · ${dayLabel(it.d)} · Die Meldung kann Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p><div class="sact">
         ${originalUrl(it)?`<a class="primary" href="${esc(originalUrl(it))}" target="_blank" rel="noopener noreferrer">Originalbericht lesen</a>`:''}
         ${canShare?`<button class="secondary" data-share="${it.id}">Teilen</button>`:''}
       </div>
