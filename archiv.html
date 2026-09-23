@@ -2,55 +2,61 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
 <meta name="color-scheme" content="light dark">
 <link rel="manifest" href="./manifest.webmanifest">
 <title>Pulse – Archiv</title>
 <style>
-:root{--fill:rgba(118,118,128,.12);--bar:rgba(249,249,249,.82);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Arial,sans-serif;color:#000;background:#f2f2f7;--card:#fff;--muted:rgba(60,60,67,.62);--tint:#007aff}
-html[data-theme=dark]{color-scheme:dark;color:#fff;background:#000;--card:#1c1c1e;--muted:rgba(235,235,245,.62);--tint:#0a84ff;--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82)}@media(prefers-color-scheme:dark){:root{color:#fff;background:#000;--card:#1c1c1e;--muted:rgba(235,235,245,.62);--tint:#0a84ff;--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82)}}
-*{box-sizing:border-box}body{margin:0}.wrap{max-width:680px;margin:auto;padding:0 16px 50px}.nav{height:58px;display:flex;align-items:center;justify-content:space-between;background:var(--bar);backdrop-filter:blur(18px);position:sticky;top:0;z-index:2;border-bottom:1px solid var(--fill)}.nav img{width:88px}.back{color:var(--tint);text-decoration:none;font-weight:600}.theme{border:0;border-radius:50%;background:var(--fill);color:inherit;width:32px;height:32px}.brand{display:flex;align-items:center;gap:10px}.brand img{width:125px}.sub{color:var(--muted);margin:8px 0 24px}.month{display:block;width:100%;border:0;border-radius:16px;background:var(--card);color:inherit;text-align:left;padding:16px;margin:10px 0;font:600 16px inherit;box-shadow:0 4px 16px rgba(0,0,0,.08);cursor:pointer}.month small{display:block;color:var(--muted);font-weight:400;margin-top:4px}.story{background:var(--card);border-radius:16px;padding:15px;margin:9px 0}.story h3{font-size:17px;margin:0 0 7px}.story p{color:var(--muted);margin:0;line-height:1.4}.story time{display:block;color:var(--muted);font-size:12px;margin-top:9px}.empty{padding:30px 0;color:var(--muted)}
+:root{--bg:#F2F2F7;--card:#FFF;--label:#000;--muted:rgba(60,60,67,.62);--label3:rgba(60,60,67,.3);--sep:rgba(60,60,67,.2);--fill:rgba(118,118,128,.12);--bar:rgba(249,249,249,.82);--tint:#007AFF;--shadow:0 1px 2px rgba(0,0,0,.04),0 6px 18px -10px rgba(0,0,0,.18);--font:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display","Segoe UI",Roboto,Arial,sans-serif}
+html[data-theme=dark]{color-scheme:dark;--bg:#000;--card:#1C1C1E;--label:#FFF;--muted:rgba(235,235,245,.62);--label3:rgba(235,235,245,.3);--sep:rgba(84,84,88,.65);--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82);--tint:#0A84FF;--shadow:0 0 0 .5px rgba(255,255,255,.04)}
+@media(prefers-color-scheme:dark){:root:not([data-theme]){--bg:#000;--card:#1C1C1E;--label:#FFF;--muted:rgba(235,235,245,.62);--label3:rgba(235,235,245,.3);--sep:rgba(84,84,88,.65);--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82);--tint:#0A84FF;--shadow:0 0 0 .5px rgba(255,255,255,.04)}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--label);font:17px/1.35 var(--font);-webkit-font-smoothing:antialiased}.wrap{max-width:680px;margin:auto;padding:0 16px 90px}.nav{height:58px;display:flex;align-items:center;justify-content:space-between;background:var(--bar);backdrop-filter:saturate(180%) blur(20px);position:sticky;top:0;z-index:5;border-bottom:.5px solid var(--sep)}.brand{display:flex;align-items:center;gap:10px}.brand img{width:88px}.back{color:var(--tint);text-decoration:none;font-weight:650}.theme{border:0;border-radius:50%;background:var(--fill);color:inherit;width:32px;height:32px}.head{padding:28px 4px 18px}.head h1{font-size:34px;line-height:1.1;letter-spacing:-.03em;margin:0 0 8px;font-weight:800}.head p{color:var(--muted);margin:0;font-size:14px;line-height:1.5}.searchbox{position:sticky;top:58px;z-index:4;padding:6px 0 8px;background:var(--bar);backdrop-filter:saturate(180%) blur(20px)}.searchbox input{width:100%;height:40px;border:0;border-radius:11px;background:var(--fill);color:var(--label);padding:0 12px;outline:none;font:500 15px var(--font)}.searchbox input:focus{box-shadow:0 0 0 2px color-mix(in srgb,var(--tint) 35%,transparent)}.meta{display:flex;justify-content:space-between;align-items:center;gap:10px;min-height:28px;color:var(--muted);font-size:12.5px}.filters{display:flex;gap:8px;overflow-x:auto;padding:5px 0 10px;scrollbar-width:none}.filters::-webkit-scrollbar{display:none}.filter{flex:none;border:0;border-radius:999px;background:var(--card);color:var(--label);box-shadow:var(--shadow);padding:7px 12px;font:600 13px var(--font)}.filter[aria-pressed=true]{background:var(--label);color:var(--bg)}.month{margin:10px 0 0}.month-head{width:100%;height:48px;border:0;border-radius:14px;background:var(--card);color:var(--label);display:flex;align-items:center;justify-content:space-between;padding:0 15px;font:650 16px var(--font);box-shadow:var(--shadow);cursor:pointer}.month-head small{color:var(--muted);font-size:12px;font-weight:500}.month-list{display:flex;flex-direction:column;gap:9px;padding:9px 0 2px}.story{background:var(--card);border-radius:17px;padding:15px;box-shadow:var(--shadow)}.story h3{font-size:17px;line-height:1.25;margin:0 0 6px;font-weight:750}.story p{color:var(--muted);margin:0;font-size:14.5px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.story time{display:block;color:var(--label3);font-size:12px;margin-top:9px}.empty{text-align:center;padding:38px 20px;color:var(--muted)}.clear{border:0;background:none;color:var(--tint);font-weight:650}.foot{text-align:center;color:var(--muted);font-size:12.5px;margin:26px 8px}.foot a{color:var(--tint);text-decoration:none;font-weight:650}
 </style>
 </head>
 <body>
 <main class="wrap">
-<header class="nav">
-<a class="back" href="./index.html" aria-label="Zurück zu Pulse">← Pulse</a>
-<img src="assets/pulse-logo.svg" alt="Pulse">
-<button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button>
-</header>
-<p class="sub">Archiv älterer Pulse-Meldungen. Die Meldungen sind KI-zusammengefasst und können Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p>
+<header class="nav"><a class="back" href="./index.html">← Pulse</a><div class="brand"><img src="assets/pulse-logo.svg" alt="Pulse"></div><button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button></header>
+<section class="head"><h1>Archiv</h1><p>Ältere Pulse-Meldungen im selben Designsystem wie die Startseite. Die Meldungen sind KI-zusammengefasst; für wichtige Informationen bitte die Originalquellen prüfen.</p></section>
+<label class="searchbox"><input id="search" type="search" placeholder="Archiv durchsuchen …" autocomplete="off" aria-label="Archiv durchsuchen"></label>
+<div class="meta"><span id="count">Archiv wird geladen …</span><button class="clear" id="clear" hidden>Suche löschen</button></div>
+<div class="filters" id="monthsFilter"></div>
 <section id="months"><div class="empty">Archiv wird geladen …</div></section>
+<p class="foot"><a href="./arbeitsweise.html">So arbeitet Pulse</a><span style="margin:0 8px">·</span><a href="./quellen.html">Quellen</a><span style="margin:0 8px">·</span><a href="./impressum.html">Impressum</a></p>
 </main>
 <script>
 (async()=>{
-const root=document.querySelector('#months');
-const monthNames=new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'});
+const root=document.querySelector('#months'), search=document.querySelector('#search'), count=document.querySelector('#count'), clear=document.querySelector('#clear'), monthsFilter=document.querySelector('#monthsFilter');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmt=d=>{const x=new Date(d);return Number.isNaN(x.getTime())?'':new Intl.DateTimeFormat('de-DE',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(x)+' Uhr'};
+let entries=[],activeMonth='all';
 try{
- const months=await (await fetch('./data/archive/index.json?ts='+Date.now(),{cache:'no-store'})).json();
- if(!Array.isArray(months)||!months.length){root.innerHTML='<div class="empty">Noch keine älteren Meldungen archiviert.</div>';return}
- root.innerHTML='';
- for(const entry of months){
-   const b=document.createElement('button');b.className='month';b.textContent=entry.month;
-   b.innerHTML=esc(monthNames.format(new Date(entry.month+'-01T12:00:00')));
-   const list=document.createElement('div');list.hidden=true;
-   b.onclick=async()=>{
-     if(!list.dataset.loaded){
-       try{
-         const data=await (await fetch('./data/archive/'+encodeURIComponent(entry.month)+'.json?ts='+Date.now(),{cache:'no-store'})).json();
-         list.innerHTML=(Array.isArray(data)?data:[]).map(it=>'<article class="story"><h3>'+esc(it.t)+'</h3><p>'+esc(it.s)+'</p><time>'+fmt(it.d)+'</time></article>').join('')||'<div class="empty">Keine Meldungen.</div>';
-         list.dataset.loaded='1';
-       }catch{list.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>';list.dataset.loaded='1'}
-     }
-     list.hidden=!list.hidden;
-   };
-   root.append(b,list);
- }
-}catch{root.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>'}
+ const idx=await (await fetch('./data/archive/index.json?ts='+Date.now(),{cache:'no-store'})).json();
+ const files=Array.isArray(idx)?idx:[];
+ const loaded=await Promise.all(files.map(entry=>fetch('./data/archive/'+encodeURIComponent(entry.file||entry.month+'.json')+'?ts='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[])));
+ entries=loaded.flatMap(x=>Array.isArray(x)?x:[]);
+ const groups=new Map();
+ for(const it of entries){const m=String(it.d||'').slice(0,7);if(!groups.has(m))groups.set(m,[]);groups.get(m).push(it)}
+ const months=[...groups.keys()].sort().reverse();
+ monthsFilter.innerHTML='<button class="filter" data-month="all" aria-pressed="true">Alle</button>'+months.map(m=>'<button class="filter" data-month="'+esc(m)+'" aria-pressed="false">'+esc(new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(m+'-01T12:00:00'))+'</button>').join('');
+ const render=()=>{
+   const q=search.value.trim().toLocaleLowerCase('de-DE');
+   const filtered=entries.filter(it=>(activeMonth==='all'||String(it.d||'').slice(0,7)===activeMonth)&&(!q||[it.t,it.s,it.m,it.r,it.chg,it.agree].join(' ').toLocaleLowerCase('de-DE').includes(q))).sort((a,b)=>String(a.d).localeCompare(String(b.d))>0?-1:1);
+   count.textContent=filtered.length+' Meldungen'+(q?' gefunden':'');
+   clear.hidden=!q;
+   if(!filtered.length){root.innerHTML='<div class="empty">Keine Meldungen für diese Auswahl.</div>';return}
+   const by=new Map();
+   for(const it of filtered){const m=String(it.d||'').slice(0,7);if(!by.has(m))by.set(m,[]);by.get(m).push(it)}
+   root.innerHTML=[...by.entries()].map(([m,list])=>{
+     const title=new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(m+'-01T12:00:00'));
+     return '<section class="month"><button class="month-head" data-toggle="'+esc(m)+'"><span>'+esc(title)+'</span><small>'+list.length+' Meldungen</small></button><div class="month-list" id="month-'+esc(m)+'">'+list.map(it=>'<article class="story"><h3>'+esc(it.t)+'</h3><p>'+esc(it.s)+'</p><time>'+fmt(it.d)+'</time></article>').join('')+'</div></section>';
+   }).join('');
+ };
+ monthsFilter.addEventListener('click',e=>{const b=e.target.closest('[data-month]');if(!b)return;activeMonth=b.dataset.month;monthsFilter.querySelectorAll('.filter').forEach(x=>x.setAttribute('aria-pressed',x===b?'true':'false'));render()});
+ root.addEventListener('click',e=>{const b=e.target.closest('[data-toggle]');if(!b)return;const list=document.getElementById('month-'+b.dataset.toggle);if(list)list.hidden=!list.hidden});
+ search.addEventListener('input',render); clear.addEventListener('click',()=>{search.value='';render();search.focus()}); render();
+}catch(e){root.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>';count.textContent='Archiv nicht verfügbar'}
 })();
+const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply();
 </script>
-<script>const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply()</script>
 </body>
 </html>
