@@ -21,6 +21,8 @@
   --bar:rgba(249,249,249,.82); --segon:#FFFFFF; --tint:#007AFF;
   --shadow:0 1px 2px rgba(0,0,0,.04),0 6px 18px -10px rgba(0,0,0,.18);
 }
+html[data-theme="light"]{color-scheme:light}
+html[data-theme="dark"]{color-scheme:dark;--bg:#000000;--card:#1C1C1E;--label:#FFFFFF;--label2:rgba(235,235,245,.62);--label3:rgba(235,235,245,.3);--sep:rgba(84,84,88,.65);--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82);--segon:#636366;--tint:#0A84FF;--shadow:0 0 0 .5px rgba(255,255,255,.04)}
 @media (prefers-color-scheme: dark){
   :root{
     --bg:#000000; --card:#1C1C1E;
@@ -42,11 +44,11 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .statusfill{position:fixed;top:0;left:0;right:0;height:env(safe-area-inset-top,0px);background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);z-index:60}
 .navbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;height:var(--nav);display:flex;align-items:center;justify-content:center;background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom:.5px solid transparent;transition:border-color .2s}
 .navbar.scrolled{border-bottom-color:var(--sep)}
-.navtitle{display:flex;align-items:center;height:var(--nav);opacity:0;transition:opacity .2s}.navtitle img{display:block;width:86px;height:auto;max-height:30px;object-fit:contain}
+.navtitle{display:flex;align-items:center;height:var(--nav);opacity:0;transition:opacity .2s}.navtitle img{display:block;width:86px;height:auto;max-height:30px;object-fit:contain}.theme-toggle{position:absolute;right:12px;top:6px;width:32px;height:32px;border:0;border-radius:50%;display:grid;place-items:center;background:var(--fill);color:var(--label2);transition:background .2s,transform .15s}.theme-toggle:hover{background:var(--sep)}.theme-toggle:active{transform:scale(.94)}.theme-toggle .ic{width:17px;height:17px}
 .navbar.scrolled .navtitle{opacity:1}
 .large{padding:2px 0 12px}
 .large h1{margin:0;font-size:34px;line-height:1.1;font-weight:800;letter-spacing:-.03em}.brand-title{display:flex;align-items:center}.brand-title img{display:block;width:min(220px,62vw);height:auto;max-height:62px;object-fit:contain}
-.large .sub{margin:4px 0 0;color:var(--label2);font-size:15px}
+.large .sub{margin:4px 0 0;color:var(--label2);font-size:15px}.freshline{display:flex;align-items:center;gap:7px;margin-top:10px;font-size:12px;color:var(--label2)}.freshdot{width:7px;height:7px;border-radius:50%;background:#34C759;box-shadow:0 0 0 4px color-mix(in srgb,#34C759 15%,transparent)}
 
 .mq{display:flex;align-items:stretch;background:var(--card);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;margin-bottom:6px}
 .mq-label{flex:none;display:flex;align-items:center;gap:6px;padding:0 12px;background:linear-gradient(145deg,#0A84FF,#5E5CE6);color:#fff;font-weight:700;font-size:13px}
@@ -103,7 +105,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .empty p{margin:0 0 16px;font-size:15px}
 .empty .big{width:64px;height:64px;border-radius:20px;margin:0 auto;display:grid;place-items:center;background:linear-gradient(145deg,#8E8E93,#636366);color:#fff}
 .empty .big svg{width:32px;height:32px}
-.foot{margin:26px 8px 0;text-align:center;color:var(--label2);font-size:12.5px;line-height:1.45}
+.foot{margin:26px 8px 0;text-align:center;color:var(--label2);font-size:12.5px;line-height:1.45}.update-badge{display:inline-flex;align-items:center;gap:6px;margin-top:7px;padding:5px 9px;border-radius:999px;background:var(--fill);font-size:11.5px}.update-badge i{width:5px;height:5px;border-radius:50%;background:#34C759}
 
 .overlay{position:fixed;inset:0;background:rgba(0,0,0,.42);opacity:0;pointer-events:none;transition:opacity .25s;z-index:70}
 .overlay.open{opacity:1;pointer-events:auto}
@@ -116,7 +118,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .shead>*{position:relative}
 .shead h2{margin:12px 0 0;font-size:23px;line-height:1.18;font-weight:800;letter-spacing:-.022em;text-wrap:balance}
 .sbody{padding:4px 22px 0}
-.sbody h4{margin:18px 0 4px;font-size:13px;color:var(--label2);font-weight:600}
+.sbody h4{margin:18px 0 4px;font-size:13px;color:var(--label2);font-weight:600}.relevance{padding:11px 13px;border-radius:13px;background:var(--fill);font-size:15px;line-height:1.42}
 .sbody p{margin:0;font-size:17px;line-height:1.45}
 .sbody .note{font-size:13px;color:var(--label2);margin-top:14px}.source-links p{margin:0 0 6px;font-size:15px;line-height:1.4}.source-links a{color:var(--tint);text-decoration:none}.source-links a:hover{text-decoration:underline}
 .sact{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
@@ -152,13 +154,15 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
     <symbol id="i-wave" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="12" cy="12" r="2" fill="currentColor"/><path d="M7.5 7.5a6.4 6.4 0 0 0 0 9M16.5 7.5a6.4 6.4 0 0 1 0 9M4.3 4.3a11 11 0 0 0 0 15.4M19.7 4.3a11 11 0 0 1 0 15.4"/></symbol>
     <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></symbol>
     <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></symbol>
   </defs>
 </svg>
 <div class="statusfill"></div>
-<header class="navbar" id="navbar"><span class="navtitle"><img src="assets/pulse-logo.svg" alt="Pulse"></span></header>
+<header class="navbar" id="navbar"><span class="navtitle"><img src="assets/pulse-logo.svg" alt="Pulse"></span><button class="theme-toggle" id="themeToggle" type="button" aria-label="Darstellung wechseln" title="Darstellung wechseln"></button></header>
 
 <main class="wrap">
-  <div class="large"><h1 class="brand-title"><img src="assets/pulse-logo.svg" alt="Pulse"></h1><p class="sub" id="dateSub"></p></div>
+  <div class="large"><h1 class="brand-title"><img src="assets/pulse-logo.svg" alt="Pulse"></h1><p class="sub" id="dateSub"></p><div class="freshline"><span class="freshdot"></span><span>Aktuelle Nachrichten · KI-zusammengefasst aus mehreren Quellen</span></div></div>
   <div class="mq" id="mq" hidden></div>
   <div class="controls">
     <div class="seg" id="seg" role="group" aria-label="Reichweite"></div>
@@ -177,6 +181,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 'use strict';
 
 const SNAPSHOT='Pulse';
+const themeKey='pulse-theme';
 
 const CATS={
   politik:{n:'Politik',c1:'#0A84FF',c2:'#0046D6'},
@@ -240,7 +245,7 @@ function renderControls(){
 function heroHTML(it){
   const cat=CATS[it.k];
   return `<button class="hero" data-open="${it.id}" style="${cv(cat)}">
-    <span class="hero-top"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span></span>
+    <span class="hero-top"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span><span class="pill glass">Aktuell</span></span>
     <span class="htitle">${esc(it.t)}</span>
     <span class="hsum">${esc(it.s)}</span>
     <span class="hfoot"><span>${sourceCount(it)} Quellen</span><span>${dayLabel(it.d)}</span></span>
@@ -295,7 +300,8 @@ function sheetHTML(it,isOpen){
     </div>
     <div class="sbody">
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
-      ${it.m?`<h4>Details</h4><p>${esc(it.m)}</p>`:''}
+      ${it.m?`<h4>Was bisher bekannt ist</h4><p>${esc(it.m)}</p>`:''}
+      ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:`}
       <h4>Quellen</h4>
       <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Übereinstimmung</h4><p>${esc(it.agree)}</p>`:''}
@@ -386,6 +392,11 @@ async function loadData(){
   console.error('Pulse data load failed:',lastError);
   showError();
 }
+function setThemeIcon(){const dark=document.documentElement.dataset.theme==='dark';const b=$('#themeToggle');if(!b)return;b.innerHTML=dark?ic('sun'):ic('moon');b.setAttribute('aria-label',dark?'Helles Design':'Dunkles Design')}
+function applyTheme(){const saved=localStorage.getItem(themeKey);if(saved)document.documentElement.dataset.theme=saved;setThemeIcon()}
+$('#themeToggle').addEventListener('click',()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem(themeKey,next);setThemeIcon()});
+applyTheme();
+setInterval(loadData,300000);
 loadData();
 })();
 </script>
