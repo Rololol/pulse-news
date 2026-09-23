@@ -301,7 +301,7 @@ function sheetHTML(it,isOpen){
     <div class="sbody">
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
       ${it.m?`<h4>Was bisher bekannt ist</h4><p>${esc(it.m)}</p>`:''}
-      ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:`}
+      ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:''}
       <h4>Quellen</h4>
       <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
