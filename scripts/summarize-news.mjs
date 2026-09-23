@@ -59,7 +59,7 @@ const schema={
     chg:{type:"string"},
     diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}}
   },
-  required:["t","s","m","r","k","p","agree","diff","c"]
+  required:["t","s","m","r","k","p","agree","chg","diff","c"]
 };
 
 async function ask(item,previous){
