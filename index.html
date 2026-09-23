@@ -360,7 +360,14 @@ document.addEventListener('touchmove',e=>{if(!drag)return;drag.dy=Math.max(0,e.t
 document.addEventListener('touchend',()=>{if(!drag)return;const s=$('.sheet');if(s){s.style.transition='';s.style.transform=''}const far=drag.dy>90;drag=null;if(far)closeSheet()});
 window.addEventListener('scroll',()=>{$('#navbar').classList.toggle('scrolled',window.scrollY>44)},{passive:true});
 
-$('#dateSub').textContent=new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long'}).format(new Date());
+function updateDateTime(){
+  const now=new Date();
+  const date=new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long'}).format(now);
+  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(now);
+  $('#dateSub').textContent=date+' · '+time+' Uhr';
+}
+updateDateTime();
+setInterval(updateDateTime,1000);
 
 function showLoading(){
   $('#feed').innerHTML='<div class="empty"><div class="big">'+ic('wave')+'</div><h3>Nachrichten werden geladen …</h3><p>Pulse gleicht die aktuellen Quellen ab.</p></div>';
