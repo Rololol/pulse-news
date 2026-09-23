@@ -1,5 +1,1100 @@
 [
   {
+    "id": "story-5e6e951ac059eca3",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-24T00:03:33.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Fabian Figueiredo na Grande Entrevista com a experiência pessoal da violência na família",
+    "s": "O deputado do Bloco de Esquerda Fabian Figueiredo esteve esta quarta-feira na Grande Entrevista da RTP com o tema da conversa centrado na sua experiência de violência familiar experimentada com os irmãos e a mãe. A entrevista desta noite retoma um artigo escrito há poucas semanas por Fabian Figueiredo - \"A violência da normalidade\" - sobre a sua vivência dessa realidade e que teve grande impacto na sociedade portuguesa.",
+    "m": "O deputado do Bloco de Esquerda Fabian Figueiredo esteve esta quarta-feira na Grande Entrevista da RTP com o tema da conversa centrado na sua experiência de violência familiar experimentada com os irmãos e a mãe. A entrevista desta noite retoma um artigo escrito há poucas semanas por Fabian Figueiredo - \"A violência da normalidade\" - sobre a sua vivência dessa realidade e que teve grande impacto na sociedade portuguesa.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/fabian-figueiredo-na-grande-entrevista-com-a-experiencia-pessoal-da-violencia-na-familia_n1767360",
+        "date": "2026-09-24T00:03:33.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/fabian-figueiredo-na-grande-entrevista-com-a-experiencia-pessoal-da-violencia-na-familia_n1767360",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-6bf33c99f5c44520",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:16:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Manfred Weber warnt in Talkshow vor EU- und Euro-Austritt",
+    "s": "In der ZDF-Sendung \"Markus Lanz\" diskutierten der CSU-Politiker Manfred Weber und Leif-Erik Holm von der AfD über die Zukunft der Europäischen Union. Dabei äußerten beide Politiker grundlegend unterschiedliche Positionen zur europäischen Integration und nationalen Souveränität. Die Debatte berührte zentrale Fragen der deutschen Europapolitik.",
+    "m": "Während der Sendung \"Markus Lanz\" plädierte Leif-Erik Holm von der AfD für die Aushandlung neuer EU-Verträge und eine Stärkung der nationalen Souveränität. Demgegenüber warnte Manfred Weber von der CSU eindringlich vor den Folgen eines deutschen Austritts aus der Eurozone. Weber stufte ein solches Szenario als hochriskant für Deutschland und Europa ein. Die Aussagen verdeutlichen die tiefen Differenzen zwischen den etablierten Parteien und der AfD in der Europapolitik. Es wurden im Rahmen der vorliegenden Meldung keine weiteren Details zum genauen Verlauf oder weiteren Gästen der Sendung genannt. Die Diskussion reiht sich in die anhaltende Grundsatzdebatte über die Ausrichtung der Europäischen Union ein.",
+    "r": "Die Aussagen prominenter deutscher Politiker zu zentralen Fragen der EU- und Euro-Zukunft sind für die politische Diskussion von Bedeutung. Sie spiegeln die kontroversen Standpunkte zur europäischen Integration im Vorfeld oder während aktueller Debatten wider.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/lanz-weber-holm-afd-eu-100.html",
+        "date": "2026-09-23T23:16:00.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/deutschland/lanz-weber-holm-afd-eu-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-0a62b1db9455c862",
+    "c": "INT",
+    "o": "UK",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T23:14:10.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Indians are discovering the thrill of shopping without paying",
+    "s": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+    "m": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-23T23:14:10.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1b55529585622b2c",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:10:05.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs ",
+    "s": "Follow the day’s news live Get our breaking news email , free app or daily news podcast More than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute. Qantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services. We remain focused on reaching an agreement through the bargaining proces",
+    "m": "Follow the day’s news live Get our breaking news email , free app or daily news podcast More than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute. Qantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services. We remain focused on reaching an agreement through the bargaining proces",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+        "date": "2026-09-23T23:10:05.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-e9d7df2577e0a69c",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundestag berät über neue Organspende-Regeln",
+    "s": "Angesichts zu geringer Organspenderzahlen berät der Bundestag über eine mögliche Gesetzesänderung. Im Fokus steht dabei die umstrittene Widerspruchsregelung. Ziel der Debatte ist es, Wege zur Erhöhung der Spenderzahlen zu finden.",
+    "m": "Der Deutsche Bundestag befasst sich in seiner heutigen Sitzung mit verschiedenen Ansätzen zur Neuregelung der Organspende. Hintergrund der parlamentarischen Beratung sind die seit Jahren anhaltend niedrigen Zahlen von Organspenden in Deutschland. Verschiedene Abgeordnete und Fraktionen bringen unterschiedliche Vorschläge ein, darunter vor allem das Modell der Widerspruchsregelung. Bei diesem Modell soll jeder Bürger automatisch als Organspender gelten, es sei denn, er hat zu Lebzeiten ausdrücklich widersprochen. Bislang gilt in Deutschland die Zustimmungslösung, bei der eine ausdrückliche Einwilligung vorliegen muss. Die aktuellen Beratungen sollen einen neuen Anstoß für eine grundlegende Reform im Gesundheitswesen geben.",
+    "r": "Die Debatte berührt grundlegende ethische und gesundheitspolitische Fragen der medizinischen Versorgung in Deutschland. Da die Zahl der verfügbaren Organe seit Jahren zu niedrig ist, hat die Reform direkte Auswirkungen auf schwer kranke Patienten auf Wartelisten.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bundestag-beraet-heute-ueber-organspende-regeln-100.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/bundestag-beraet-heute-ueber-organspende-regeln-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-94f558c00ac22179",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Nahostkonflikt im Mittelpunkt der UNO-Generaldebatte",
+    "s": "Bei der heutigen Generaldebatte der UNO steht der Nahostkonflikt im Mittelpunkt. Unter anderem sprechen der israelische Ministerpräsident Netanjahu und der palästinensische Präsident Abbas. Es wird erwartet, dass beide Seiten ihre Positionen in dem Konflikt darlegen. Das Treffen bietet eine internationale Bühne für die politischen Akteure.",
+    "m": "Die Generaldebatte der Vereinten Nationen widmet sich am heutigen Tag vor allem dem andauernden Nahostkonflikt. Zu den zentralen Rednern gehören der israelische Ministerpräsident Netanjahu und der palästinensische Präsident Abbas. Beide Politiker nutzen das hochrangige diplomatische Parkett in New York, um ihre jeweiligen Standpunkte zur Krisenbewältigung und zu den Zukunftsperspektiven darzustellen. Die internationalen Beobachter richten ihren Blick auf die Reden, da diese Einfluss auf die diplomatischen Bemühungen haben könnten. Konkrete Ergebnisse oder Vereinbarungen zwischen den Parteien im Anschluss an die Reden wurden bisher nicht bekannt gegeben. Die Veranstaltung verdeutlicht die fortgesetzte Aufmerksamkeit der Weltgemeinschaft für die Region.",
+    "r": "Die Reden der Konfliktparteien im Rahmen der UNO-Generaldebatte bieten Einblicke in die offiziellen Positionen auf internationaler Bühne. Sie sind ein wichtiger Indikator für die diplomatische Haltung der beteiligten Akteure im Nahostkonflikt.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/netanjahu-und-abbas-sprechen-bei-uno-generaldebatte-100.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/netanjahu-und-abbas-sprechen-bei-uno-generaldebatte-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-0b883c4d95bf45f4",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bundestag berät in erster Lesung über Strafverschärfung für K.o.-Tropfen",
+    "s": "Der Deutsche Bundestag hat in erster Lesung über strengere Strafen für die Verabreichung von K.o.-Tropfen beraten. Die Fraktionen äußerten sich lobend über das geplante Vorhaben. Ziel ist es, den illegalen Einsatz dieser Substanzen härter zu ahnden. Die parlamentarischen Beratungen dazu stehen noch am Anfang.",
+    "m": "In seiner ersten Lesung hat sich der Deutsche Bundestag mit einem Gesetzentwurf zur Verschärfung der Strafen für den Einsatz von K.o.-Tropfen befasst. Vertreter verschiedener Fraktionen lobten das geplante Vorhaben als wichtigen Schritt zum Schutz von Opfer und zur Bekämpfung von Straftaten. Bisher ist der Einsatz solcher Substanzen oft rechtlich schwer zu fassen oder wird milder bestraft. Mit der geplanten Neuregelung soll das Bewusstsein für die Schwere der Tat geschärft und das Risiko für Täter erhöht werden. Weitere Beratungen in den Ausschüssen sind im parlamentarischen Verfahren der nächsten Wochen vorgesehen.",
+    "r": "Die strafrechtliche Behandlung von K.o.-Tropfen ist gesellschaftlich und rechtlich relevant, da solche Taten häufig im Zusammenhang mit Raub oder Sexualdelikten stehen. Eine Gesetzesänderung betrifft den Opferschutz und die Ahndung im Bereich der Kriminalität.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-108.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-108.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-4d10ba37d327c38e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Vereinte Nationen - Wadephul wirft Moskau gefährliche Eskalation in Europa vor - Selenskyj bezeichnet Putin al",
+    "s": "Bundesaußenminister Wadephul hat sich im UNO-Sicherheitsrat zum Ukraine-Krieg und der Zunahme russischer hybrider Angriffe geäußert. Er warf Russlands Staatschef Putin eine gefährliche Eskalation vor.",
+    "m": "Bundesaußenminister Wadephul hat sich im UNO-Sicherheitsrat zum Ukraine-Krieg und der Zunahme russischer hybrider Angriffe geäußert. Er warf Russlands Staatschef Putin eine gefährliche Eskalation vor. Vereinte Nationen: Wadephul wirft Moskau gefährliche Eskalation in Europa vor",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/wadephul-wirft-moskau-gefaehrliche-eskalation-in-europa-vor-selenskyj-bezeichnet-putin-als-patient-n-100.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/24/wadephul-wirft-moskau-gefaehrliche-eskalation-in-europa-vor",
+        "date": "2026-09-23T22:36:11.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/wadephul-wirft-moskau-gefaehrliche-eskalation-in-europa-vor-selenskyj-bezeichnet-putin-als-patient-n-100.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b7241f7b291366c2",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Künstliche Intelligenz - Anthropic-Chef warnt vor UNO-Sicherheitsrat vor KI-Gefahren",
+    "s": "Vertreter der US-Technologiebranche haben erneut vor den Gefahren durch Künstliche Intelligenz gewarnt - diesmal vor dem UNO-Sicherheitsrat.",
+    "m": "Vertreter der US-Technologiebranche haben erneut vor den Gefahren durch Künstliche Intelligenz gewarnt - diesmal vor dem UNO-Sicherheitsrat. Chefs führender KI‑Konzerne haben den UN‑Sicherheitsrat vor den Risiken ihres Produkts gewarnt. Laut Anthropic-Chef gefährdet die Technologie die Menschheit.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/anthropic-chef-warnt-vor-uno-sicherheitsrat-vor-ki-gefahren-104.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-risiken-sam-altman-openai-un-sicherheitsrat",
+        "date": "2026-09-23T21:41:03.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/anthropic-chef-warnt-vor-uno-sicherheitsrat-vor-ki-gefahren-104.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fef7220160c05bb8",
+    "c": "INT",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Archäologie - Ein Fund aus der Zeit der Gallier deutet auf die",
+    "s": "Unter einem Pariser Krankenhaus nahe der Kathedrale Notre-Dame haben Archäologen einen rund 2000 Jahre alten Wall aus Stein und Holz freigelegt. Die etwa 20 Meter lange Anlage stammt aus der Epoche der Gallier. Der Fund liefert neue Einblicke in die Anfänge der französischen Hauptstadt.",
+    "m": "Bei Ausgrabungen unter einem Krankenhaus in unmittelbarer Nähe von Notre-Dame in Paris machten Archäologen einen bemerkenswerten Fund aus der gallischen Zeit. Es handelt sich um einen rund 20 Meter langen Wall, der sowohl aus Stein als auch aus Holz konstruiert wurde. Die Entdeckung wird auf ein Alter von etwa 2000 Jahren datiert. Solche Zeugnisse aus der Frühgeschichte des Pariser Raums sind selten und von großem historischen Wert. Der Fundort direkt im heutigen Stadtgebiet verdeutlicht die historische Tiefe der Siedlungsgeschichte der Metropole. Archäologen erhoffen sich durch die Untersuchung weitere Erkenntnisse über die Ursprünge der Stadt Lutetia, dem antiken Vorläufer des heutigen Paris.",
+    "r": "Der Fund ist von Bedeutung, da er greifbare Belege für die Anfänge der Besiedlung des heutigen Paris liefert und die historische Forschung zur gallischen Epoche der Region bereichert.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/ein-fund-aus-der-zeit-der-gallier-deutet-auf-die-anfaenge-von-paris-hin-106.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/ein-fund-aus-der-zeit-der-gallier-deutet-auf-die-anfaenge-von-paris-hin-106.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-4a996e42d4ae17fb",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Sicherheit - Hauptstadtflughafen BER vorübergehend wegen Drohne lahmgelegt",
+    "s": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr gestern Abend wegen einer Drohne vorübergehend eingestellt worden.",
+    "m": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr gestern Abend wegen einer Drohne vorübergehend eingestellt worden.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-106.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-106.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-4f55834bd162faf2",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Washington - Chinas Präsident Xi zu Staatsbesuch in den USA eingetroffen",
+    "s": "Chinas Staats- und Parteichef Xi Jinping ist zu einem dreitägigen Staatsbesuch in den USA eingetroffen.",
+    "m": "Chinas Staats- und Parteichef Xi Jinping ist zu einem dreitägigen Staatsbesuch in den USA eingetroffen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-eingetroffen-100.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-eingetroffen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a8fc63aa36cb1a13",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wegen Kritik von Trump - Geplante Rückgabe von Archipel an Mauritius: London gibt Chagos-Deal auf",
+    "s": "Die britische Regierung hat ihre Entscheidung verworfen, die Chagos-Inseln an Mauritius zurückzugeben.",
+    "m": "Die britische Regierung hat ihre Entscheidung verworfen, die Chagos-Inseln an Mauritius zurückzugeben.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/geplante-rueckgabe-von-archipel-an-mauritius-london-gibt-chagos-deal-auf-100.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/geplante-rueckgabe-von-archipel-an-mauritius-london-gibt-chagos-deal-auf-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-17177c0c892005b5",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Diskussion über Antisemitismus und Nähe zu Clan - Von Notz warnt vor Sicherheitsrisiken durch Linke in Berlin",
+    "s": "Grünen-Fraktionsvize von Notz hat Sicherheitsbedenken bei einer Berliner Regierung unter Führung der Linkspartei geäußert. Es sei zu Recht sehr viel über den Schutz relevanter staatlicher Informationen vor dem Zugriff der AfD gesprochen worden, sagt der Innenpolitiker der \"Süddeutschen Zeitung\". Dabei seien auch bei der Berliner Linken Risiken offensichtlich.",
+    "m": "Grünen-Fraktionsvize von Notz hat Sicherheitsbedenken bei einer Berliner Regierung unter Führung der Linkspartei geäußert. Es sei zu Recht sehr viel über den Schutz relevanter staatlicher Informationen vor dem Zugriff der AfD gesprochen worden, sagt der Innenpolitiker der \"Süddeutschen Zeitung\". Dabei seien auch bei der Berliner Linken Risiken offensichtlich.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/von-notz-warnt-vor-sicherheitsrisiken-durch-linke-in-berlin-106.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/von-notz-warnt-vor-sicherheitsrisiken-durch-linke-in-berlin-106.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-55d0b45fcbe7cde6",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wetter - Am Donnerstag außer dem Nordosten zunehmen sonnig - 16 bis 23 Grad",
+    "s": "Das Wetter: In der Nacht im Süden längere Zeit gering bewölkt, sonst zunehmende Bewölkung und in der Nordhälfte Schauer. 14 bis 3 Grad. Am Tag im Nordosten Schauer, sonst zunehmend heiter. 16 bis 23 Grad.",
+    "m": "Das Wetter: In der Nacht im Süden längere Zeit gering bewölkt, sonst zunehmende Bewölkung und in der Nordhälfte Schauer. 14 bis 3 Grad. Am Tag im Nordosten Schauer, sonst zunehmend heiter. 16 bis 23 Grad.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/am-donnerstag-ausser-dem-nordosten-zunehmen-sonnig-16-bis-23-grad-102.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/am-donnerstag-ausser-dem-nordosten-zunehmen-sonnig-16-bis-23-grad-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1da9d8c2839ea17b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Mittlerer Osten - Außenminister Wadephul fodert vom Iran die Öffnung der Straße von Hormus",
+    "s": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
+    "m": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-108.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-108.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-425aeb62dc6d92db",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Konflikt - Rebellen nehmen Regionalflughafen Mekelle in Äthiopien ein",
+    "s": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
+    "m": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-102.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-07a574ac99920d15",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wahlbeobachtung - Erstmals keine OSZE-Beobachter zu US-Zwischenwahlen eingeladen",
+    "s": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
+    "m": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-102.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-c0a718345e90618d",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Ukraine-Krieg - Russische Armee greift Ukraine mit Kampfdrohnen an - acht Tote",
+    "s": "Russland hat die Ukraine den ganzen Tag über mit Kampfdrohnen angegriffen.",
+    "m": "Russland hat die Ukraine den ganzen Tag über mit Kampfdrohnen angegriffen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-mit-kampfdrohnen-an-acht-tote-102.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-mit-kampfdrohnen-an-acht-tote-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-998c723807bb0b81",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Mehr Datenaustausch und schärfere Kontrollen - Regierung will gegen Sozialleistungsmissbrauch vorgehen",
+    "s": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbrauch in den Griff bekommen werden, der in Zusammenhang mit der EU-Zuwanderung steht.",
+    "m": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbrauch in den Griff bekommen werden, der in Zusammenhang mit der EU-Zuwanderung steht.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-102.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-2fada307b19adabe",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:09:18.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Medienberichte - Berlin will Olympia-Bewerbung zurückziehen",
+    "s": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegner, Sportsenatorin Spranger und Berlins Olympia-Beauftragtem Niroomand.",
+    "m": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegner, Sportsenatorin Spranger und Berlins Olympia-Beauftragtem Niroomand.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-116.html",
+        "date": "2026-09-23T23:09:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-116.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-3543078dab747e34",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T23:07:34.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wall Street fecha em baixa com Médio Oriente, dívida e petróleo a imporem-se",
+    "s": "A bolsa nova-iorquina terminou a sessão de hoje em baixa, após uma nova subida dos rendimentos obrigacionistas, em fundo de incertezas ligadas ao Médio Oriente e os riscos de inflação que continuam elevados.",
+    "m": "A bolsa nova-iorquina terminou a sessão de hoje em baixa, após uma nova subida dos rendimentos obrigacionistas, em fundo de incertezas ligadas ao Médio Oriente e os riscos de inflação que continuam elevados.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-baixa-com-medio-oriente-divida-e-petroleo-a-imporem-se_n1767355",
+        "date": "2026-09-23T23:07:34.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-baixa-com-medio-oriente-divida-e-petroleo-a-imporem-se_n1767355",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-85e062741bd71bcd",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T23:02:15.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ausverkauf am Bondmarkt treibt Rendite zehnjähriger US-Anleihen auf 5,1 Prozent",
+    "s": "Der US-Bondmarkt verzeichnet einen deutlichen Ausverkauf, der die Renditen von zehnjährigen Staatsanleihen auf neue Jahreshöchststände steigen ließ. Auslöser für diese Entwicklung sind eine schwach verlaufene Anleiheauktion sowie wachsende Marktsorgen vor einer längeren Phase hoher Zinsen durch die US-Notenbank Fed. Die Rendite erreichte in diesem Zuge den Wert von 5,1 Prozent.",
+    "m": "Am internationalen Anleihemarkt hat ein spürbarer Ausverkauf eingesetzt, der die Renditen zehnjähriger US-Staatsanleihen auf ein neues Jahreshoch von 5,1 Prozent klettern ließ. Hauptursachen für diese Marktbewegung sind zum einen eine unerwartet schwache Nachfrage bei der jüngsten Auktion von US-Staatspapieren. Zum anderen preisen Investoren zunehmend die Sorge ein, dass die US-Notenbank Federal Reserve (Fed) ihren geldpolitischen Kurs der strafferen Zinsen länger als bisher erhofft beibehalten muss. Höhere Renditen am Bondmarkt verteuern in der Folge die Refinanzierungskosten für Staat und Wirtschaft. Offen bleibt, wie die Fed auf diese Marktentwicklungen und die Inflationsdaten reagieren wird.",
+    "r": "Die Entwicklung am Bondmarkt ist von hoher finanzpolitischer Relevanz, da sie direkt die Refinanzierungskosten in den USA beeinflusst und Signale über die künftige Geldpolitik der Fed sendet.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/finanzen/maerkte/anleihemarkt-ausverkauf-am-bondmarkt-zehnjaehrige-us-anleihe-bei-51-prozent/100256963.html",
+        "date": "2026-09-23T23:02:15.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/anleihemarkt-ausverkauf-am-bondmarkt-zehnjaehrige-us-anleihe-bei-51-prozent/100256963.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-80e0e8321ed7918b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T23:02:08.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "\"Bündnis nicht um jeden Preis\": Grünen-Chef nennt Bedingungen für Koalition mit Linken",
+    "s": "Clankontakte und antisemitische Strömungen in der Linkspartei stellen die Grünen vor ein Problem. Parteichef Banaszak will trotzdem eine Koalition für den Berliner Senat nicht ausschließen. Dafür verlangt er glaubwürdige Abgrenzung.",
+    "m": "Clankontakte und antisemitische Strömungen in der Linkspartei stellen die Grünen vor ein Problem. Parteichef Banaszak will trotzdem eine Koalition für den Berliner Senat nicht ausschließen. Dafür verlangt er glaubwürdige Abgrenzung.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Gruenen-Chef-nennt-Bedingungen-fuer-Koalition-mit-Linken-id31341300.html",
+        "date": "2026-09-23T23:02:08.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Gruenen-Chef-nennt-Bedingungen-fuer-Koalition-mit-Linken-id31341300.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a3f7bb283dc0c291",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:01:55.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
+    "s": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
+    "m": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "date": "2026-09-23T23:01:55.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f292366e6ca54fd7",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T23:00:29.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Interne Kritik am Kurs der CDU durch das wirtschaftsliberale Lager",
+    "s": "In der CDU gibt es heftige interne Kritik an der Ausrichtung der Partei. Das wirtschaftsliberale Lager steht dabei im Fokus von Auseinandersetzungen. Berichten zufolge wird dem Lager vorgeworfen, die Partei zu beschädigen. Die Diskussionen spiegeln Richtungsstreitigkeiten innerhalb der Christdemokraten wider.",
+    "m": "Die aktuellen Berichte über die CDU offenbaren tiefe interne Gräben bezüglich des politischen Kurses. Konkrete Vorwürfe richten sich gegen das wirtschaftsliberale Lager, dem eine schädliche Wirkung auf die Partei unterstellt wird. Solche parteiinternen Konflikte verdeutlichen die Schwierigkeiten bei der Positionierung in wirtschafts- und gesellschaftspolitischen Fragen. Der zeitliche Ablauf zeigt eine Zuspitzung dieser Debatten, die das innere Gefüge der Partei belasten. Beteiligte Akteure sind verschiedene Strömungen innerhalb der Christdemokraten, die um die künftige Ausrichtung ringen. Als mögliche Folgen stehen Richtungsentscheidungen und eine Intensivierung der Debatten im Raum. Offen bleibt, wie die Parteiführung auf diese anhaltende Kritik reagieren wird und ob es zu einer Kurskorrektur kommt.",
+    "r": "Interne Richtungsstreitigkeiten und Kritik am Kurs sind für Parteien von großer Bedeutung, da sie die programmatische Ausrichtung und Geschlossenheit unmittelbar beeinflussen. Die Auseinandersetzungen innerhalb der CDU spiegeln grundlegende Debatten über die künftige Politik wider.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUEVfVWlFMS1ON0t4V2g5cUFiOHRPYWpoUDJjcWFVdEo0SUI0SEN6RnBndFctWThaeFdXT2kzYUxlS0FmM2pKVE90X1k1ekxTT29CSWhVOTQwYlIxYjFaRVVhaG9iRnJDeENEdENiWXZSODlyaHlOSlVUUTBDNVpzaVhwWmRDZmVhWEptQlJIaFBaLXlRXzVMUFIxRzNIeWNRd080Z0VrZTcyU05ESVg0LUZMeVhCTW5IVmNYSGh0VEhKMklwbHlaRjhvQjdmNjZZTXA3NnRHUTBpRng5dVNhZVJqUDY5a1ZUU25xbHRudWdRRE96YzliNjhuYjE1UVJfLURR?oc=5",
+        "date": "2026-09-23T23:00:29.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUEVfVWlFMS1ON0t4V2g5cUFiOHRPYWpoUDJjcWFVdEo0SUI0SEN6RnBndFctWThaeFdXT2kzYUxlS0FmM2pKVE90X1k1ekxTT29CSWhVOTQwYlIxYjFaRVVhaG9iRnJDeENEdENiWXZSODlyaHlOSlVUUTBDNVpzaVhwWmRDZmVhWEptQlJIaFBaLXlRXzVMUFIxRzNIeWNRd080Z0VrZTcyU05ESVg0LUZMeVhCTW5IVmNYSGh0VEhKMklwbHlaRjhvQjdmNjZZTXA3NnRHUTBpRng5dVNhZVJqUDY5a1ZUU25xbHRudWdRRE96YzliNjhuYjE1UVJfLURR?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-ba3c356d240b4cd4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T23:00:04.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Krasnojarsk: Tödliche Bärenangriffe in Russland - Ermittler schreiten ein",
+    "s": "Krasnojarsk: Tödliche Bärenangriffe in Russland - Ermittler schreiten ein",
+    "m": "Krasnojarsk: Tödliche Bärenangriffe in Russland - Ermittler schreiten ein",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/24/toedliche-baerenangriffe-in-russland-ermittler-schreiten-ein",
+        "date": "2026-09-23T23:00:04.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/24/toedliche-baerenangriffe-in-russland-ermittler-schreiten-ein",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-b3ccdad62dfba36f",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T22:58:49.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Gesperrte Schiersteiner Brücke hat zu langen Staus in Mainz geführt",
+    "s": "Ein Teilstück der Schiersteiner Brücke in Richtung Wiesbaden ist am Mittwoch überraschend gesperrt worden. Das führte am Mittwochabend zu Verkehrschaos in Mainz.",
+    "m": "Ein Teilstück der Schiersteiner Brücke in Richtung Wiesbaden ist am Mittwoch überraschend gesperrt worden. Das führte am Mittwochabend zu Verkehrschaos in Mainz.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/stau-und-verkehrschaos-wegen-teilsperrung-schiersteiner-bruecke-100.html",
+        "date": "2026-09-23T22:58:49.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/stau-und-verkehrschaos-wegen-teilsperrung-schiersteiner-bruecke-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-84cc8dfb1afbf442",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T22:47:45.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "USA und China: Donald Trump empfängt Xi Jinping zu Staatsbesuch",
+    "s": "Der US-Präsident hat den chinesischen Staatschef auf dem Rollfeld eines Militärstützpunkts empfangen. Es ist der erste Besuch von Xi in den USA seit über einem Jahrzehnt.",
+    "m": "Der US-Präsident hat den chinesischen Staatschef auf dem Rollfeld eines Militärstützpunkts empfangen. Es ist der erste Besuch von Xi in den USA seit über einem Jahrzehnt.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-09/xi-jinping-washington-dc-staatsbesuch-donald-trump-china",
+        "date": "2026-09-23T22:47:45.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-09/xi-jinping-washington-dc-staatsbesuch-donald-trump-china",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-efca818471fdf83d",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T22:40:01.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "USA-Newsblog: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+    "s": "Empfangen wurde sie am Flughafen in Washington von US-Präsident Donald Trump und seiner Ehefrau Melania. Für Xi ist es die erste USA-Reise seit rund drei Jahren.",
+    "m": "Empfangen wurde sie am Flughafen in Washington von US-Präsident Donald Trump und seiner Ehefrau Melania. Für Xi ist es die erste USA-Reise seit rund drei Jahren. Staatsbesuch: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-xi-jinping-chine-staatsbesuch-washington-li.3530667",
+        "date": "2026-09-23T22:40:01.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen",
+        "date": "2026-09-23T22:17:31.000Z"
+      }
+    ],
+    "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-xi-jinping-chine-staatsbesuch-washington-li.3530667",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1929a5c6871edc7f",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T22:29:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "KI-Chefs in New York: „KI könnte ein Risiko für die ganze Menschheit",
+    "s": "Die Vorstandschefs von Anthropic und OpenAI sind vor den Vereinten Nationen in New York aufgetreten. Sie haben dort über die potenziellen Gefahren Künstlicher Intelligenz gesprochen. Dabei forderten sie eine engere globale Zusammenarbeit im Umgang mit der Technologie.",
+    "m": "Das Treffen fand in New York bei den Vereinten Nationen statt, wo sich die führenden Köpfe der Unternehmen Anthropic und OpenAI äußerten. Im Zentrum ihrer Reden standen die Sicherheitsrisiken und die Zukunftsperspektiven fortschrittlicher Computersysteme. Die CEOs warnten davor, dass KI im schlimmsten Fall ein Risiko für die gesamte Menschheit darstellen könnte. Als Gegenmaßnahme betonten sie die dringende Notwendigkeit einer internationalen Kooperation. Konkrete Regulierungsmaßnahmen oder ein genauer Zeitplan für globale Abkommen wurden in diesem Rahmen jedoch noch nicht beschlossen. Die Veranstaltung unterstreicht den wachsenden Druck auf politische Entscheidungsträger, weltweit verbindliche Leitlinien für die KI-Entwicklung zu etablieren.",
+    "r": "Die Warnungen von führenden KI-Unternehmen vor den Vereinten Nationen verdeutlichen die globale Besorgnis über unkontrollierte Technologieentwicklungen. Ein weltweiter Dialog wird von Branchenvertretern als notwendig erachtet, um potenzielle Menschheitsrisiken zu minimieren.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/sam-altman-und-dario-amodei-warnen-vor-ki-risiken-201257130.html",
+        "date": "2026-09-23T22:29:00.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/sam-altman-und-dario-amodei-warnen-vor-ki-risiken-201257130.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-9b5870d4056f096d",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T22:28:32.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Übernachtungen auch teurer?: Bis zu 30 Euro: Venedig plant höheren Beitrag für Tagesgäste",
+    "s": "Venedig ächzt weiterhin unter der Last der vielen Touristen. Versuchsmodelle mit Eintrittspreisen in die Lagunenstadt schaffen wenig Erleichterung. Die Gebühren könnten deswegen ab 2027 noch einmal kräftig ansteigen.",
+    "m": "Venedig ächzt weiterhin unter der Last der vielen Touristen. Versuchsmodelle mit Eintrittspreisen in die Lagunenstadt schaffen wenig Erleichterung. Die Gebühren könnten deswegen ab 2027 noch einmal kräftig ansteigen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Bis-zu-30-Euro-Venedig-plant-hoeheren-Beitrag-fuer-Tagesgaeste-id31341270.html",
+        "date": "2026-09-23T22:28:32.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/panorama/Bis-zu-30-Euro-Venedig-plant-hoeheren-Beitrag-fuer-Tagesgaeste-id31341270.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-cf9f4a8151a83338",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T22:25:12.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Rückendeckung für den Kanzler: Weber: CSU steht «sonnenklar» hinter Merz",
+    "s": "Rückendeckung für den Kanzler: Weber: CSU steht «sonnenklar» hinter Merz",
+    "m": "Rückendeckung für den Kanzler: Weber: CSU steht «sonnenklar» hinter Merz",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/24/weber-csu-steht-sonnenklar-hinter-merz",
+        "date": "2026-09-23T22:25:12.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/24/weber-csu-steht-sonnenklar-hinter-merz",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-ec3cbb76720bc2cf",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T22:25:02.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Reform: CSU zu Frühverrentung – Härtefälle ja, Regelfälle nein",
+    "s": "Union und SPD beraten einem Bericht zufolge, die abschlagsfreie Rente künftig erst nach bis zu 47 Beitragsjahren zu ermöglichen. Die CSU will sie zudem auf Härtefälle begrenzen.",
+    "m": "Union und SPD beraten einem Bericht zufolge, die abschlagsfreie Rente künftig erst nach bis zu 47 Beitragsjahren zu ermöglichen. Die CSU will sie zudem auf Härtefälle begrenzen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/reform-csu-zu-fruehverrentung-haertefaelle-ja-regelfaelle-nein/100256968.html",
+        "date": "2026-09-23T22:25:02.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/politik/deutschland/reform-csu-zu-fruehverrentung-haertefaelle-ja-regelfaelle-nein/100256968.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-60ebfda5fedc841c",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T22:10:56.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Energiepolitik: Italien verabschiedet Gesetz für Rückkehr zur Atomkraft",
+    "s": "Knapp 40 Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
+    "m": "Knapp 40 Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix",
+        "date": "2026-09-23T22:10:56.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-093fe2b097089b09",
+    "c": "INT",
+    "o": "US",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-23T22:08:54.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "NASA Modernizes Commercial Airline Systems",
+    "s": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
+    "m": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "NASA",
+        "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+        "date": "2026-09-23T22:08:54.000Z"
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-2a7b9c99b44ce520",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T22:01:40.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Erbschaftssteuer dafür streichen: Familienunternehmer schlagen Luxussteuer vor",
+    "s": "In wenigen Wochen befasst sich das Bundesverfassungsgericht mit der Erbschaftssteuer. Falls die Abgabe erhöht werden sollte, prognostizieren die Familienunternehmer einen Exodus der nächsten Erbengeneration. Für den klammen Staat hat Stiftungsvorstand Kirchdörfer eine andere Idee.",
+    "m": "In wenigen Wochen befasst sich das Bundesverfassungsgericht mit der Erbschaftssteuer. Falls die Abgabe erhöht werden sollte, prognostizieren die Familienunternehmer einen Exodus der nächsten Erbengeneration. Für den klammen Staat hat Stiftungsvorstand Kirchdörfer eine andere Idee.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Familienunternehmer-schlagen-Luxussteuer-vor-id31341241.html",
+        "date": "2026-09-23T22:01:40.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Familienunternehmer-schlagen-Luxussteuer-vor-id31341241.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-78a6d11ce691a8a5",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T22:01:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wohnungskonzerne enteignen: Wird Mieten dadurch günstiger?",
+    "s": "Echter Gamechanger oder doch nur Symbolpolitik? Was ist dran an der Idee, Wohnungskonzerne zu vergesellschaften?",
+    "m": "Echter Gamechanger oder doch nur Symbolpolitik? Was ist dran an der Idee, Wohnungskonzerne zu vergesellschaften?",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/plusminus/wohnungskonzerne-enteignen-wird-mieten-dadurch-guenstiger-100.html",
+        "date": "2026-09-23T22:01:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/plusminus/wohnungskonzerne-enteignen-wird-mieten-dadurch-guenstiger-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a7b35bd73984226e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T21:55:04.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Kalenderblatt: Was geschah am 24. September?",
+    "s": "Kalenderblatt: Was geschah am 24. September?",
+    "m": "Kalenderblatt: Was geschah am 24. September?",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/was-geschah-am-24-september",
+        "date": "2026-09-23T21:55:04.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/was-geschah-am-24-september",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1bea5ff785dd264e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T21:50:13.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
+    "s": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
+    "m": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala",
+        "date": "2026-09-23T21:50:13.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-cb4f901e5578e9a7",
     "c": "INT",
     "o": "PT",
@@ -21,6 +1116,114 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/pais/carneiro-pede-esclarecimento-publico-da-ministra-da-justica-sobre-buscas-na-pj_n1767347",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-19c43c4987f345f0",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T21:46:27.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Landtag: Mohamed Ali: Kein Deal mit AfD für Landtagspräsidium",
+    "s": "Landtag: Mohamed Ali: Kein Deal mit AfD für Landtagspräsidium",
+    "m": "Landtag: Mohamed Ali: Kein Deal mit AfD für Landtagspräsidium",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/mohamed-ali-kein-deal-mit-afd-fuer-landtagspraesidium",
+        "date": "2026-09-23T21:46:27.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/mohamed-ali-kein-deal-mit-afd-fuer-landtagspraesidium",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-e4ab75be7a9c0c07",
+    "c": "INT",
+    "o": "UK",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T21:43:16.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Twenty years after An Inconvenient Truth, Al Gore still believes in the climate fight: ‘We are going to win th",
+    "s": "Former US vice-president still has optimism for climate advocacy two decades after groundbreaking documentary Two decades after the release of his groundbreaking documentary An Inconvenient Truth, Al Gore has admitted he was surprised by the ferocious, ongoing backlash from the fossil fuel industry and its political allies. But the former US vice-president insists he still has optimism the world will confront the climate crisis. At a New York event to mark the 20th anniversary of the release of ",
+    "m": "Former US vice-president still has optimism for climate advocacy two decades after groundbreaking documentary Two decades after the release of his groundbreaking documentary An Inconvenient Truth, Al Gore has admitted he was surprised by the ferocious, ongoing backlash from the fossil fuel industry and its political allies. But the former US vice-president insists he still has optimism the world will confront the climate crisis. At a New York event to mark the 20th anniversary of the release of the film and his subsequent climate advocacy work, Gore, now 78, joked: “I always say if it hadn’t been for me, we might have a big problem right now” when asked about the progress made",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Guardian Environment",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/al-gore-climate-crisis-an-inconvenient-truth",
+        "date": "2026-09-23T21:43:16.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/sep/23/al-gore-climate-crisis-an-inconvenient-truth",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-dc9dbdf242aac44b",
+    "c": "INT",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T21:34:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Rekordhitze und El Niño verschärfen Feuerkrise im Amazonas",
+    "s": "Zahlreiche Brände im Amazonasgebiet haben die brasilianische Metropole Manaus in dichten Rauch gehüllt. Die Zahl der Feuer ist im Vergleich zum Vorjahr stark angestiegen. Als Hauptursachen gelten neben extremer Hitze auch das Klimaphänomen El Niño.",
+    "m": "Die Region um die Amazonas-Metropole Manaus leidet derzeit unter einer massiven Feuerkrise, die zu dichter Rauchentwicklung in der Stadt geführt hat. Offizielle Daten zeigen, dass die Zahl der Brände im Vergleich zum Vorjahr um mehr als 300 Prozent gestiegen ist. Experten und Behörden führen diese Entwicklung auf eine Kombination aus Rekordhitze und den Auswirkungen des Klimaphänomens El Niño zurück, welche die Trockenheit in dem betroffenen Gebiet drastisch verschärfen. Weitere Details zu evakuierten Personen, konkreten Schadenssummen oder konkreten Gegenmaßnahmen der Regierung gehen aus den aktuellen Berichten nicht hervor.",
+    "r": "Die drastische Zunahme von Bränden in der Amazonas-Region beeinträchtigt durch massiven Rauch die Millionenstadt Manaus und verdeutlicht die akuten Auswirkungen von Extremwetter und Klimaphänomenen auf die Umwelt.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/brasilien-rekordhitze-und-el-nino-verschaerfen-feuerkrise-in-manaus-a-7610ae95-6c83-4bb0-952a-d90134701abc#ref=rss",
+        "date": "2026-09-23T21:34:00.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/brasilien-rekordhitze-und-el-nino-verschaerfen-feuerkrise-in-manaus-a-7610ae95-6c83-4bb0-952a-d90134701abc#ref=rss",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-7828760ee61f0fb7",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T21:25:01.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Pressefreiheit: Medien und Verbände stellen sich an Seite von CNN und Co",
+    "s": "Präsident Trump sorgt mit seinem Ausschluss mehrerer US-Medien aus dem Weißen Haus für einen Aufschrei in der Presselandschaft.",
+    "m": "Präsident Trump sorgt mit seinem Ausschluss mehrerer US-Medien aus dem Weißen Haus für einen Aufschrei in der Presselandschaft.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/international/pressefreiheit-medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co/100256964.html",
+        "date": "2026-09-23T21:25:01.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/politik/international/pressefreiheit-medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co/100256964.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -129,33 +1332,6 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-promete-manter-presenca-militar-nos-montes-gola-e-outros-territorios-ocupados_n1767318",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-a3f7bb283dc0c291",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:55:13.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
-    "s": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
-    "m": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-        "date": "2026-09-23T20:55:13.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -329,33 +1505,6 @@
     "independent": 1
   },
   {
-    "id": "story-0b883c4d95bf45f4",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Bundestag - Fraktionen loben geplante Strafverschärfung für K.o.-Tropfen-Einsatz",
-    "s": "Der Bundestag hat in erster Lesung über höhere Strafen für den Einsatz von K.o.-Tropfen beraten.",
-    "m": "Der Bundestag hat in erster Lesung über höhere Strafen für den Einsatz von K.o.-Tropfen beraten.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-102.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-7c1eb4a8e229cd11",
     "c": "DE",
     "o": "DE",
@@ -404,33 +1553,6 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/henkel-uebernimmt-niederlaendische-firma-stahl-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-4a996e42d4ae17fb",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Sicherheit - Hauptstadtflughafen BER vorübergehend wegen Drohne lahmgelegt",
-    "s": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr am Abend wegen einer Drohne vorübergehend eingestellt worden.",
-    "m": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr am Abend wegen einer Drohne vorübergehend eingestellt worden.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-100.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -491,60 +1613,6 @@
     "independent": 1
   },
   {
-    "id": "story-fef7220160c05bb8",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Archäologie - Ein Fund aus der Zeit der Gallier deutet auf die Anfänge von Paris hin",
-    "s": "Unter einem Pariser Krankenhaus nahe Notre-Dame haben Archäologen einen 2000 Jahre alten Wall aus Stein und Holz entdeckt. Die Anlage ist rund 20 Meter lang und stammt aus der Zeit der Gallier.",
-    "m": "Unter einem Pariser Krankenhaus nahe Notre-Dame haben Archäologen einen 2000 Jahre alten Wall aus Stein und Holz entdeckt. Die Anlage ist rund 20 Meter lang und stammt aus der Zeit der Gallier.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ein-fund-aus-der-zeit-der-gallier-deutet-auf-die-anfaenge-von-paris-hin-102.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/ein-fund-aus-der-zeit-der-gallier-deutet-auf-die-anfaenge-von-paris-hin-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-1da9d8c2839ea17b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Mittlerer Osten - Außenminister Wadephul fodert vom Iran die Öffnung der Straße von Hormus",
-    "s": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
-    "m": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-102.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-34c2ce14aaf5b7ad",
     "c": "DE",
     "o": "DE",
@@ -566,33 +1634,6 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/krankenversicherung-spd-deutet-festhalten-am-dualen-system-an-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-17177c0c892005b5",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Diskussion über Antisemitismus und Nähe zu Clan - Von Notz warnt vor Sicherheitsrisiken durch Linke in Berlin",
-    "s": "Grünen-Fraktionsvize von Notz hat Sicherheitsbedenken bei einer Berliner Regierung unter Führung der Linkspartei geäußert. Es sei zu Recht sehr viel über den Schutz relevanter staatlicher Informationen vor dem Zugriff der AfD gesprochen worden, sagt der Innenpolitiker der \"Süddeutschen Zeitung\". Dabei seien auch bei der Berliner Linken Risiken offensichtlich.",
-    "m": "Grünen-Fraktionsvize von Notz hat Sicherheitsbedenken bei einer Berliner Regierung unter Führung der Linkspartei geäußert. Es sei zu Recht sehr viel über den Schutz relevanter staatlicher Informationen vor dem Zugriff der AfD gesprochen worden, sagt der Innenpolitiker der \"Süddeutschen Zeitung\". Dabei seien auch bei der Berliner Linken Risiken offensichtlich.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/von-notz-warnt-vor-sicherheitsrisiken-durch-linke-in-berlin-102.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/von-notz-warnt-vor-sicherheitsrisiken-durch-linke-in-berlin-102.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -626,33 +1667,6 @@
     "independent": 1
   },
   {
-    "id": "story-b7241f7b291366c2",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Künstliche Intelligenz - Anthropic-Chef warnt vor UNO-Sicherheitsrat vor KI-Gefahren",
-    "s": "Vertreter der US-Technologiebranche haben erneut vor den Gefahren durch Künstliche Intelligenz gewarnt - diesmal vor dem UNO-Sicherheitsrat.",
-    "m": "Vertreter der US-Technologiebranche haben erneut vor den Gefahren durch Künstliche Intelligenz gewarnt - diesmal vor dem UNO-Sicherheitsrat.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/anthropic-chef-warnt-vor-uno-sicherheitsrat-vor-ki-gefahren-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/anthropic-chef-warnt-vor-uno-sicherheitsrat-vor-ki-gefahren-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-f83ffc276608859e",
     "c": "DE",
     "o": "DE",
@@ -674,33 +1688,6 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/grossbritannien-plant-weltraumgeschwader-zum-schutz-von-satelliten-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-425aeb62dc6d92db",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Konflikt - Rebellen nehmen Regionalflughafen Mekelle in Äthiopien ein",
-    "s": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
-    "m": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-100.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -734,33 +1721,6 @@
     "independent": 1
   },
   {
-    "id": "story-07a574ac99920d15",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Wahlbeobachtung - Erstmals keine OSZE-Beobachter zu US-Zwischenwahlen eingeladen",
-    "s": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
-    "m": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-97d1497109e630c8",
     "c": "DE",
     "o": "DE",
@@ -788,33 +1748,6 @@
     "independent": 1
   },
   {
-    "id": "story-c0a718345e90618d",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Ukraine-Krieg - Russische Armee greift Ukraine mit Kampfdrohnen an - acht Tote",
-    "s": "Russland hat die Ukraine den ganzen Tag über mit Kampfdrohnen angegriffen.",
-    "m": "Russland hat die Ukraine den ganzen Tag über mit Kampfdrohnen angegriffen.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-mit-kampfdrohnen-an-acht-tote-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-mit-kampfdrohnen-an-acht-tote-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-036114229d566d9b",
     "c": "DE",
     "o": "DE",
@@ -836,33 +1769,6 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/diskussion-ueber-antisemitismus-in-linkspartei-108.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-998c723807bb0b81",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Mehr Datenaustausch und schärfere Kontrollen - Regierung will gegen Sozialleistungsmissbrauch vorgehen",
-    "s": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbrauch in den Griff bekommen werden, der in Zusammenhang mit der EU-Zuwanderung steht.",
-    "m": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbrauch in den Griff bekommen werden, der in Zusammenhang mit der EU-Zuwanderung steht.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-100.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -998,33 +1904,6 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/grosser-felssturz-an-der-zugspitze-setzt-sich-fort-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-2fada307b19adabe",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T20:49:56.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Medienberichte - Berlin will Olympia-Bewerbung zurückziehen",
-    "s": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegner, Sportsenatorin Spranger und Berlins Olympia-Beauftragtem Niroomand.",
-    "m": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegner, Sportsenatorin Spranger und Berlins Olympia-Beauftragtem Niroomand.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-100.html",
-        "date": "2026-09-23T20:49:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-100.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -1382,33 +2261,6 @@
     "independent": 1
   },
   {
-    "id": "story-b3ccdad62dfba36f",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T20:25:23.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Gesperrte Schiersteiner Brücke: Noch immer lange Staus in Mainz",
-    "s": "Ein Teilstück der Schiersteiner Brücke in Richtung Wiesbaden ist am Mittwoch überraschend gesperrt worden. Auch spät am Abend herrscht in Mainz deswegen noch Verkehrschaos.",
-    "m": "Ein Teilstück der Schiersteiner Brücke in Richtung Wiesbaden ist am Mittwoch überraschend gesperrt worden. Auch spät am Abend herrscht in Mainz deswegen noch Verkehrschaos.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/stau-und-verkehrschaos-wegen-teilsperrung-schiersteiner-bruecke-100.html",
-        "date": "2026-09-23T20:25:23.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/stau-und-verkehrschaos-wegen-teilsperrung-schiersteiner-bruecke-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-77b7dc56e980a5ef",
     "c": "DE",
     "o": "DE",
@@ -1496,18 +2348,18 @@
   },
   {
     "id": "story-dad607f344e17e4a",
-    "c": "DE",
+    "c": "INT",
     "o": "DE",
-    "k": "sport",
+    "k": "politik",
     "lang": "de",
     "d": "2026-09-23T17:30:04.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Ein Kompromiss, der für Diskussionen sorgt",
-    "s": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? I…",
-    "m": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? I… Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "EU streicht russische Oligarchen von Sanktionsliste",
+    "s": "Die Europäische Union hat zwei russische Oligarchen von ihrer Sanktionsliste gestrichen. Im Gegenzug kam es zur Begnadigung eines französischen Staatsbürgers in Aserbaidschan. Dieser politische Kompromiss sorgt in Brüssel und darüber hinaus für intensive Diskussionen. Kritiker werfen der EU vor, sich durch solche Deals erpressbar zu machen.",
+    "m": "Die Entscheidung der EU, zwei russische Oligarchen von den bestehenden Sanktionen zu befreien, ist Teil eines diplomatischen Deals. Als direkte Gegenleistung wurde ein zuvor in Aserbaidschan inhaftierter Franzose begnadigt und freigelassen. In Brüssel bemüht man sich nun um Aufklärung und Rechtfertigung für diesen Schritt. Der Vorfall wirft grundsätzliche Fragen über die Glaubwürdigkeit und Standhaftigkeit der europäischen Außenpolitik auf. Beobachter und Kritiker befürchten, dass die EU damit einen Präzedenzfall geschaffen hat, der sie für autoritäre Staaten erpressbar macht. Weitere Details über die Identität der betroffenen Oligarchen oder des begnadigten Franzosen werden in den Berichten nicht genannt. Die europäischen Institutionen stehen nun unter Zugzwang, die Hintergründe dieses fragwürdigen Tauschhandels transparent zu erklären.",
+    "r": "Der Vorfall berührt die Glaubwürdigkeit der europäischen Sanktionspolitik gegenüber Russland und wirft Fragen zum Umgang mit Staaten wie Aserbaidschan auf. Solche diplomatischen Tauschgeschäfte können Signalwirkung für künftige Geiselnahmen oder Verhandlungen haben.",
     "srcs": [
       {
         "name": "SWR Aktuell",
