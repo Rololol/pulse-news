@@ -12,13 +12,14 @@ html[data-theme="dark"]{--bg:#000;--card:#1C1C1E;--label:#fff;--label2:rgba(235,
 @media(prefers-color-scheme:dark){:root:not([data-theme]){--bg:#000;--card:#1C1C1E;--label:#fff;--label2:rgba(235,235,245,.62);--sep:rgba(84,84,88,.65);--tint:#0A84FF;color-scheme:dark}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--label);font:17px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display",Inter,"Segoe UI",Roboto,Arial,sans-serif;-webkit-font-smoothing:antialiased}.wrap{max-width:680px;margin:0 auto;padding:0 16px 50px}.nav{height:58px;display:flex;align-items:center;justify-content:space-between;background:var(--bar);backdrop-filter:blur(18px);position:sticky;top:0;z-index:2;border-bottom:1px solid var(--fill)}.nav img{width:88px}.back{color:var(--tint);text-decoration:none;font-weight:600}.theme{border:0;border-radius:50%;background:var(--fill);color:var(--label);width:32px;height:32px}.card{background:var(--card);border-radius:20px;padding:24px;box-shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px -14px rgba(0,0,0,.22)}h1{margin:0 0 22px;font-size:32px;line-height:1.1;letter-spacing:-.03em}h2{margin:25px 0 7px;font-size:18px}p{margin:0 0 12px;color:var(--label2)}strong{color:var(--label)}.placeholder{padding:12px 14px;border-radius:12px;background:rgba(255,149,0,.12);color:var(--label);font-weight:600}.note{font-size:14px}.foot{margin-top:22px;text-align:center;color:var(--label2);font-size:13px}
 </style>
+<link rel="stylesheet" href="./assets/settings.css">
 </head>
 <body>
 <main class="wrap">
 <header class="nav">
 <a class="back" href="./index.html" aria-label="Zurück zu Pulse">← Pulse</a>
 <img src="assets/pulse-logo.svg" alt="Pulse">
-<button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button>
+<button class="theme" id="settingsToggle" type="button" aria-label="Einstellungen"></button>
 </header>
 <article class="card">
 <h1>Impressum</h1>
@@ -53,6 +54,7 @@ html[data-theme="dark"]{--bg:#000;--card:#1C1C1E;--label:#fff;--label2:rgba(235,
 </article>
 <p class="foot">© Pulse</p>
 </main>
-<script>const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply()</script>
+
+<script src="./assets/settings.js"></script>
 </body>
 </html>
