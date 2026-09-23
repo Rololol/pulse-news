@@ -1,4 +1,4 @@
-name: Update news
+name: Update news # Germany-first regional pipeline
 on:
   workflow_dispatch:
   push:
