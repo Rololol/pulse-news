@@ -271,6 +271,7 @@ function cardHTML(it){
   </button>`;
 }
 function emptyHTML(){
+  if(S.scope==='updated')return `<div class="empty"><div class="big">${ic('clock')}</div><h3>Noch keine Aktualisierungen</h3><p>Aktuell wurde noch keine Meldung nach ihrer Veröffentlichung mit neuen bestätigten Informationen aktualisiert.</p></div>`;
   return `<div class="empty"><div class="big">${ic('search')}</div><h3>Nichts gefunden</h3><p>Für diese Auswahl gibt es im Moment keine Meldungen.<br>Wähle eine andere Reichweite oder ein anderes Thema.</p><button class="btn" data-scope="all" data-cat="all">Alles zeigen</button></div>`;
 }
 function renderFeed(){
