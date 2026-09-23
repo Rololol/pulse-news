@@ -448,7 +448,7 @@ window.addEventListener('scroll',()=>{$('#navbar').classList.toggle('scrolled',w
 function updateDateTime(){
   const now=new Date();
   const date=new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long'}).format(now);
-  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(now);
+  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(now);
   $('#dateSub').textContent=date+' · '+time+' Uhr';
 }
 updateDateTime();
