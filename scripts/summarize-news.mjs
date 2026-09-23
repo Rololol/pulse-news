@@ -15,7 +15,7 @@ const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g
 const hashKey=s=>Buffer.from(String(s)).toString("base64url").slice(0,120);
 
 const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
-const countryMap={DE:"DE",UK:"UK",PT:"PT",INT:"INT",US:"INT",EU:"INT"};
+const countryMap={DE:"DE",UK:"INT",PT:"INT",INT:"INT",US:"INT",EU:"INT"};
 
 function localFallback(item){
   const sources=(item.sources||[]).map(x=>clean(x.snippet||x.title||"")).filter(Boolean);
@@ -26,6 +26,7 @@ function localFallback(item){
     s:(sentences.slice(0,2).join(" ")||clean(item.title)).slice(0,220),
     m:sources.slice(0,2).join(" ").slice(0,500),
     k:categoryMap[item.topic]||"panorama",
+    c:countryMap[item.country]==="DE"?"DE":"INT",
     p:Math.min(5,Math.max(1,(item.sources?.length||1))),
     agree: item.sources?.length>1 ? "Mehrere RSS-Quellen berichten über dasselbe Ereignis." : "",
     diff:[]
@@ -39,11 +40,12 @@ const schema={
     s:{type:"string"},
     m:{type:"string"},
     k:{type:"string",enum:["politik","wirtschaft","sport","wissenschaft","technik","panorama","umwelt"]},
+    c:{type:"string",enum:["DE","INT"]},
     p:{type:"integer",minimum:1,maximum:5},
     agree:{type:"string"},
     diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}}
   },
-  required:["t","s","m","k","p","agree","diff"]
+  required:["t","s","m","k","p","agree","diff","c"]
 };
 
 async function ask(item){
@@ -51,7 +53,7 @@ async function ask(item){
     "["+(src.source||"Quelle "+(i+1))+"]\n"+clean(src.title||"")+"\n"+clean(src.snippet||"")
   ).join("\n\n");
   const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m und agree auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
-{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"gemeinsame Kurzfassung, 1-2 Sätze, max. 220 Zeichen, nur was alle Quellen bestätigen","m":"zusätzliche Details, 2-4 Sätze, max. 500 Zeichen","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
+{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"gemeinsame Kurzfassung, 1-2 Sätze, max. 220 Zeichen, nur was alle Quellen bestätigen","m":"zusätzliche Details, 2-4 Sätze, max. 500 Zeichen","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
 Wenn es keine Abweichungen gibt, gib diff als leeres Array zurück. Erfinde nichts, das nicht in den gelieferten Texten steht. Bei nur einer Quelle bleiben agree und diff leer.
 Quellen:
 ${sourceText}`;
@@ -90,6 +92,7 @@ ${sourceText}`;
   parsed.s=clean(parsed.s).slice(0,220);
   parsed.m=clean(parsed.m).slice(0,500);
   parsed.k=categoryMap[parsed.k]?parsed.k:(categoryMap[item.topic]||"panorama");
+  parsed.c=parsed.c==="DE"?"DE":"INT";
   parsed.p=Math.min(5,Math.max(1,Math.round(Number(parsed.p)||1)));
   parsed.agree=clean(parsed.agree||"").slice(0,260);
   parsed.diff=Array.isArray(parsed.diff)?parsed.diff.filter(x=>x&&x.name&&x.note).slice(0,6).map(x=>({name:clean(x.name),note:clean(x.note).slice(0,280)})):[];
@@ -109,10 +112,14 @@ for(const list of byCategory.values()){
   });
 }
 const ranked=[];
-const perCategory=7;
-for(const k of categories){
-  ranked.push(...byCategory.get(k).slice(0,perCategory));
-}
+const germany=raw.filter(x=>x.country==="DE");
+const international=raw.filter(x=>x.country!=="DE");
+const rankItems=list=>list.slice().sort((a,b)=>{
+  const pa=a.sources?.length||1,pb=b.sources?.length||1;
+  return (pb-pa)||(Date.parse(b.date)-Date.parse(a.date));
+});
+ranked.push(...rankItems(germany).slice(0,39));
+ranked.push(...rankItems(international).slice(0,6));
 if(ranked.length<45){
   const used=new Set(ranked);
   for(const item of raw.slice().sort((a,b)=>Date.parse(b.date)-Date.parse(a.date))){
@@ -122,13 +129,12 @@ if(ranked.length<45){
   }
 }
 
-
 const output=[];
 let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
   const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
-  const key=hashKey("v2-de|"+item.id+"|"+signature);
+  const key=hashKey("v3-de-focus|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
@@ -146,8 +152,8 @@ for(const item of ranked){
   }
 
   output.push({
-    id:item.id,c:countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
-    lang:"de",d:item.date,p:ai.p||1,st:"",city:"",t:ai.t,s:ai.s,m:ai.m,
+    id:item.id,c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
+    lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,
     srcs,agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[]
   });
   await sleep(apiKey?6000:0);
