@@ -142,6 +142,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
   .seg button{font-size:12px}
 }
 </style>
+<link rel="stylesheet" href="./assets/settings.css">
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
@@ -168,11 +169,6 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 <main class="wrap" id="mainContent" tabindex="-1">
   <div class="large"><h1 class="brand-title"><img src="assets/pulse-logo.svg" alt="Pulse"></h1><p class="sub" id="dateSub"></p><div class="freshline"><span class="freshdot"></span><span>Pulse fasst Nachrichten mithilfe von KI aus mehreren Quellen zusammen.</span></div><div class="explainer-tools" aria-label="Informationen"><a href="./erklaert.html" aria-label="Pulse erklärt">Pulse erklärt</a><a href="./medienkompetenz.html" aria-label="Informationen prüfen">Informationen prüfen</a></div></div>
   <div class="mq" id="mq" hidden></div>
-  <div class="settings-panel" id="settingsPanel" hidden aria-label="Einstellungen">
-    <div class="settings-title">Einstellungen</div>
-    <div class="settings-row"><span>Darstellung</span><button id="themeToggle" type="button"></button></div>
-    <div class="settings-row"><span>Barrierefreiheit</span><div class="settings-actions"><button id="fontToggle" type="button">Größere Schrift</button><button id="motionToggle" type="button">Animationen aus</button></div></div>
-  </div>
   <div class="controls">
     <label class="searchbox"><svg class="ic" aria-hidden="true"><use href="#i-search"/></svg><input id="searchInput" type="search" autocomplete="off" enterkeyhint="search" placeholder="Thema, Bundesland, Land, Person …" aria-label="Nachrichten durchsuchen"></label><div id="searchMeta" class="search-meta" aria-live="polite"></div>
     <div class="seg" id="seg" role="group" aria-label="Reichweite"></div>
@@ -421,8 +417,6 @@ document.addEventListener('change',e=>{
     renderFeed();
   }
 });
-const savedLargeText=localStorage.getItem('pulse-large-text')==='1';if(savedLargeText){document.body.classList.add('large-text');$('#fontToggle').textContent='Normale Schrift'}$('#fontToggle').addEventListener('click',()=>{const on=document.body.classList.toggle('large-text');localStorage.setItem('pulse-large-text',on?'1':'0');$('#fontToggle').textContent=on?'Normale Schrift':'Größere Schrift'});
-$('#motionToggle').addEventListener('click',()=>{document.body.classList.toggle('reduce-motion');$('#motionToggle').textContent=document.body.classList.contains('reduce-motion')?'Animationen an':'Animationen aus'});
 document.addEventListener('click',e=>{const n=e.target.closest('[data-nav]');if(!n)return;const v=n.dataset.nav;if(v==='home'||v==='de'){S.scope='state';S.cat='all';S.state='';S.country='INT'}if(v==='local'){S.scope='local';S.cat='all';S.state='';S.country='INT'}if(v==='int'){S.scope='all';S.cat='all';S.state='';S.country='INT'}if(v==='topics'){S.scope='state';S.cat=S.cat==='all'?'politik':'all';S.state=''}renderControls();renderFeed();document.querySelectorAll('[data-nav]').forEach(x=>x.removeAttribute('aria-current'));n.setAttribute('aria-current','page');window.scrollTo({top:0,behavior:document.body.classList.contains('reduce-motion')?'auto':'smooth'})});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&currentSheet)closeSheet()});
 let drag=null;
@@ -478,14 +472,11 @@ async function loadData(){
   renderAll();
 }
 
-function setThemeLabel(){const dark=document.documentElement.dataset.theme==='dark';const b=$('#themeToggle');if(!b)return;b.textContent=dark?'Helles Design':'Dunkles Design'}
-function applyTheme(){const saved=localStorage.getItem(themeKey);if(saved)document.documentElement.dataset.theme=saved;else if(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.dataset.theme='dark';setThemeLabel()}
-$('#themeToggle').addEventListener('click',()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem(themeKey,next);setThemeLabel()});
-$('#settingsToggle').addEventListener('click',()=>{$('#settingsPanel').hidden=!$('#settingsPanel').hidden});
-applyTheme();
+
 setInterval(()=>{if(!currentSheet)loadData()},300000);
 loadData();
 })();
 </script>
+<script src="./assets/settings.js"></script>
 </body>
 </html>
