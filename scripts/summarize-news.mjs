@@ -185,7 +185,16 @@ if(ranked.length<45){
 const output=[];
 let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
-  const srcs=(item.sources||[]).slice(0,8).filter(s=>{try{const u=new URL(s.url);return (u.protocol==="https:"||u.protocol==="http:")&&String(s.url).length<=2048}catch{return false}}).map(s=>({name:clean(s.source).slice(0,120),url:s.url,date:s.date}));
+  const srcMap=new Map();
+  for(const s of (item.sources||[]).slice(0,8)){
+    try{
+      const u=new URL(s.url);
+      if((u.protocol==="https:"||u.protocol==="http:")&&String(s.url).length<=2048&&!srcMap.has(s.url)){
+        srcMap.set(s.url,{name:clean(s.source).slice(0,120),url:s.url,date:s.date});
+      }
+    }catch{}
+  }
+  const srcs=[...srcMap.values()];
   const signature=(item.sources||[]).map(s=>s.url).join("|");
   const previous=previousFor(item);
   const key=hashKey("v8-quality-hardening|"+item.id+"|"+signature+"|"+(item.stateHint||""));
