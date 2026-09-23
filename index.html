@@ -215,6 +215,8 @@ function groupOf(d){const n=diffDays(d);return n<=0?'Heute':n===1?'Gestern':n<7?
 function regionTag(it){const co=COUNTRIES[it.c]||COUNTRIES.INT;const name=it.city||(it.st&&STATES[it.st])||co.n;return co.flag+' '+esc(name)}
 function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.length:(it.src?1:0)}
 function sourceLabel(it){const n=sourceCount(it);return n+' Quelle'+(n===1?'':'n')}
+function independentSourceCount(it){return Number.isFinite(Number(it.independent))?Number(it.independent):sourceCount(it)}
+function sourceDiversityLabel(it){const n=sourceCount(it),u=independentSourceCount(it);return n>1&&u<n?(n+' Quellen · '+u+' unterschiedliche Herausgeber'):sourceLabel(it)}
 function originalUrl(it){return it.url||(Array.isArray(it.srcs)&&it.srcs[0]?.url)||''}
 
 function visible(){
@@ -262,7 +264,7 @@ function cardHTML(it){
       <span class="tags"><span class="tag cat">${cat.n}</span><span class="tag reg">${regionTag(it)}</span></span>
       <span class="ctitle">${esc(it.t)}</span>
       <span class="csum">${esc(it.s)}</span>
-      <span class="cmeta"><span>${sourceCount(it)} Quellen · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
+      <span class="cmeta"><span>${sourceDiversityLabel(it)} · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
     </span>
   </button>`;
 }
@@ -301,17 +303,18 @@ function sheetHTML(it,isOpen){
     <div class="shead">
       <button class="close" data-close="1" aria-label="Schließen">${ic('x')}</button>
       <span class="hero-top" style="margin:0"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span></span>
-      <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceCount(it)} Quellen</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
+      <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceDiversityLabel(it)}</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
     </div>
     <div class="sbody">
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
       ${it.m?`<h4>Was bisher bekannt ist</h4><p>${esc(it.m)}</p>`:''}
+      ${it.chg?`<h4>Was hat sich geändert?</h4><p class="relevance">${esc(it.chg)}</p>`:''}
       ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:''}
       <h4>Quellen</h4>
       <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
       ${Array.isArray(it.diff)&&it.diff.length?`<h4>Abweichende Angaben</h4>${it.diff.map(d=>`<p><strong>${esc(d.name)}:</strong> ${esc(d.note)}</p>`).join('')}`:''}
-      <p class="note">${sourceCount(it)} Quelle${sourceCount(it)===1?'':'n'} · ${dayLabel(it.d)} · Die Meldung kann Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p><div class="sact">
+      <p class="note">${sourceDiversityLabel(it)} · ${dayLabel(it.d)} · Die Meldung kann Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p><div class="sact">
         ${originalUrl(it)?`<a class="primary" href="${esc(originalUrl(it))}" target="_blank" rel="noopener noreferrer">Originalbericht lesen</a>`:''}
         ${canShare?`<button class="secondary" data-share="${it.id}">Teilen</button>`:''}
       </div>
