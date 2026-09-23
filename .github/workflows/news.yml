@@ -6,6 +6,7 @@ on:
       - ".github/workflows/news.yml"
       - "scripts/fetch-news.mjs"
       - "scripts/summarize-news.mjs"
+      - "scripts/validate-news.mjs"
   schedule:
     - cron: "*/30 * * * *"
 permissions:
@@ -37,23 +38,7 @@ jobs:
             exit 1
           fi
       - name: Validate generated news data
-        run: |
-          node --input-type=module <<'NODE'
-          import fs from "node:fs/promises";
-          const data=JSON.parse(await fs.readFile("data.json","utf8"));
-          if(!Array.isArray(data)||!data.length||data.length>45)throw new Error("Ungültiger Nachrichtenbestand");
-          const ids=new Set();
-          for(const x of data){
-            for(const key of ["id","t","s","m","c","k","d"])if(!x[key])throw new Error("Pflichtfeld fehlt: "+key);
-            if(ids.has(x.id))throw new Error("Doppelte ID: "+x.id);
-            ids.add(x.id);
-            if(!Array.isArray(x.srcs)||!x.srcs.length)throw new Error("Meldung ohne Quelle: "+x.id);
-            if(x.lang!=="de")throw new Error("Meldung nicht als Deutsch markiert: "+x.id);
-            if(/\\b(economia|mundial|deve|crescer|recuperacao|gradual)\\b/i.test(x.t))throw new Error("Fremdsprachiger Titel: "+x.t);
-          }
-          const archive=JSON.parse(await fs.readFile("data/archive/index.json","utf8"));
-          if(!Array.isArray(archive))throw new Error("Archivindex ungültig");
-          NODE
+        run: node scripts/validate-news.mjs
       - name: Commit generated news data
         run: |
           git config user.name "pulse-news-bot"
