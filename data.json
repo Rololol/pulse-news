@@ -1,5 +1,1225 @@
 [
   {
+    "id": "story-95b03b430b8742fa",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T21:21:47.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Excedente orçamental do primeiro semestre antecipa saldo equilibrado em 2026",
+    "s": "As contas públicas registaram um excedente orçamental de 0,5% no primeiro semestre, sobretudo devido ao saldo positivo registado entre abril e junho. O Governo está confiante com aquilo que será as contas do Estado no final do ano.",
+    "m": "As contas públicas registaram um excedente orçamental de 0,5% no primeiro semestre, sobretudo devido ao saldo positivo registado entre abril e junho. O Governo está confiante com aquilo que será as contas do Estado no final do ano.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/excedente-orcamental-do-primeiro-semestre-antecipa-saldo-equilibrado-em-2026_v1767339",
+        "date": "2026-09-23T21:21:47.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/excedente-orcamental-do-primeiro-semestre-antecipa-saldo-equilibrado-em-2026_v1767339",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-bf595579216e2cc0",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T21:16:47.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Montenegro reage a buscas na PJ: \"Espero que a situação seja clarificada\"",
+    "s": "Montenegro reage a buscas na PJ: \"Espero que a situação seja clarificada\"",
+    "m": "Montenegro reage a buscas na PJ: \"Espero que a situação seja clarificada\"",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/montenegro-reage-a-buscas-na-pj-espero-que-a-situacao-seja-clarificada_v1767337",
+        "date": "2026-09-23T21:16:47.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/montenegro-reage-a-buscas-na-pj-espero-que-a-situacao-seja-clarificada_v1767337",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f48ec99b6ab9b022",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T21:11:38.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "US-Präsident Trump schlägt Gaza-Hilfsplan vor",
+    "s": "Das von US-Präsident Donald Trump ins Leben gerufene \"Konzept der Frieden\" schlägt einen neuen Hilfsplan für den Gazastreifen vor. Der Vorschlag sieht finanzielle Unterstützung für die Region vor und ist auf einen Zeitraum von sechs Monaten ausgelegt.",
+    "m": "Das \"Konzept der Frieden\" des US-Präsidenten Donald Trump hat einen konkreten Hilfsplan für den Gazastreifen vorgelegt. Das finanzielle Hilfspaket beläuft sich auf 2,45 Milliarden US-Dollar, was umgerechnet rund 2,15 Milliarden Euro entspricht. Die Maßnahme soll nach den vorliegenden Informationen für eine Dauer von sechs Monaten umgesetzt werden. Weitere Details zu den genauen Auszahlungsmodalitäten, der Verteilung vor Ort oder der Beteiligung internationaler Organisationen wurden in der Quelle nicht genannt. Auch Reaktionen aus der betroffenen Region oder von internationalen Partnern stehen in diesem Bericht noch aus.",
+    "r": "Der von den USA vorgeschlagene Hilfsplan hat direkte Auswirkungen auf die humanitäre und finanzielle Lage im Gazastreifen. Die Initiative zeigt das anhaltende diplomatische und finanzielle Engagement der US-Regierung in diesem Konfliktgebiet.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/conselho-de-paz-propoe-plano-de-ajuda-a-gaza-de-215-mil-milhoes-de-euros_n1767329",
+        "date": "2026-09-23T21:11:38.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/conselho-de-paz-propoe-plano-de-ajuda-a-gaza-de-215-mil-milhoes-de-euros_n1767329",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-834b7a131d7c03aa",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T21:06:45.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Israel promete manter presença militar nos Montes Golã e outros territórios ocupados",
+    "s": "O ministro da Defesa israelita reiterou hoje que Israel não se retirará dos Montes Golã, nem tão pouco de outros territórios sírios ocupados, em resopsta ao discurso do Presidente interino sírio na Assembleia-Geral das Nações Unidas.",
+    "m": "O ministro da Defesa israelita reiterou hoje que Israel não se retirará dos Montes Golã, nem tão pouco de outros territórios sírios ocupados, em resopsta ao discurso do Presidente interino sírio na Assembleia-Geral das Nações Unidas.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-promete-manter-presenca-militar-nos-montes-gola-e-outros-territorios-ocupados_n1767318",
+        "date": "2026-09-23T21:06:45.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-promete-manter-presenca-militar-nos-montes-gola-e-outros-territorios-ocupados_n1767318",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-def5207240c259cb",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T20:49:58.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Liga Nações. Bellamy elogia Ronaldo e vê em Jorge Jesus resposta para Portugal",
+    "s": "O selecionador de futebol do País de Gales classificou Cristiano Ronaldo como “um dos melhores jogadores de todas as gerações”, considerando que Portugal tem em Jorge Jesus um treinador capaz de dar à equipa aquilo que necessita.",
+    "m": "O selecionador de futebol do País de Gales classificou Cristiano Ronaldo como “um dos melhores jogadores de todas as gerações”, considerando que Portugal tem em Jorge Jesus um treinador capaz de dar à equipa aquilo que necessita.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-bellamy-elogia-ronaldo-e-ve-em-jorge-jesus-resposta-para-portugal_d1767328",
+        "date": "2026-09-23T20:49:58.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-bellamy-elogia-ronaldo-e-ve-em-jorge-jesus-resposta-para-portugal_d1767328",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-9346f1ef0d718856",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:32:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Wahlbeobachter der OSZE erstmals von Midterms ausgeschlossen",
+    "s": "Zu den anstehenden Midterms in den USA sind erstmals keine Wahlbeobachter der Organisation für Sicherheit und Zusammenarbeit in Europa eingeladen worden. Die OSZE hat diesen Schritt scharf kritisiert und spricht von einer Abkehr von einer etablierten demokratischen Praxis. Diese Entscheidung markiert einen neuen Höhepunkt in der ohnehin schon angespannten Beziehung zwischen der Organisation und dem ehemaligen beziehungsweise potenziellen Präsidentschaftskandidaten Donald Trump.",
+    "m": "Die Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) sendet traditionell Wahlbeobachter zu wichtigen US-Wahlen, um die Einhaltung demokratischer Standards zu überprüfen. Das Ausbleiben einer Einladung für die bevorstehenden Zwischenwahlen stößt bei den Verantwortlichen auf schpeitschende Kritik, da dies als bewusster Bruch mit langjährigen Gepflogenheiten gewertet wird. Schon in der Vergangenheit hatte es immer wieder heftige Auseinandersetzungen zwischen der OSZE und dem früheren US-Präsidenten Donald Trump gegeben, dessen Anhänger und er selbst die Arbeit der Beobachter wiederholt infrage gestellt hatten. Die aktuellen Entwicklungen werfen Fragen hinsichtlich der Transparenz des US-Wahlprozesses auf und könnten das internationale Vertrauen in die demokratischen Institutionen des Landes weiter beschädigen. Beobachter befürchten, dass ein solcher Ausschluss auch künftige Wahlen in den USA prägen und den Trend zur Polarisierung verstärken könnte.",
+    "r": "Der Ausschluss internationaler Wahlbeobachter berührt grundlegende Fragen der demokratischen Transparenz und des Vertrauens in US-Wahlen. Die Kritik der OSZE verdeutlicht die Sorge vor einer Entfremdung von etablierten internationalen Standards der Wahlprüfung.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/osze-wahlbeobachter-usa-zwischenwahlen-100.html",
+        "date": "2026-09-23T20:32:00.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/ausland/osze-wahlbeobachter-usa-zwischenwahlen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-050088a79b37f11e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:31:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+    "s": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Konflikt zwischen Iran und USA gibt es noch keine Lösung. Alle Entwicklungen im Liveblog.",
+    "m": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Konflikt zwischen Iran und USA gibt es noch keine Lösung. Alle Entwicklungen im Liveblog.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+        "date": "2026-09-23T20:31:00.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f7515d07696624be",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:30:30.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Heli-Retter von \"Christoph 22\": \"Gewisse Bilder bleiben einem im Kopf\"",
+    "s": "Im Mai 2025 wurden Pilot Jens Jasper und Notfallsanitäter Dirk Hornig mit ihrem Rettungshubschrauber Christoph 22 zu einem schweren Unfall mit zwei verletzten Kindern in Dornstadt alarmiert. In einem SWR-Interview sprachen sie über ihre Erlebnisse und die psychischen Belastungen bei solchen dramatischen Einsätzen. Die Rettungskräfte schilderten, wie herausfordernd es ist, nach Einsätzen mit schwer verletzten Minderjährigen zur Normalität zurückzukehren. Solche Einsätze verdeutlichen die hohe phy",
+    "m": "Der Vorfall ereignete sich im Mai 2025 in Dornstadt, wo zwei Kinder bei einem Unfall schwer verletzt wurden und schnelle Hilfe aus der Luft benötigten. Der Pilot Jens Jasper und der Notfallsanitäter Dirk Hornig waren an diesem Tag mit dem Hubschrauber Christoph 22 im Einsatz. Das Duo berichtete dem SWR detailliert über den genauen Ablauf eines solchen Notfalleinsatzes und die damit verbundenen Herausforderungen. Dabei machten sie deutlich, dass bestimmte belastende Bilder und Situationen auch für erfahrene Retter im Gedächtnis bleiben. Die Crew sprach zudem über die Bewältigungsstrategien nach extremen Einsätzen, um mit den psychischen Belastungen umzugehen. Offen blieb in dem Bericht, wie sich der Gesundheitszustand der beiden verletzten Kinder nach dem Unfall weiterentwickelte. Der Beitrag beleuchtet somit exemplarisch die oft im Hintergrund stehende, hochanspruchsvolle Arbeit der Luftrettung in Baden-Württemberg.",
+    "r": "Der Bericht gibt seltene Einblicke in die psychischen und praktischen Herausforderungen der Luftrettung anhand eines konkreten Einsatzes in Dornstadt. Er verdeutlicht die Belastungsgrenzen von Rettungskräften bei Unfällen mit schwer verletzten Kindern.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ulmer-heli-retter-im-einsatz-100.html",
+        "date": "2026-09-23T20:30:30.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ulmer-heli-retter-im-einsatz-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-14cb46a58afc3f1c",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:30:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Aktuelles zum Krieg in der Ukraine",
+    "s": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+    "m": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+        "date": "2026-09-23T20:30:00.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a3f7bb283dc0c291",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:27:10.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
+    "s": "Russland hat Forderungen, seine Angriffe auf ukrainische Ziele zu pausieren, zurückgewiesen. Finnland und die Ukraine wollen gemeinsam Drohnen produzieren. Das Liveblog",
+    "m": "Russland hat Forderungen, seine Angriffe auf ukrainische Ziele zu pausieren, zurückgewiesen. Finnland und die Ukraine wollen gemeinsam Drohnen produzieren. Das Liveblog",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "date": "2026-09-23T20:27:10.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-3c246610a2131fa9",
+    "c": "INT",
+    "o": "UK",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T20:27:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Chelsea v Austria Vienna: Women’s Champions League – live",
+    "s": "Champions League updates from the 8pm BST kick-off Live scoreboard | Disney+ criticised | And Email Daniel Leuven 0-0 Roma Servette 0-8 Lyon Continue reading...",
+    "m": "Champions League updates from the 8pm BST kick-off Live scoreboard | Disney+ criticised | And Email Daniel Leuven 0-0 Roma Servette 0-8 Lyon Continue reading...",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Guardian Sport",
+        "url": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+        "date": "2026-09-23T20:27:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-b3ccdad62dfba36f",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:25:23.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Gesperrte Schiersteiner Brücke: Noch immer lange Staus in Mainz",
+    "s": "Ein Teilstück der Schiersteiner Brücke in Richtung Wiesbaden ist am Mittwoch überraschend gesperrt worden. Auch spät am Abend herrscht in Mainz deswegen noch Verkehrschaos.",
+    "m": "Ein Teilstück der Schiersteiner Brücke in Richtung Wiesbaden ist am Mittwoch überraschend gesperrt worden. Auch spät am Abend herrscht in Mainz deswegen noch Verkehrschaos.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/stau-und-verkehrschaos-wegen-teilsperrung-schiersteiner-bruecke-100.html",
+        "date": "2026-09-23T20:25:23.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/stau-und-verkehrschaos-wegen-teilsperrung-schiersteiner-bruecke-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-77b7dc56e980a5ef",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:20:17.000Z",
+    "p": 1,
+    "st": "NI",
+    "city": "",
+    "t": "Wolfsburger Fußballerinnen nach Kantersieg mit einem Bein im Achtelfinale",
+    "s": "Die Niedersächsinnen legen im Hinspiel der zweiten Qualifikationsrunde des Europa Cups gegen Graz den Grundstein fürs Weiterkommen.",
+    "m": "Die Niedersächsinnen legen im Hinspiel der zweiten Qualifikationsrunde des Europa Cups gegen Graz den Grundstein fürs Weiterkommen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.ndr.de/sport/fussball/klarer-sieg-gegen-graz-vfl-frauen-koennen-fuers-achtelfinale-planen,wolfsburg-1712.html",
+        "date": "2026-09-23T20:20:17.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/sport/fussball/klarer-sieg-gegen-graz-vfl-frauen-koennen-fuers-achtelfinale-planen,wolfsburg-1712.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-27b5bb10b982c2a9",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "OECD hebt Wachstumsprognose für die deutsche Wirtschaft an",
+    "s": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung hat ihre Konjunkturprognose für Deutschland angehoben. Demnach wird für das laufende Jahr ein Wirtschaftswachstum von 1,1 Prozent erwartet. Dies entspricht einem Anstieg um 0,4 Prozentpunkte im Vergleich zur vorherigen Schätzung vom Juni.",
+    "m": "Die in Paris ansässige Industriestaatenorganisation OECD hat neben Deutschland auch ihre Prognosen für den Euroraum und die Weltwirtschaft nach oben korrigiert. Konkret rechnet die Organisation für die deutsche Wirtschaft nun mit einer Steigerung des Bruttoinlandsprodukts um 1,1 Prozent im aktuellen Jahr. In ihrer vorherigen Prognose vom Juni war die OECD noch von einem deutlich geringeren Wert ausgegangen, womit sich die Einschätzung nun um 0,4 Prozentpunkte verbessert hat. Zugleich äußerte die Organisation jedoch Kritik an bestimmten staatlichen Maßnahmen wie dem sogenannten Tankrabatt. Die Daten unterstreichen eine trotz geopolitischer Krisen und hoher Inflation unerwartet robustere Entwicklung in den betrachteten Wirtschaftsräumen. Weitere Details zu den genauen Prognosewerten für den Euroraum und die globale Wirtschaft wurden in der Meldung zunächst nicht genannt.",
+    "r": "Die Neubewertung durch eine internationale Institution wie die OECD ist ein wichtiger Indikator für die wirtschaftliche Verfassung Deutschlands und beeinflust wirtschaftspolitische Debatten sowie Finanzmärkte.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-91f40f7d0fc376c4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Flixtrain baut Fernverkehr aus - Stundentakt zwischen Hamburg und Berlin geplant",
+    "s": "Der Zuganbieter Flixtrain will sein Angebot ausbauen.",
+    "m": "Der Zuganbieter Flixtrain will sein Angebot ausbauen. Mit dem Flixtrain stündlich von Hamburg nach Berlin fahren - das soll laut dem Fernzugunternehmen im nächsten Jahr möglich sein.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/stundentakt-zwischen-hamburg-und-berlin-geplant-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      },
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/nachrichten/hamburg/flixtrain-stundentakt-zwischen-berlin-und-hamburg-ab-2027,kurzehh-4394.html",
+        "date": "2026-09-23T12:47:41.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/stundentakt-zwischen-hamburg-und-berlin-geplant-100.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2df03446b3c74dff",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Hamburg - Extremwetterkongress berät über Umgang mit Folgen des Klimawandels",
+    "s": "In Hamburg diskutieren ab heute Experten auf einem Extremwetterkongress über die Auswirkungen des Klimawandels.",
+    "m": "In Hamburg diskutieren ab heute Experten auf einem Extremwetterkongress über die Auswirkungen des Klimawandels.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f67f54d868482d61",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "EZB - Neue Euro-Banknoten sollen ab Anfang der 2030er Jahre in Umlauf kommen",
+    "s": "Die neu gestalteten Euro-Banknoten sollen ab Anfang der 2030er Jahre in Umlauf kommen.",
+    "m": "Die neu gestalteten Euro-Banknoten sollen ab Anfang der 2030er Jahre in Umlauf kommen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/neue-euro-banknoten-sollen-ab-anfang-der-2030er-jahre-in-umlauf-kommen-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/neue-euro-banknoten-sollen-ab-anfang-der-2030er-jahre-in-umlauf-kommen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-75f9c470ebcebdc9",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wirtschaft - Henkel übernimmt niederländische Firma Stahl",
+    "s": "Der Düsseldorfer Konzern Henkel darf die niederländische Firma Stahl kaufen, die auf Beschichtungen für Leder, Papier und Autos spezialisiert ist.",
+    "m": "Der Düsseldorfer Konzern Henkel darf die niederländische Firma Stahl kaufen, die auf Beschichtungen für Leder, Papier und Autos spezialisiert ist.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/henkel-uebernimmt-niederlaendische-firma-stahl-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/henkel-uebernimmt-niederlaendische-firma-stahl-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-d3bf77a24d880e1b",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wirtschaft - Gericht verhandelt über dm-Versandapotheke",
+    "s": "Vor dem Landgericht Karlsruhe wird über die Online-Apotheke der Drogeriemarktkette dm verhandelt.",
+    "m": "Vor dem Landgericht Karlsruhe wird über die Online-Apotheke der Drogeriemarktkette dm verhandelt.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-0b883c4d95bf45f4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Bundestag - Fraktionen loben geplante Strafverschärfung für K.o.-Tropfen-Einsatz",
+    "s": "Der Bundestag hat in erster Lesung über höhere Strafen für den Einsatz von K.o.-Tropfen beraten.",
+    "m": "Der Bundestag hat in erster Lesung über höhere Strafen für den Einsatz von K.o.-Tropfen beraten.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-4a996e42d4ae17fb",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Sicherheit - Hauptstadtflughafen BER vorübergehend wegen Drohne lahmgelegt",
+    "s": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr am Abend wegen einer Drohne vorübergehend eingestellt worden.",
+    "m": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr am Abend wegen einer Drohne vorübergehend eingestellt worden.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-7c1eb4a8e229cd11",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Vereinte Nationen - US-Außenminister zeigt sich besorgt über mögliche Ausweitung des Ukraine-Kriegs - Einladun",
+    "s": "US-Außenminister Rubio hat sich beunruhigt über eine mögliche Ausweitung des Ukraine-Kriegs auf weitere Länder geäußert. Hybride Angriffe und Sabotageattacken Russlands gäben Anlass zur Sorge, sagte Rubio. Man spreche dies in Treffen mit verschiedenen Ländern an.",
+    "m": "US-Außenminister Rubio hat sich beunruhigt über eine mögliche Ausweitung des Ukraine-Kriegs auf weitere Länder geäußert. Hybride Angriffe und Sabotageattacken Russlands gäben Anlass zur Sorge, sagte Rubio. Man spreche dies in Treffen mit verschiedenen Ländern an.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/us-aussenminister-zeigt-sich-besorgt-ueber-moegliche-ausweitung-des-ukraine-kriegs-einladung-fuer-pu-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/us-aussenminister-zeigt-sich-besorgt-ueber-moegliche-ausweitung-des-ukraine-kriegs-einladung-fuer-pu-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-fef7220160c05bb8",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Archäologie - Ein Fund aus der Zeit der Gallier deutet auf die Anfänge von Paris hin",
+    "s": "Unter einem Pariser Krankenhaus nahe Notre-Dame haben Archäologen einen 2000 Jahre alten Wall aus Stein und Holz entdeckt. Die Anlage ist rund 20 Meter lang und stammt aus der Zeit der Gallier.",
+    "m": "Unter einem Pariser Krankenhaus nahe Notre-Dame haben Archäologen einen 2000 Jahre alten Wall aus Stein und Holz entdeckt. Die Anlage ist rund 20 Meter lang und stammt aus der Zeit der Gallier.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/ein-fund-aus-der-zeit-der-gallier-deutet-auf-die-anfaenge-von-paris-hin-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/ein-fund-aus-der-zeit-der-gallier-deutet-auf-die-anfaenge-von-paris-hin-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1da9d8c2839ea17b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Mittlerer Osten - Außenminister Wadephul fodert vom Iran die Öffnung der Straße von Hormus",
+    "s": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
+    "m": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-34c2ce14aaf5b7ad",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Gesundheitspolitik - Krankenversicherung: SPD deutet Festhalten am dualen System an",
+    "s": "Die SPD geht nicht davon aus, dass es im Gesundheitssystem einen Umbau zur von ihr favorisierten Bürgerversicherung geben wird.",
+    "m": "Die SPD geht nicht davon aus, dass es im Gesundheitssystem einen Umbau zur von ihr favorisierten Bürgerversicherung geben wird.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/krankenversicherung-spd-deutet-festhalten-am-dualen-system-an-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/krankenversicherung-spd-deutet-festhalten-am-dualen-system-an-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-17177c0c892005b5",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Diskussion über Antisemitismus und Nähe zu Clan - Von Notz warnt vor Sicherheitsrisiken durch Linke in Berlin",
+    "s": "Grünen-Fraktionsvize von Notz hat Sicherheitsbedenken bei einer Berliner Regierung unter Führung der Linkspartei geäußert. Es sei zu Recht sehr viel über den Schutz relevanter staatlicher Informationen vor dem Zugriff der AfD gesprochen worden, sagt der Innenpolitiker der \"Süddeutschen Zeitung\". Dabei seien auch bei der Berliner Linken Risiken offensichtlich.",
+    "m": "Grünen-Fraktionsvize von Notz hat Sicherheitsbedenken bei einer Berliner Regierung unter Führung der Linkspartei geäußert. Es sei zu Recht sehr viel über den Schutz relevanter staatlicher Informationen vor dem Zugriff der AfD gesprochen worden, sagt der Innenpolitiker der \"Süddeutschen Zeitung\". Dabei seien auch bei der Berliner Linken Risiken offensichtlich.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/von-notz-warnt-vor-sicherheitsrisiken-durch-linke-in-berlin-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/von-notz-warnt-vor-sicherheitsrisiken-durch-linke-in-berlin-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-0b10d3d69527aa6f",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Verletzung der Privatsphäre - Pariser Justiz ermittelt wegen heimlicher Aufnahmen mit Smart Glasses",
+    "s": "Die Staatsanwaltschaft in Paris hat Vorermittlungen wegen heimlicher Videoaufnahmen von Frauen mit sogenannten Smart Glasses eingeleitet.",
+    "m": "Die Staatsanwaltschaft in Paris hat Vorermittlungen wegen heimlicher Videoaufnahmen von Frauen mit sogenannten Smart Glasses eingeleitet.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/pariser-justiz-ermittelt-wegen-heimlicher-aufnahmen-mit-smart-glasses-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/pariser-justiz-ermittelt-wegen-heimlicher-aufnahmen-mit-smart-glasses-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-425aeb62dc6d92db",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Konflikt - Rebellen nehmen Regionalflughafen Mekelle in Äthiopien ein",
+    "s": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
+    "m": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f83ffc276608859e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Militär - Großbritannien plant Weltraumgeschwader zum Schutz von Satelliten",
+    "s": "Großbritannien will mit einem neuen Geschwader der Luftwaffe gegen Bedrohungen im Weltraum vorgehen.",
+    "m": "Großbritannien will mit einem neuen Geschwader der Luftwaffe gegen Bedrohungen im Weltraum vorgehen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/grossbritannien-plant-weltraumgeschwader-zum-schutz-von-satelliten-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/grossbritannien-plant-weltraumgeschwader-zum-schutz-von-satelliten-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-07a574ac99920d15",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Wahlbeobachtung - Erstmals keine OSZE-Beobachter zu US-Zwischenwahlen eingeladen",
+    "s": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
+    "m": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-7320c0d5ed17b96c",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Umfrage - Innenstädte werden wieder attraktiver - Handel fordert weiter Maßnahmen gegen Leerstand",
+    "s": "Die Innenstädte in Deutschland sind einer Umfrage zufolge wieder attraktiver geworden.",
+    "m": "Die Innenstädte in Deutschland sind einer Umfrage zufolge wieder attraktiver geworden.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/innenstaedte-werden-wieder-attraktiver-handel-fordert-weiter-massnahmen-gegen-leerstand-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/innenstaedte-werden-wieder-attraktiver-handel-fordert-weiter-massnahmen-gegen-leerstand-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-c0a718345e90618d",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Ukraine-Krieg - Russische Armee greift Ukraine mit Kampfdrohnen an - acht Tote",
+    "s": "Russland hat die Ukraine den ganzen Tag über mit Kampfdrohnen angegriffen.",
+    "m": "Russland hat die Ukraine den ganzen Tag über mit Kampfdrohnen angegriffen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-mit-kampfdrohnen-an-acht-tote-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-mit-kampfdrohnen-an-acht-tote-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-97d1497109e630c8",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Metall-Tarifrunde - IG Metall verlangt fünf Prozent mehr Geld",
+    "s": "Die IG Metall fordert fünf Prozent mehr Geld für die gut 3,7 Millionen Beschäftigten in der deutschen Metall- und Elektroindustrie.",
+    "m": "Die IG Metall fordert fünf Prozent mehr Geld für die gut 3,7 Millionen Beschäftigten in der deutschen Metall- und Elektroindustrie.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/ig-metall-verlangt-fuenf-prozent-mehr-geld-104.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/ig-metall-verlangt-fuenf-prozent-mehr-geld-104.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-998c723807bb0b81",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Mehr Datenaustausch und schärfere Kontrollen - Regierung will gegen Sozialleistungsmissbrauch vorgehen",
+    "s": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbrauch in den Griff bekommen werden, der in Zusammenhang mit der EU-Zuwanderung steht.",
+    "m": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbrauch in den Griff bekommen werden, der in Zusammenhang mit der EU-Zuwanderung steht.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-036114229d566d9b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Berlin - Diskussion über Antisemitismus in Linkspartei",
+    "s": "Aus der Bundespolitik wächst der Druck auf die Linkspartei in Berlin, sich deutlicher von antisemitischen Positionen zu distanzieren. Bundesbildungsministerin Prien, sagte im ARD-Fernsehen, Juden könnten sich in der Hauptstadt sonst nicht mehr sicher fühlen.",
+    "m": "Aus der Bundespolitik wächst der Druck auf die Linkspartei in Berlin, sich deutlicher von antisemitischen Positionen zu distanzieren. Bundesbildungsministerin Prien, sagte im ARD-Fernsehen, Juden könnten sich in der Hauptstadt sonst nicht mehr sicher fühlen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/diskussion-ueber-antisemitismus-in-linkspartei-108.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/diskussion-ueber-antisemitismus-in-linkspartei-108.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-c88883e356bffa5a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Regierungsbefragung Bundestag - Linnemann sieht Reformbedarf bei Krankenversicherung und Pflege - Pistorius wi",
+    "s": "Bundesgesundheitsminister Linnemann hält trotz Reformbedarfs am Nebeneinander von gesetzlicher und privater Krankenversicherung fest.",
+    "m": "Bundesgesundheitsminister Linnemann hält trotz Reformbedarfs am Nebeneinander von gesetzlicher und privater Krankenversicherung fest.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/linnemann-sieht-reformbedarf-bei-krankenversicherung-und-pflege-pistorius-wirbt-fuer-ausbau-der-bund-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/linnemann-sieht-reformbedarf-bei-krankenversicherung-und-pflege-pistorius-wirbt-fuer-ausbau-der-bund-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-e20c1a027c3b63bb",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Diskussion über Linkspartei - Grünen-Innenpolitikerin fordert Koçak zu Mandatsverzicht auf",
+    "s": "Die parlamentarische Geschäftsführerin der Grünen-Fraktion, Mihalic, hat dem Abgeordneten der Linken, Koçak, nahegelegt, sein Bundestagsmandat niederzulegen.",
+    "m": "Die parlamentarische Geschäftsführerin der Grünen-Fraktion, Mihalic, hat dem Abgeordneten der Linken, Koçak, nahegelegt, sein Bundestagsmandat niederzulegen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/gruenen-innenpolitikerin-fordert-ko-ak-zu-mandatsverzicht-auf-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/gruenen-innenpolitikerin-fordert-ko-ak-zu-mandatsverzicht-auf-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-77ba0db9e98d7400",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "DHL-Zentrum in Mecklenburg-Vorpommern - Entwarnung nach Quecksilberverdacht",
+    "s": "Der Verdacht auf Quecksilber in einem Paketzustellzentrum von DHL in Mecklenburg-Vorpommern hat sich nicht bestätigt.",
+    "m": "Der Verdacht auf Quecksilber in einem Paketzustellzentrum von DHL in Mecklenburg-Vorpommern hat sich nicht bestätigt.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/entwarnung-nach-quecksilberverdacht-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/entwarnung-nach-quecksilberverdacht-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-4850fa31d6678388",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Brüssel - EU will erste eingefrorene Milliarden für Ungarn freigeben",
+    "s": "Die EU-Kommission schlägt vor, die ersten eingefrorenen Mittel für Ungarn freizugeben.",
+    "m": "Die EU-Kommission schlägt vor, die ersten eingefrorenen Mittel für Ungarn freizugeben.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/eu-will-erste-eingefrorene-milliarden-fuer-ungarn-freigeben-102.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/eu-will-erste-eingefrorene-milliarden-fuer-ungarn-freigeben-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-2fada307b19adabe",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Medienberichte - Berlin will Olympia-Bewerbung zurückziehen",
+    "s": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegner, Sportsenatorin Spranger und Berlins Olympia-Beauftragtem Niroomand.",
+    "m": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegner, Sportsenatorin Spranger und Berlins Olympia-Beauftragtem Niroomand.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f943a3b26774da0b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Alpen - Großer Felssturz an der Zugspitze setzt sich fort",
+    "s": "Der Felssturz an der Zugspitze hat sich fortgesetzt. Mehrere Kubikmeter Gestein lösten sich auf einem Kamm an der deutsch-österreichischen Grenze. Gebäude oder Wege sind nicht betroffen. Der genaue Umfang ist noch unklar.",
+    "m": "Der Felssturz an der Zugspitze hat sich fortgesetzt. Mehrere Kubikmeter Gestein lösten sich auf einem Kamm an der deutsch-österreichischen Grenze. Gebäude oder Wege sind nicht betroffen. Der genaue Umfang ist noch unklar.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/grosser-felssturz-an-der-zugspitze-setzt-sich-fort-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/grosser-felssturz-an-der-zugspitze-setzt-sich-fort-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1fddbe5581eac7ec",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Vereinte Nationen - Bundesregierung legt Fahrplan zum Ausstieg aus fossilen Energien vor",
+    "s": "Bundesumweltminister Schneider hat bei den Vereinten Nationen einen Fahrplan für den Ausstieg Deutschlands aus fossilen Energien vorgelegt.",
+    "m": "Bundesumweltminister Schneider hat bei den Vereinten Nationen einen Fahrplan für den Ausstieg Deutschlands aus fossilen Energien vorgelegt.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bundesregierung-legt-fahrplan-zum-ausstieg-aus-fossilen-energien-vor-100.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/bundesregierung-legt-fahrplan-zum-ausstieg-aus-fossilen-energien-vor-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-0eeafc8a90dd8533",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T20:19:06.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "ADAC-Auswertung - Preis für Benzin fällt leicht, Diesel stabil",
+    "s": "Nach den Höchstständen der vergangenen Woche sind die Kraftstoffpreise in Deutschland etwas gesunken.",
+    "m": "Nach den Höchstständen der vergangenen Woche sind die Kraftstoffpreise in Deutschland etwas gesunken.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/preis-fuer-benzin-faellt-leicht-diesel-stabil-104.html",
+        "date": "2026-09-23T20:19:06.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/preis-fuer-benzin-faellt-leicht-diesel-stabil-104.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-0b0f620395381bba",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T19:59:21.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "+++ US-Zollpolitik +++: Vor Trump-Xi-Treffen: Chinas Botschafter nennt „rote Linien“ für USA",
+    "s": "Schumer warnt Trump vor Lockerung von Chip-Exportkontrollen +++ Republikanische Senatoren vor Trump-Xi-Treffen besorgt um Taiwan +++ Der Newsblog.",
+    "m": "Schumer warnt Trump vor Lockerung von Chip-Exportkontrollen +++ Republikanische Senatoren vor Trump-Xi-Treffen besorgt um Taiwan +++ Der Newsblog.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/international/us-zoelle-vor-trump-xi-treffen-chinas-botschafter-nennt-rote-linien-fuer-usa/30026990.html",
+        "date": "2026-09-23T19:59:21.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/politik/international/us-zoelle-vor-trump-xi-treffen-chinas-botschafter-nennt-rote-linien-fuer-usa/30026990.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-dad607f344e17e4a",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T17:30:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "EU streicht russische Oligarchen von Sanktionsliste",
+    "s": "Die Europäische Union hat zwei russische Oligarchen von ihrer Sanktionsliste gestrichen. Im direkten zeitlichen und politischen Zusammenhang wurde ein französischer Staatsbürger in Aserbaidschan begnadigt. Dieser Deal sorgt in Brüssel und darüber hinaus für intensive Diskussionen. Kritiker stellen die Frage, ob sich die EU durch ein solches Vorgehen erpressbar gemacht hat.",
+    "m": "Die Entscheidung der EU, zwei russische Oligarchen von der Sanktionsliste zu nehmen, wirft Fragen über die Integrität und Verlässlichkeit der europäischen Sanktionspolitik auf. Im Gegenzug für diesen Schritt kam es zur Begnadigung eines Franzosen in Aserbaidschan, was auf einen diplomatischen Kuhhandel hindeutet. In Brüssel bemüht man sich nun um Erklärungen, um den Vorwurf der Erpressbarkeit zu entkräften. Der Fall zeigt auf, wie diplomatische und geostrategische Interessen international vermischt werden. Ob weitere Personen von den Sanktionslisten gestrichen werden oder welche konkreten Verhandlungen hinter den Kulissen stattfanden, bleibt zunächst offen. Beobachter und Politiker debattieren kontrovers über das Signal, das von dieser Entscheidung ausgeht. Die Rolle Aserbaidschans und der genaue Hintergrund der Inhaftierung des Franzosen sind wesentliche Bestandteile der anhaltenden Berichterstattung.",
+    "r": "Die Aufhebung von EU-Sanktionen gegen russische Oligarchen im Austausch gegen die Begnadigung eines EU-Bürgers in einem Drittstaat berührt grundlegende Fragen der europäischen Außen- und Sanktionspolitik.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
+        "date": "2026-09-23T17:30:04.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-28eeeccfb6d99576",
     "c": "INT",
     "o": "PT",
@@ -201,47 +1421,6 @@
     "diff": [],
     "chg": "",
     "independent": 1
-  },
-  {
-    "id": "story-91f40f7d0fc376c4",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T12:47:41.000Z",
-    "p": 3,
-    "st": "HH",
-    "city": "",
-    "t": "Flixtrain kündigt Stundentakt zwischen Berlin und Hamburg ab 2027 an",
-    "s": "Das Fernzugunternehmen Flixtrain plant ab dem Jahr 2027 einen Stundentakt auf der Strecke zwischen Berlin und Hamburg. Für dieses Vorhaben investiert das Unternehmen rund 2,4 Milliarden Euro in den Ausbau seiner Zugflotte. Die Investition soll das Angebot im Schienennetz spürbar erweitern und Reisenden auf dieser Verbindung deutlich häufigere Fahrten ermöglichen. Die grünen Wagen sollen bereits im kommenden Jahr vermehrt unterwegs sein.",
-    "m": "Flixtrain plant ab 2027 einen Stundentakt zwischen den Metropolen Berlin und Hamburg anzubieten. Zur Realisierung dieses Vorhabens investiert das private Fernzugunternehmen rund 2,4 Milliarden Euro in die Modernisierung und den Ausbau seiner Zugflotte. Die auffälligen grünen Wagen sollen infolgedessen bereits im kommenden Jahr deutlich häufiger im deutschen Schienennetz verkehren. Reisende auf der stark nachgefragten Strecke zwischen der Hauptstadt und der Hansestadt werden von dieser Kapazitätserweiterung besonders profitieren. Ob der Flixtrain auf dieser Verbindung künftig schneller als der ICE sein wird, bleibt abzuwarten. Das Unternehmen baut mit diesem Schritt seine Präsenz im Fernverkehr weiter aus.",
-    "r": "Die Investition von 2,4 Milliarden Euro und die Einführung des Stundentakts zwischen Berlin und Hamburg stärken den Wettbewerb im deutschen Schienenfernverkehr. Reisende erhalten ab 2027 deutlich flexiblere Verbindungen auf dieser wichtigen Strecke.",
-    "srcs": [
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/nachrichten/hamburg/flixtrain-stundentakt-zwischen-berlin-und-hamburg-ab-2027,kurzehh-4394.html",
-        "date": "2026-09-23T12:47:41.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Flixtrain-faehrt-ab-2027-im-Stundentakt-auf-der-Strecke-Berlin-Hamburg-id31339398.html",
-        "date": "2026-09-23T12:05:20.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/nachrichten/hamburg/flixtrain-stundentakt-zwischen-berlin-und-hamburg-ab-2027,kurzehh-4394.html",
-    "agree": "Beide Quellen berichten, dass Flixtrain ab 2027 einen Stundentakt auf der Strecke zwischen Berlin und Hamburg einführen will.",
-    "diff": [
-      {
-        "name": "NDR Hamburg",
-        "note": "nennt das Jahr 2027 als Startzeitpunkt für den Stundentakt."
-      },
-      {
-        "name": "ntv",
-        "note": "ergänzt die Investitionssumme von rund 2,4 Milliarden Euro in den Ausbau der Zugflotte und wirft die Frage auf, ob der Zug schneller als der ICE sein wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
   },
   {
     "id": "story-36539fc6a864e67f",
@@ -1051,33 +2230,6 @@
     "independent": 2
   },
   {
-    "id": "story-27b5bb10b982c2a9",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T12:22:12.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "OECD hebt Konjunkturprognose für deutsche Wirtschaft an",
-    "s": "Die Industriestaatenorganisation OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft im laufenden Jahr angehoben. Laut der neuen Schätzung wird ein Wirtschaftswachstum von 1,1 Prozent erwartet. Das sind 0,4 Prozentpunkte mehr als noch im Juni prognostiziert. Auch für den Euroraum und die Weltwirtschaft wurde die Prognose nach oben korrigiert.",
-    "m": "Die in Paris ansässige Organisation OECD hat in ihrer neuesten Konjunkturprognose die Erwartungen für die deutsche Wirtschaft nach oben angepasst. Konkret rechnet die Behörde nun mit einem BIP-Wachstum von 1,1 Prozent für das laufende Jahr. Dies entspricht einer Verbesserung um 0,4 Prozentpunkte im Vergleich zur vorherigen Schätzung aus dem Monat Juni. Neben Deutschland wurden auch die Aussichten für den Euroraum sowie für die globale Weltwirtschaft insgesamt angehoben. Gleichzeitig äußerte die Organisation Kritik am sogenannten Tankrabatt in Deutschland. Weitere Details zur genauen Ausgestaltung der Kritik oder zu weiteren europäischen Ländern wurden in dem Bericht nicht genannt.",
-    "r": "Die Einschätzungen der OECD sind ein wichtiger Indikator für die wirtschaftliche Entwicklung und dienen politischen sowie wirtschaftlichen Entscheidungsträgern als Orientierung für künftige Maßnahmen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
-        "date": "2026-09-23T12:22:12.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-b3e426ce2dd35f77",
     "c": "INT",
     "o": "DE",
@@ -1099,87 +2251,6 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-f67f54d868482d61",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T12:22:12.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Neue Euro-Banknoten sollen ab Anfang der 2030er Jahre kommen",
-    "s": "Die Europäischen Zentralbank plant die Einführung neu gestalteter Euro-Banknoten. Diese sollen voraussichtlich ab Anfang der 2030er Jahre in Umlauf kommen. Ein genauer Zeitpunkt für das Erscheinen der neuen Geldscheine wurde noch nicht genannt.",
-    "m": "Die Europäische Zentralbank hat angekündigt, dass neu gestaltete Euro-Banknoten ab Anfang der 2030er Jahre in Umlauf gebracht werden sollen. Bislang liegen kaum Details zu dem Design oder den genauen Schritten des Prozesses vor. Die Maßnahme betrifft den gesamten Euroraum und soll die Geldscheine modernisieren sowie möglicherweise die Sicherheit erhöhen. Weitere Informationen zu Auswahlverfahren und Zeitplänen werden von der EZB zu einem späteren Zeitpunkt erwartet.",
-    "r": "Die Einführung neuer Banknoten durch die EZB betrifft den gesamten bargeldbetreibenden Wirtschaftsraum und hat Signalwirkung für die europäische Währungspolitik.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/neue-euro-banknoten-sollen-ab-anfang-der-2030er-jahre-in-umlauf-kommen-100.html",
-        "date": "2026-09-23T12:22:12.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/neue-euro-banknoten-sollen-ab-anfang-der-2030er-jahre-in-umlauf-kommen-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-75f9c470ebcebdc9",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T12:22:12.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Henkel darf niederländische Firma Stahl übernehmen",
-    "s": "Der Düsseldorfer Konsumgüter- und Industriekonzern Henkel erhält die Freigabe für die Übernahme des niederländischen Unternehmens Stahl. Die Firma Stahl ist auf Beschichtungen für verschiedene Materialien spezialisiert.",
-    "m": "Das Düsseldorfer DAX-Unternehmen Henkel hat die Erlaubnis erhalten, die niederländische Firma Stahl zu kaufen. Bei dem übernommenen Unternehmen handelt es sich um einen Spezialisten für Beschichtungen. Diese Beschichtungen kommen unter anderem für Leder, Papier und im Automobilbereich zum Einsatz. Die Akquisition erweitert das Portfolio von Henkel im Bereich der Spezialchemie und Oberflächenbehandlung. Weitere finanzielle Details oder Zeitpläne zur Transaktion wurden in der vorliegenden Meldung nicht genannt.",
-    "r": "Die Übernahme verändert die Marktposition von Henkel im Bereich der Spezialchemie und betrifft die europäische Unternehmenslandschaft. Die Genehmigung ermöglicht dem Konzern die Integration des auf Beschichtungen spezialisierten Betriebs.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/henkel-uebernimmt-niederlaendische-firma-stahl-102.html",
-        "date": "2026-09-23T12:22:12.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/henkel-uebernimmt-niederlaendische-firma-stahl-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-d3bf77a24d880e1b",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T12:22:12.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Landgericht Karlsruhe verhandelt über Online-Apotheke von dm",
-    "s": "Vor dem Landgericht Karlsruhe hat eine juristische Verhandlung über die Versandapotheke der Drogeriemarktkette dm begonnen. Gegenstand des Verfahrens ist die Zulässigkeit des Online-Handels mit pharmazeutischen Produkten durch das Unternehmen. Die Entscheidung des Gerichts könnte weitreichende Folgen für den Apothekenmarkt haben. Weitere Details zum genauen Kläger oder dem zeitlichen Ablauf des Urteils wurden zunächst nicht bekannt.",
-    "m": "Das Landgericht Karlsruhe befasst sich in einem Gerichtsverfahren mit dem Geschäftsmodell der Online-Apotheke der Drogeriemarktkette dm. Im Zentrum der juristischen Auseinandersetzung steht die Frage, ob der Vertrieb von rezeptfreien und womöglich rezeptpflichtigen Medikamenten über den Versandweg durch dm rechtlich zulässig ist. Traditionelle Apotheken und Verbände sehen in solchen Angeboten oft einen unlauteren Wettbewerb oder einen Verstoß gegen bestehende Apothekenregulierungen. Das Verfahren in Karlsruhe wird von Branchenbeobachtern mit großem Interesse verfolgt, da ein Urteil den Weg für weitere filialbasierte Handelsketten in den Apothekenmarkt ebnen oder einen Riegel vorschieben könnte. Bisher hat das Gericht noch keine Entscheidung oder einen Termin für die Urteilsverkündung bekannt gegeben. Die beteiligten Parteien bringen ihre rechtlichen Argumente zur Auslegung des Apothekenrechts vor.",
-    "r": "Die Verhandlung berührt grundlegende Fragen des apothekenrechtlichen Wettbewerbs in Deutschland. Eine richterliche Entscheidung könnte die Marktstrukturen für den Online-Vertrieb von Medikamenten durch Drogeriemärkte nachhaltig beeinflussen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
-        "date": "2026-09-23T12:22:12.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -1926,33 +2997,6 @@
     ],
     "chg": "",
     "independent": 2
-  },
-  {
-    "id": "story-2df03446b3c74dff",
-    "c": "DE",
-    "o": "DE",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-09-23T09:43:18.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Extremwetterkongress in Hamburg berät über Klimafolgen",
-    "s": "In Hamburg hat heute ein Extremwetterkongress begonnen. Experten beraten dort über den Umgang mit den Auswirkungen des Klimawandels. Die Veranstaltung bringt Fachleute zusammen, um aktuelle Entwicklungen zu diskutieren.",
-    "m": "Der Extremwetterkongress in Hamburg ist gestartet und widmet sich intensiv den Folgen des Klimawandels. Ab heute diskutieren Experten vor Ort über verschiedene Aspekte und den künftigen Umgang mit extremen Wetterereignissen. Nähere Details zum genauen Programm, beteiligten Akteuren oder konkreten Rednern nennen die vorliegenden Informationen bisher nicht. Auch über die Dauer der Konferenz und spezifische Schwerpunkte des Auftakts gibt es in der Meldung keine Angaben. Die Veranstaltung dient dem fachlichen Austausch über die zunehmenden Herausforderungen durch den Wandel des Klimas.",
-    "r": "Der Kongress ist relevant, da er aktuelle wissenschaftliche und gesellschaftliche Fragen zum Umgang mit extremen Wetterphänomenen und den Konsequenzen des Klimawandels adressiert.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
-        "date": "2026-09-23T09:43:18.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
   },
   {
     "id": "story-e4e1a53d7ad6dc84",
@@ -2766,58 +3810,6 @@
       }
     ],
     "url": "https://www.welt.de/regionales/niedersachsen/article6ab362c0274d1bab27b619bb/drogenfahrt-in-leer-33-jaehrige-bei-verkehrskontrolle-erwischt.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-14cb46a58afc3f1c",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T09:28:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Aktuelle Entwicklungen zum anhaltenden Krieg in der Ukraine",
-    "s": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine. Die militärischen Auseinandersetzungen im Land dauern unverändert an. Das Geschehen wird durch laufende Nachrichten und Berichte dokumentiert.",
-    "m": "Der seit Februar 2022 andauernde Angriffskrieg Russlands gegen die Ukraine bestimmt weiterhin das Geschehen. Die Kampfhandlungen dauern an und erfordern fortlaufende Berichterstattung über die Situation vor Ort. Verschiedene Medien begleiten die Entwicklung im Rahmen von Livetickern und aktuellen Nachrichtenübersichten. Konkrete neue militärische Vorstöße oder politische Einigungen werden in den aktuellen Meldungen nicht im Detail genannt. Die humanitäre und sicherheitspolitische Lage bleibt angespannt. Weitere Details und Entwicklungen hängen vom fortlaufenden Verlauf der Kampfhandlungen ab.",
-    "r": "Der Krieg in der Ukraine ist ein sicherheitspolitisch und geopolitisch hochrelevantes Ereignis mit europaweiten Auswirkungen. Die fortlaufende Dokumentation der Kampfhandlungen ist zentral für die aktuelle Nachrichtenlage.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-        "date": "2026-09-23T09:28:00.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-050088a79b37f11e",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T09:28:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Anespannte Lage im Nahost-Konflikt und Iran-Krieg",
-    "s": "Die Lage in Nahost bleibt extrem angespannt und es kommt wiederholt zu Angriffen. Im schwelenden Konflikt zwischen dem Iran und den USA zeichnet sich aktuell keine diplomatische Lösung ab. Die Entwicklungen werden in einem fortlaufenden Liveblog dokumentiert.",
-    "m": "Die Situation im Nahen Osten ist von anhaltender Unsicherheit und Gewalt geprägt. Berichten zufolge finden fortlaufend Angriffe statt, deren genaue Ziele und Auswirkungen in der aktuellen Phase dynamisch bleiben. Im diplomatischen und militärischen Ringen zwischen den USA und dem Iran gibt es bislang keine Annäherung oder Einigung, die auf eine Entspannung hindeuten würde. Beobachter und Medien begleiten das Geschehen engmaschig über Live-Ticker und Liveblogs, um über jede neue Eskalationsstufe oder diplomatische Initiative zeitnah zu informieren. Die Konfrontation strahlt weiterhin auf die gesamte Region aus und hält die internationalen Akteure in Alarmbereitschaft. Konkrete Zahlen zu Opfern oder Schäden sowie Details zu den jüngsten militärischen Aktionen werden in den vorliegenden Berichten nicht beziffert, unterstreichen jedoch die Fragilität des Friedens in der Region.",
-    "r": "Der Nahost-Konflikt und die Spannungen zwischen Iran und USA betreffen die globale Sicherheitslage unmittelbar. Das Ausbleiben einer Lösung und fortgesetzte Angriffe bergen das Risiko einer weiteren Eskalation mit internationalen Auswirkungen.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-        "date": "2026-09-23T09:28:00.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
     "agree": "",
     "diff": [],
     "chg": "",
