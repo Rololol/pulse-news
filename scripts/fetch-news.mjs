@@ -1,39 +1,392 @@
 import fs from "node:fs/promises";
 
 const feeds=[
-  ["Tagesschau","https://www.tagesschau.de/xml/rss2","DE"],
-  ["DW Deutsch","https://rss.dw.com/xml/rss-de-all","DE"],
-  ["BBC World","https://feeds.bbci.co.uk/news/world/rss.xml","UK"],
-  ["BBC Technology","https://feeds.bbci.co.uk/news/technology/rss.xml","UK","technik"],
-  ["BBC Science","https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","UK","wissenschaft"],
-  ["Guardian World","https://www.theguardian.com/world/rss","UK"],
-  ["Guardian Business","https://www.theguardian.com/business/rss","UK","wirtschaft"],
-  ["Guardian Science","https://www.theguardian.com/science/rss","UK","wissenschaft"],
-  ["Guardian Environment","https://www.theguardian.com/environment/rss","UK","umwelt"],
-  ["Guardian Sport","https://www.theguardian.com/sport/rss","UK"],
-  ["Guardian Culture","https://www.theguardian.com/culture/rss","UK"],
-  ["RTP Notícias","https://www.rtp.pt/noticias/rss","PT"],
-  ["RTP Portugal","https://www.rtp.pt/noticias/rss/portugal","PT"],
-  ["RTP Mundo","https://www.rtp.pt/noticias/rss/mundo","PT"],
-  ["RTP Desporto","https://www.rtp.pt/noticias/rss/desporto","PT"],
-  ["RTP Economia","https://www.rtp.pt/noticias/rss/economia","PT"],
-  ["Google News Portugal","https://news.google.com/rss?hl=pt-PT&gl=PT&ceid=PT:pt","PT"],
-  ["Google News DE","https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de","DE"],
-  ["Google News World","https://news.google.com/rss/search?q=world+news&hl=en-US&gl=US&ceid=US:en","INT"],
-  ["NPR World","https://feeds.npr.org/1004/rss.xml","US"],
-  ["NPR Technology","https://feeds.npr.org/1019/rss.xml","US","technik"],
-  ["NPR Science","https://feeds.npr.org/1007/rss.xml","US","wissenschaft"],
-  ["NPR Business","https://feeds.npr.org/1006/rss.xml","US"],
-  ["NASA","https://www.nasa.gov/rss/dyn/breaking_news.rss","US","wissenschaft"],
-  ["France24 English","https://www.france24.com/en/rss","INT"],
-  ["Euronews","https://www.euronews.com/rss?level=theme&name=news","INT"],
-  ["Al Jazeera","https://www.aljazeera.com/xml/rss/all.xml","INT"],
-  ["The Verge","https://www.theverge.com/rss/index.xml","US","technik"],
-  ["Ars Technica","https://feeds.arstechnica.com/arstechnica/index","US","technik"],
-  ["New Scientist","https://www.newscientist.com/feed/home/","INT","wissenschaft"],
-  ["ESA","https://www.esa.int/rssfeed/Our_Activities","INT","wissenschaft"],
-  ["NOAA","https://www.noaa.gov/rss.xml","US","umwelt"],
-  ["WHO","https://www.who.int/rss-feeds/news-english.xml","INT"]
+  [
+    "Tagesschau",
+    "https://www.tagesschau.de/xml/rss2",
+    "DE"
+  ],
+  [
+    "Tagesschau Inland",
+    "https://www.tagesschau.de/inland/index~rss2.xml",
+    "DE"
+  ],
+  [
+    "Tagesschau Regional Baden-Württemberg",
+    "https://www.tagesschau.de/inland/regional/badenwuerttemberg/index~rss2.xml",
+    "DE",
+    null,
+    "BW"
+  ],
+  [
+    "Tagesschau Regional Bayern",
+    "https://www.tagesschau.de/inland/regional/bayern/index~rss2.xml",
+    "DE",
+    null,
+    "BY"
+  ],
+  [
+    "Tagesschau Regional Berlin",
+    "https://www.tagesschau.de/inland/regional/berlin/index~rss2.xml",
+    "DE",
+    null,
+    "BE"
+  ],
+  [
+    "Tagesschau Regional Brandenburg",
+    "https://www.tagesschau.de/inland/regional/brandenburg/index~rss2.xml",
+    "DE",
+    null,
+    "BB"
+  ],
+  [
+    "Tagesschau Regional Bremen",
+    "https://www.tagesschau.de/inland/regional/bremen/index~rss2.xml",
+    "DE",
+    null,
+    "HB"
+  ],
+  [
+    "Tagesschau Regional Hamburg",
+    "https://www.tagesschau.de/inland/regional/hamburg/index~rss2.xml",
+    "DE",
+    null,
+    "HH"
+  ],
+  [
+    "Tagesschau Regional Hessen",
+    "https://www.tagesschau.de/inland/regional/hessen/index~rss2.xml",
+    "DE",
+    null,
+    "HE"
+  ],
+  [
+    "Tagesschau Regional Mecklenburg-Vorpommern",
+    "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/index~rss2.xml",
+    "DE",
+    null,
+    "MV"
+  ],
+  [
+    "Tagesschau Regional Niedersachsen",
+    "https://www.tagesschau.de/inland/regional/niedersachsen/index~rss2.xml",
+    "DE",
+    null,
+    "NI"
+  ],
+  [
+    "Tagesschau Regional Nordrhein-Westfalen",
+    "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/index~rss2.xml",
+    "DE",
+    null,
+    "NW"
+  ],
+  [
+    "Tagesschau Regional Rheinland-Pfalz",
+    "https://www.tagesschau.de/inland/regional/rheinlandpfalz/index~rss2.xml",
+    "DE",
+    null,
+    "RP"
+  ],
+  [
+    "Tagesschau Regional Saarland",
+    "https://www.tagesschau.de/inland/regional/saarland/index~rss2.xml",
+    "DE",
+    null,
+    "SL"
+  ],
+  [
+    "Tagesschau Regional Sachsen",
+    "https://www.tagesschau.de/inland/regional/sachsen/index~rss2.xml",
+    "DE",
+    null,
+    "SN"
+  ],
+  [
+    "Tagesschau Regional Sachsen-Anhalt",
+    "https://www.tagesschau.de/inland/regional/sachsenanhalt/index~rss2.xml",
+    "DE",
+    null,
+    "ST"
+  ],
+  [
+    "Tagesschau Regional Schleswig-Holstein",
+    "https://www.tagesschau.de/inland/regional/schleswigholstein/index~rss2.xml",
+    "DE",
+    null,
+    "SH"
+  ],
+  [
+    "Tagesschau Regional Thüringen",
+    "https://www.tagesschau.de/inland/regional/thueringen/index~rss2.xml",
+    "DE",
+    null,
+    "TH"
+  ],
+  [
+    "Deutschlandfunk Nachrichten",
+    "https://www.deutschlandfunk.de/nachrichten-100.rss",
+    "DE"
+  ],
+  [
+    "Deutschlandfunk Politik",
+    "https://www.deutschlandfunk.de/politikportal-100.rss",
+    "DE",
+    "politik"
+  ],
+  [
+    "Deutschlandfunk Wirtschaft",
+    "https://www.deutschlandfunk.de/wirtschaft-106.rss",
+    "DE",
+    "wirtschaft"
+  ],
+  [
+    "Deutschlandfunk Wissen",
+    "https://www.deutschlandfunk.de/wissen-106.rss",
+    "DE",
+    "wissenschaft"
+  ],
+  [
+    "Deutschlandfunk Gesellschaft",
+    "https://www.deutschlandfunk.de/gesellschaft-106.rss",
+    "DE",
+    "panorama"
+  ],
+  [
+    "Deutschlandfunk Sport",
+    "https://www.deutschlandfunk.de/sportportal-100.rss",
+    "DE",
+    "sport"
+  ],
+  [
+    "NDR Niedersachsen",
+    "https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml",
+    "DE",
+    null,
+    "NI"
+  ],
+  [
+    "NDR Schleswig-Holstein",
+    "https://www.ndr.de/nachrichten/schleswig-holstein/index~rss2.xml",
+    "DE",
+    null,
+    "SH"
+  ],
+  [
+    "NDR Mecklenburg-Vorpommern",
+    "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/index~rss2.xml",
+    "DE",
+    null,
+    "MV"
+  ],
+  [
+    "NDR Hamburg",
+    "https://www.ndr.de/nachrichten/hamburg/index~rss2.xml",
+    "DE",
+    null,
+    "HH"
+  ],
+  [
+    "WDR Nachrichten",
+    "https://www1.wdr.de/wissen/uebersicht-nachrichten-100.feed",
+    "DE",
+    null,
+    "NW"
+  ],
+  [
+    "WDR Rheinland",
+    "https://www1.wdr.de/nachrichten/rheinland/uebersicht-rheinland-100.feed",
+    "DE",
+    null,
+    "NW"
+  ],
+  [
+    "WDR Ruhrgebiet",
+    "https://www1.wdr.de/nachrichten/ruhrgebiet/uebersicht-ruhrgebiet-100.feed",
+    "DE",
+    null,
+    "NW"
+  ],
+  [
+    "BR24 Bayern",
+    "https://nachrichtenfeeds.br.de/rss/nachrichten/seiten/QXAPkQJ",
+    "DE",
+    null,
+    "BY"
+  ],
+  [
+    "DW Deutsch",
+    "https://rss.dw.com/xml/rss-de-all",
+    "DE"
+  ],
+  [
+    "Google News DE",
+    "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de",
+    "DE"
+  ],
+  [
+    "BBC World",
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "UK"
+  ],
+  [
+    "BBC Technology",
+    "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "UK",
+    "technik"
+  ],
+  [
+    "BBC Science",
+    "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "UK",
+    "wissenschaft"
+  ],
+  [
+    "Guardian World",
+    "https://www.theguardian.com/world/rss",
+    "UK"
+  ],
+  [
+    "Guardian Business",
+    "https://www.theguardian.com/business/rss",
+    "UK",
+    "wirtschaft"
+  ],
+  [
+    "Guardian Science",
+    "https://www.theguardian.com/science/rss",
+    "UK",
+    "wissenschaft"
+  ],
+  [
+    "Guardian Environment",
+    "https://www.theguardian.com/environment/rss",
+    "UK",
+    "umwelt"
+  ],
+  [
+    "Guardian Sport",
+    "https://www.theguardian.com/sport/rss",
+    "UK"
+  ],
+  [
+    "Guardian Culture",
+    "https://www.theguardian.com/culture/rss",
+    "UK"
+  ],
+  [
+    "RTP Notícias",
+    "https://www.rtp.pt/noticias/rss",
+    "PT"
+  ],
+  [
+    "RTP Portugal",
+    "https://www.rtp.pt/noticias/rss/portugal",
+    "PT"
+  ],
+  [
+    "RTP Mundo",
+    "https://www.rtp.pt/noticias/rss/mundo",
+    "PT"
+  ],
+  [
+    "RTP Desporto",
+    "https://www.rtp.pt/noticias/rss/desporto",
+    "PT"
+  ],
+  [
+    "RTP Economia",
+    "https://www.rtp.pt/noticias/rss/economia",
+    "PT"
+  ],
+  [
+    "Google News Portugal",
+    "https://news.google.com/rss?hl=pt-PT&gl=PT&ceid=PT:pt",
+    "PT"
+  ],
+  [
+    "Google News World",
+    "https://news.google.com/rss/search?q=world+news&hl=en-US&gl=US&ceid=US:en",
+    "INT"
+  ],
+  [
+    "NPR World",
+    "https://feeds.npr.org/1004/rss.xml",
+    "US"
+  ],
+  [
+    "NPR Technology",
+    "https://feeds.npr.org/1019/rss.xml",
+    "US",
+    "technik"
+  ],
+  [
+    "NPR Science",
+    "https://feeds.npr.org/1007/rss.xml",
+    "US",
+    "wissenschaft"
+  ],
+  [
+    "NPR Business",
+    "https://feeds.npr.org/1006/rss.xml",
+    "US"
+  ],
+  [
+    "NASA",
+    "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "US",
+    "wissenschaft"
+  ],
+  [
+    "France24 English",
+    "https://www.france24.com/en/rss",
+    "INT"
+  ],
+  [
+    "Euronews",
+    "https://www.euronews.com/rss?level=theme&name=news",
+    "INT"
+  ],
+  [
+    "Al Jazeera",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "INT"
+  ],
+  [
+    "The Verge",
+    "https://www.theverge.com/rss/index.xml",
+    "US",
+    "technik"
+  ],
+  [
+    "Ars Technica",
+    "https://feeds.arstechnica.com/arstechnica/index",
+    "US",
+    "technik"
+  ],
+  [
+    "New Scientist",
+    "https://www.newscientist.com/feed/home/",
+    "INT",
+    "wissenschaft"
+  ],
+  [
+    "ESA",
+    "https://www.esa.int/rssfeed/Our_Activities",
+    "INT",
+    "wissenschaft"
+  ],
+  [
+    "NOAA",
+    "https://www.noaa.gov/rss.xml",
+    "US",
+    "umwelt"
+  ],
+  [
+    "WHO",
+    "https://www.who.int/rss-feeds/news-english.xml",
+    "INT"
+  ]
 ];
 
 const clean=s=>String(s||"")
@@ -71,6 +424,7 @@ const jaccard=(a,b)=>{
 const related=(a,b)=>{
   const hours=Math.abs(Date.parse(a.date)-Date.parse(b.date))/3600000;
   if(hours>12)return false;
+  if(a.stateHint&&b.stateHint&&a.stateHint!==b.stateHint)return false;
   const titleScore=jaccard(a.title,b.title);
   const textScore=jaccard(a.title+" "+a.summary,b.title+" "+b.summary);
   const A=[...tokens(a.title)].filter(x=>x.length>=6),B=[...tokens(b.title)].filter(x=>x.length>=6);
@@ -79,7 +433,7 @@ const related=(a,b)=>{
 };
 
 const now=Date.now(),cutoff=now-24*60*60*1000,fresh=[];
-for(const [source,url,country,feedTopic] of feeds){
+for(const [source,url,country,feedTopic,stateHint] of feeds){
   try{
     const res=await fetch(url,{headers:{"user-agent":"PulseNews/1.0 (+https://rololol.github.io/pulse-news/)"}});
     if(!res.ok) throw new Error("HTTP "+res.status);
@@ -91,7 +445,7 @@ for(const [source,url,country,feedTopic] of feeds){
       const title=get("title"),link=get("link"),desc=get("description"),rawDate=get("pubDate")||get("dc:date");
       const time=Date.parse(rawDate||"");
       if(!title||!link||!Number.isFinite(time)||time<cutoff||time>now+6*60*60*1000)continue;
-      fresh.push({title,url:link,summary:desc.slice(0,700),source,date:new Date(time).toISOString(),topic:feedTopic||topicOf(title,desc),country});
+      fresh.push({title,url:link,summary:desc.slice(0,700),source,date:new Date(time).toISOString(),topic:feedTopic||topicOf(title,desc),country,stateHint:stateHint||""});
     }
   }catch(e){console.log(source,e.message)}
 }
@@ -115,12 +469,13 @@ for(const item of unique){
     if(s>bestScore){best=cluster;bestScore=s}
   }
   if(!best){
-    best={id:"story-"+(clusters.length+1),topic:item.topic,country:item.country,date:item.date,items:[]};
+    best={id:"story-"+(clusters.length+1),topic:item.topic,country:item.country,stateHint:item.stateHint||"",date:item.date,items:[]};
     clusters.push(best);
   }
   const sameSource=best.items.some(x=>x.source===item.source);
   if(!sameSource && best.items.length<8) best.items.push(item);
   if(Date.parse(item.date)>Date.parse(best.date)) best.date=item.date;
+  if(!best.stateHint&&item.stateHint) best.stateHint=item.stateHint;
 }
 
 const result=clusters
@@ -128,7 +483,7 @@ const result=clusters
   .sort((a,b)=>(b.items.length-a.items.length)||Date.parse(b.date)-Date.parse(a.date))
   .slice(0,120)
   .map(c=>({
-    id:c.id,topic:c.topic,country:c.country,date:c.date,
+    id:c.id,topic:c.topic,country:c.country,stateHint:c.stateHint||"",date:c.date,
     sources:c.items.map(x=>({source:x.source,url:x.url,date:x.date,snippet:x.summary,title:x.title})),
     title:c.items[0].title,
     summary:c.items.map(x=>x.title+" "+x.summary).join("\n").slice(0,2500)
