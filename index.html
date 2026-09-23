@@ -105,7 +105,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 .empty p{margin:0 0 16px;font-size:15px}
 .empty .big{width:64px;height:64px;border-radius:20px;margin:0 auto;display:grid;place-items:center;background:linear-gradient(145deg,#8E8E93,#636366);color:#fff}
 .empty .big svg{width:32px;height:32px}
-.foot{margin:26px 8px 0;text-align:center;color:var(--label2);font-size:12.5px;line-height:1.45}.update-badge{display:inline-flex;align-items:center;gap:6px;margin-top:7px;padding:5px 9px;border-radius:999px;background:var(--fill);font-size:11.5px}.update-badge i{width:5px;height:5px;border-radius:50%;background:#34C759}
+.skip-link{position:fixed;left:12px;top:8px;z-index:100;padding:9px 12px;border-radius:10px;background:var(--label);color:var(--bg);transform:translateY(-150%);transition:transform .15s}.skip-link:focus{transform:none}.searchbar{display:flex;align-items:center;gap:8px;margin:8px 0 2px;padding:9px 12px;border-radius:12px;background:var(--fill);color:var(--label2)}.searchbar input{min-width:0;flex:1;border:0;outline:0;background:transparent;color:var(--label);font:500 14px var(--font)}.searchbar input::placeholder{color:var(--label2)}.access-tools{display:flex;gap:8px;justify-content:flex-end;margin:5px 0 0}.access-tools button{border:0;border-radius:999px;padding:6px 10px;background:var(--fill);color:var(--label2);font-size:12px;font-weight:600}body.large-text{font-size:19px}body.large-text .ctitle{font-size:19px}body.large-text .csum{font-size:17px}body.reduce-motion *,body.reduce-motion *::before,body.reduce-motion *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.story-meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.story-badge{display:inline-flex;align-items:center;gap:5px;padding:4px 8px;border-radius:999px;background:var(--fill);color:var(--label2);font-size:11.5px;font-weight:600}.ai-badge{color:var(--tint)}.report-link{display:inline-block;margin-top:12px;color:var(--tint);font-size:13px;text-decoration:none;font-weight:600}.bottom-nav{display:none}@media(max-width:680px){.bottom-nav{position:fixed;display:flex;left:0;right:0;bottom:0;z-index:40;padding:7px 8px calc(7px + env(safe-area-inset-bottom,0px));background:var(--bar);backdrop-filter:saturate(180%) blur(20px);border-top:.5px solid var(--sep);justify-content:space-around}.bottom-nav button{flex:1;border:0;background:none;color:var(--label2);font-size:10px;font-weight:600;padding:3px 1px}.bottom-nav button[aria-current="page"]{color:var(--tint)}.bottom-nav .bn-icon{display:block;font-size:17px;line-height:18px;margin-bottom:2px}.wrap{padding-bottom:90px}}.foot{margin:26px 8px 0;text-align:center;color:var(--label2);font-size:12.5px;line-height:1.45}.update-badge{display:inline-flex;align-items:center;gap:6px;margin-top:7px;padding:5px 9px;border-radius:999px;background:var(--fill);font-size:11.5px}.update-badge i{width:5px;height:5px;border-radius:50%;background:#34C759}
 
 .overlay{position:fixed;inset:0;background:rgba(0,0,0,.42);opacity:0;pointer-events:none;transition:opacity .25s;z-index:70}
 .overlay.open{opacity:1;pointer-events:auto}
@@ -158,22 +158,24 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
     <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></symbol>
   </defs>
 </svg>
-<div class="statusfill"></div>
+<a class="skip-link" href="#mainContent">Zum Inhalt springen</a><div class="statusfill"></div>
 <header class="navbar" id="navbar"><span class="navtitle"><img src="assets/pulse-logo.svg" alt="Pulse"></span><button class="theme-toggle" id="themeToggle" type="button" aria-label="Darstellung wechseln" title="Darstellung wechseln"></button></header>
 
-<main class="wrap">
+<main class="wrap" id="mainContent" tabindex="-1">
   <div class="large"><h1 class="brand-title"><img src="assets/pulse-logo.svg" alt="Pulse"></h1><p class="sub" id="dateSub"></p><div class="freshline"><span class="freshdot"></span><span>Aktuelle Nachrichten · KI-zusammengefasst aus mehreren Quellen</span></div></div>
   <div class="mq" id="mq" hidden></div>
+  <div class="searchbar" role="search">⌕<input id="searchInput" type="search" placeholder="Nachrichten durchsuchen …" aria-label="Nachrichten durchsuchen"></div>
+  <div class="access-tools" aria-label="Barrierefreiheit"><button id="fontToggle" type="button">Größere Schrift</button><button id="motionToggle" type="button">Animationen aus</button></div>
   <div class="controls">
     <div class="seg" id="seg" role="group" aria-label="Reichweite"></div>
     <div class="state-chips" id="states" role="group" aria-label="Bundesländer"></div>
     <div class="chips" id="chips" role="group" aria-label="Themen"></div>
   </div>
   <div id="feed"></div>
-  <p class="foot" id="foot"></p><p class="foot"><a href="./impressum.html" style="color:var(--tint);text-decoration:none;font-weight:600">Impressum</a><span style="margin:0 8px;color:var(--label3)">·</span><a href="./quellen.html" style="color:var(--tint);text-decoration:none;font-weight:600">Quellen</a><span style="margin:0 8px;color:var(--label3)">·</span><a href="./arbeitsweise.html" style="color:var(--tint);text-decoration:none;font-weight:600">Arbeitsweise</a></p>
+  <p class="foot" id="foot"></p><p class="foot"><a href="./impressum.html" style="color:var(--tint);text-decoration:none;font-weight:600">Impressum</a><span style="margin:0 8px;color:var(--label3)">·</span><a href="./quellen.html" style="color:var(--tint);text-decoration:none;font-weight:600">Quellen</a><span style="margin:0 8px;color:var(--label3)">·</span><a href="./arbeitsweise.html" style="color:var(--tint);text-decoration:none;font-weight:600">Arbeitsweise</a><span style="margin:0 8px;color:var(--label3)">·</span><a href="./erklaert.html" style="color:var(--tint);text-decoration:none;font-weight:600">Pulse erklärt</a></p>
 </main>
 
-<div id="sheetRoot"></div>
+<nav class="bottom-nav" aria-label="Schnellnavigation"><button data-nav="home" aria-current="page"><span class="bn-icon">⌂</span>Start</button><button data-nav="de"><span class="bn-icon">🇩🇪</span>Deutschland</button><button data-nav="local"><span class="bn-icon">📍</span>Bundesland</button><button data-nav="int"><span class="bn-icon">🌍</span>International</button><button data-nav="topics"><span class="bn-icon">☷</span>Themen</button></nav><div id="sheetRoot"></div>
 <noscript><p style="padding:24px">Für den Ticker wird JavaScript benötigt.</p></noscript>
 
 <script>
@@ -201,7 +203,7 @@ let ITEMS=[];
 /* ------------------------------------------------------------------ *
  *  Zustand (nur im Speicher, keine Einstellungsseite mehr)
  * ------------------------------------------------------------------ */
-let S={scope:'state',cat:'all',state:''};
+let S={scope:'state',cat:'all',state:'',search:''};
 let currentSheet=null,lastFocus=null;
 
 const $=(s,r=document)=>r.querySelector(s);
@@ -218,6 +220,7 @@ function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.l
 function visible(){
   const list=ITEMS.filter(it=>{
     if(S.cat!=='all'&&it.k!==S.cat)return false;
+    if(S.search){const q=S.search.toLowerCase();const hay=[it.t,it.s,it.m,it.r,it.city,it.st,...(Array.isArray(it.srcs)?it.srcs.map(x=>x.name):[])].filter(Boolean).join(' ').toLowerCase();if(!hay.includes(q))return false;}
     if(S.scope==='state')return it.c==='DE';
     if(S.scope==='local')return it.c==='DE'&&(!S.state||it.st===S.state);
     if(S.scope==='all')return it.c!=='DE';
@@ -248,7 +251,7 @@ function heroHTML(it){
     <span class="hero-top"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span><span class="pill glass">Aktuell</span></span>
     <span class="htitle">${esc(it.t)}</span>
     <span class="hsum">${esc(it.s)}</span>
-    <span class="hfoot"><span>${sourceCount(it)} Quellen</span><span>${dayLabel(it.d)}</span></span>
+    <span class="hfoot"><span>${sourceCount(it)} Quellen · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
   </button>`;
 }
 function cardHTML(it){
@@ -259,7 +262,7 @@ function cardHTML(it){
       <span class="tags"><span class="tag cat">${cat.n}</span><span class="tag reg">${regionTag(it)}</span></span>
       <span class="ctitle">${esc(it.t)}</span>
       <span class="csum">${esc(it.s)}</span>
-      <span class="cmeta"><span>${sourceCount(it)} Quellen</span><span>${dayLabel(it.d)}</span></span>
+      <span class="cmeta"><span>${sourceCount(it)} Quellen · KI-zusammengefasst</span><span>${it.d?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr · '+dayLabel(it.d):dayLabel(it.d)}</span></span>
     </span>
   </button>`;
 }
@@ -298,7 +301,7 @@ function sheetHTML(it,isOpen){
     <div class="shead">
       <button class="close" data-close="1" aria-label="Schließen">${ic('x')}</button>
       <span class="hero-top" style="margin:0"><span class="pill glass">${ic(it.k)}${cat.n}</span><span class="pill glass">${regionTag(it)}</span></span>
-      <h2>${esc(it.t)}</h2>
+      <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceCount(it)} Quellen</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
     </div>
     <div class="sbody">
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
@@ -309,8 +312,8 @@ function sheetHTML(it,isOpen){
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
       ${Array.isArray(it.diff)&&it.diff.length?`<h4>Abweichende Angaben</h4>${it.diff.map(d=>`<p><strong>${esc(d.name)}:</strong> ${esc(d.note)}</p>`).join('')}`:''}
       <p class="note">${sourceCount(it)} Quelle${sourceCount(it)===1?'':'n'} · ${dayLabel(it.d)}</p>
-      <div class="sact">
-        ${it.url?`<a class="primary" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">Zur Quelle</a>`:''}
+      <a class="report-link" href="mailto:ranking-blot-churn@duck.com?subject=Hinweis%20zu%20einer%20Pulse-Meldung&body=Bitte%20Meldung%20und%20Hinweis%20beschreiben.">Fehler oder fehlende Information melden</a><div class="sact">
+        ${it.url?`<a class="primary" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">Originalbericht lesen</a>`:''}
         ${canShare?`<button class="secondary" data-share="${it.id}">Teilen</button>`:''}
       </div>
     </div>
@@ -360,6 +363,10 @@ document.addEventListener('change',e=>{
     renderFeed();
   }
 });
+$('#searchInput').addEventListener('input',e=>{S.search=e.target.value.trim();renderFeed()});
+$('#fontToggle').addEventListener('click',()=>{document.body.classList.toggle('large-text');$('#fontToggle').textContent=document.body.classList.contains('large-text')?'Normale Schrift':'Größere Schrift'});
+$('#motionToggle').addEventListener('click',()=>{document.body.classList.toggle('reduce-motion');$('#motionToggle').textContent=document.body.classList.contains('reduce-motion')?'Animationen an':'Animationen aus'});
+document.addEventListener('click',e=>{const n=e.target.closest('[data-nav]');if(!n)return;const v=n.dataset.nav;if(v==='home'||v==='de'){S.scope='state';S.cat='all';S.state=''}if(v==='local'){S.scope='local';S.cat='all';S.state=''}if(v==='int'){S.scope='all';S.cat='all';S.state=''}if(v==='topics'){S.scope='state';S.cat=S.cat==='all'?'politik':'all';S.state=''}renderControls();renderFeed();document.querySelectorAll('[data-nav]').forEach(x=>x.removeAttribute('aria-current'));n.setAttribute('aria-current','page');window.scrollTo({top:0,behavior:document.body.classList.contains('reduce-motion')?'auto':'smooth'})});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&currentSheet)closeSheet()});
 let drag=null;
 document.addEventListener('touchstart',e=>{if(!e.target.closest('.grip'))return;drag={y:e.touches[0].clientY,dy:0}},{passive:true});
