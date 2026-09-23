@@ -7,15 +7,18 @@
 <link rel="manifest" href="./manifest.webmanifest">
 <title>Pulse – Archiv</title>
 <style>
-:root{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Arial,sans-serif;color:#000;background:#f2f2f7;--card:#fff;--muted:rgba(60,60,67,.62);--tint:#007aff}
-@media(prefers-color-scheme:dark){:root{color:#fff;background:#000;--card:#1c1c1e;--muted:rgba(235,235,245,.62);--tint:#0a84ff}}
-*{box-sizing:border-box}body{margin:0}.wrap{max-width:680px;margin:auto;padding:24px 16px 50px}a{color:var(--tint);text-decoration:none}.back{display:inline-block;margin-bottom:22px;font-weight:600}.brand{display:flex;align-items:center;gap:10px}.brand img{width:125px}.sub{color:var(--muted);margin:8px 0 24px}.month{display:block;width:100%;border:0;border-radius:16px;background:var(--card);color:inherit;text-align:left;padding:16px;margin:10px 0;font:600 16px inherit;box-shadow:0 4px 16px rgba(0,0,0,.08);cursor:pointer}.month small{display:block;color:var(--muted);font-weight:400;margin-top:4px}.story{background:var(--card);border-radius:16px;padding:15px;margin:9px 0}.story h3{font-size:17px;margin:0 0 7px}.story p{color:var(--muted);margin:0;line-height:1.4}.story time{display:block;color:var(--muted);font-size:12px;margin-top:9px}.empty{padding:30px 0;color:var(--muted)}
+:root{--fill:rgba(118,118,128,.12);--bar:rgba(249,249,249,.82);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Arial,sans-serif;color:#000;background:#f2f2f7;--card:#fff;--muted:rgba(60,60,67,.62);--tint:#007aff}
+html[data-theme=dark]{color-scheme:dark;color:#fff;background:#000;--card:#1c1c1e;--muted:rgba(235,235,245,.62);--tint:#0a84ff;--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82)}@media(prefers-color-scheme:dark){:root{color:#fff;background:#000;--card:#1c1c1e;--muted:rgba(235,235,245,.62);--tint:#0a84ff;--fill:rgba(118,118,128,.24);--bar:rgba(22,22,24,.82)}}
+*{box-sizing:border-box}body{margin:0}.wrap{max-width:680px;margin:auto;padding:0 16px 50px}.nav{height:58px;display:flex;align-items:center;justify-content:space-between;background:var(--bar);backdrop-filter:blur(18px);position:sticky;top:0;z-index:2;border-bottom:1px solid var(--fill)}.nav img{width:88px}.back{color:var(--tint);text-decoration:none;font-weight:600}.theme{border:0;border-radius:50%;background:var(--fill);color:inherit;width:32px;height:32px}.brand{display:flex;align-items:center;gap:10px}.brand img{width:125px}.sub{color:var(--muted);margin:8px 0 24px}.month{display:block;width:100%;border:0;border-radius:16px;background:var(--card);color:inherit;text-align:left;padding:16px;margin:10px 0;font:600 16px inherit;box-shadow:0 4px 16px rgba(0,0,0,.08);cursor:pointer}.month small{display:block;color:var(--muted);font-weight:400;margin-top:4px}.story{background:var(--card);border-radius:16px;padding:15px;margin:9px 0}.story h3{font-size:17px;margin:0 0 7px}.story p{color:var(--muted);margin:0;line-height:1.4}.story time{display:block;color:var(--muted);font-size:12px;margin-top:9px}.empty{padding:30px 0;color:var(--muted)}
 </style>
 </head>
 <body>
 <main class="wrap">
-<a class="back" href="./">← Pulse</a>
-<div class="brand"><img src="assets/pulse-logo.svg" alt="Pulse"></div>
+<header class="nav">
+<a class="back" href="./index.html" aria-label="Zurück zu Pulse">← Pulse</a>
+<img src="assets/pulse-logo.svg" alt="Pulse">
+<button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button>
+</header>
 <p class="sub">Archiv älterer Pulse-Meldungen. Die Meldungen sind KI-zusammengefasst und können Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p>
 <section id="months"><div class="empty">Archiv wird geladen …</div></section>
 </main>
@@ -48,5 +51,6 @@ try{
 }catch{root.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>'}
 })();
 </script>
+<script>const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply()</script>
 </body>
 </html>
