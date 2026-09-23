@@ -24,6 +24,7 @@ const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g
 const hashKey=s=>Buffer.from(String(s)).toString("base64url").slice(0,120);
 const stableId=s=>{let h=2166136261;for(let i=0;i<String(s).length;i++){h^=String(s).charCodeAt(i);h=Math.imul(h,16777619)}return "story-"+(h>>>0).toString(16).padStart(8,"0")+(((h>>>0)^0x9e3779b9)>>>0).toString(16).padStart(8,"0")};
 const titleSimilarity=(a,b)=>{const A=new Set(clean(a).toLowerCase().split(/\s+/).filter(w=>w.length>=5)),B=new Set(clean(b).toLowerCase().split(/\s+/).filter(w=>w.length>=5));let n=0;for(const w of A)if(B.has(w))n++;return n/Math.max(1,new Set([...A,...B]).size)};
+const previousFor=item=>previousCurrent.find(x=>x.id===stableId((item.sources||[]).map(s=>s.url).join("|")+"|"+(item.stateHint||"")))||previousCurrent.find(x=>titleSimilarity(x.t||"",item.title)>=0.55);
 const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
 const countryMap={DE:"DE",UK:"INT",PT:"INT",INT:"INT",US:"INT",EU:"INT"};
 
@@ -173,14 +174,15 @@ let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
   const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
-  const key=hashKey("v6-quality-changes|"+item.id+"|"+signature+"|"+(item.stateHint||""));
+  const previous=previousFor(item);
+  const key=hashKey("v7-event-tracking|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
       // Kosten-Schutz: höchstens ein Gemini-Aufruf pro neuer Meldung; 429/Quota wird nicht erneut versucht.
       for(let attempt=0;attempt<3;attempt++){
-        try{ai=await ask(item,previousCurrent.find(x=>x.id===stableId(signature+"|"+(item.stateHint||"")))||previousCurrent.find(x=>titleSimilarity(x.t||"",item.title)>=0.55));generated++;usedGemini=true;break}
+        try{ai=await ask(item,previous);generated++;usedGemini=true;break}
         catch(e){
           if(e.status===429||!e.retryable||attempt===2){failures++;break}
           const retry=Number(e.retryAfter);
@@ -193,7 +195,7 @@ for(const item of ranked){
   }
 
   output.push({
-    id:stableId(signature+"|"+(item.stateHint||"")),c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
+    id:previous?.id||stableId(signature+"|"+(item.stateHint||"")),c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
     lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
     srcs,url:srcs[0]?.url||"",agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[],chg:ai.chg||"",independent:[...new Set(srcs.map(s=>{try{return new URL(s.url).hostname.replace(/^www\\./,"")}catch{return s.name||""}}).filter(Boolean))].length
   });
