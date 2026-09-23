@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 
 const apiKey=process.env.GEMINI_API_KEY;
 const model=process.env.GEMINI_MODEL||"gemini-3.5-flash-lite";
+const forceFallback=process.argv.includes("--fallback-only");
 const freeTierModels=new Set(["gemini-3.5-flash-lite","gemini-3.1-flash-lite"]);
 if(apiKey&&!freeTierModels.has(model)) throw new Error(`Kosten-Schutz: Modell ${model} ist nicht für den Free-Tier-Guard freigegeben.`);
 const inputFile="data/news.json";
@@ -85,6 +86,7 @@ Quellen:
 ${sourceText}`;
 
   const res=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,{
+    signal:AbortSignal.timeout(30000),
     method:"POST",
     headers:{"content-type":"application/json"},
     body:JSON.stringify({
@@ -202,14 +204,14 @@ for(const item of ranked){
   let ai=cache[key];
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
-    if(apiKey){
+    if(apiKey&&!forceFallback){
       // Kosten-Schutz: höchstens ein Gemini-Aufruf pro neuer Meldung; 429/Quota wird nicht erneut versucht.
-      for(let attempt=0;attempt<3;attempt++){
+      for(let attempt=0;attempt<2;attempt++){
         try{ai=await ask(item,previous);generated++;usedGemini=true;break}
         catch(e){
-          if(e.status===429||!e.retryable||attempt===2){failures++;break}
+          if(e.status===429||!e.retryable||attempt===1){failures++;break}
           const retry=Number(e.retryAfter);
-          await sleep(Number.isFinite(retry)?Math.max(8000,retry*1000):10000*(attempt+1));
+          await sleep(Number.isFinite(retry)?Math.min(15000,Math.max(5000,retry*1000)):7000*(attempt+1));
         }
       }
     }
@@ -225,7 +227,7 @@ for(const item of ranked){
     lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
     srcs,url:srcs[0]?.url||"",agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[],chg:ai.chg||"",independent:[...new Set(srcs.map(s=>{try{return new URL(s.url).hostname.replace(/^www\\./,"")}catch{return s.name||""}}).filter(Boolean))].length
   });
-  await sleep(apiKey?6000:0);
+  await sleep(apiKey&&!forceFallback?6000:0);
 }
 
 // Aktuelle Meldungen bleiben sieben Tage auf der Startseite. Neue Meldungen werden
