@@ -1,6 +1,54 @@
 [
   {
-    "id": "story-25",
+    "id": "story-9",
+    "topic": "politik",
+    "country": "UK",
+    "date": "2026-09-23T01:09:54.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-23T01:09:54.000Z",
+        "snippet": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5",
+        "date": "2026-09-23T01:00:09.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5\" target=\"_blank\">Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC"
+      }
+    ],
+    "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+    "summary": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.\nTrump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5\" target=\"_blank\">Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-22",
+    "topic": "wirtschaft",
+    "country": "PT",
+    "date": "2026-09-23T00:00:00.000Z",
+    "sources": [
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+        "date": "2026-09-23T00:00:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5\" target=\"_blank\">FMI: Preço das casas é principal vulnerabilidade do setor financeiro português</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal Económico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFNzZkRUTndmZnB0d3BMRG9QTTBGR2lzaW9mRDRVTVVpUWhjYkhSQzFxdXZ0ODhjUkJoZzFzVWtvSHZxeU9yNnNSLU9DSlFiVTdmc09aaEJQRG5sY2dwWUNBTTVJaXhINWF4UTNyVENfc3BDX3dnMzZ5QTl0Q",
+        "title": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico"
+      },
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/preco-das-casas-e-a-principal-vulnerabilidade-do-setor-financeiro-portugues-considera-fmi_n1767030",
+        "date": "2026-09-22T17:42:50.000Z",
+        "snippet": "O preço das casas em Portugal é a principal vulnerabilidade com implicações futuras para o setor financeiro, considerou hoje o Fundo Monetário Internacional (FMI).",
+        "title": "Preço das casas é a principal vulnerabilidade do setor financeiro português considera FMI"
+      }
+    ],
+    "title": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico",
+    "summary": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5\" target=\"_blank\">FMI: Preço das casas é principal vulnerabilidade do setor financeiro português</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal Económico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFNzZkRUTndmZnB0d3BMRG9QTTBGR2lzaW9mRDRVTVVpUWhjYkhSQzFxdXZ0ODhjUkJoZzFzVWtvSHZxeU9yNnNSLU9DSlFiVTdmc09aaEJQRG5sY2dwWUNBTTVJaXhINWF4UTNyVENfc3BDX3dnMzZ5QTl0Q\nPreço das casas é a principal vulnerabilidade do setor financeiro português considera FMI O preço das casas em Portugal é a principal vulnerabilidade com implicações futuras para o setor financeiro, considerou hoje o Fundo Monetário Internacional (FMI)."
+  },
+  {
+    "id": "story-46",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T22:37:00.000Z",
@@ -24,55 +72,7 @@
     "summary": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him | Donald Trump - The Guardian <a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQmtMMU0zSHN1anM3M1pXal9JRGc4UnJLY2UtNWEwY2tqdlh6STl0cEgzdEg4STJsMmJuQWZqUXFTNmV5QXhKaVQxTkwxWWRJejNDYV9kaVRCd3RmMzByaVJHUHRmVU5ib3B4bmNjMmMyRlhZN1pRR3NIRG4?oc=5\" target=\"_blank\">Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him | Donald Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nTrump’s threat to annihilate Iran to UN general assembly is stunning, even for him <p>US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state</p><p>Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of Nikita Khrushchev by openly contemplating the annihilation of a fellow UN member state.</p><p>Eleven minutes into a 40-minute address, the US president announced he had “a big decision to make” over Iran, which has staged a much more determined resistance than Trump anticipated when he decided to go to war against the country in February.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech\">Continue "
   },
   {
-    "id": "story-44",
-    "topic": "politik",
-    "country": "UK",
-    "date": "2026-09-22T21:50:31.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-22T21:50:31.000Z",
-        "snippet": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5",
-        "date": "2026-09-22T21:50:31.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5\" target=\"_blank\">Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5TemFmaHgwMFRwbzV2cHprSzRRZU8yemZZeUxIUW9oYWYzOUJwR0pqb0lDSmEzX1oxZ0hTVU05ODRhOC1ZcWU0MWJCNElJc0FCRmhnUmgtM0h1blFIU2c4SGNSUWpV?oc=5\" target=\"_blank\">U.N. Live Updates: ‘Annihilate’ Iran or Strike a Deal, Trump Says to General Assembly</a>&nbsp",
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines - bbc.com"
-      }
-    ],
-    "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-    "summary": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.\nTrump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines - bbc.com <ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5\" target=\"_blank\">Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5TemFmaHgwMFRwbzV2cHprSzRRZU8yemZZeUxIUW9oYWYzOUJwR0pqb0lDSmEzX1oxZ0hTVU05ODRhOC1ZcWU0MWJCNElJc0FCRmhnUmgtM0h1blFIU2c4SGNSUWpV?oc=5\" target=\"_blank\">U.N. Live Updates: ‘Annihilate’ Iran or Strike a Deal, Trump Says to General Assembly</a>&nbsp"
-  },
-  {
-    "id": "story-47",
-    "topic": "politik",
-    "country": "PT",
-    "date": "2026-09-22T21:42:32.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
-        "date": "2026-09-22T21:42:32.000Z",
-        "snippet": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.",
-        "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5",
-        "date": "2026-09-22T20:44:01.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5\" target=\"_blank\">Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0VwZm9xQ1Y3VEJLU2ZvZXNlZnVsamMwTUVVcV9zN0xYakJ3ZG1BYlAyc01zWWE4eGhHdE84emw3TEhKcWdXZEktR1RvR0RlNDlTamhxNmpfQWI2VHItNWY0SW91ZzRCLWtucHYwMmhpRHpPUTVUWVB4YzVzcDMtdmRsUEZGVTd2eENWU",
-        "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses - RTP"
-      }
-    ],
-    "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses",
-    "summary": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.\nReunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5\" target=\"_blank\">Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0VwZm9xQ1Y3VEJLU2ZvZXNlZnVsamMwTUVVcV9zN0xYakJ3ZG1BYlAyc01zWWE4eGhHdE84emw3TEhKcWdXZEktR1RvR0RlNDlTamhxNmpfQWI2VHItNWY0SW91ZzRCLWtucHYwMmhpRHpPUTVUWVB4YzVzcDMtdmRsUEZGVTd2eENWU"
-  },
-  {
-    "id": "story-63",
+    "id": "story-84",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T21:14:47.000Z",
@@ -96,7 +96,7 @@
     "summary": "Crise migratória em Ceuta. Espanha e Marrocos reúnem-se em Marrocos Espanha e Marrocos voltaram a reforçar a segurança nas fronteiras de Ceuta e Melilla. As autoridades dos dois países admitem que poderá ser tentada uma nova entrada massiva de migrantes.\nEspanha e Marrocos voltam a reforçar a segurança nas fronteiras de Ceuta e Melilla Espanha e Marrocos voltam a reforçar a segurança nas fronteiras de Ceuta e Melilla perante a ameaça de uma nova tentativa de entrada massiva marcada para amanhã, dia de eleições legislativas em Marrocos."
   },
   {
-    "id": "story-67",
+    "id": "story-88",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T21:10:15.000Z",
@@ -120,7 +120,7 @@
     "summary": "Irão apresentou condições para reabertura do Estreito de Ormuz a representantes dos EUA - RTP <a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDJHZ1hqM0s0RERRQzVES1RiQVFRVDdGOTZDQl9RcGtoVmVrYkZLc2l3Z0ZwMXM1RlpOam42bmxxWV96SFQ3bDR3RGJPOXd4R21wbC1XelVjQVM5ZHpXbGNra2poOU52Q0h0b3A1UjA2NGhvbWNLTlN4VXQxRE1ZUXY3SWsxbEJURU9IZVBlc0xlOXAwNXdOMEtnSG1yTzdjbWN5OG5sa29yeFIwbG5JZnc3SE84TnZWd1dUTGNpZ0lmRFNnRnkzOUFR?oc=5\" target=\"_blank\">Irão apresentou condições para reabertura do Estreito de Ormuz a representantes dos EUA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font>\nIrão apresentou condições para reabertura do Estreito de Ormuz a representantes dos EUA Segundo a imprensa estatal iraniana, o ministro dos Negócios Estrangeiros, Abbas Araghchi, esteve reunido esta terça-feira com o enviado especial dos EUA, Steve Witkoff, à margem da Assembleia Geral da ONU."
   },
   {
-    "id": "story-110",
+    "id": "story-129",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T19:47:44.000Z",
@@ -144,31 +144,7 @@
     "summary": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.\nSri Lanka court convicts 15 over deadly 2019 Easter bombings The Islamic State group-inspired attacks were among the deadliest in Sri Lanka&apos;s history, killing 42 foreigners."
   },
   {
-    "id": "story-175",
-    "topic": "wirtschaft",
-    "country": "PT",
-    "date": "2026-09-22T17:42:50.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/preco-das-casas-e-a-principal-vulnerabilidade-do-setor-financeiro-portugues-considera-fmi_n1767030",
-        "date": "2026-09-22T17:42:50.000Z",
-        "snippet": "O preço das casas em Portugal é a principal vulnerabilidade com implicações futuras para o setor financeiro, considerou hoje o Fundo Monetário Internacional (FMI).",
-        "title": "Preço das casas é a principal vulnerabilidade do setor financeiro português considera FMI"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
-        "date": "2026-09-22T14:29:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5\" target=\"_blank\">FMI: Preço das casas é principal vulnerabilidade do setor financeiro português</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal Económico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFNzZkRUTndmZnB0d3BMRG9QTTBGR2lzaW9mRDRVTVVpUWhjYkhSQzFxdXZ0ODhjUkJoZzFzVWtvSHZxeU9yNnNSLU9DSlFiVTdmc09aaEJQRG5sY2dwWUNBTTVJaXhINWF4UTNyVENfc3BDX3dnMzZ5QTl0Q",
-        "title": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico"
-      }
-    ],
-    "title": "Preço das casas é a principal vulnerabilidade do setor financeiro português considera FMI",
-    "summary": "Preço das casas é a principal vulnerabilidade do setor financeiro português considera FMI O preço das casas em Portugal é a principal vulnerabilidade com implicações futuras para o setor financeiro, considerou hoje o Fundo Monetário Internacional (FMI).\nFMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5\" target=\"_blank\">FMI: Preço das casas é principal vulnerabilidade do setor financeiro português</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal Económico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFNzZkRUTndmZnB0d3BMRG9QTTBGR2lzaW9mRDRVTVVpUWhjYkhSQzFxdXZ0ODhjUkJoZzFzVWtvSHZxeU9yNnNSLU9DSlFiVTdmc09aaEJQRG5sY2dwWUNBTTVJaXhINWF4UTNyVENfc3BDX3dnMzZ5QTl0Q"
-  },
-  {
-    "id": "story-196",
+    "id": "story-213",
     "topic": "sport",
     "country": "UK",
     "date": "2026-09-22T16:57:55.000Z",
@@ -192,31 +168,7 @@
     "summary": "Cyclist who dressed as man to avoid Taliban wins silver medal Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.\nAfghan cyclist who disguised herself as a man to evade Taliban wins Asian Games silver <ul><li><p>Fariba Hashimi fled after Taliban returned to power</p></li><li><p>‘This medal can show resilience from Afghan women’</p></li></ul><p>An Afghan cyclist who disguised herself as a man to pursue her sporting dreams won an Asian Games silver medal on Tuesday, hoping it inspires other women in a country where Taliban authorities have sharply curtailed their freedoms.</p><p>Fariba Hashimi, who is based in Italy, powered home second behind China’s Guo Li in the women’s road race near Nagoya in Japan, calling the triumph “something special”.</p> <a href=\"https://www.theguardian.com/sport/2026/sep/22/fariba-hashimi-afghan-cyclist-disguised-as-man-evade-taliban-wins-asian-games-silver\">Con"
   },
   {
-    "id": "story-304",
-    "topic": "politik",
-    "country": "DE",
-    "date": "2026-09-22T13:45:32.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
-        "date": "2026-09-22T13:45:32.000Z",
-        "snippet": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
-        "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcE1PSGVqS2t5RDRrQ0w2dEVvMzl4MWRhQ2tKd3c5YUtjOUJ3VkFiNU1EU0VOaGdKekU3OU9qaDVnaFlKdHVLWnowbVZPQU50WDE4aDVwV1paaXVSbE8wdnI5dDJRMUF0eTJtc3JOZ2FzOE5SR0h2WkRYV19TQV90alZn?oc=5",
-        "date": "2026-09-22T13:45:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcE1PSGVqS2t5RDRrQ0w2dEVvMzl4MWRhQ2tKd3c5YUtjOUJ3VkFiNU1EU0VOaGdKekU3OU9qaDVnaFlKdHVLWnowbVZPQU50WDE4aDVwV1paaXVSbE8wdnI5dDJRMUF0eTJtc3JOZ2FzOE5SR0h2WkRYV19TQV90alZn?oc=5\" target=\"_blank\">Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUWpMM0R5ZXhjcFZjX3NvWXZYdjdiQ09zNU9VcDM5aFJfaHR0eEZ2X0ZZUm9Gb2FMakVqWk5HODBfd0g4QjBSOGlITk1teEN1M0JjcmVmSElEVEFibXpPeEJIZHEwaV9TUGFLb0JmYTNTUlFrQlVJSnpaUzJ6WUJRcDRpSWtPZE5hamRzUGRRWnhZNm1DRGRiY3RfMkExQnV2V2M1NDVQR3JzU1o3NEFobjA0bnpZMDdzM1dSMGlWSGhZV0NNUi1u",
-        "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle - tagesschau.de"
-      }
-    ],
-    "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-    "summary": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.\nKünstliche Intelligenz: Staatschefs fordern mehr Kontrolle - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcE1PSGVqS2t5RDRrQ0w2dEVvMzl4MWRhQ2tKd3c5YUtjOUJ3VkFiNU1EU0VOaGdKekU3OU9qaDVnaFlKdHVLWnowbVZPQU50WDE4aDVwV1paaXVSbE8wdnI5dDJRMUF0eTJtc3JOZ2FzOE5SR0h2WkRYV19TQV90alZn?oc=5\" target=\"_blank\">Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUWpMM0R5ZXhjcFZjX3NvWXZYdjdiQ09zNU9VcDM5aFJfaHR0eEZ2X0ZZUm9Gb2FMakVqWk5HODBfd0g4QjBSOGlITk1teEN1M0JjcmVmSElEVEFibXpPeEJIZHEwaV9TUGFLb0JmYTNTUlFrQlVJSnpaUzJ6WUJRcDRpSWtPZE5hamRzUGRRWnhZNm1DRGRiY3RfMkExQnV2V2M1NDVQR3JzU1o3NEFobjA0bnpZMDdzM1dSMGlWSGhZV0NNUi1u"
-  },
-  {
-    "id": "story-334",
+    "id": "story-346",
     "topic": "politik",
     "country": "DE",
     "date": "2026-09-22T12:00:24.000Z",
@@ -243,6 +195,278 @@
     "id": "story-1",
     "topic": "panorama",
     "country": "PT",
+    "date": "2026-09-23T02:15:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-pm-pede-investimento-dos-eua-de-visita-a-bolsa-de-nova-iorque_a1_1767136",
+        "date": "2026-09-23T02:15:02.000Z",
+        "snippet": "",
+        "title": "1h PM pede investimento dos EUA, de visita à bolsa de Nova Iorque"
+      }
+    ],
+    "title": "1h PM pede investimento dos EUA, de visita à bolsa de Nova Iorque",
+    "summary": "1h PM pede investimento dos EUA, de visita à bolsa de Nova Iorque "
+  },
+  {
+    "id": "story-2",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-23T01:31:47.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0stOGlmV3lUNVh1bzVuTkxNRkw5dEJDLWRsbEMyTVRXejJyUkpnZ21jMVdpUzlBb2pPRGlfU3BGUUQ0VEpaNENSdW9vQm9KNUVyMUlRcWNycFA3TXZRY0VXakt4TkJUOUlpcUxmOTNiUlp4SER3WmNpa2Nob1ozNFBiNVJjTFYxNVBlWmZMNUNfUDdBYmZIVjZ4V2FxMkdpNGhLYlhma3nSAa4BQVVfeXFMT05TQWZjOWJpc1k3cG9VMWNFcEMtYklSemVqTm5iempHSWJndVFzWC1USm4wTDVpTkU4VjZ1OEJzc1ozR1I5MWsycVpHcjU3dlpoN2tDN0tFY1Yxc0M5MG9JU0ZzanMxNmxwQVk2dHh4RjBzajRJSjNaeFdIWTdiSG9lTUl3Q001MV9Mdlowa3Bsck5sTktFbFlFa3lwSHo3ZzVQa1h4alZ0RkFqXzRB?oc=5",
+        "date": "2026-09-23T01:31:47.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0stOGlmV3lUNVh1bzVuTkxNRkw5dEJDLWRsbEMyTVRXejJyUkpnZ21jMVdpUzlBb2pPRGlfU3BGUUQ0VEpaNENSdW9vQm9KNUVyMUlRcWNycFA3TXZRY0VXakt4TkJUOUlpcUxmOTNiUlp4SER3WmNpa2Nob1ozNFBiNVJjTFYxNVBlWmZMNUNfUDdBYmZIVjZ4V2FxMkdpNGhLYlhma3nSAa4BQVVfeXFMT05TQWZjOWJpc1k3cG9VMWNFcEMtYklSemVqTm5iempHSWJndVFzWC1USm4wTDVpTkU4VjZ1OEJzc1ozR1I5MWsycVpHcjU3dlpoN2tDN0tFY1Yxc0M5MG9JU0ZzanMxNmxwQVk2dHh4RjBzajRJSjNaeFdIWTdiSG9lTUl3Q001MV9Mdlowa3Bsck5sTktFbFlFa3lwSHo3ZzVQa1h4alZ0RkFqXzRB?oc=5\" target=\"_blank\">Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Video",
+        "title": "Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated' - ABC News - Breaking News, Latest News and Videos"
+      }
+    ],
+    "title": "Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated' - ABC News - Breaking News, Latest News and Videos",
+    "summary": "Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated' - ABC News - Breaking News, Latest News and Videos <a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0stOGlmV3lUNVh1bzVuTkxNRkw5dEJDLWRsbEMyTVRXejJyUkpnZ21jMVdpUzlBb2pPRGlfU3BGUUQ0VEpaNENSdW9vQm9KNUVyMUlRcWNycFA3TXZRY0VXakt4TkJUOUlpcUxmOTNiUlp4SER3WmNpa2Nob1ozNFBiNVJjTFYxNVBlWmZMNUNfUDdBYmZIVjZ4V2FxMkdpNGhLYlhma3nSAa4BQVVfeXFMT05TQWZjOWJpc1k3cG9VMWNFcEMtYklSemVqTm5iempHSWJndVFzWC1USm4wTDVpTkU4VjZ1OEJzc1ozR1I5MWsycVpHcjU3dlpoN2tDN0tFY1Yxc0M5MG9JU0ZzanMxNmxwQVk2dHh4RjBzajRJSjNaeFdIWTdiSG9lTUl3Q001MV9Mdlowa3Bsck5sTktFbFlFa3lwSHo3ZzVQa1h4alZ0RkFqXzRB?oc=5\" target=\"_blank\">Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Video"
+  },
+  {
+    "id": "story-3",
+    "topic": "umwelt",
+    "country": "INT",
+    "date": "2026-09-23T01:25:28.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGx1ZExtOUlYblZDYjdRZFVyaTVpMl9RSVBnVFpJREZtWmtHTzZOTTRNTlVjZWRmQm40SmtLUHBMbnlkUE81WWExaTFZX0pGa2lUSHp1RVZ4TzctMkptaURZVFdOWm9DZ2N3NXZobkZDeEgzSl9sOFZYanR5bHJ4YXp2TExCLUU2NEJTWFRwTS05WGZjdm1UU0xYNGtTODVlYkRncE1FREZ6akl3Q3U3RnJkSnFCUG5jM3RJ?oc=5",
+        "date": "2026-09-23T01:25:28.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGx1ZExtOUlYblZDYjdRZFVyaTVpMl9RSVBnVFpJREZtWmtHTzZOTTRNTlVjZWRmQm40SmtLUHBMbnlkUE81WWExaTFZX0pGa2lUSHp1RVZ4TzctMkptaURZVFdOWm9DZ2N3NXZobkZDeEgzSl9sOFZYanR5bHJ4YXp2TExCLUU2NEJTWFRwTS05WGZjdm1UU0xYNGtTODVlYkRncE1FREZ6akl3Q3U3RnJkSnFCUG5jM3RJ?oc=5\" target=\"_blank\">Climate disasters are growing. So are cuts to programs that prepare for them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSLS</font>",
+        "title": "Climate disasters are growing. So are cuts to programs that prepare for them - WSLS"
+      }
+    ],
+    "title": "Climate disasters are growing. So are cuts to programs that prepare for them - WSLS",
+    "summary": "Climate disasters are growing. So are cuts to programs that prepare for them - WSLS <a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGx1ZExtOUlYblZDYjdRZFVyaTVpMl9RSVBnVFpJREZtWmtHTzZOTTRNTlVjZWRmQm40SmtLUHBMbnlkUE81WWExaTFZX0pGa2lUSHp1RVZ4TzctMkptaURZVFdOWm9DZ2N3NXZobkZDeEgzSl9sOFZYanR5bHJ4YXp2TExCLUU2NEJTWFRwTS05WGZjdm1UU0xYNGtTODVlYkRncE1FREZ6akl3Q3U3RnJkSnFCUG5jM3RJ?oc=5\" target=\"_blank\">Climate disasters are growing. So are cuts to programs that prepare for them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSLS</font>"
+  },
+  {
+    "id": "story-4",
+    "topic": "wirtschaft",
+    "country": "UK",
+    "date": "2026-09-23T01:16:17.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+        "date": "2026-09-23T01:16:17.000Z",
+        "snippet": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Andrew Bragg</strong>, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.</p><p>The policy hasn’t been adopted by the opposition, and leader <strong>Angus Taylor </strong>said yesterday it wasn’t Coalition policy.</p><p>W",
+        "title": "Australia news live: Albanese defends social media crackdown against White House criticism; Wilson and Joyce trade barbs"
+      }
+    ],
+    "title": "Australia news live: Albanese defends social media crackdown against White House criticism; Wilson and Joyce trade barbs",
+    "summary": "Australia news live: Albanese defends social media crackdown against White House criticism; Wilson and Joyce trade barbs <p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Andrew Bragg</strong>, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.</p><p>The policy hasn’t been adopted by the opposition, and leader <strong>Angus Taylor </strong>said yesterday it wasn’t Coalition policy.</p><p>W"
+  },
+  {
+    "id": "story-5",
+    "topic": "politik",
+    "country": "UK",
+    "date": "2026-09-23T01:15:26.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+        "date": "2026-09-23T01:15:26.000Z",
+        "snippet": "<p>The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition</p><p>King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals court for legal advice, Jamaica’s culture minister announced in parliament on Tuesday.</p><p>Referring to the move as a “really big deal”, <a href=\"https://www.theguardian.com/news/2026/sep/09/jamaica-slavery-reparations-king-charles\">Olivia Grange</a> told Jamaica’s MPs the monarch had confirmed that their legal questions have been passed on to the London-based privy council – the final court of appeal for UK overseas territories and some Commonwea",
+        "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’"
+      }
+    ],
+    "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+    "summary": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’ <p>The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition</p><p>King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals court for legal advice, Jamaica’s culture minister announced in parliament on Tuesday.</p><p>Referring to the move as a “really big deal”, <a href=\"https://www.theguardian.com/news/2026/sep/09/jamaica-slavery-reparations-king-charles\">Olivia Grange</a> told Jamaica’s MPs the monarch had confirmed that their legal questions have been passed on to the London-based privy council – the final court of appeal for UK overseas territories and some Commonwea"
+  },
+  {
+    "id": "story-6",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-23T01:14:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+        "date": "2026-09-23T01:14:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5\" target=\"_blank\">Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+        "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News"
+      }
+    ],
+    "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News",
+    "summary": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News <a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5\" target=\"_blank\">Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>"
+  },
+  {
+    "id": "story-7",
+    "topic": "politik",
+    "country": "UK",
+    "date": "2026-09-23T01:11:22.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+        "date": "2026-09-23T01:11:22.000Z",
+        "snippet": "<p>Trump threatens to ‘annihilate’ Iran and ‘drive them into Hell’ if there isn’t a deal, while also underscoring US policy on Cuba, Mexico, Greenland and AI</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US Breaking News emails</a></p></li></ul><p><strong>Trump</strong> is arriving at the UN HQ right now.</p><p>After <em>very</em> brief doorstep comments – almost exclusively <a href=\"https://www.theguardian.com/us-news/2026/sep/21/trump-tv-n",
+        "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live"
+      }
+    ],
+    "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
+    "summary": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live <p>Trump threatens to ‘annihilate’ Iran and ‘drive them into Hell’ if there isn’t a deal, while also underscoring US policy on Cuba, Mexico, Greenland and AI</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US Breaking News emails</a></p></li></ul><p><strong>Trump</strong> is arriving at the UN HQ right now.</p><p>After <em>very</em> brief doorstep comments – almost exclusively <a href=\"https://www.theguardian.com/us-news/2026/sep/21/trump-tv-n"
+  },
+  {
+    "id": "story-8",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-23T01:11:06.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
+        "date": "2026-09-23T01:11:06.000Z",
+        "snippet": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
+        "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA"
+      }
+    ],
+    "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
+    "summary": "Iranian President Masoud Pezeshkian arrives in New York for UNGA Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues."
+  },
+  {
+    "id": "story-10",
+    "topic": "technik",
+    "country": "UK",
+    "date": "2026-09-23T01:02:04.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
+        "date": "2026-09-23T01:02:04.000Z",
+        "snippet": "<p>Flying from 2028, it’s the national carrier’s second ultra long-haul route after Sydney to London direct takes off in 2027</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Travellers will be able to fly between Sydney and",
+        "title": "Qantas announces 18-hour direct flights from Sydney to New York"
+      }
+    ],
+    "title": "Qantas announces 18-hour direct flights from Sydney to New York",
+    "summary": "Qantas announces 18-hour direct flights from Sydney to New York <p>Flying from 2028, it’s the national carrier’s second ultra long-haul route after Sydney to London direct takes off in 2027</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Travellers will be able to fly between Sydney and"
+  },
+  {
+    "id": "story-11",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-23T01:01:17.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-pm-burnham-condemns-repulsive-russian-electoral-interference?traffic_source=rss",
+        "date": "2026-09-23T01:01:17.000Z",
+        "snippet": "UK Prime Minister Andy Burnham addressed the UN General Assembly, accusing Russia of information warfare.",
+        "title": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference"
+      }
+    ],
+    "title": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
+    "summary": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference UK Prime Minister Andy Burnham addressed the UN General Assembly, accusing Russia of information warfare."
+  },
+  {
+    "id": "story-12",
+    "topic": "panorama",
+    "country": "UK",
+    "date": "2026-09-23T00:43:00.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/23/sri-lanka-easter-bombings-15-sentenced-prison-terror-attacks",
+        "date": "2026-09-23T00:43:00.000Z",
+        "snippet": "<p>Islamic State-inspired bombings of churches and hotels in 2019 was one of the country’s worst ever attacks</p><p>A court in Sri Lanka has convicted 15 men over their involvement in the <a href=\"https://www.theguardian.com/world/2019/may/12/sri-lankan-catholic-churches-hold-first-sunday-services-since-easter-attacks\">2019 Easter bombings that killed 267 people</a>, and sentenced them each to at least 200 years in prison, meaning they will spend the rest of their lives behind bars.</p><p>Nearly 600 people were wounded in the suicide bomb attacks on 21 April that targeted three churches and three hotels across the country during Easter services and celebrations. The bombings, which were insp",
+        "title": "Sri Lanka Easter bombings: 15 sentenced to hundreds of years in prison each over deadly terror attacks"
+      }
+    ],
+    "title": "Sri Lanka Easter bombings: 15 sentenced to hundreds of years in prison each over deadly terror attacks",
+    "summary": "Sri Lanka Easter bombings: 15 sentenced to hundreds of years in prison each over deadly terror attacks <p>Islamic State-inspired bombings of churches and hotels in 2019 was one of the country’s worst ever attacks</p><p>A court in Sri Lanka has convicted 15 men over their involvement in the <a href=\"https://www.theguardian.com/world/2019/may/12/sri-lankan-catholic-churches-hold-first-sunday-services-since-easter-attacks\">2019 Easter bombings that killed 267 people</a>, and sentenced them each to at least 200 years in prison, meaning they will spend the rest of their lives behind bars.</p><p>Nearly 600 people were wounded in the suicide bomb attacks on 21 April that targeted three churches and three hotels across the country during Easter services and celebrations. The bombings, which were insp"
+  },
+  {
+    "id": "story-13",
+    "topic": "sport",
+    "country": "UK",
+    "date": "2026-09-23T00:42:02.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
+        "date": "2026-09-23T00:42:02.000Z",
+        "snippet": "<p>Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to Dover</p><p>Charities have condemned footage of far-right activist Daniel Thomas using a blade to slash an inflatable dinghy in the Channel while a rescue worker was onboard, in a further escalation of organised anti-immigration protest.</p><p>Hundreds of protesters gathered early on Tuesday evening at Gosport in Hampshire, aiming to disrupt the planned disembarkation of asylum seekers, but the Border Force vessels carrying them landed instead in Dover early on Wednesday.</p> <a href=\"https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-di",
+        "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard"
+      }
+    ],
+    "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
+    "summary": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard <p>Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to Dover</p><p>Charities have condemned footage of far-right activist Daniel Thomas using a blade to slash an inflatable dinghy in the Channel while a rescue worker was onboard, in a further escalation of organised anti-immigration protest.</p><p>Hundreds of protesters gathered early on Tuesday evening at Gosport in Hampshire, aiming to disrupt the planned disembarkation of asylum seekers, but the Border Force vessels carrying them landed instead in Dover early on Wednesday.</p> <a href=\"https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-di"
+  },
+  {
+    "id": "story-14",
+    "topic": "politik",
+    "country": "UK",
+    "date": "2026-09-23T00:41:40.000Z",
+    "sources": [
+      {
+        "source": "Guardian Culture",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/22/bucks-county-usa-documentary-culture-wars",
+        "date": "2026-09-23T00:41:40.000Z",
+        "snippet": "<p>Oscar-winning film-maker Barry Levinson’s docuseries Bucks County, USA examines the political divide in one town in a revealing and infuriating manner</p><p>Like many teenage best friends, Evi and Vanessa have a penchant for finishing each other’s sentences. Whether enmeshed on a couch or telling a story, one, a red-headed musical theater nerd with a personality nearly as boisterous as her signature puffy skirts, collides with the other, darker in hair and disposition, their speech bubbling with indecipherable affirmations and giggles. In a heady chorus of “duuude” and “no, you!”, it can be difficult to tell where one girl ends and the other begins.</p><p>Except, that is, at their respect",
+        "title": "‘Our job was not to attack’: how do you make a documentary about America’s culture wars?"
+      }
+    ],
+    "title": "‘Our job was not to attack’: how do you make a documentary about America’s culture wars?",
+    "summary": "‘Our job was not to attack’: how do you make a documentary about America’s culture wars? <p>Oscar-winning film-maker Barry Levinson’s docuseries Bucks County, USA examines the political divide in one town in a revealing and infuriating manner</p><p>Like many teenage best friends, Evi and Vanessa have a penchant for finishing each other’s sentences. Whether enmeshed on a couch or telling a story, one, a red-headed musical theater nerd with a personality nearly as boisterous as her signature puffy skirts, collides with the other, darker in hair and disposition, their speech bubbling with indecipherable affirmations and giggles. In a heady chorus of “duuude” and “no, you!”, it can be difficult to tell where one girl ends and the other begins.</p><p>Except, that is, at their respect"
+  },
+  {
+    "id": "story-15",
+    "topic": "politik",
+    "country": "PT",
+    "date": "2026-09-23T00:41:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-ministro-da-educacao-volta-ao-parlamento-para-responder-sobre-os-problemas-no-arranque-do-ano-letivo_a1_1767134",
+        "date": "2026-09-23T00:41:02.000Z",
+        "snippet": "",
+        "title": "0h Ministro da Educação volta ao parlamento para responder sobre os problemas no arranque do ano letivo"
+      }
+    ],
+    "title": "0h Ministro da Educação volta ao parlamento para responder sobre os problemas no arranque do ano letivo",
+    "summary": "0h Ministro da Educação volta ao parlamento para responder sobre os problemas no arranque do ano letivo "
+  },
+  {
+    "id": "story-16",
+    "topic": "politik",
+    "country": "DE",
+    "date": "2026-09-23T00:15:05.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZnoybXhtSUh4WVNHay1ON05Fd1QzSGo3OWRHSTlvS0J6Y1pocEZqSV9HakpLRW5HbFZodmVIUktET0lTb0swN2hJd2pkaEFhWGZ2RDFSc2o5WVlaTzQ1UVlXN01zVHFVeWhiYnB0V2hoMUVLLUJYS21ZVmx6cDczZnZIU3AwSFRwWjZXTUM3blpmcWtzWkVkVlNmVFUweG1GQjJZUktlWmh3bGk2dWtfQ3Q5VkVEcGtKQUZxLU11RkR3dVRjSkdOV0xDZDlseXh3R0lyVldVaWJaN1JDbUNkd296cDZaaldmbU12VFFfUDVjYy0tVGE5dEpKN2J4ZWxNbzRKRUJwTQ?oc=5",
+        "date": "2026-09-23T00:15:05.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQZnoybXhtSUh4WVNHay1ON05Fd1QzSGo3OWRHSTlvS0J6Y1pocEZqSV9HakpLRW5HbFZodmVIUktET0lTb0swN2hJd2pkaEFhWGZ2RDFSc2o5WVlaTzQ1UVlXN01zVHFVeWhiYnB0V2hoMUVLLUJYS21ZVmx6cDczZnZIU3AwSFRwWjZXTUM3blpmcWtzWkVkVlNmVFUweG1GQjJZUktlWmh3bGk2dWtfQ3Q5VkVEcGtKQUZxLU11RkR3dVRjSkdOV0xDZDlseXh3R0lyVldVaWJaN1JDbUNkd296cDZaaldmbU12VFFfUDVjYy0tVGE5dEpKN2J4ZWxNbzRKRUJwTQ?oc=5\" target=\"_blank\">Donald Trump droht Iran in UN-Rede mit „Auslöschung“ und kritisiert Kuba – Delegationen verlassen den Saal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmpaMk1WM25SRE5RdTcwVUIxY3lIQ29PdTBWUTZ",
+        "title": "Donald Trump droht Iran in UN-Rede mit „Auslöschung“ und kritisiert Kuba – Delegationen verlassen den Saal - WELT"
+      }
+    ],
+    "title": "Donald Trump droht Iran in UN-Rede mit „Auslöschung“ und kritisiert Kuba – Delegationen verlassen den Saal - WELT",
+    "summary": "Donald Trump droht Iran in UN-Rede mit „Auslöschung“ und kritisiert Kuba – Delegationen verlassen den Saal - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQZnoybXhtSUh4WVNHay1ON05Fd1QzSGo3OWRHSTlvS0J6Y1pocEZqSV9HakpLRW5HbFZodmVIUktET0lTb0swN2hJd2pkaEFhWGZ2RDFSc2o5WVlaTzQ1UVlXN01zVHFVeWhiYnB0V2hoMUVLLUJYS21ZVmx6cDczZnZIU3AwSFRwWjZXTUM3blpmcWtzWkVkVlNmVFUweG1GQjJZUktlWmh3bGk2dWtfQ3Q5VkVEcGtKQUZxLU11RkR3dVRjSkdOV0xDZDlseXh3R0lyVldVaWJaN1JDbUNkd296cDZaaldmbU12VFFfUDVjYy0tVGE5dEpKN2J4ZWxNbzRKRUJwTQ?oc=5\" target=\"_blank\">Donald Trump droht Iran in UN-Rede mit „Auslöschung“ und kritisiert Kuba – Delegationen verlassen den Saal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmpaMk1WM25SRE5RdTcwVUIxY3lIQ29PdTBWUTZ"
+  },
+  {
+    "id": "story-17",
+    "topic": "politik",
+    "country": "UK",
+    "date": "2026-09-23T00:14:13.000Z",
+    "sources": [
+      {
+        "source": "Guardian Sport",
+        "url": "https://www.theguardian.com/sport/2026/sep/23/sydney-swans-banned-players-club-return-exit-meetings-afl-2026-ntwnfb",
+        "date": "2026-09-23T00:14:13.000Z",
+        "snippet": "<ul><li><p>Heeney, Warner, Blakey, Jordon and Bice set for exit meetings</p></li><li><p>The five will ‘have a chat to the broader group and the club’</p></li></ul><p>Sydney’s five suspended players are set to make their return and will address the Swans’ playing group “at some point”.</p><p>Swans coach Dean Cox confirmed to reporters Isaac Heeney, Chad Warner, Nick Blakey, James Jordon and Riley Bice will return to headquarters for the usual end-of-season exit meetings from Wednesday.</p> <a href=\"https://www.theguardian.com/sport/2026/sep/23/sydney-swans-banned-players-club-return-exit-meetings-afl-2026-ntwnfb\">Continue reading...</a>",
+        "title": "‘We’ll hear them out’: Sydney Swans prepare for banned players’ return to club"
+      }
+    ],
+    "title": "‘We’ll hear them out’: Sydney Swans prepare for banned players’ return to club",
+    "summary": "‘We’ll hear them out’: Sydney Swans prepare for banned players’ return to club <ul><li><p>Heeney, Warner, Blakey, Jordon and Bice set for exit meetings</p></li><li><p>The five will ‘have a chat to the broader group and the club’</p></li></ul><p>Sydney’s five suspended players are set to make their return and will address the Swans’ playing group “at some point”.</p><p>Swans coach Dean Cox confirmed to reporters Isaac Heeney, Chad Warner, Nick Blakey, James Jordon and Riley Bice will return to headquarters for the usual end-of-season exit meetings from Wednesday.</p> <a href=\"https://www.theguardian.com/sport/2026/sep/23/sydney-swans-banned-players-club-return-exit-meetings-afl-2026-ntwnfb\">Continue reading...</a>"
+  },
+  {
+    "id": "story-18",
+    "topic": "panorama",
+    "country": "PT",
     "date": "2026-09-23T00:11:00.000Z",
     "sources": [
       {
@@ -257,7 +481,24 @@
     "summary": "Montenegro destaca \"magnífico momento\" das relações bilaterais com EUA Em Nova Iorque, Luís Montenegro destacou o \"magnífico momento\" das relações bilaterais com os Estados Unidos e remeteu essa análise para quarta-feira."
   },
   {
-    "id": "story-2",
+    "id": "story-19",
+    "topic": "panorama",
+    "country": "INT",
+    "date": "2026-09-23T00:09:56.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUQ5Sjd0S0hhbzFFNnVEUHJ5UUhQYk93N284ZzhabHNjVTlrRHpPZVZyTlBRd1ZIWURod1prNi1Gc1pYRnI5OUNQOU9vd0Nscm1DYzZmcEIxZ09jSHJhSDBzOXJXaHNsckk3cXVHS0hRSnVqUmtVSmQ4SnNPZGJFMHZsMnZacktTbVRIUQ?oc=5",
+        "date": "2026-09-23T00:09:56.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUQ5Sjd0S0hhbzFFNnVEUHJ5UUhQYk93N284ZzhabHNjVTlrRHpPZVZyTlBRd1ZIWURod1prNi1Gc1pYRnI5OUNQOU9vd0Nscm1DYzZmcEIxZ09jSHJhSDBzOXJXaHNsckk3cXVHS0hRSnVqUmtVSmQ4SnNPZGJFMHZsMnZacktTbVRIUQ?oc=5\" target=\"_blank\">Burnham UN speech latest news: PM gives address to world leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+        "title": "Burnham UN speech latest news: PM gives address to world leaders - The Telegraph"
+      }
+    ],
+    "title": "Burnham UN speech latest news: PM gives address to world leaders - The Telegraph",
+    "summary": "Burnham UN speech latest news: PM gives address to world leaders - The Telegraph <a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUQ5Sjd0S0hhbzFFNnVEUHJ5UUhQYk93N284ZzhabHNjVTlrRHpPZVZyTlBRd1ZIWURod1prNi1Gc1pYRnI5OUNQOU9vd0Nscm1DYzZmcEIxZ09jSHJhSDBzOXJXaHNsckk3cXVHS0hRSnVqUmtVSmQ4SnNPZGJFMHZsMnZacktTbVRIUQ?oc=5\" target=\"_blank\">Burnham UN speech latest news: PM gives address to world leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>"
+  },
+  {
+    "id": "story-20",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-23T00:01:24.000Z",
@@ -274,7 +515,41 @@
     "summary": "\"Absurdo grotesco\". Netanyahu reage a declarações de Macron sobre Gaza Benjamin Netanyahu criticou duramente Emmanuel Macron por qualificar Gaza de \"espetáculo vergonhoso\" durante a Assembleia Geral da ONU e defende a atuação israelita."
   },
   {
-    "id": "story-3",
+    "id": "story-21",
+    "topic": "politik",
+    "country": "UK",
+    "date": "2026-09-23T00:00:09.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/media/2026/sep/23/domestic-violence-news-articles-advertising-error-bloodstained-shirt-halloween-costume-ads-ntwnfb",
+        "date": "2026-09-23T00:00:09.000Z",
+        "snippet": "<p>Gruesome ads embedded in articles about family violence ‘make light’ of violence and could distress victim-survivors, expert warns</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li></ul><p><strong>WARNING: this story contains an image some readers may find distressing</strong></p><p>News stories about domestic violence inadvertently ran alongside advertisements for faux-bloodstained shirts reading “problem solved”, prompting advocates for victim-survivors to urge publishers to avoid making light o",
+        "title": "Review urged after blood-spattered shirt ads ran alongside domestic violence news in Australia"
+      }
+    ],
+    "title": "Review urged after blood-spattered shirt ads ran alongside domestic violence news in Australia",
+    "summary": "Review urged after blood-spattered shirt ads ran alongside domestic violence news in Australia <p>Gruesome ads embedded in articles about family violence ‘make light’ of violence and could distress victim-survivors, expert warns</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li></ul><p><strong>WARNING: this story contains an image some readers may find distressing</strong></p><p>News stories about domestic violence inadvertently ran alongside advertisements for faux-bloodstained shirts reading “problem solved”, prompting advocates for victim-survivors to urge publishers to avoid making light o"
+  },
+  {
+    "id": "story-23",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-23T00:00:00.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+        "date": "2026-09-23T00:00:00.000Z",
+        "snippet": "President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.",
+        "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN"
+      }
+    ],
+    "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
+    "summary": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN."
+  },
+  {
+    "id": "story-24",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T23:48:02.000Z",
@@ -291,75 +566,143 @@
     "summary": "23h Já reabriu a Estrada Nacional 105, na zona de Santo Tirso "
   },
   {
-    "id": "story-4",
-    "topic": "politik",
-    "country": "DE",
-    "date": "2026-09-22T23:17:49.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3gteGVRLXBpbVNIVllrLTM1ejdOX1lORUZsbmFsdEtUbFhpVDMwajJ2WENPeDlnSU1TTjFxTjdyUjh0MXhhR0RSbldDRGR2UTZERWNraVd5dndaNHVhNXZQUTVFblRUaTJwMm9YWF9ndUNySTNseVlXbWduLUxtM2picmxlamVmdXdzSHhLdmlsb3huc3JGMkthU2NXbGFKdWhjRG1WMGxib0l6S1BWM1VnTENlTmlocHpTVVU1bnRKRWRXTFNDeDdWT2ZNRjlSQ1pVSG0xOFM2RVFXUXlkMzdHTF8wNzJfc1E?oc=5",
-        "date": "2026-09-22T23:17:49.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3gteGVRLXBpbVNIVllrLTM1ejdOX1lORUZsbmFsdEtUbFhpVDMwajJ2WENPeDlnSU1TTjFxTjdyUjh0MXhhR0RSbldDRGR2UTZERWNraVd5dndaNHVhNXZQUTVFblRUaTJwMm9YWF9ndUNySTNseVlXbWduLUxtM2picmxlamVmdXdzSHhLdmlsb3huc3JGMkthU2NXbGFKdWhjRG1WMGxib0l6S1BWM1VnTENlTmlocHpTVVU1bnRKRWRXTFNDeDdWT2ZNRjlSQ1pVSG0xOFM2RVFXUXlkMzdHTF8wNzJfc1E?oc=5\" target=\"_blank\">Strom: Dieser Zähler eröffnet neue Wege zu Stromrabatten und lukrativen Tarifen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEhKX1U4UWRDYTI4UTJLY3hMd1RUY3VFTVFRQTVUUURyeEMza2FnRWVPRVR6VkdNMncteDdDRGt0UkY1TE84SnRER0NLLXFyMHNDWnNBc",
-        "title": "Strom: Dieser Zähler eröffnet neue Wege zu Stromrabatten und lukrativen Tarifen - WELT"
-      }
-    ],
-    "title": "Strom: Dieser Zähler eröffnet neue Wege zu Stromrabatten und lukrativen Tarifen - WELT",
-    "summary": "Strom: Dieser Zähler eröffnet neue Wege zu Stromrabatten und lukrativen Tarifen - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3gteGVRLXBpbVNIVllrLTM1ejdOX1lORUZsbmFsdEtUbFhpVDMwajJ2WENPeDlnSU1TTjFxTjdyUjh0MXhhR0RSbldDRGR2UTZERWNraVd5dndaNHVhNXZQUTVFblRUaTJwMm9YWF9ndUNySTNseVlXbWduLUxtM2picmxlamVmdXdzSHhLdmlsb3huc3JGMkthU2NXbGFKdWhjRG1WMGxib0l6S1BWM1VnTENlTmlocHpTVVU1bnRKRWRXTFNDeDdWT2ZNRjlSQ1pVSG0xOFM2RVFXUXlkMzdHTF8wNzJfc1E?oc=5\" target=\"_blank\">Strom: Dieser Zähler eröffnet neue Wege zu Stromrabatten und lukrativen Tarifen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEhKX1U4UWRDYTI4UTJLY3hMd1RUY3VFTVFRQTVUUURyeEMza2FnRWVPRVR6VkdNMncteDdDRGt0UkY1TE84SnRER0NLLXFyMHNDWnNBc"
-  },
-  {
-    "id": "story-5",
+    "id": "story-25",
     "topic": "panorama",
     "country": "INT",
-    "date": "2026-09-22T23:10:41.000Z",
+    "date": "2026-09-22T23:46:06.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+        "date": "2026-09-22T23:46:06.000Z",
+        "snippet": "Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict.",
+        "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions"
+      }
+    ],
+    "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+    "summary": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict."
+  },
+  {
+    "id": "story-26",
+    "topic": "umwelt",
+    "country": "INT",
+    "date": "2026-09-22T23:41:30.000Z",
     "sources": [
       {
         "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalNuU1pQUWJhNTJNaVY4LXQ3bmpQUG1BQTU0Y3ByVEtmOGhUUFg3TDh3cE5rT3FoTFZrQk1Dc0NPR0ZLaE9qWTN1QVFEOUNBbEhlX0JmQkdCYkY4MVRLdE85TVZpSHNaeVhveWZYa1laOUk3OGlxNDYtZVRUNWZXMTF4ZlhYbHRHRDltVXpDYUwwOHdQdmJYTDZiRVNuLWs?oc=5",
-        "date": "2026-09-22T23:10:41.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOalNuU1pQUWJhNTJNaVY4LXQ3bmpQUG1BQTU0Y3ByVEtmOGhUUFg3TDh3cE5rT3FoTFZrQk1Dc0NPR0ZLaE9qWTN1QVFEOUNBbEhlX0JmQkdCYkY4MVRLdE85TVZpSHNaeVhveWZYa1laOUk3OGlxNDYtZVRUNWZXMTF4ZlhYbHRHRDltVXpDYUwwOHdQdmJYTDZiRVNuLWs?oc=5\" target=\"_blank\">Iowa universities see US News & World Report rankings rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News From The States</font>",
-        "title": "Iowa universities see US News & World Report rankings rise - News From The States"
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFJKVElza3luajRQRC10MllfYmlNYnZRSHMyT2tIYzRjRmphcG1jUnItdWt6Tk8tNGhxVS1HMXAxSXNIV0xEX19iYXB4bi1neUo3TnN4QmFUVi1NazctcHlGRzBkYi01VkEySnJCcV9YU2FxeWh3b212U0FoOTZqbzh3LV8teXFjUXJna290MjNuMEltc1VNWkFGY09ibk0?oc=5",
+        "date": "2026-09-22T23:41:30.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFJKVElza3luajRQRC10MllfYmlNYnZRSHMyT2tIYzRjRmphcG1jUnItdWt6Tk8tNGhxVS1HMXAxSXNIV0xEX19iYXB4bi1neUo3TnN4QmFUVi1NazctcHlGRzBkYi01VkEySnJCcV9YU2FxeWh3b212U0FoOTZqbzh3LV8teXFjUXJna290MjNuMEltc1VNWkFGY09ibk0?oc=5\" target=\"_blank\">Competing Climate Visions Clash at UN General Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insideclimatenews.org</font>",
+        "title": "Competing Climate Visions Clash at UN General Assembly - insideclimatenews.org"
       }
     ],
-    "title": "Iowa universities see US News & World Report rankings rise - News From The States",
-    "summary": "Iowa universities see US News & World Report rankings rise - News From The States <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOalNuU1pQUWJhNTJNaVY4LXQ3bmpQUG1BQTU0Y3ByVEtmOGhUUFg3TDh3cE5rT3FoTFZrQk1Dc0NPR0ZLaE9qWTN1QVFEOUNBbEhlX0JmQkdCYkY4MVRLdE85TVZpSHNaeVhveWZYa1laOUk3OGlxNDYtZVRUNWZXMTF4ZlhYbHRHRDltVXpDYUwwOHdQdmJYTDZiRVNuLWs?oc=5\" target=\"_blank\">Iowa universities see US News & World Report rankings rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News From The States</font>"
+    "title": "Competing Climate Visions Clash at UN General Assembly - insideclimatenews.org",
+    "summary": "Competing Climate Visions Clash at UN General Assembly - insideclimatenews.org <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFJKVElza3luajRQRC10MllfYmlNYnZRSHMyT2tIYzRjRmphcG1jUnItdWt6Tk8tNGhxVS1HMXAxSXNIV0xEX19iYXB4bi1neUo3TnN4QmFUVi1NazctcHlGRzBkYi01VkEySnJCcV9YU2FxeWh3b212U0FoOTZqbzh3LV8teXFjUXJna290MjNuMEltc1VNWkFGY09ibk0?oc=5\" target=\"_blank\">Competing Climate Visions Clash at UN General Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insideclimatenews.org</font>"
   },
   {
-    "id": "story-6",
+    "id": "story-27",
     "topic": "panorama",
+    "country": "UK",
+    "date": "2026-09-22T23:36:12.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-22T23:36:12.000Z",
+        "snippet": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+        "title": "US judge blocks deportation of DoorDash driver shot by ICE"
+      }
+    ],
+    "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+    "summary": "US judge blocks deportation of DoorDash driver shot by ICE The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday."
+  },
+  {
+    "id": "story-28",
+    "topic": "politik",
     "country": "PT",
-    "date": "2026-09-22T23:05:17.000Z",
+    "date": "2026-09-22T23:24:17.000Z",
     "sources": [
       {
         "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjVxYldFMUpXdDdQcUpVb3YwS0pkVGdvSWsyQUxWTlh1YTZRUVRlajh1eE5Pclh5Um5VXzl4WmVTMnJfcXhGTkd5bTRTY196V0U0VnVTS2NhSlZJd3N1T3lZZjNjcGNmRmdXVGo0azl3S21sSTFiXy05dXdKQjRtUno1dmp4RTY4eHVqVmpLYlN5VG1X?oc=5",
-        "date": "2026-09-22T23:05:17.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjVxYldFMUpXdDdQcUpVb3YwS0pkVGdvSWsyQUxWTlh1YTZRUVRlajh1eE5Pclh5Um5VXzl4WmVTMnJfcXhGTkd5bTRTY196V0U0VnVTS2NhSlZJd3N1T3lZZjNjcGNmRmdXVGo0azl3S21sSTFiXy05dXdKQjRtUno1dmp4RTY4eHVqVmpLYlN5VG1X?oc=5\" target=\"_blank\">Barba e Cabelo de 23 de setembro de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A Bola</font>",
-        "title": "Barba e Cabelo de 23 de setembro de 2026 - A Bola"
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFRNM09hWHo5dmJ3TTdHUGd6WGNjek9rQzVFWnhPQzczOERVdDN2ZlYtX0FxYktla2Z1TXNLQjBpOTNodDZWVUlQcnJ3SU8tSUViWnB1NFRrWjBPQS0xY3dKVkIxSnBqQmtOSnJhQXoyUzdMdVVwSTRqVkl3YWJWZTR4bDF3LVVDNkdOc3hfZzFpM2VjajR2TF9vU2NoRnF3ZzBBend5TQ?oc=5",
+        "date": "2026-09-22T23:24:17.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFRNM09hWHo5dmJ3TTdHUGd6WGNjek9rQzVFWnhPQzczOERVdDN2ZlYtX0FxYktla2Z1TXNLQjBpOTNodDZWVUlQcnJ3SU8tSUViWnB1NFRrWjBPQS0xY3dKVkIxSnBqQmtOSnJhQXoyUzdMdVVwSTRqVkl3YWJWZTR4bDF3LVVDNkdOc3hfZzFpM2VjajR2TF9vU2NoRnF3ZzBBend5TQ?oc=5\" target=\"_blank\">EUA e Dinamarca assinam acordo sobre segurança na Gronelândia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVY3NWo2OU5aQU5vb2NGandnVXNROUEwV3I0UGhoTlZCOUJPOG94cXJiR2hQa2FVSFotRkhlMlNXelU1ZUV0Qy1feXh1bW8wNDdzbDR1aThBTng2NHp2Uk45YU9IaG1PakUwSGhCMWVZZEZSZzRjcFhCTFZncEZWR2xCazBoczZxSG1NX2FveVFocDRVTHAybVU0enpkSnV2MHdocmxxd",
+        "title": "EUA e Dinamarca assinam acordo sobre segurança na Gronelândia - RTP"
       }
     ],
-    "title": "Barba e Cabelo de 23 de setembro de 2026 - A Bola",
-    "summary": "Barba e Cabelo de 23 de setembro de 2026 - A Bola <a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjVxYldFMUpXdDdQcUpVb3YwS0pkVGdvSWsyQUxWTlh1YTZRUVRlajh1eE5Pclh5Um5VXzl4WmVTMnJfcXhGTkd5bTRTY196V0U0VnVTS2NhSlZJd3N1T3lZZjNjcGNmRmdXVGo0azl3S21sSTFiXy05dXdKQjRtUno1dmp4RTY4eHVqVmpLYlN5VG1X?oc=5\" target=\"_blank\">Barba e Cabelo de 23 de setembro de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A Bola</font>"
+    "title": "EUA e Dinamarca assinam acordo sobre segurança na Gronelândia - RTP",
+    "summary": "EUA e Dinamarca assinam acordo sobre segurança na Gronelândia - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFRNM09hWHo5dmJ3TTdHUGd6WGNjek9rQzVFWnhPQzczOERVdDN2ZlYtX0FxYktla2Z1TXNLQjBpOTNodDZWVUlQcnJ3SU8tSUViWnB1NFRrWjBPQS0xY3dKVkIxSnBqQmtOSnJhQXoyUzdMdVVwSTRqVkl3YWJWZTR4bDF3LVVDNkdOc3hfZzFpM2VjajR2TF9vU2NoRnF3ZzBBend5TQ?oc=5\" target=\"_blank\">EUA e Dinamarca assinam acordo sobre segurança na Gronelândia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVY3NWo2OU5aQU5vb2NGandnVXNROUEwV3I0UGhoTlZCOUJPOG94cXJiR2hQa2FVSFotRkhlMlNXelU1ZUV0Qy1feXh1bW8wNDdzbDR1aThBTng2NHp2Uk45YU9IaG1PakUwSGhCMWVZZEZSZzRjcFhCTFZncEZWR2xCazBoczZxSG1NX2FveVFocDRVTHAybVU0enpkSnV2MHdocmxxd"
   },
   {
-    "id": "story-7",
+    "id": "story-29",
     "topic": "politik",
-    "country": "UK",
-    "date": "2026-09-22T23:04:35.000Z",
+    "country": "INT",
+    "date": "2026-09-22T23:20:55.000Z",
     "sources": [
       {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
-        "date": "2026-09-22T23:04:35.000Z",
-        "snippet": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Andrew Bragg</strong>, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.</p><p>The policy hasn’t been adopted by the opposition, and leader <strong>Angus Taylor </strong>said yesterday it wasn’t Coalition policy.</p><p>W",
-        "title": "Australia news live: Joyce says One Nation talking to Coalition about power-sharing agreement; fog causes Sydney airport delays"
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1pwSlNPMnRwVDQ1VmE2STlwTm9YdTUtSm5KNmZMaDdUWmZTRkNPMTl1cUY4MzdUcUNOaXBobGVzSWRWWUlZXzFKcGZBalEybHdBTFRQLUVrVXRsTkVwQTJRcklyLWZod1NOZjZsaGdnY09GdWJHUmg0YzA2dnlZTw?oc=5",
+        "date": "2026-09-22T23:20:55.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1pwSlNPMnRwVDQ1VmE2STlwTm9YdTUtSm5KNmZMaDdUWmZTRkNPMTl1cUY4MzdUcUNOaXBobGVzSWRWWUlZXzFKcGZBalEybHdBTFRQLUVrVXRsTkVwQTJRcklyLWZod1NOZjZsaGdnY09GdWJHUmg0YzA2dnlZTw?oc=5\" target=\"_blank\">Hotfixes: September 22, 2026 — World of Warcraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.blizzard.com</font>",
+        "title": "Hotfixes: September 22, 2026 — World of Warcraft - news.blizzard.com"
       }
     ],
-    "title": "Australia news live: Joyce says One Nation talking to Coalition about power-sharing agreement; fog causes Sydney airport delays",
-    "summary": "Australia news live: Joyce says One Nation talking to Coalition about power-sharing agreement; fog causes Sydney airport delays <p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Andrew Bragg</strong>, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.</p><p>The policy hasn’t been adopted by the opposition, and leader <strong>Angus Taylor </strong>said yesterday it wasn’t Coalition policy.</p><p>W"
+    "title": "Hotfixes: September 22, 2026 — World of Warcraft - news.blizzard.com",
+    "summary": "Hotfixes: September 22, 2026 — World of Warcraft - news.blizzard.com <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1pwSlNPMnRwVDQ1VmE2STlwTm9YdTUtSm5KNmZMaDdUWmZTRkNPMTl1cUY4MzdUcUNOaXBobGVzSWRWWUlZXzFKcGZBalEybHdBTFRQLUVrVXRsTkVwQTJRcklyLWZod1NOZjZsaGdnY09GdWJHUmg0YzA2dnlZTw?oc=5\" target=\"_blank\">Hotfixes: September 22, 2026 — World of Warcraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.blizzard.com</font>"
   },
   {
-    "id": "story-8",
+    "id": "story-30",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-22T23:20:17.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
+        "date": "2026-09-22T23:20:17.000Z",
+        "snippet": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.",
+        "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters"
+      }
+    ],
+    "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
+    "summary": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan."
+  },
+  {
+    "id": "story-31",
+    "topic": "politik",
+    "country": "DE",
+    "date": "2026-09-22T23:16:57.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRl90NzNxYkc4YWx2NlFIVktZM3F1RzhrOFdSTWYtWXBGSE1fOXpmSFdic3AzZXNlamZBaVhOVFZZRWJJRDg5MlptYWhxbEowcENLUmtzOTJmQWwySnI3NXk3cktRS2NPQTh4NGhWbDc1djROQ2RQUVJFTFFNc21pS2wxUEJVNVJaeWh5VHYyZw?oc=5",
+        "date": "2026-09-22T23:16:57.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRl90NzNxYkc4YWx2NlFIVktZM3F1RzhrOFdSTWYtWXBGSE1fOXpmSFdic3AzZXNlamZBaVhOVFZZRWJJRDg5MlptYWhxbEowcENLUmtzOTJmQWwySnI3NXk3cktRS2NPQTh4NGhWbDc1djROQ2RQUVJFTFFNc21pS2wxUEJVNVJaeWh5VHYyZw?oc=5\" target=\"_blank\">Todesursache liegt vor: Hayden Panettiere starb an Fentanyl-Cocktail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWNMZHJUVXBTSXU1dGVDMmpoelRLOEpmVU92a0tNQzJOcjRMaThoWjYwczhoSjIzeWxfN2xxMmRWNU41bXNveDNLZHFBRHlvanF0VUliSk00TXhtb281MWIzbksxTnk3Y3RQU2pXRGFuY0xncDlWcG9YN0lBcEtnZ2pfR0J4RGFPQXF0Snh0M3BJZmNqMDR5WWJLdXQxX3BqbkFCUFg4M09WZw?oc=5\" target=\"_",
+        "title": "Todesursache liegt vor: Hayden Panettiere starb an Fentanyl-Cocktail - n-tv.de"
+      }
+    ],
+    "title": "Todesursache liegt vor: Hayden Panettiere starb an Fentanyl-Cocktail - n-tv.de",
+    "summary": "Todesursache liegt vor: Hayden Panettiere starb an Fentanyl-Cocktail - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRl90NzNxYkc4YWx2NlFIVktZM3F1RzhrOFdSTWYtWXBGSE1fOXpmSFdic3AzZXNlamZBaVhOVFZZRWJJRDg5MlptYWhxbEowcENLUmtzOTJmQWwySnI3NXk3cktRS2NPQTh4NGhWbDc1djROQ2RQUVJFTFFNc21pS2wxUEJVNVJaeWh5VHYyZw?oc=5\" target=\"_blank\">Todesursache liegt vor: Hayden Panettiere starb an Fentanyl-Cocktail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWNMZHJUVXBTSXU1dGVDMmpoelRLOEpmVU92a0tNQzJOcjRMaThoWjYwczhoSjIzeWxfN2xxMmRWNU41bXNveDNLZHFBRHlvanF0VUliSk00TXhtb281MWIzbksxTnk3Y3RQU2pXRGFuY0xncDlWcG9YN0lBcEtnZ2pfR0J4RGFPQXF0Snh0M3BJZmNqMDR5WWJLdXQxX3BqbkFCUFg4M09WZw?oc=5\" target=\"_"
+  },
+  {
+    "id": "story-32",
+    "topic": "panorama",
+    "country": "INT",
+    "date": "2026-09-22T23:15:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW9lTmdWWnJLQ1JYM3BCWnRWTFRLVzhkWVhWeHZvVG8wSDJDa1ZwYVFzd2JZRkhabkxSbzdmQy12U2tkdkMwU245bTR0OERqdTVPendPVTFiMFNmcUZvTWlKY0RCakdZMXhhSXhySmlJTHlpd3k1ZWJ1b3Qxc0RTakRLRUJkYk1aV2xOcWF1V293aE4zNndDaE9UQm9MS1VIY2c?oc=5",
+        "date": "2026-09-22T23:15:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW9lTmdWWnJLQ1JYM3BCWnRWTFRLVzhkWVhWeHZvVG8wSDJDa1ZwYVFzd2JZRkhabkxSbzdmQy12U2tkdkMwU245bTR0OERqdTVPendPVTFiMFNmcUZvTWlKY0RCakdZMXhhSXhySmlJTHlpd3k1ZWJ1b3Qxc0RTakRLRUJkYk1aV2xOcWF1V293aE4zNndDaE9UQm9MS1VIY2c?oc=5\" target=\"_blank\">Iowa universities see US News & World Report rankings rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa Capital Dispatch</font>",
+        "title": "Iowa universities see US News & World Report rankings rise - Iowa Capital Dispatch"
+      }
+    ],
+    "title": "Iowa universities see US News & World Report rankings rise - Iowa Capital Dispatch",
+    "summary": "Iowa universities see US News & World Report rankings rise - Iowa Capital Dispatch <a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW9lTmdWWnJLQ1JYM3BCWnRWTFRLVzhkWVhWeHZvVG8wSDJDa1ZwYVFzd2JZRkhabkxSbzdmQy12U2tkdkMwU245bTR0OERqdTVPendPVTFiMFNmcUZvTWlKY0RCakdZMXhhSXhySmlJTHlpd3k1ZWJ1b3Qxc0RTakRLRUJkYk1aV2xOcWF1V293aE4zNndDaE9UQm9MS1VIY2c?oc=5\" target=\"_blank\">Iowa universities see US News & World Report rankings rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa Capital Dispatch</font>"
+  },
+  {
+    "id": "story-33",
     "topic": "technik",
     "country": "UK",
     "date": "2026-09-22T23:03:48.000Z",
@@ -376,7 +719,7 @@
     "summary": "Will a switch to light speed cut power use at data centres? To save power and add capacity, data centres are switching from copper wires to tech using light."
   },
   {
-    "id": "story-9",
+    "id": "story-34",
     "topic": "wissenschaft",
     "country": "UK",
     "date": "2026-09-22T23:02:29.000Z",
@@ -393,24 +736,7 @@
     "summary": "India is producing more green energy - but wasting a lot of it India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages."
   },
   {
-    "id": "story-10",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T23:02:13.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFg3cVhnT3FaODczWUFGV1ZndUNoRHFFR1l1WW9DTUR2UWNYZ3JPQW1FaGhWd0tXLURibDQzTkhGbnJ3NkZTS1lLNDdxWkx0cDROZFlfRkNSR1otT1lWRzZKNUp6c194c3JwdVowam9aSEFLRlJEbzNob2hvNWF5Rm1YbFFkT3dnTFFKd2lQQUpzWFBXbGotQW1lYTZrdHg5SmFjZGtrMWVxZ9IBsgFBVV95cUxPeVVCZk12MW9uQW5icHlMSk1kdkQtZkgzWFlqT3loQjhwNGxzOXBoVzRHc09XTkNIOFhPOVl5X2ZzczVTV2tDY2V2X1ZzUXZaSWxZc0Z0SWdzam91ZjVsRmpfcEVKVUVXeTVFdkpwaWdtb0RqTVU1cGNqOUtyeENkSVU2VERWbURLeWl3S2RSLW5rRGRMNFcxaWdkdWJJanBPTnhyaEV3QmZ3dDBLdmdCZkR3?oc=5",
-        "date": "2026-09-22T23:02:13.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFg3cVhnT3FaODczWUFGV1ZndUNoRHFFR1l1WW9DTUR2UWNYZ3JPQW1FaGhWd0tXLURibDQzTkhGbnJ3NkZTS1lLNDdxWkx0cDROZFlfRkNSR1otT1lWRzZKNUp6c194c3JwdVowam9aSEFLRlJEbzNob2hvNWF5Rm1YbFFkT3dnTFFKd2lQQUpzWFBXbGotQW1lYTZrdHg5SmFjZGtrMWVxZ9IBsgFBVV95cUxPeVVCZk12MW9uQW5icHlMSk1kdkQtZkgzWFlqT3loQjhwNGxzOXBoVzRHc09XTkNIOFhPOVl5X2ZzczVTV2tDY2V2X1ZzUXZaSWxZc0Z0SWdzam91ZjVsRmpfcEVKVUVXeTVFdkpwaWdtb0RqTVU1cGNqOUtyeENkSVU2VERWbURLeWl3S2RSLW5rRGRMNFcxaWdkdWJJanBPTnhyaEV3QmZ3dDBLdmdCZkR3?oc=5\" target=\"_blank\">\"You Should Not Be Here\": Trump Scolds CNN Journalist At UN Amid Row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-        "title": "\"You Should Not Be Here\": Trump Scolds CNN Journalist At UN Amid Row - NDTV"
-      }
-    ],
-    "title": "\"You Should Not Be Here\": Trump Scolds CNN Journalist At UN Amid Row - NDTV",
-    "summary": "\"You Should Not Be Here\": Trump Scolds CNN Journalist At UN Amid Row - NDTV <a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFg3cVhnT3FaODczWUFGV1ZndUNoRHFFR1l1WW9DTUR2UWNYZ3JPQW1FaGhWd0tXLURibDQzTkhGbnJ3NkZTS1lLNDdxWkx0cDROZFlfRkNSR1otT1lWRzZKNUp6c194c3JwdVowam9aSEFLRlJEbzNob2hvNWF5Rm1YbFFkT3dnTFFKd2lQQUpzWFBXbGotQW1lYTZrdHg5SmFjZGtrMWVxZ9IBsgFBVV95cUxPeVVCZk12MW9uQW5icHlMSk1kdkQtZkgzWFlqT3loQjhwNGxzOXBoVzRHc09XTkNIOFhPOVl5X2ZzczVTV2tDY2V2X1ZzUXZaSWxZc0Z0SWdzam91ZjVsRmpfcEVKVUVXeTVFdkpwaWdtb0RqTVU1cGNqOUtyeENkSVU2VERWbURLeWl3S2RSLW5rRGRMNFcxaWdkdWJJanBPTnhyaEV3QmZ3dDBLdmdCZkR3?oc=5\" target=\"_blank\">\"You Should Not Be Here\": Trump Scolds CNN Journalist At UN Amid Row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>"
-  },
-  {
-    "id": "story-11",
+    "id": "story-35",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T23:01:08.000Z",
@@ -427,7 +753,7 @@
     "summary": "Pay rent, eat or keep warm? Growing numbers face hard choices as housing benefit gap grows <p>Wirral mother among renters turning to food banks as gap between a two-bed and housing benefit hits £158 a month – rising to as much as £324 in London</p><p>Do you prioritise paying the rent, putting food on the table or keeping the house warm in winter? In practice, says Laura Braddock, a single mum from Wirral, Merseyside, you always pay the rent first and improvise the rest. “If I’ve got a roof over our head, then everything else I can muddle through.”</p><p>The pressing problem for Braddock, 39, is that muddling through is getting harder. The monthly rent for her two-bedroom flat far outstrips the local housing allowance (LHA) she receives – and the gap may widen.</p> <a href=\"https:/"
   },
   {
-    "id": "story-12",
+    "id": "story-36",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T23:01:07.000Z",
@@ -444,7 +770,7 @@
     "summary": "England’s mayors should face greater scrutiny as powers expand, thinktank says <p>IPPR North says one bad decision could derail devolution agenda as regions gain control of billions in funding</p><p>England’s mayors should face much greater official scrutiny to avoid Andy Burnham’s devolution agenda being “derailed by one bad decision”, a thinktank has said.</p><p>Ministers will set out plans next month to give regional leaders control over potentially billions of pounds of additional funding under a “transformational” shift of power outside Whitehall.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/23/england-mayors-greater-scrutiny-powers-expand-thinktank\">Continue reading...</a>"
   },
   {
-    "id": "story-13",
+    "id": "story-37",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T22:58:12.000Z",
@@ -461,7 +787,7 @@
     "summary": "PR pede Estado aliado dos contabilistas com estabilidade na legislação fiscal e celeridade na justiça O Presidente da República, António José Seguro, defendeu hoje que o Estado deve ser um aliado dos contabilistas, garantindo estabilidade na legislação fiscal, celeridade na justiça, menos burocracia e mais modernização de procedimentos."
   },
   {
-    "id": "story-14",
+    "id": "story-38",
     "topic": "politik",
     "country": "DE",
     "date": "2026-09-22T22:56:04.000Z",
@@ -478,7 +804,7 @@
     "summary": "Alzheimer: Leqembi verlangsamt Krankheit um 6–9 Monate - BornCity <ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDJocFVHR2F5TzI5TjFvN0sxTjJMdlVCcHVQV3FvQ18zdDhOc1lZYzQtU1liaVZGTUY5MTk0VWpKZU9jMnlMakpaaWVmdjM4RUdiMXR3VHQ5VXV3c0EtdzlEdUprcmZURTNOTHVfaFBmMFg1VndSYUtPZ0hsYVlKcWF1STZzN0k?oc=5\" target=\"_blank\">Alzheimer: Leqembi verlangsamt Krankheit um 6–9 Monate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BornCity</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHVoNnh3VGtyRXRETWk0ek5WdjE3U1NGdV8xZzI5X1ozLUxZS3pEeHlLVFdLeU9ibW5mT3JScXhWU25FXzhyelhqR3VOQTY4TGJxaVBmb1BILVk0MzhZeEh2NmtCb1RMZzhFQ2EwcHFwVHJXTmNkbTR2U2QyOXRyWE9BMEJpMk5udDFUWFViTFJEU2hQbkxMM1RXRHE5d19NOWc4X09sNXQxM1phYTI2YU11ZEJWTmZaTUpqUkZzcUNCWmc0VG5ERl"
   },
   {
-    "id": "story-15",
+    "id": "story-39",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T22:53:52.000Z",
@@ -495,41 +821,7 @@
     "summary": "PM assegura nos EUA que Portugal vai ter excedente este ano e crescer acima da média europeia O primeiro-ministro assegurou hoje, na bolsa de Nova Iorque, que Portugal vai ter um novo excedente orçamental este ano e que o país vai continuar a crescer acima da média europeia, apelando a mais investimento dos Estados Unidos."
   },
   {
-    "id": "story-16",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T22:52:00.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-        "date": "2026-09-22T22:52:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5\" target=\"_blank\">Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-        "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News"
-      }
-    ],
-    "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News",
-    "summary": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News <a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5\" target=\"_blank\">Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>"
-  },
-  {
-    "id": "story-17",
-    "topic": "politik",
-    "country": "UK",
-    "date": "2026-09-22T22:50:53.000Z",
-    "sources": [
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-        "date": "2026-09-22T22:50:53.000Z",
-        "snippet": "<p>Trump threatens to ‘annihilate’ Iran and ‘drive them into Hell’ if there isn’t a deal, while also underscoring US policy on Cuba, Mexico, Greenland and AI</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US Breaking News emails</a></p></li></ul><p><strong>Trump</strong> is arriving at the UN HQ right now.</p><p>After <em>very</em> brief doorstep comments – almost exclusively <a href=\"https://www.theguardian.com/us-news/2026/sep/21/trump-tv-n",
-        "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live"
-      }
-    ],
-    "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
-    "summary": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live <p>Trump threatens to ‘annihilate’ Iran and ‘drive them into Hell’ if there isn’t a deal, while also underscoring US policy on Cuba, Mexico, Greenland and AI</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US Breaking News emails</a></p></li></ul><p><strong>Trump</strong> is arriving at the UN HQ right now.</p><p>After <em>very</em> brief doorstep comments – almost exclusively <a href=\"https://www.theguardian.com/us-news/2026/sep/21/trump-tv-n"
-  },
-  {
-    "id": "story-18",
+    "id": "story-40",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T22:48:56.000Z",
@@ -546,7 +838,7 @@
     "summary": "UNGA Day 1: US and Iran hold talks despite Trump’s threat The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address."
   },
   {
-    "id": "story-19",
+    "id": "story-41",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:47:31.000Z",
@@ -563,24 +855,7 @@
     "summary": "Lista de finalistas de prémio literário Booker 2026 inclui dois antigos vencedores A lista dos seis finalistas do Prémio Booker deste ano inclui dois autores que já o conquistaram no passado e uma finalista de outra edição, revelou hoje a organização."
   },
   {
-    "id": "story-20",
-    "topic": "panorama",
-    "country": "INT",
-    "date": "2026-09-22T22:45:21.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmxKMUZOOU9oR2xFVjlJMFJXWUMyb0h6NlVtZDdYTzZHcE5LWlFCZEtiQmtDVGZfcnpaUk5FdjZ0bU0ybDRlX3pMSEoxUmJFM09FT05ZOEZlRnVwN1FZZVY0RmRrM3lHUy1DTWRLdFJnUFNSRXhiNFJjWVY3UU9pcmlBTGJBRmJuOHlxeEpQTUFiSFJNQjBDYlF3NkdPYTdRRVlMN2I3dWVmYURIUFU5cThNRTZIOW5paDQzbDFhQnZmb0JBcEHSAcYBQVVfeXFMTUlIRlZyWmN6cC1DcUl6b2RVMnNWaTVZZHRhcjcySFZfdTl0dmIzN2lLZ3NUM2RxVmNDUmlQQ1ZzQWdnMHQzTHdpWkoxdjlIcDNFRUozTzg2cGhfUUREZU5jMnBCVkZGWEZwOFBRZXZlSDd0QmR3cENWajN1ZWFoZlBDbzZFREl0VS0tRlRuYXlNaFNJYThXSmxEOEcxTnZ6aENZeGprWEtXN1JNWTBpSDhzODhkSWdvU2pyMjVXNXV2MS00QUF3?oc=5",
-        "date": "2026-09-22T22:45:21.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmxKMUZOOU9oR2xFVjlJMFJXWUMyb0h6NlVtZDdYTzZHcE5LWlFCZEtiQmtDVGZfcnpaUk5FdjZ0bU0ybDRlX3pMSEoxUmJFM09FT05ZOEZlRnVwN1FZZVY0RmRrM3lHUy1DTWRLdFJnUFNSRXhiNFJjWVY3UU9pcmlBTGJBRmJuOHlxeEpQTUFiSFJNQjBDYlF3NkdPYTdRRVlMN2I3dWVmYURIUFU5cThNRTZIOW5paDQzbDFhQnZmb0JBcEHSAcYBQVVfeXFMTUlIRlZyWmN6cC1DcUl6b2RVMnNWaTVZZHRhcjcySFZfdTl0dmIzN2lLZ3NUM2RxVmNDUmlQQ1ZzQWdnMHQzTHdpWkoxdjlIcDNFRUozTzg2cGhfUUREZU5jMnBCVkZGWEZwOFBRZXZlSDd0QmR3cENWajN1ZWFoZlBDbzZFREl0VS0tRlRuYXlNaFNJYThXSmxEOEcxTnZ6aENZeGprWEtXN1JNWTBpSDhzODhkSWdvU2pyMjVXNXV2MS00QUF3?oc=5\" target=\"_blank\">Archaeologists discover an underground world hidden for centuries</a>&nbsp;&nbsp;<font colo",
-        "title": "Archaeologists discover an underground world hidden for centuries - MARCA"
-      }
-    ],
-    "title": "Archaeologists discover an underground world hidden for centuries - MARCA",
-    "summary": "Archaeologists discover an underground world hidden for centuries - MARCA <a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmxKMUZOOU9oR2xFVjlJMFJXWUMyb0h6NlVtZDdYTzZHcE5LWlFCZEtiQmtDVGZfcnpaUk5FdjZ0bU0ybDRlX3pMSEoxUmJFM09FT05ZOEZlRnVwN1FZZVY0RmRrM3lHUy1DTWRLdFJnUFNSRXhiNFJjWVY3UU9pcmlBTGJBRmJuOHlxeEpQTUFiSFJNQjBDYlF3NkdPYTdRRVlMN2I3dWVmYURIUFU5cThNRTZIOW5paDQzbDFhQnZmb0JBcEHSAcYBQVVfeXFMTUlIRlZyWmN6cC1DcUl6b2RVMnNWaTVZZHRhcjcySFZfdTl0dmIzN2lLZ3NUM2RxVmNDUmlQQ1ZzQWdnMHQzTHdpWkoxdjlIcDNFRUozTzg2cGhfUUREZU5jMnBCVkZGWEZwOFBRZXZlSDd0QmR3cENWajN1ZWFoZlBDbzZFREl0VS0tRlRuYXlNaFNJYThXSmxEOEcxTnZ6aENZeGprWEtXN1JNWTBpSDhzODhkSWdvU2pyMjVXNXV2MS00QUF3?oc=5\" target=\"_blank\">Archaeologists discover an underground world hidden for centuries</a>&nbsp;&nbsp;<font colo"
-  },
-  {
-    "id": "story-21",
+    "id": "story-42",
     "topic": "politik",
     "country": "DE",
     "date": "2026-09-22T22:44:43.000Z",
@@ -597,7 +872,7 @@
     "summary": "Mehr Staatsmann und weniger Konfrontation US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert. Doch hinter dem Kurswechsel stecken vor allem innenpolitischer Druck und die Suche nach einem Ausweg, meint Martin Ganslmeier."
   },
   {
-    "id": "story-22",
+    "id": "story-43",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:44:29.000Z",
@@ -614,7 +889,7 @@
     "summary": "Câmara de Lisboa recusa reverter despejo de mãe viúva com duas crianças e diz que há \"2.800 famílias à frente\" O vereador da Habitação na Câmara de Lisboa recusou hoje reverter o processo de despejo de uma mãe com duas crianças de uma habitação municipal em Marvila, afirmando que existem \"2.800 famílias à frente\" para acesso ao Arrendamento Apoiado."
   },
   {
-    "id": "story-23",
+    "id": "story-44",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T22:38:28.000Z",
@@ -631,7 +906,7 @@
     "summary": "US supreme court declines to intervene in custody fight over baby born via surrogate <p>Surrogate who rejected abortion request had asked justices to halt court order recognizing LA couple as legal parents</p><p>The supreme court has refused to get involved with a custody dispute between an Alaska surrogate and a California couple whose child was born with a rare and serious heart defect.</p><p>On Tuesday, Justice Elena Kagan denied an emergency request from McKenna West, an Alaska nurse and surrogate who had <a href=\"https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal\">asked </a>the US’s highest court to halt a California court order recognizing the couple, Omar Ahmed and Nausheen Gilkar, as the boy’s legal parents.</p> <a hre"
   },
   {
-    "id": "story-24",
+    "id": "story-45",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:38:01.000Z",
@@ -648,7 +923,7 @@
     "summary": "22h Ministra diz que lei IVG é para cumprir, mas respeita objeção de consciência de alguns médicos "
   },
   {
-    "id": "story-26",
+    "id": "story-47",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T22:33:44.000Z",
@@ -665,7 +940,7 @@
     "summary": "Watch: Threats, deals and passionate speeches at UNGA event Delegations from across the world attended the United Nations General Assembly in New York."
   },
   {
-    "id": "story-27",
+    "id": "story-48",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:31:06.000Z",
@@ -682,24 +957,7 @@
     "summary": "Ex-diretor da Faculdade de Medicina do Porto punido com pena suspensa de 45 dias A reitoria da Universidade do Porto decidiu hoje aplicar uma pena suspensa de 45 dias ao ex-diretor da Faculdade de Medicina do Porto, Altamiro da Costa Pereira na sequência de um inquérito disciplinar, revelou à Lusa fonte do processo."
   },
   {
-    "id": "story-28",
-    "topic": "sport",
-    "country": "UK",
-    "date": "2026-09-22T22:30:54.000Z",
-    "sources": [
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
-        "date": "2026-09-22T22:30:54.000Z",
-        "snippet": "<p>Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to Dover</p><p>Charities have condemned footage of far-right activist Daniel Thomas using a blade to slash an inflatable dinghy in the Channel while a rescue worker was onboard, in a further escalation of organised anti-immigration protest.</p><p>Hundreds of protesters gathered early on Tuesday evening at Gosport in Hampshire, aiming to disrupt the planned disembarkation of asylum seekers, but the Border Force vessels carrying them landed instead in Dover.</p> <a href=\"https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-whi",
-        "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard"
-      }
-    ],
-    "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
-    "summary": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard <p>Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to Dover</p><p>Charities have condemned footage of far-right activist Daniel Thomas using a blade to slash an inflatable dinghy in the Channel while a rescue worker was onboard, in a further escalation of organised anti-immigration protest.</p><p>Hundreds of protesters gathered early on Tuesday evening at Gosport in Hampshire, aiming to disrupt the planned disembarkation of asylum seekers, but the Border Force vessels carrying them landed instead in Dover.</p> <a href=\"https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-whi"
-  },
-  {
-    "id": "story-29",
+    "id": "story-49",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:30:13.000Z",
@@ -716,7 +974,7 @@
     "summary": "Descobertas duas pilastras pintadas por Columbano Bordalo Pinheiro no Caramulo A família de Abel de Lacerda, fundador do Museu do Caramulo, descobriu na casa deste colecionador de arte duas pilastras de madeira, pintadas por Columbano Bordalo Pinheiro, disse à agência Lusa a sua sobrinha neta."
   },
   {
-    "id": "story-30",
+    "id": "story-50",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T22:30:07.000Z",
@@ -733,7 +991,7 @@
     "summary": "Children as young as 13 being referred to UK hospital suffering from ‘ketamine bladder’ <p>County’s first such clinic, at Alder Hey in Liverpool, treating children suffering from chronic bladder problems with severe cases needing dialysis</p><p>Children as young as 13 in the UK have been referred to a specialist clinic for a “devastating” bladder condition linked to sustained use of ketamine.</p><p>Medics at Alder Hey children’s hospital in Liverpool opened the first ketamine clinic in the UK for young people amid a surge in urology problems linked to addiction of the drug.</p> <a href=\"https://www.theguardian.com/society/2026/sep/22/liverpool-alder-hey-hospital-rise-children-ketamine-bladder-addiction\">Continue reading...</a>"
   },
   {
-    "id": "story-31",
+    "id": "story-51",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T22:30:07.000Z",
@@ -750,7 +1008,7 @@
     "summary": "UK doctors develop non-invasive test for womb cancer in women bleeding after menopause <p>Test using urine and vaginal fluid samples raises hopes thousands of lower-risk women could be spared internal ultrasounds and hysteroscopies</p><p>Doctors have developed a simple test that could help rule out womb cancer in women who experience bleeding after menopause.</p><p>The approach has the potential to transform care for thousands of women each year and spare them from invasive and uncomfortable tests that can also be costly for healthcare systems.</p> <a href=\"https://www.theguardian.com/society/2026/sep/22/uk-doctors-simple-test-detect-womb-cancer-women-bleeding-menopause\">Continue reading...</a>"
   },
   {
-    "id": "story-32",
+    "id": "story-52",
     "topic": "technik",
     "country": "DE",
     "date": "2026-09-22T22:29:04.000Z",
@@ -767,7 +1025,7 @@
     "summary": "Snapdragon 8 Elite Extreme Gen 6: Qualcomm stellt erste 2nm-Chips vor - BornCity <ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQS29pNzVZaHZHX0xfS01raE9nM21nRUY1Qy1jZzRkeVB0WXhjaVN1TGp1ZjNQaFJjd2xrTkdVNU44Sko1NHRvb3pkeXp6STNwN2t0OWVDT093bHdqY3hHX2tadDFrd2dzRVlQdk1IY1NkWGJkNEtaalB1SU9wbWN4MGdmdzFHSlhMNGl3SUFsbElHNE5TWUlQdmo2bw?oc=5\" target=\"_blank\">Snapdragon 8 Elite Extreme Gen 6: Qualcomm stellt erste 2nm-Chips vor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BornCity</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUk1ck00RS1BUXRZTXlpd3pCQVl5X0hKUlotYlZHZ0lGUmtPZG5uZVJxaEFSSDE0Z01BQ0dqUXNsdExMakFLSml3aXpQSXRWcWdKTy1Pa0w0S29ndUs2WUNBVndPMDc3YVVkZjJHVlVKUk13MlpJXzQwOWdGZTZXMHdxd0RLVGQxcktYQ3I0VDN5OXhtVno5NUt2V01vRTR2NUZrOFdKRQ?o"
   },
   {
-    "id": "story-33",
+    "id": "story-53",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:21:12.000Z",
@@ -784,7 +1042,7 @@
     "summary": "Adobe cede à tendência e coloca o Premiere na loja de apps Android - Tek Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWkwamliWjZqSEc5clhLamg5QmdILWFaTnZWcHhkTENycE9XejN3OVdldUxjUmVuT1g4Wm1xbDZJSG9HX0JfdWhONF9DbnNqYndnQkEzYlh5Y0hDYTlDQ2dBMS1heHkzblB1ek5yS01XS05fcWVuSmlrTVlWZmNVeExVcUtHWlczdEJKdHVsNmFpdlFpR2JTX1lYMFd2dHRBbXhlZlJJSW1iREE?oc=5\" target=\"_blank\">Adobe cede à tendência e coloca o Premiere na loja de apps Android</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tek Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2pPZ0VyNWpfOFl5NEQ3OGJSdGpXRThtMjlydmEza2g4XzBmTXBidzdhR185X3ZCRUxvY0hqNVQxZndEYXNiZXJ1bVpLcWJjVjh4c0xIVEd6WUY0dTlSZU5objJZOElyZHR3WERhOHJ6blNHeG9tMEV5LUVKaS1lVjhxbXMza3JIXzNkcVNQSGl2d3FOZXNucF"
   },
   {
-    "id": "story-34",
+    "id": "story-54",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T22:18:18.000Z",
@@ -801,7 +1059,7 @@
     "summary": "Kamala Harris returns to Michigan to campaign for Abdul El-Sayed for Senate <p>Former VP, who lost state to Trump in 2024 elections, is lending her popularity to unite fractured party</p><p>Kamala Harris returned to Michigan on Tuesday to campaign for Abdul El-Sayed, lending her popularity among Black voters to a progressive Senate nominee still working to unite a party fractured by a bruising primary – and the former vice-president’s loss to Donald Trump in the state.</p><p>Appearing with El-Sayed at a Detroit birth center, Harris used a roundtable on Black maternal health to frame that November’s contest against the Republican Mike Rogers as a fight over women’s access to care.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-say"
   },
   {
-    "id": "story-35",
+    "id": "story-55",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T22:16:55.000Z",
@@ -818,7 +1076,7 @@
     "summary": "Spain allows US extradition case against pro-Palestine aid donor to proceed <p>Lawyers for James ‘Fergie’ Chambers, wanted over alleged support for Hamas, say client is being persecuted</p><p>The Spanish government has decided to allow the Trump administration’s controversial extradition request to extradite wealthy activist James “Fergie” Chambers to continue in the country’s courts.</p><p>Chambers, a US citizen and wealthy donor to leftwing and humanitarian projects, is currently imprisoned in Madrid. It is the first known case of the US seeking to extradite a citizen over alleged support for Hamas, an accusation tied to money Chambers has donated to support Palestinians, including the <a href=\"https://thesameerproject.org/\">Sameer Project,</a> in Gaza.</p> <a hre"
   },
   {
-    "id": "story-36",
+    "id": "story-56",
     "topic": "sport",
     "country": "PT",
     "date": "2026-09-22T22:15:11.000Z",
@@ -835,7 +1093,7 @@
     "summary": "Kiev considera \"vergonhosa e injustificável\" retirada de sanções a oligarcas russos O ministro dos Negócios Estrangeiros ucraniano, Andriy Sybiga, classificou hoje como \"vergonhosa e injustificável\" a decisão da União Europeia (UE) de retirar sanções contra dois oligarcas russos acusados de cumplicidade com a invasão da Ucrânia."
   },
   {
-    "id": "story-37",
+    "id": "story-57",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T22:11:39.000Z",
@@ -852,7 +1110,7 @@
     "summary": "Taylor distances himself from Bragg’s proposal to let homebuyers use super as collateral for mortgages <p>Opposition leader said the idea for Australians to use their superannuation savings as collateral for a loan ‘is not our policy’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p></p><p>Angus Taylor has immediatel"
   },
   {
-    "id": "story-38",
+    "id": "story-58",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T22:10:25.000Z",
@@ -869,7 +1127,7 @@
     "summary": "Celebrities at the Pentagon: How unusual was the Paul brothers’ visit? Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth."
   },
   {
-    "id": "story-39",
+    "id": "story-59",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:09:24.000Z",
@@ -886,7 +1144,7 @@
     "summary": "Criação em Música e Ópera apoia 77 projetos, 131 ficam de fora por falta de verba Mais de metade das candidaturas ao concurso de Criação em Música e Ópera do Programa de Apoio a Projetos 2025 da DGArtes ficaram sem apoio, por se ter esgotado a verba disponível."
   },
   {
-    "id": "story-40",
+    "id": "story-60",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T22:07:50.000Z",
@@ -903,7 +1161,7 @@
     "summary": "US Republican calls for probe into Donald Trump Jr’s business dealings US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable."
   },
   {
-    "id": "story-41",
+    "id": "story-61",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T22:06:54.000Z",
@@ -920,7 +1178,24 @@
     "summary": "Raimundo acusa grande distribuição de usar \"sempre a mesma choradeira\" para não subir salários O secretário-geral do PCP acusou hoje as empresas da grande distribuição de recorrerem \"sempre à mesma choradeira\" para não aumentar salários e alertou que os patrões se preparam para invocar uma nova crise perante uma pequena redução dos lucros."
   },
   {
-    "id": "story-42",
+    "id": "story-62",
+    "topic": "politik",
+    "country": "PT",
+    "date": "2026-09-22T22:06:00.000Z",
+    "sources": [
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3oweTBBWTRRU25BSjZlSDJiZXdYajRuTGRPRDU3VmpKaEY5ZzZZQlpTdF9nYzdxZjJtb0hZOHJjRGhBV2NPWEFJOFRuSXZtalJkYUNoMGtZYWp3TkZ3SDhnUi1ORG9udmxHODZzRWJlVGY5V1hqMGgzWFQzYXVxUENsdHJVczJmZE5SU0h1UDRiN3FmQWFIMWdNVFZpMGhvbTlyNGJ3amJLUQ?oc=5",
+        "date": "2026-09-22T22:06:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3oweTBBWTRRU25BSjZlSDJiZXdYajRuTGRPRDU3VmpKaEY5ZzZZQlpTdF9nYzdxZjJtb0hZOHJjRGhBV2NPWEFJOFRuSXZtalJkYUNoMGtZYWp3TkZ3SDhnUi1ORG9udmxHODZzRWJlVGY5V1hqMGgzWFQzYXVxUENsdHJVczJmZE5SU0h1UDRiN3FmQWFIMWdNVFZpMGhvbTlyNGJ3amJLUQ?oc=5\" target=\"_blank\">Águia já superou registo de 2025/26 na Champions feminina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A Bola</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGdUdU1COWpJRUNvVEY0NXRFVHdIdWdwTm1tMjE4ZnVRVTY1YzlEYW94RnVka1ZNZW80OGdMa2JpTDZTbVFiRW54VC1CbXg2YTR1a2pTZmQ2V2Z2bFRxYUZ5YXY0eVNSNDVuVlAzaXYweklKRUVCcGpxRzU5WjJjTmd5cjk1UEE5SHlDUjAtblR0Mm9pbkFmWWJaUHNtT0VySUl5RW",
+        "title": "Águia já superou registo de 2025/26 na Champions feminina - A Bola"
+      }
+    ],
+    "title": "Águia já superou registo de 2025/26 na Champions feminina - A Bola",
+    "summary": "Águia já superou registo de 2025/26 na Champions feminina - A Bola <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3oweTBBWTRRU25BSjZlSDJiZXdYajRuTGRPRDU3VmpKaEY5ZzZZQlpTdF9nYzdxZjJtb0hZOHJjRGhBV2NPWEFJOFRuSXZtalJkYUNoMGtZYWp3TkZ3SDhnUi1ORG9udmxHODZzRWJlVGY5V1hqMGgzWFQzYXVxUENsdHJVczJmZE5SU0h1UDRiN3FmQWFIMWdNVFZpMGhvbTlyNGJ3amJLUQ?oc=5\" target=\"_blank\">Águia já superou registo de 2025/26 na Champions feminina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A Bola</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGdUdU1COWpJRUNvVEY0NXRFVHdIdWdwTm1tMjE4ZnVRVTY1YzlEYW94RnVka1ZNZW80OGdMa2JpTDZTbVFiRW54VC1CbXg2YTR1a2pTZmQ2V2Z2bFRxYUZ5YXY0eVNSNDVuVlAzaXYweklKRUVCcGpxRzU5WjJjTmd5cjk1UEE5SHlDUjAtblR0Mm9pbkFmWWJaUHNtT0VySUl5RW"
+  },
+  {
+    "id": "story-63",
     "topic": "technik",
     "country": "UK",
     "date": "2026-09-22T22:04:31.000Z",
@@ -937,7 +1212,7 @@
     "summary": "A new skyline of data centres is rising from the rolling plains of rural China Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety."
   },
   {
-    "id": "story-43",
+    "id": "story-64",
     "topic": "technik",
     "country": "UK",
     "date": "2026-09-22T22:03:48.000Z",
@@ -954,7 +1229,7 @@
     "summary": "Rare look at the remote engine rooms powering China's AI ambitions The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence."
   },
   {
-    "id": "story-45",
+    "id": "story-65",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T21:48:43.000Z",
@@ -971,7 +1246,7 @@
     "summary": "Euro cai face ao dólar pela nona sessão consecutiva O euro caiu hoje face ao dólar, pela nona sessão consecutiva, no mesmo dia em que o Presidente dos EUA afirmou que vai ter de escolher entre \"aniquilar\" o Irão ou chegar a um acordo."
   },
   {
-    "id": "story-46",
+    "id": "story-66",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T21:46:56.000Z",
@@ -988,7 +1263,24 @@
     "summary": "Presidente do INE garante que novo método melhora estimativas sobre população O presidente do Conselho Diretivo do INE, António Rua, garantiu hoje que a nova metodologia usada para estimar a população residente \"permite aumentar a consistência e coerência entre fontes\" e produzir estimativas anuais da população com maior detalhe."
   },
   {
-    "id": "story-48",
+    "id": "story-67",
+    "topic": "politik",
+    "country": "PT",
+    "date": "2026-09-22T21:42:32.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
+        "date": "2026-09-22T21:42:32.000Z",
+        "snippet": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.",
+        "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses"
+      }
+    ],
+    "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses",
+    "summary": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28."
+  },
+  {
+    "id": "story-68",
     "topic": "technik",
     "country": "US",
     "date": "2026-09-22T21:42:14.000Z",
@@ -1005,7 +1297,7 @@
     "summary": "Woman's brain worm infection confirmed after eggs grow tails in lab test There is no single definitive test for these worms, but the tail is fairly convincing."
   },
   {
-    "id": "story-49",
+    "id": "story-69",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T21:41:07.000Z",
@@ -1022,7 +1314,7 @@
     "summary": "21h Governo avança com um grupo de trabalho para avaliar o fenómeno do turismo de saúde no SNS "
   },
   {
-    "id": "story-50",
+    "id": "story-70",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T21:38:04.000Z",
@@ -1039,7 +1331,7 @@
     "summary": "Zelensky says Ukraine is ready for an energy ceasefire with Russia On the sidelines of the UN General Assembly in New York on Tuesday, Ukraine's President Volodymyr Zelensky told journalists that Kyiv is ready to halt strikes on Russian energy infrastructure if Moscow does the same, with hopes to end the war before winter."
   },
   {
-    "id": "story-51",
+    "id": "story-71",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T21:36:55.000Z",
@@ -1056,7 +1348,7 @@
     "summary": "US to build two military bases in Greenland under new deal with Denmark The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
   },
   {
-    "id": "story-52",
+    "id": "story-72",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T21:35:42.000Z",
@@ -1073,7 +1365,7 @@
     "summary": "California and New York sue over Trump push to halt wind energy projects <p>US officials have begun to buy back wind leases as president seek to block renewables in favor of fossil fuels</p><p>Democratic attorneys general from California and New York have sued the Trump administration over its plans to buy back offshore wind leases as Donald Trump seeks to discourage the expansion of wind energy in favor of fossil fuels.</p><p>California attorney general Rob Bonta said he was suing over removal of a project off his state’s coast planned by Chicago-based Invenergy. The Trump administration said in June it was buying back the company’s US offshore wind leases for four wind projects on the east and west coasts.</p> <a href=\"https://www.theguardian.com/us-news/2026/s"
   },
   {
-    "id": "story-53",
+    "id": "story-73",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T21:33:47.000Z",
@@ -1090,7 +1382,7 @@
     "summary": "IVA nos combustíveis. Ventura acusa PS e PSD de \"acordo de não-agressão\" André Ventura acusou PS e PSD de terem um \"acordo de não-agressão\" para impedir a descida do IVA nos combustíveis. O presidente do Chega disse que o debate parlamentar de quinta-feira sobre a redução do imposto dos combustíveis e IVA zero nos bens essenciais vai mostrar que o voto contra do PS é \"pura politiquice\"."
   },
   {
-    "id": "story-54",
+    "id": "story-74",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T21:30:51.000Z",
@@ -1107,7 +1399,41 @@
     "summary": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift."
   },
   {
-    "id": "story-55",
+    "id": "story-75",
+    "topic": "wirtschaft",
+    "country": "UK",
+    "date": "2026-09-22T21:29:36.000Z",
+    "sources": [
+      {
+        "source": "Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/60-minutes-patrick-clancy-cbs",
+        "date": "2026-09-22T21:29:36.000Z",
+        "snippet": "<p>Amid show’s major overhaul by Bari Weiss, Sunday’s episode draws third-smallest audience for a second episode in the past 25 years</p><p>60 Minutes’ blockbuster interview with Patrick Clancy, the ex-husband of Lindsay Clancy, failed to provide a major ratings boost for the Sunday show, according to audience figures released Tuesday.</p><p>Sunday night’s episode of the newsmagazine show drew an average of 6.77m total viewers, the third-smallest audience in the past 25 years for the second episode of a season, adding to a disappointing debut for Bari Weiss, who, as CBS editor-in-chief, rewired the show, firing <a href=\"https://www.theguardian.com/media/2026/may/27/60-minutes-sharyn-alfonsi\"",
+        "title": "Patrick Clancy interview on 60 Minutes fails to provide big ratings boost for CBS"
+      }
+    ],
+    "title": "Patrick Clancy interview on 60 Minutes fails to provide big ratings boost for CBS",
+    "summary": "Patrick Clancy interview on 60 Minutes fails to provide big ratings boost for CBS <p>Amid show’s major overhaul by Bari Weiss, Sunday’s episode draws third-smallest audience for a second episode in the past 25 years</p><p>60 Minutes’ blockbuster interview with Patrick Clancy, the ex-husband of Lindsay Clancy, failed to provide a major ratings boost for the Sunday show, according to audience figures released Tuesday.</p><p>Sunday night’s episode of the newsmagazine show drew an average of 6.77m total viewers, the third-smallest audience in the past 25 years for the second episode of a season, adding to a disappointing debut for Bari Weiss, who, as CBS editor-in-chief, rewired the show, firing <a href=\"https://www.theguardian.com/media/2026/may/27/60-minutes-sharyn-alfonsi\""
+  },
+  {
+    "id": "story-76",
+    "topic": "politik",
+    "country": "INT",
+    "date": "2026-09-22T21:27:25.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5",
+        "date": "2026-09-22T21:27:25.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5\" target=\"_blank\">Trump says he can do business with Burnham but criticises 'terrible' Chagos deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - BBC"
+      }
+    ],
+    "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - BBC",
+    "summary": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - BBC <a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5\" target=\"_blank\">Trump says he can do business with Burnham but criticises 'terrible' Chagos deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-77",
     "topic": "technik",
     "country": "US",
     "date": "2026-09-22T21:25:18.000Z",
@@ -1124,24 +1450,7 @@
     "summary": "New Anthropic, OpenAI models make same promise: A little more for a lot less money The frontier AI model race has entered its comparison shopping phase."
   },
   {
-    "id": "story-56",
-    "topic": "panorama",
-    "country": "INT",
-    "date": "2026-09-22T21:23:58.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5",
-        "date": "2026-09-22T21:23:58.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5\" target=\"_blank\">EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-        "title": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say - Reuters"
-      }
-    ],
-    "title": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say - Reuters",
-    "summary": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say - Reuters <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5\" target=\"_blank\">EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
-  },
-  {
-    "id": "story-57",
+    "id": "story-78",
     "topic": "politik",
     "country": "US",
     "date": "2026-09-22T21:23:48.000Z",
@@ -1158,7 +1467,7 @@
     "summary": "The United Nations General Assembly is meeting. Is it accomplishing anything? NPR&apos;s Mary Louise Kelly speaks with Michael Froman, Council on Foreign Relations president, at the UN General Assembly."
   },
   {
-    "id": "story-58",
+    "id": "story-79",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T21:22:47.000Z",
@@ -1175,7 +1484,7 @@
     "summary": "MXGPU atuam no Metro. Será o primeiro concerto na sala subterrânea na estação das Olaias A dupla de DJs MXGPU vai atuar na estação de metro das Olaias. A sala do concerto fica abaixo da linha onde circulam os comboios."
   },
   {
-    "id": "story-59",
+    "id": "story-80",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T21:21:59.000Z",
@@ -1192,7 +1501,7 @@
     "summary": "Iran and US have held talks on sidelines of UN summit, says Donald Trump <p>Senior Iranian official indicates willingness to reopen strait of Hormuz if US takes steps to ease pressure on Tehran</p><p>Iranian officials held three hours of talks with US special envoy Steve Witkoff on the sidelines of the UN general assembly, Donald Trump disclosed on Tuesday.</p><p>He said there would a further meeting in the very near future.</p> <a href=\"https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us\">Continue reading...</a>"
   },
   {
-    "id": "story-60",
+    "id": "story-81",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T21:21:38.000Z",
@@ -1209,7 +1518,7 @@
     "summary": "CU Boulder in top 10 nationally for multiple undergrad programs, says US News & World Report - University of Colorado Boulder <a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVE3bjZ0cWJxdFZxOTB0Tzdjb3NxdlpoNVZFT2ptRm1nekFuUmxqbmQwU3gtOThpTDZkYW1oYy1MTk03M3FIOXdiYWhrci1GeTNoVGQ2N0xwMHF2QVQwNE5ERWRUNVA4elZ0dXE4VUdtY2c2MzFrNjRjek5BYTVqcnJfbkJSODU2TWdjdUlQOVd2bUQ0YjdqUzJrOE83VWhoaVJTNkxWUHRFNDFVOWRaTHprUUtLeDM0WURTWUxOczI0dw?oc=5\" target=\"_blank\">CU Boulder in top 10 nationally for multiple undergrad programs, says US News & World Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Colorado Boulder</font>"
   },
   {
-    "id": "story-61",
+    "id": "story-82",
     "topic": "umwelt",
     "country": "UK",
     "date": "2026-09-22T21:19:45.000Z",
@@ -1226,7 +1535,7 @@
     "summary": "Outgoing UN chief says polluters have treated atmosphere like an ‘open sewer’ <p>António Guterres laments world leaders’ inaction and says oil and gas firms ‘must pay’ for climate devastation</p><p>For one last time, António Guterres tried to fix the world’s gaze upon the dangerously escalating climate crisis. But the departing UN secretary general found world leaders still largely focused on other issues, even after a painful summer of stunning climate-driven disasters.</p><p>Speaking to assembled dignitaries at the UN on Tuesday, Guterres railed against big oil for treating “the atmosphere as an open sewer” and warned again of the catastrophic effects of the climate crisis.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-"
   },
   {
-    "id": "story-62",
+    "id": "story-83",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T21:18:48.000Z",
@@ -1243,7 +1552,7 @@
     "summary": "Polémica novas fragatas. Ministro da Defesa acusa Chega de difamação O ministro da Defesa acusou André Ventura e o deputado Pedro Frazão de difamação. Na comissão parlamentar de Defesa, Nuno Melo disse que vai lutar na justiça para defender o seu nome, após o Chega ter levantado suspeitas sobre a compra de três fragatas a Itália."
   },
   {
-    "id": "story-64",
+    "id": "story-85",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T21:13:07.000Z",
@@ -1260,7 +1569,7 @@
     "summary": "Kyiv and Washington want war in Ukraine to end 'before winter,' Zelenskyy says The Ukrainian president added that he had just finished a \"positive and productive meeting with President Trump\" in New York on Tuesday."
   },
   {
-    "id": "story-65",
+    "id": "story-86",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T21:11:47.000Z",
@@ -1277,7 +1586,7 @@
     "summary": "US signs ‘tremendous’ security deal with Denmark and Greenland Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland."
   },
   {
-    "id": "story-66",
+    "id": "story-87",
     "topic": "sport",
     "country": "UK",
     "date": "2026-09-22T21:10:16.000Z",
@@ -1294,24 +1603,7 @@
     "summary": "Mariona Caldentey penalty provides late WCL relief for Arsenal against Køge <p>Mariona Caldentey’s 93rd-minute penalty delivered a win and a hefty dose of relief to fans bouncing behind the goal in the North Bank after the ball hit the back of the net, but ­Arsenal’s narrow defeat of HB Køge in their Champions League opener left more questions unanswered than answered for the struggling Gunners.</p><p>The puffed cheeks of the manager, Renée Slegers, said it all when the full-time whistle went. If it had been revealed after the final whistle that a force field surrounded the opposition goal at Meadow Park, many would have believed it, such was the extent of Arsenal’s ridiculous profligacy in front of goal in their league-phase opener.</p> <a href=\"https://www.theguar"
   },
   {
-    "id": "story-68",
-    "topic": "panorama",
-    "country": "UK",
-    "date": "2026-09-22T21:09:25.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-22T21:09:25.000Z",
-        "snippet": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
-        "title": "US judge blocks deportation of DoorDash driver shot by ICE"
-      }
-    ],
-    "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-    "summary": "US judge blocks deportation of DoorDash driver shot by ICE The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday."
-  },
-  {
-    "id": "story-69",
+    "id": "story-89",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T21:09:23.000Z",
@@ -1328,7 +1620,7 @@
     "summary": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’ Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator."
   },
   {
-    "id": "story-70",
+    "id": "story-90",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T21:09:03.000Z",
@@ -1345,7 +1637,7 @@
     "summary": "Macron: France won’t ‘yield an inch’ on Ukraine support French President Emmanuel Macron says the “coalition of the willing\" will not back down in its support of Ukraine."
   },
   {
-    "id": "story-71",
+    "id": "story-91",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T21:06:47.000Z",
@@ -1362,7 +1654,7 @@
     "summary": "Ministro de Educação garante que alunos estão a ser colocados em 24 horas O ministro da Educação revelou que na segunda-feira só havia 54 alunos por colocar em todo o país. Fernando Alexandre deixou a garantia de que o problema está a ser resolvido rapidamente e que os estudantes são colocados em apenas 24 horas."
   },
   {
-    "id": "story-72",
+    "id": "story-92",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T21:02:47.000Z",
@@ -1379,7 +1671,7 @@
     "summary": "Guterres pleads for 'world built on interdependence' in final General Assembly address UN Secretary-General Antonio Guterres pleaded for “a world built on interdependence” Tuesday as he made his final address to the annual gathering of world leaders convening to face a formidable menu of challenges, from climate change and war to inequality and the rise of artificial intelligence."
   },
   {
-    "id": "story-73",
+    "id": "story-93",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T21:02:25.000Z",
@@ -1396,7 +1688,7 @@
     "summary": "Jorge Palma deixa um legado de 50 anos de carreira Autor de temas marcantes como \"Encosta-te a Mim\", \"Frágil\", \"Deixa-me Rir\", \"A Gente Vai Continuar\", \"Estrela do Mar\", são músicas que entraram na memória de todos."
   },
   {
-    "id": "story-74",
+    "id": "story-94",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T21:00:02.000Z",
@@ -1413,24 +1705,24 @@
     "summary": "Artists protest culture cuts with music, dance and puppets in Bogotá Hundreds of artists and performing arts students took to the streets of Bogotá to protest proposed cuts to Colombia’s cultural budget and the suspension of some national arts grants."
   },
   {
-    "id": "story-75",
-    "topic": "panorama",
-    "country": "PT",
-    "date": "2026-09-22T21:00:00.000Z",
+    "id": "story-95",
+    "topic": "politik",
+    "country": "DE",
+    "date": "2026-09-22T21:00:01.000Z",
     "sources": [
       {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnlYdlJyTHc3bFdSWDBSUUNpc0FsVHBsVXJkM2JjSGVKNkxNSVEzeUd2M2JXM0RZOGM5aldZOGRJb3d0NWxRSGk5VnZCY19qLWxKQ04wYnNMZnBlSHBSWFVlN2Y1b1hCWWd5aG1oX1pVcE9VM0hnaUZzTmVCakN2cEd6MDVHT2xlZlo4LUR5anREREdNNkNjWUhWNG8tLXh0SW1HbFgyQ05EaFdONzVZdUxjcFNYWExsYVE?oc=5",
-        "date": "2026-09-22T21:00:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnlYdlJyTHc3bFdSWDBSUUNpc0FsVHBsVXJkM2JjSGVKNkxNSVEzeUd2M2JXM0RZOGM5aldZOGRJb3d0NWxRSGk5VnZCY19qLWxKQ04wYnNMZnBlSHBSWFVlN2Y1b1hCWWd5aG1oX1pVcE9VM0hnaUZzTmVCakN2cEd6MDVHT2xlZlo4LUR5anREREdNNkNjWUhWNG8tLXh0SW1HbFgyQ05EaFdONzVZdUxjcFNYWExsYVE?oc=5\" target=\"_blank\">Champions feminina: Benfica enviou 'vecchia signora' para os intensivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A Bola</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQlFOdC1odlgza1lPZlQtYUdjWmtmMHNJT1pENlVlVnhfU1FmTjNpVU9CUUxiM05VaWFfQXhLSU51WllWZ0hHaUFRQXZ3cC1vMXYxbVA4Q2JWS0dTaUlCMnJlcU5fSlgybVliQXJTUnpvUjhSNHNsRFI0U0pQcmU4RDJocVVBeWVtb2g",
-        "title": "Champions feminina: Benfica enviou 'vecchia signora' para os intensivos - A Bola"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTFB0M3o2MGpET1hfcEhFNHdzdjN2S29rQmNUMTJLLUJNQ3BzbkpWaVZ0LUZKX1E3RW9VZ1YtNkJacVBGN3hkRi1JVi1MNWdHWnFpUnVYX2NQNWVkeEhFYlExcEhXbUtuS2k0NDVjTFZCNTc2SHB2RUJxQUp3aVRlekVZUUd2dU8zYmsxd3pOY0kzYW5tZUpLeE44TERSalUtdVNtUzROb1VhWnJ0RnNvM3VyTGRTbkk3VEpTVWxfbm1UX2hoYV9VeFRRMFVfcUdxbG1BMlFfQnZ4TFNaSGhLTm9rYk9qVVM5eG50Y2h3?oc=5",
+        "date": "2026-09-22T21:00:01.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTFB0M3o2MGpET1hfcEhFNHdzdjN2S29rQmNUMTJLLUJNQ3BzbkpWaVZ0LUZKX1E3RW9VZ1YtNkJacVBGN3hkRi1JVi1MNWdHWnFpUnVYX2NQNWVkeEhFYlExcEhXbUtuS2k0NDVjTFZCNTc2SHB2RUJxQUp3aVRlekVZUUd2dU8zYmsxd3pOY0kzYW5tZUpLeE44TERSalUtdVNtUzROb1VhWnJ0RnNvM3VyTGRTbkk3VEpTVWxfbm1UX2hoYV9VeFRRMFVfcUdxbG1BMlFfQnZ4TFNaSGhLTm9rYk9qVVM5eG50Y2h3?oc=5\" target=\"_blank\">UN-Versammlung: Macron kritisiert Lage in Nahost – Netanjahu spricht von „grotesker“ Rede</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFdRS1NVOVhGNWt2NDBrckt4b1VBR2hzakRzdkhxQldSNGpVZ3A1SHo3U0lLRXIyUDJsU1czVVA2NGpIYUQxWmllcW",
+        "title": "UN-Versammlung: Macron kritisiert Lage in Nahost – Netanjahu spricht von „grotesker“ Rede - WELT"
       }
     ],
-    "title": "Champions feminina: Benfica enviou 'vecchia signora' para os intensivos - A Bola",
-    "summary": "Champions feminina: Benfica enviou 'vecchia signora' para os intensivos - A Bola <ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnlYdlJyTHc3bFdSWDBSUUNpc0FsVHBsVXJkM2JjSGVKNkxNSVEzeUd2M2JXM0RZOGM5aldZOGRJb3d0NWxRSGk5VnZCY19qLWxKQ04wYnNMZnBlSHBSWFVlN2Y1b1hCWWd5aG1oX1pVcE9VM0hnaUZzTmVCakN2cEd6MDVHT2xlZlo4LUR5anREREdNNkNjWUhWNG8tLXh0SW1HbFgyQ05EaFdONzVZdUxjcFNYWExsYVE?oc=5\" target=\"_blank\">Champions feminina: Benfica enviou 'vecchia signora' para os intensivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A Bola</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQlFOdC1odlgza1lPZlQtYUdjWmtmMHNJT1pENlVlVnhfU1FmTjNpVU9CUUxiM05VaWFfQXhLSU51WllWZ0hHaUFRQXZ3cC1vMXYxbVA4Q2JWS0dTaUlCMnJlcU5fSlgybVliQXJTUnpvUjhSNHNsRFI0U0pQcmU4RDJocVVBeWVtb2g"
+    "title": "UN-Versammlung: Macron kritisiert Lage in Nahost – Netanjahu spricht von „grotesker“ Rede - WELT",
+    "summary": "UN-Versammlung: Macron kritisiert Lage in Nahost – Netanjahu spricht von „grotesker“ Rede - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTFB0M3o2MGpET1hfcEhFNHdzdjN2S29rQmNUMTJLLUJNQ3BzbkpWaVZ0LUZKX1E3RW9VZ1YtNkJacVBGN3hkRi1JVi1MNWdHWnFpUnVYX2NQNWVkeEhFYlExcEhXbUtuS2k0NDVjTFZCNTc2SHB2RUJxQUp3aVRlekVZUUd2dU8zYmsxd3pOY0kzYW5tZUpLeE44TERSalUtdVNtUzROb1VhWnJ0RnNvM3VyTGRTbkk3VEpTVWxfbm1UX2hoYV9VeFRRMFVfcUdxbG1BMlFfQnZ4TFNaSGhLTm9rYk9qVVM5eG50Y2h3?oc=5\" target=\"_blank\">UN-Versammlung: Macron kritisiert Lage in Nahost – Netanjahu spricht von „grotesker“ Rede</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFdRS1NVOVhGNWt2NDBrckt4b1VBR2hzakRzdkhxQldSNGpVZ3A1SHo3U0lLRXIyUDJsU1czVVA2NGpIYUQxWmllcW"
   },
   {
-    "id": "story-76",
+    "id": "story-96",
     "topic": "politik",
     "country": "UK",
     "date": "2026-09-22T20:59:00.000Z",
@@ -1447,7 +1739,24 @@
     "summary": "How Ceuta, football and Israel are shaping Morocco's election Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
   },
   {
-    "id": "story-77",
+    "id": "story-97",
+    "topic": "panorama",
+    "country": "INT",
+    "date": "2026-09-22T20:56:06.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGFNeUl1dDZ1bUlrRmZMWnU3aTdZc1d3bHVjcWZXdWZFWmlkTmxWOGVJclZGcEcxSkY2a1FVWXZULVJjdXB5d0FFYTFySWhEREY4TFhrWGtJcmRtdU50R3hld0ViOHdlSTlJa21senhpSDIyNWx3M05Vc0dnOU5lWkZ2WUJFUWNKdWo0R0FoMnd4MENWLXlEaGRDTDdvYk9Ud1ZBSFE4X3Z3cXU2NWZld1ZlWEZGbnNpMDQxQWxR?oc=5",
+        "date": "2026-09-22T20:56:06.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGFNeUl1dDZ1bUlrRmZMWnU3aTdZc1d3bHVjcWZXdWZFWmlkTmxWOGVJclZGcEcxSkY2a1FVWXZULVJjdXB5d0FFYTFySWhEREY4TFhrWGtJcmRtdU50R3hld0ViOHdlSTlJa21senhpSDIyNWx3M05Vc0dnOU5lWkZ2WUJFUWNKdWo0R0FoMnd4MENWLXlEaGRDTDdvYk9Ud1ZBSFE4X3Z3cXU2NWZld1ZlWEZGbnNpMDQxQWxR?oc=5\" target=\"_blank\">Muhlenberg Achieves Record High in U.S. News & World Report 2027 College Rankings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muhlenberg College |</font>",
+        "title": "Muhlenberg Achieves Record High in U.S. News & World Report 2027 College Rankings - Muhlenberg College |"
+      }
+    ],
+    "title": "Muhlenberg Achieves Record High in U.S. News & World Report 2027 College Rankings - Muhlenberg College |",
+    "summary": "Muhlenberg Achieves Record High in U.S. News & World Report 2027 College Rankings - Muhlenberg College | <a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGFNeUl1dDZ1bUlrRmZMWnU3aTdZc1d3bHVjcWZXdWZFWmlkTmxWOGVJclZGcEcxSkY2a1FVWXZULVJjdXB5d0FFYTFySWhEREY4TFhrWGtJcmRtdU50R3hld0ViOHdlSTlJa21senhpSDIyNWx3M05Vc0dnOU5lWkZ2WUJFUWNKdWo0R0FoMnd4MENWLXlEaGRDTDdvYk9Ud1ZBSFE4X3Z3cXU2NWZld1ZlWEZGbnNpMDQxQWxR?oc=5\" target=\"_blank\">Muhlenberg Achieves Record High in U.S. News & World Report 2027 College Rankings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muhlenberg College |</font>"
+  },
+  {
+    "id": "story-98",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T20:54:51.000Z",
@@ -1464,7 +1773,7 @@
     "summary": "French government scales up targeted fuel price relief Under pressure to help businesses and workers cope with soaring fuel prices, the French government has announced it will expand targeted energy relief for those most affected. The new measures will cost €450 million, bringing the total so far to €1.4 billion. Meanwhile, as French president Emmanuel Macron calls for allowing more biofuels to be added to diesel, we speak with an expert on the potential environmental impact of a rapid ramp-up in biofuel use."
   },
   {
-    "id": "story-78",
+    "id": "story-99",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T20:48:34.000Z",
@@ -1481,24 +1790,7 @@
     "summary": "Incêndio próximo de habitações em Santo Tirso Segundo a Autoridade de Emergência e Proteção Civil (ANEPC), no local estão mais de 280 operacionais apoiados por 87 veículos."
   },
   {
-    "id": "story-79",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T20:46:31.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5",
-        "date": "2026-09-22T20:46:31.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5\" target=\"_blank\">Trump says he can do business with Burnham but criticises 'terrible' Chagos deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
-        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - bbc.com"
-      }
-    ],
-    "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - bbc.com",
-    "summary": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - bbc.com <a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5\" target=\"_blank\">Trump says he can do business with Burnham but criticises 'terrible' Chagos deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>"
-  },
-  {
-    "id": "story-80",
+    "id": "story-100",
     "topic": "panorama",
     "country": "UK",
     "date": "2026-09-22T20:46:15.000Z",
@@ -1515,7 +1807,7 @@
     "summary": "Hats, pencils and baby pacifiers: Yellowstone staffers retrieve record amount of trash from hot springs <p>The park is the most highly visited and strong winds make trash problem worse, with gusts blowing away items</p><p>Hold on to your hats – Yellowstone national park staffers <a href=\"https://www.usgs.gov/observatories/yvo/news/caps-trash-and-other-hydrothermal-funky-finds-2026-edition\">have removed</a> a record-setting 20,100 pieces of trash from hydrothermal areas around the geyser-filled park so far this year</p><p>The most commonly found items include 280 hats, 54 camera lens caps, 47 hair ties, 42 pencils, 36 pairs of sunglasses, 20 hotel key cards and 17 baby pacifiers.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record\">Continue reading...</a>"
   },
   {
-    "id": "story-81",
+    "id": "story-101",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T20:45:29.000Z",
@@ -1532,7 +1824,7 @@
     "summary": "Governo falha alargamento do passe ferroviário verde durante Semana Europeia da Mobilidade Ao contrário do que anunciou o Governo, o passe ferroviário verde não ficou pronto para os comboios urbanos da CP de Lisboa e do Porto durante a Semana Europeia da Mobilidade. No caso da Fertagus, vai levar mais tempo. Os Transportes Metropolitanos do Porto não acreditam que o passe Andante terá grande impacto por causa da medida, enquanto os Transportes Metropolitanos de Lisboa esperam para ver os efeitos no passe Navegante."
   },
   {
-    "id": "story-82",
+    "id": "story-102",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T20:44:29.000Z",
@@ -1549,7 +1841,7 @@
     "summary": "Viral NATO video falsely framed as ‘war propaganda’ against Russia A viral NATO video is being falsely framed online as “war propaganda”, with users accusing the Alliance of sharing a “promotional video” designed to prepare the public for imminent war with Russia. But the footage is not new: NATO published it in July 2024 for its 75th anniversary, and it’s been stripped of its original context. The claim comes as European leaders warn of growing Russian hybrid threats, including alleged drone, cyber and sabotage activity. Vedika Bahl explains in Truth or Fake."
   },
   {
-    "id": "story-83",
+    "id": "story-103",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T20:41:57.000Z",
@@ -1566,7 +1858,7 @@
     "summary": "Real quer “um líder capaz” face a declaração “grave e incompreensível” de Tebas O Real Madrid considerou hoje que a declaração do presidente da Liga espanhola de futebol, Javier Tebas, a acusar os merengues de \"conspiração permanente\" em relação à arbitragem, é “grave e incompreensível”, pelo que deseja “um líder capaz”."
   },
   {
-    "id": "story-84",
+    "id": "story-104",
     "topic": "technik",
     "country": "US",
     "date": "2026-09-22T20:38:30.000Z",
@@ -1583,7 +1875,7 @@
     "summary": "Cities across US oppose Trump FCC plan to preempt local broadband rules Cities defend permit requirements, say ISPs aren't building networks fast enough."
   },
   {
-    "id": "story-85",
+    "id": "story-105",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T20:27:45.000Z",
@@ -1600,7 +1892,7 @@
     "summary": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen."
   },
   {
-    "id": "story-86",
+    "id": "story-106",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T20:26:47.000Z",
@@ -1617,7 +1909,7 @@
     "summary": "Governo avança com concentração de urgências regionais em Ortopedia e Traumatologia A reorganização das urgências vai começar pela ortopedia e pela traumatologia na região de Lisboa e Vale do Tejo (LVT)."
   },
   {
-    "id": "story-87",
+    "id": "story-107",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T20:25:03.000Z",
@@ -1634,7 +1926,7 @@
     "summary": "20h Alargamento do Passe Verde à espera do Presidente "
   },
   {
-    "id": "story-88",
+    "id": "story-108",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T20:24:40.000Z",
@@ -1643,32 +1935,15 @@
         "source": "Google News World",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVBXTzVHRFpQT3k5TVdlTDJnQTFDYm5GTFI2VWJqbkd1ZmNpZHNZUkU4U3VqQnJCcFNIZWhwVXhkVGw4cnYtWEV2dEcwNy1WcUVKM2YxMldQSHQ2cXd3cG02dEZXLXBybG03YVNtS01Wa21iYVJ5T1lwVmZwSmZTN3FYTmF2RTh5Q3NGX2dUWEEtaUVkRENwcUtKMlY4OW9JM2puZFAzUG92V2lwdnJIUg?oc=5",
         "date": "2026-09-22T20:24:40.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVBXTzVHRFpQT3k5TVdlTDJnQTFDYm5GTFI2VWJqbkd1ZmNpZHNZUkU4U3VqQnJCcFNIZWhwVXhkVGw4cnYtWEV2dEcwNy1WcUVKM2YxMldQSHQ2cXd3cG02dEZXLXBybG03YVNtS01Wa21iYVJ5T1lwVmZwSmZTN3FYTmF2RTh5Q3NGX2dUWEEtaUVkRENwcUtKMlY4OW9JM2puZFAzUG92V2lwdnJIUg?oc=5\" target=\"_blank\">Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StateCollege.com</font>",
-        "title": "Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking - StateCollege.com"
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVBXTzVHRFpQT3k5TVdlTDJnQTFDYm5GTFI2VWJqbkd1ZmNpZHNZUkU4U3VqQnJCcFNIZWhwVXhkVGw4cnYtWEV2dEcwNy1WcUVKM2YxMldQSHQ2cXd3cG02dEZXLXBybG03YVNtS01Wa21iYVJ5T1lwVmZwSmZTN3FYTmF2RTh5Q3NGX2dUWEEtaUVkRENwcUtKMlY4OW9JM2puZFAzUG92V2lwdnJIUg?oc=5\" target=\"_blank\">Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">statecollege.com</font>",
+        "title": "Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking - statecollege.com"
       }
     ],
-    "title": "Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking - StateCollege.com",
-    "summary": "Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking - StateCollege.com <a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVBXTzVHRFpQT3k5TVdlTDJnQTFDYm5GTFI2VWJqbkd1ZmNpZHNZUkU4U3VqQnJCcFNIZWhwVXhkVGw4cnYtWEV2dEcwNy1WcUVKM2YxMldQSHQ2cXd3cG02dEZXLXBybG03YVNtS01Wa21iYVJ5T1lwVmZwSmZTN3FYTmF2RTh5Q3NGX2dUWEEtaUVkRENwcUtKMlY4OW9JM2puZFAzUG92V2lwdnJIUg?oc=5\" target=\"_blank\">Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StateCollege.com</font>"
+    "title": "Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking - statecollege.com",
+    "summary": "Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking - statecollege.com <a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVBXTzVHRFpQT3k5TVdlTDJnQTFDYm5GTFI2VWJqbkd1ZmNpZHNZUkU4U3VqQnJCcFNIZWhwVXhkVGw4cnYtWEV2dEcwNy1WcUVKM2YxMldQSHQ2cXd3cG02dEZXLXBybG03YVNtS01Wa21iYVJ5T1lwVmZwSmZTN3FYTmF2RTh5Q3NGX2dUWEEtaUVkRENwcUtKMlY4OW9JM2puZFAzUG92V2lwdnJIUg?oc=5\" target=\"_blank\">Penn State Rises in U.S. News & World Report ‘Best Colleges’ Ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">statecollege.com</font>"
   },
   {
-    "id": "story-89",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T20:23:48.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
-        "date": "2026-09-22T20:23:48.000Z",
-        "snippet": "US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.",
-        "title": "Trump: US-Iran meeting at UN was ‘very good’"
-      }
-    ],
-    "title": "Trump: US-Iran meeting at UN was ‘very good’",
-    "summary": "Trump: US-Iran meeting at UN was ‘very good’ US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN."
-  },
-  {
-    "id": "story-90",
+    "id": "story-109",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T20:23:23.000Z",
@@ -1685,7 +1960,7 @@
     "summary": "Câmara de Cascais gasta 175 mil euros do PRR na inauguração de escola com a presença de Seguro e Montenegro - Observador <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcGZIdVdXdS00Y0FzTDg0eVh5cFl6cGpDZ1U1VTh1VW1LalAtb0JjdXh4V0hSeGVwb2xGRDk3bUptTXhiVERqSEhMNjdKb1BSWS1uNHhaTDQwWjd2aHlyWEFXNXZaNWVfQmN4LTRYSUlHWlZxQnhhVDNKUGVfbjFzNHdTUTR6S2RNTEhxUzZOem5JcFJ6aktaeTc2Um9vbThMaUg2TlJNbHdQOUVmQ2RXLTk1UWpvU21qNElHdXA4bHp1dzZGTmtSVGRXbkVVZ2NoQjQ2N3RidTg?oc=5\" target=\"_blank\">Câmara de Cascais gasta 175 mil euros do PRR na inauguração de escola com a presença de Seguro e Montenegro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Observador</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2xRQkplTTlydF8tb3BVYVQybTl4MU9KNnF1amIyTThLSzhpaEVpNnVoNzlNUDBhN1pjbTU3a1J3eFRFRmJ4b0JLeU5TN1d"
   },
   {
-    "id": "story-91",
+    "id": "story-110",
     "topic": "panorama",
     "country": "DE",
     "date": "2026-09-22T20:15:35.000Z",
@@ -1702,7 +1977,7 @@
     "summary": "Prinzessin Kate posiert im Glamourlook mit tiefem Ausschnitt - T-Online <a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQS0U1Njl6VS1mVVV5eEdKcWhXOVhRT2RUX2VDemZVbmc3Z3p5aFlIMGoxOWczT2V3RjdIVkM2bHNOLUFvZ0loWGFIM0daZGFXb1NSU0JWSVItSVZMSWVfXzZHOTI3eHVqclZ1dVFPZXpTZjhKYlJ0dnc0bHJzZDdlbkxzWjlzV2pPN1NqV2hSdHhONy1YM0VzQi1uSGhVNU1iZVd6c1NENW1EOUJYcVd2Sm5TQWhGUQ?oc=5\" target=\"_blank\">Prinzessin Kate posiert im Glamourlook mit tiefem Ausschnitt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T-Online</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pGXzhUX0VSSC1GTXFZWEtKSW1TZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>"
   },
   {
-    "id": "story-92",
+    "id": "story-111",
     "topic": "wirtschaft",
     "country": "UK",
     "date": "2026-09-22T20:13:35.000Z",
@@ -1719,7 +1994,7 @@
     "summary": "Trump made over 1,000 July stock trades worth up to $270m, filings reveal <p>President made more than 440 purchases and 700 sales despite voter anger over elected officials trading stocks</p><p>Donald Trump made over a thousand stock sales and purchases worth between $79m and $270m in July, according to a Guardian analysis of his latest financial disclosure released Tuesday.</p><p>His two largest sales were of Amazon and Microsoft stock, selling between $5m and $25m each on 20 July. That same day, he also sold up to $5m worth of Oracle and Costco stock, $500,000 to $1m in Nvidia, and bought up to $5m worth of shares in Intuit and Salesforce, among dozens of other transactions.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-fil"
   },
   {
-    "id": "story-93",
+    "id": "story-112",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T20:13:30.000Z",
@@ -1736,7 +2011,7 @@
     "summary": "US refusing to give Sudan's de facto leader visa for UN In tonight's edition, the United States is withholding a visa for Sudanese army chief al-Burhan ahead of his scheduled UN appearance. Also, Ghana’s beefing up its drugs authority in the wake of major drug busts in France, Belgium and South Africa. And it’s back-to-school season in Ivory Coast."
   },
   {
-    "id": "story-94",
+    "id": "story-113",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T20:12:00.000Z",
@@ -1753,7 +2028,7 @@
     "summary": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News <a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5\" target=\"_blank\">UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>"
   },
   {
-    "id": "story-95",
+    "id": "story-114",
     "topic": "politik",
     "country": "PT",
     "date": "2026-09-22T20:10:17.000Z",
@@ -1770,7 +2045,7 @@
     "summary": "\"Somos os melhores\". Trump nas Nações Unidas com elogio da superioridade americana O presidente norte-americano tomou esta terça-feira o púlpito na Assembleia Geral das Nações Unidas com um discurso que posiciona os Estados Unidos como o guardião dos destinos do mundo. A ideia de que estava indeciso sobre se deveria aniquilar o Irão constou no discurso que entregou ao organismo que regula a paz mundial."
   },
   {
-    "id": "story-96",
+    "id": "story-115",
     "topic": "panorama",
     "country": "INT",
     "date": "2026-09-22T20:09:10.000Z",
@@ -1787,7 +2062,7 @@
     "summary": "At least four dead and six missing in Japan day after Typhoon Dujuan made landfall Authorities announced a revised, higher death toll on Tuesday after search and rescue crews located the bodies of two more people. Six others are still reported missing."
   },
   {
-    "id": "story-97",
+    "id": "story-116",
     "topic": "politik",
     "country": "INT",
     "date": "2026-09-22T20:08:28.000Z",
@@ -1804,7 +2079,7 @@
     "summary": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech French President Emmanuel Macron used his last address before the UN General Assembly as France's leader to urge the world's nations to stand alongside the United Nations in the face of a resurgent \"law of the jungle\". Macron also called for a moratorium on strikes on civilian and energy infrastructure in the Russia-Ukraine war and an \"open-source\" model for frontier AI independent of China and the US."
   },
   {
-    "id": "story-98",
+    "id": "story-117",
     "topic": "panorama",
     "country": "PT",
     "date": "2026-09-22T20:04:53.000Z",
@@ -1819,294 +2094,5 @@
     ],
     "title": "Posição da REN. Governo rejeita críticas do PS sobre investimento",
     "summary": "Posição da REN. Governo rejeita críticas do PS sobre investimento Depois das palavras do líder do PS, o ministério das Finanças esclareceu o negócio da REN."
-  },
-  {
-    "id": "story-99",
-    "topic": "panorama",
-    "country": "INT",
-    "date": "2026-09-22T20:03:50.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
-        "date": "2026-09-22T20:03:50.000Z",
-        "snippet": "Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers.",
-        "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers"
-      }
-    ],
-    "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
-    "summary": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers."
-  },
-  {
-    "id": "story-100",
-    "topic": "politik",
-    "country": "DE",
-    "date": "2026-09-22T20:02:00.000Z",
-    "sources": [
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/merz-unter-druck-was-heißt-das-für-deutschlands-eu-politik/a-79379950?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-09-22T20:02:00.000Z",
-        "snippet": "Die CDU-Landtagswahlergebnisse des letzten Wochenendes sind nach Aussage des deutschen Bundeskanzlers ein \"Desaster\". Werden sie auch auf europäischer Ebene Auswirkungen haben?",
-        "title": "Merz unter Druck: Was heißt das für Deutschlands EU-Politik?"
-      }
-    ],
-    "title": "Merz unter Druck: Was heißt das für Deutschlands EU-Politik?",
-    "summary": "Merz unter Druck: Was heißt das für Deutschlands EU-Politik? Die CDU-Landtagswahlergebnisse des letzten Wochenendes sind nach Aussage des deutschen Bundeskanzlers ein \"Desaster\". Werden sie auch auf europäischer Ebene Auswirkungen haben?"
-  },
-  {
-    "id": "story-101",
-    "topic": "panorama",
-    "country": "INT",
-    "date": "2026-09-22T20:00:09.000Z",
-    "sources": [
-      {
-        "source": "Euronews",
-        "url": "https://www.euronews.com/video/2026/09/22/robots-dance-their-way-to-americas-got-talent-final-with-human-partner",
-        "date": "2026-09-22T20:00:09.000Z",
-        "snippet": "Chinese dancer Wu Yufei is preparing for the America’s Got Talent final alongside a crew of humanoid robots from Chinese robotics company Unitree.",
-        "title": "Robots dance their way to America’s Got Talent final with human partner"
-      }
-    ],
-    "title": "Robots dance their way to America’s Got Talent final with human partner",
-    "summary": "Robots dance their way to America’s Got Talent final with human partner Chinese dancer Wu Yufei is preparing for the America’s Got Talent final alongside a crew of humanoid robots from Chinese robotics company Unitree."
-  },
-  {
-    "id": "story-102",
-    "topic": "technik",
-    "country": "UK",
-    "date": "2026-09-22T20:00:00.000Z",
-    "sources": [
-      {
-        "source": "BBC Technology",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-22T20:00:00.000Z",
-        "snippet": "China is competing with the United States and other nations to develop AI.",
-        "title": "Tech Life"
-      }
-    ],
-    "title": "Tech Life",
-    "summary": "Tech Life China is competing with the United States and other nations to develop AI."
-  },
-  {
-    "id": "story-103",
-    "topic": "technik",
-    "country": "PT",
-    "date": "2026-09-22T20:00:00.000Z",
-    "sources": [
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGxjamQ2VDlLQ05JdXZRcUdkTjhwNF82b0htZGZ5UTJJQ3FXcTlQRjZwSHhHQ2E1Q19BSG1wU05zdGFiWlJBSklFdy1jaHFucDhiTG5EellZUS1Gd3BFVnBsQnAzQ2hhLUI5Yzc0UnI1UkFVWGRGOG44VXQwanJ1QTBTellMeGhjdTVuaU4xNzhWVmZGeVBwWWROREs3dDM3Q1lTUWVGcjZtVzQ2UDBXNTFFcHVXVy0xMDJZVEpsS1dsQkFsWlV3WXZSUkhRQQ?oc=5",
-        "date": "2026-09-22T20:00:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGxjamQ2VDlLQ05JdXZRcUdkTjhwNF82b0htZGZ5UTJJQ3FXcTlQRjZwSHhHQ2E1Q19BSG1wU05zdGFiWlJBSklFdy1jaHFucDhiTG5EellZUS1Gd3BFVnBsQnAzQ2hhLUI5Yzc0UnI1UkFVWGRGOG44VXQwanJ1QTBTellMeGhjdTVuaU4xNzhWVmZGeVBwWWROREs3dDM3Q1lTUWVGcjZtVzQ2UDBXNTFFcHVXVy0xMDJZVEpsS1dsQkFsWlV3WXZSUkhRQQ?oc=5\" target=\"_blank\">Motorola signature 27 estreia com novo chip Snapdragon 8 Elite gen 6 e som da Bang & Olufsen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tek Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEVmVU9PSlZ4RkdGLWQxbV9VeFdzTUV6ZlU1ZkdzY3ZPWjN4T0tBQVBTc0l1SjNkWklRcXRXVl9acjQxQU0wVUFvMkpOcXEzNHdBbGtaWmhmSG54Y3FkUHo1L",
-        "title": "Motorola signature 27 estreia com novo chip Snapdragon 8 Elite gen 6 e som da Bang & Olufsen - Tek Notícias"
-      }
-    ],
-    "title": "Motorola signature 27 estreia com novo chip Snapdragon 8 Elite gen 6 e som da Bang & Olufsen - Tek Notícias",
-    "summary": "Motorola signature 27 estreia com novo chip Snapdragon 8 Elite gen 6 e som da Bang & Olufsen - Tek Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGxjamQ2VDlLQ05JdXZRcUdkTjhwNF82b0htZGZ5UTJJQ3FXcTlQRjZwSHhHQ2E1Q19BSG1wU05zdGFiWlJBSklFdy1jaHFucDhiTG5EellZUS1Gd3BFVnBsQnAzQ2hhLUI5Yzc0UnI1UkFVWGRGOG44VXQwanJ1QTBTellMeGhjdTVuaU4xNzhWVmZGeVBwWWROREs3dDM3Q1lTUWVGcjZtVzQ2UDBXNTFFcHVXVy0xMDJZVEpsS1dsQkFsWlV3WXZSUkhRQQ?oc=5\" target=\"_blank\">Motorola signature 27 estreia com novo chip Snapdragon 8 Elite gen 6 e som da Bang & Olufsen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tek Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEVmVU9PSlZ4RkdGLWQxbV9VeFdzTUV6ZlU1ZkdzY3ZPWjN4T0tBQVBTc0l1SjNkWklRcXRXVl9acjQxQU0wVUFvMkpOcXEzNHdBbGtaWmhmSG54Y3FkUHo1L"
-  },
-  {
-    "id": "story-104",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T19:59:36.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
-        "date": "2026-09-22T19:59:36.000Z",
-        "snippet": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
-        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations"
-      }
-    ],
-    "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
-    "summary": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza."
-  },
-  {
-    "id": "story-105",
-    "topic": "politik",
-    "country": "DE",
-    "date": "2026-09-22T19:58:52.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
-        "date": "2026-09-22T19:58:52.000Z",
-        "snippet": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen deutliche Kritik gab.",
-        "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu"
-      }
-    ],
-    "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
-    "summary": "Frei sichert Merz Rückhalt der Unionsfraktion zu Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen deutliche Kritik gab."
-  },
-  {
-    "id": "story-106",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T19:57:38.000Z",
-    "sources": [
-      {
-        "source": "Euronews",
-        "url": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york",
-        "date": "2026-09-22T19:57:38.000Z",
-        "snippet": "Trump remained polite and friendly throughout a news conference following his meeting with Burnham, offering largely diplomatic answers to potential flashpoint topics.",
-        "title": "Burnham touts 'good connection' with Trump as pair meet for first time in New York"
-      }
-    ],
-    "title": "Burnham touts 'good connection' with Trump as pair meet for first time in New York",
-    "summary": "Burnham touts 'good connection' with Trump as pair meet for first time in New York Trump remained polite and friendly throughout a news conference following his meeting with Burnham, offering largely diplomatic answers to potential flashpoint topics."
-  },
-  {
-    "id": "story-107",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T19:56:02.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-        "date": "2026-09-22T19:56:02.000Z",
-        "snippet": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees",
-        "title": "Djibouti minister appeals for aid for Yemeni refugees"
-      }
-    ],
-    "title": "Djibouti minister appeals for aid for Yemeni refugees",
-    "summary": "Djibouti minister appeals for aid for Yemeni refugees Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees"
-  },
-  {
-    "id": "story-108",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T19:52:16.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
-        "date": "2026-09-22T19:52:16.000Z",
-        "snippet": "US solicitor general challenges lower court's ruling on Georgetown scholar's detention, sparking constitutional debates.",
-        "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release"
-      }
-    ],
-    "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
-    "summary": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release US solicitor general challenges lower court's ruling on Georgetown scholar's detention, sparking constitutional debates."
-  },
-  {
-    "id": "story-109",
-    "topic": "wirtschaft",
-    "country": "UK",
-    "date": "2026-09-22T19:48:39.000Z",
-    "sources": [
-      {
-        "source": "Guardian Business",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
-        "date": "2026-09-22T19:48:39.000Z",
-        "snippet": "<p>But industry trade group says plan would backfire and lead to even higher prices for gasoline</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> on Tuesday said he backed ⁠the idea of a ban on diesel exports, which some US politicians are calling for ⁠as a way ⁠to curb ​the soaring cost of energy.</p><p>Diesel prices have rallied in <a href=\"https://www.theguardian.com/world/europe-news\">Europe</a> and the US to ⁠record highs as wars in <a href=\"https://www.theguardia",
-        "title": "Trump says he backs diesel export ban to curb soaring energy costs"
-      }
-    ],
-    "title": "Trump says he backs diesel export ban to curb soaring energy costs",
-    "summary": "Trump says he backs diesel export ban to curb soaring energy costs <p>But industry trade group says plan would backfire and lead to even higher prices for gasoline</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> on Tuesday said he backed ⁠the idea of a ban on diesel exports, which some US politicians are calling for ⁠as a way ⁠to curb ​the soaring cost of energy.</p><p>Diesel prices have rallied in <a href=\"https://www.theguardian.com/world/europe-news\">Europe</a> and the US to ⁠record highs as wars in <a href=\"https://www.theguardia"
-  },
-  {
-    "id": "story-111",
-    "topic": "panorama",
-    "country": "PT",
-    "date": "2026-09-22T19:46:07.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/dezasseis-formandos-da-gnr-em-portalegre-assistidos-por-problemas-respiratorios-e-digestivos_n1767087",
-        "date": "2026-09-22T19:46:07.000Z",
-        "snippet": "Os formandos começaram a dar entrada no hospital no \"período da manhã\", tendo \"alguns já recebido alta\".",
-        "title": "Dezasseis formandos da GNR em Portalegre assistidos por problemas respiratórios e digestivos"
-      }
-    ],
-    "title": "Dezasseis formandos da GNR em Portalegre assistidos por problemas respiratórios e digestivos",
-    "summary": "Dezasseis formandos da GNR em Portalegre assistidos por problemas respiratórios e digestivos Os formandos começaram a dar entrada no hospital no \"período da manhã\", tendo \"alguns já recebido alta\"."
-  },
-  {
-    "id": "story-112",
-    "topic": "technik",
-    "country": "US",
-    "date": "2026-09-22T19:45:47.000Z",
-    "sources": [
-      {
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "date": "2026-09-22T19:45:47.000Z",
-        "snippet": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts"
-      }
-    ],
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-    "summary": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
-  },
-  {
-    "id": "story-113",
-    "topic": "panorama",
-    "country": "UK",
-    "date": "2026-09-22T19:45:14.000Z",
-    "sources": [
-      {
-        "source": "Guardian Culture",
-        "url": "https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey",
-        "date": "2026-09-22T19:45:14.000Z",
-        "snippet": "<p>Ella Langley’s record-breaking song has spent 23 weeks at the top, surpassing Mariah Carey’s holiday anthem</p><p>Ella Langley’s hit song Choosin’ Texas has made Billboard Hot 100 history, spending 23 weeks on the chart and breaking the record for the longest-running No 1 song in the chart’s 68-year old history.</p><p>The track, which was released last October as the lead single on the 27-year-old singer and songwriter’s album Dandelion, has surpassed Mariah Carey’s All I Want for Christmas Is You, which topped the charts for 22 weeks.</p> <a href=\"https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey\">Continue reading...</a>",
-        "title": "Choosin’ Texas unseats All I Want for Christmas as longest-running No 1 song on Billboard Hot 100"
-      }
-    ],
-    "title": "Choosin’ Texas unseats All I Want for Christmas as longest-running No 1 song on Billboard Hot 100",
-    "summary": "Choosin’ Texas unseats All I Want for Christmas as longest-running No 1 song on Billboard Hot 100 <p>Ella Langley’s record-breaking song has spent 23 weeks at the top, surpassing Mariah Carey’s holiday anthem</p><p>Ella Langley’s hit song Choosin’ Texas has made Billboard Hot 100 history, spending 23 weeks on the chart and breaking the record for the longest-running No 1 song in the chart’s 68-year old history.</p><p>The track, which was released last October as the lead single on the 27-year-old singer and songwriter’s album Dandelion, has surpassed Mariah Carey’s All I Want for Christmas Is You, which topped the charts for 22 weeks.</p> <a href=\"https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey\">Continue reading...</a>"
-  },
-  {
-    "id": "story-114",
-    "topic": "politik",
-    "country": "INT",
-    "date": "2026-09-22T19:44:44.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sMXhQZXJPY1JROEktMHBINDhfbm0yWjdheVAxTVB4Y0xuUEFyYXNVclB0dUo5Zlk5d0FoNVJ0Z0gwS3llSU05ZFFqcG5EQk5zc25UWXZQOWtOMVk?oc=5",
-        "date": "2026-09-22T19:44:44.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sMXhQZXJPY1JROEktMHBINDhfbm0yWjdheVAxTVB4Y0xuUEFyYXNVclB0dUo5Zlk5d0FoNVJ0Z0gwS3llSU05ZFFqcG5EQk5zc25UWXZQOWtOMVk?oc=5\" target=\"_blank\">American power, AI and a walkout - key moments from Trump's UN speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
-        "title": "American power, AI and a walkout - key moments from Trump's UN speech - bbc.com"
-      }
-    ],
-    "title": "American power, AI and a walkout - key moments from Trump's UN speech - bbc.com",
-    "summary": "American power, AI and a walkout - key moments from Trump's UN speech - bbc.com <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sMXhQZXJPY1JROEktMHBINDhfbm0yWjdheVAxTVB4Y0xuUEFyYXNVclB0dUo5Zlk5d0FoNVJ0Z0gwS3llSU05ZFFqcG5EQk5zc25UWXZQOWtOMVk?oc=5\" target=\"_blank\">American power, AI and a walkout - key moments from Trump's UN speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>"
-  },
-  {
-    "id": "story-115",
-    "topic": "wissenschaft",
-    "country": "INT",
-    "date": "2026-09-22T19:40:00.000Z",
-    "sources": [
-      {
-        "source": "New Scientist",
-        "url": "https://www.newscientist.com/article/2590402-how-turning-electricity-directly-into-food-could-help-save-the-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-        "date": "2026-09-22T19:40:00.000Z",
-        "snippet": "Farming is one of the most destructive human activities. Columnist Michael Le Page is excited about developments in electro-ag, in which we can instead turn renewable electricity directly into food",
-        "title": "How turning electricity directly into food could help save the planet"
-      }
-    ],
-    "title": "How turning electricity directly into food could help save the planet",
-    "summary": "How turning electricity directly into food could help save the planet Farming is one of the most destructive human activities. Columnist Michael Le Page is excited about developments in electro-ag, in which we can instead turn renewable electricity directly into food"
-  },
-  {
-    "id": "story-116",
-    "topic": "panorama",
-    "country": "INT",
-    "date": "2026-09-22T19:29:03.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
-        "date": "2026-09-22T19:29:03.000Z",
-        "snippet": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.",
-        "title": "Qatar denounces Israeli aggression across the region"
-      }
-    ],
-    "title": "Qatar denounces Israeli aggression across the region",
-    "summary": "Qatar denounces Israeli aggression across the region Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries."
   }
 ]
