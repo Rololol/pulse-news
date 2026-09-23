@@ -200,7 +200,7 @@ for(const item of ranked){
   const srcs=[...srcMap.values()];
   const signature=(item.sources||[]).map(s=>s.url).join("|");
   const previous=previousFor(item);
-  const key=hashKey("v8-quality-hardening|"+item.id+"|"+signature+"|"+(item.stateHint||""));
+  const key=hashKey("v9-translation-cache-reset|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
