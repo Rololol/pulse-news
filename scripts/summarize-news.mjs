@@ -184,6 +184,7 @@ if(ranked.length<45){
 
 const output=[];
 let generated=0,fallbacks=0,failures=0;
+const freshIds=new Set();
 for(const item of ranked){
   const srcMap=new Map();
   for(const s of (item.sources||[]).slice(0,8)){
@@ -217,22 +218,38 @@ for(const item of ranked){
   }
 
   if(!srcs.length)continue;
+  const outId=previous?.id||stableId(signature+"|"+(item.stateHint||""));
+  freshIds.add(outId);
   output.push({
-    id:previous?.id||stableId(signature+"|"+(item.stateHint||"")),c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
+    id:outId,c:ai.c||countryMap[item.country]||"INT",o:item.country||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
     lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
     srcs,url:srcs[0]?.url||"",agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[],chg:ai.chg||"",independent:[...new Set(srcs.map(s=>{try{return new URL(s.url).hostname.replace(/^www\\./,"")}catch{return s.name||""}}).filter(Boolean))].length
   });
   await sleep(apiKey?6000:0);
 }
 
-output.sort((a,b)=>(b.d.localeCompare(a.d))||(b.p-a.p));
-const final=output.slice(0,45);
+// Aktuelle Meldungen bleiben sieben Tage auf der Startseite. Neue Meldungen werden
+// mit den bisherigen Einträgen zusammengeführt, damit ältere Meldungen nicht nach
+// wenigen Stunden aus dem aktuellen Fenster verschwinden.
+const cutoff7d=Date.now()-7*24*60*60*1000;
+const retained=previousCurrent.filter(x=>{
+  if(!x?.id||freshIds.has(x.id))return false;
+  const t=Date.parse(x.d);
+  return Number.isFinite(t)&&t>=cutoff7d;
+});
+const combined=[...output,...retained];
+const byId=new Map();
+for(const item of combined)if(!byId.has(item.id))byId.set(item.id,item);
+const final=[...byId.values()].sort((a,b)=>(b.d.localeCompare(a.d))||(b.p-a.p)).slice(0,400);
 
-// Historie: Die aus dem aktuellen Fenster fallenden Meldungen werden monatlich archiviert.
-// Es werden nur die bisherigen data.json-Meldungen übernommen, die nicht mehr in final stehen.
+// Historie: Alles, was älter als sieben Tage ist, wird monatlich archiviert.
 await fs.mkdir(archiveDir,{recursive:true});
 const finalIds=new Set(final.map(x=>x.id));
-const archiveCandidates=previousCurrent.filter(x=>x&&x.id&&!finalIds.has(x.id));
+const archiveCandidates=previousCurrent.filter(x=>{
+  if(!x?.id||finalIds.has(x.id))return false;
+  const t=Date.parse(x.d);
+  return Number.isFinite(t)&&t<cutoff7d;
+});
 const months=new Map();
 for(const item of archiveCandidates){
   const d=new Date(item.d); if(!Number.isFinite(d.getTime()))continue;
