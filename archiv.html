@@ -31,7 +31,7 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const fmt=d=>{const x=new Date(d);return Number.isNaN(x.getTime())?'':new Intl.DateTimeFormat('de-DE',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(x)+' Uhr'};
 let entries=[],activeMonth='all';
 try{
- const base=new URL('https://raw.githubusercontent.com/Rololol/pulse-news/main/');
+ const base=new URL('./',window.location.href);
  const loadJson=async path=>{
    const res=await fetch(new URL(path,base).href+'?v=archive',{cache:'no-store'});
    if(!res.ok)throw new Error('HTTP '+res.status+' für '+path);
@@ -84,7 +84,7 @@ root.addEventListener('click',e=>{
   if(e.target.closest('[data-close]'))closeEntry();
 });
  search.addEventListener('input',render); clear.addEventListener('click',()=>{search.value='';render();search.focus()}); render();
-}catch(e){root.innerHTML='<div class="empty">Archiv konnte nicht geladen werden.</div>';count.textContent='Archiv nicht verfügbar'}
+}catch(e){console.error('Pulse Archiv:',e);root.innerHTML='<div class="empty"><h3>Archiv konnte nicht geladen werden.</h3><p>'+esc(e&&e.message?e.message:'Unbekannter Fehler')+'</p></div>';count.textContent='Archiv nicht verfügbar'}
 })();
 
 </script>
