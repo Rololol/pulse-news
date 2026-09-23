@@ -102,7 +102,7 @@ ${sourceText}`;
   const sourceTitles=(item.sources||[]).map(x=>clean(x.title||"").toLowerCase()).join(" ");
   const titleWords=parsed.t.toLowerCase().split(/\s+/).filter(w=>w.length>=5);
   const titleOverlap=titleWords.filter(w=>sourceTitles.includes(w)).length/Math.max(1,titleWords.length);
-  if(titleOverlap<0.25)parsed.t=clean(item.title).replace(/Gewehfreparatur/gi,"Gewehrreparatur").split(/\s+/).slice(0,12).join(" ");
+  if(titleOverlap<0.25 && item.country==="DE")parsed.t=clean(item.title).replace(/Gewehfreparatur/gi,"Gewehrreparatur").split(/\s+/).slice(0,12).join(" ");
   parsed.s=clean(parsed.s).slice(0,220);
   parsed.m=clean(parsed.m).slice(0,500);
   parsed.r=clean(parsed.r).slice(0,280);
