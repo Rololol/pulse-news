@@ -62,7 +62,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 
 .controls{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--nav));z-index:15;background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);margin:0 -16px;padding:8px 16px 0}
 .seg{display:flex;background:var(--fill);border-radius:9px;padding:2px;gap:2px}
-.seg button{flex:1;border:0;background:transparent;font:600 13px/1 var(--font);padding:8px 2px;border-radius:7px;white-space:nowrap}
+.seg button{flex:1;min-width:0;border:0;background:transparent;font:600 13px/1 var(--font);padding:8px 2px;border-radius:7px;white-space:nowrap}
 .seg button[aria-pressed="true"]{background:var(--segon);box-shadow:0 1px 3px rgba(0,0,0,.16),0 0 0 .5px rgba(0,0,0,.04)}.state-picker{position:relative;padding:7px 0 9px}.state-picker select{width:100%;height:36px;appearance:none;-webkit-appearance:none;border:0;border-radius:10px;padding:0 38px 0 12px;background:var(--fill);color:var(--label);font:600 14px/1 var(--font);outline:none}.state-picker::after{content:"";position:absolute;right:13px;top:50%;width:7px;height:7px;border-right:1.8px solid var(--label2);border-bottom:1.8px solid var(--label2);transform:translateY(-65%) rotate(45deg);pointer-events:none}.state-picker select:focus{box-shadow:0 0 0 2px color-mix(in srgb,var(--tint) 35%,transparent)}
 .chips{display:flex;gap:8px;overflow-x:auto;padding:10px 16px 12px;margin:0 -16px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
@@ -226,6 +226,7 @@ function visible(){
         if(S.scope==='state')return it.c==='DE';
     if(S.scope==='local')return it.c==='DE'&&(!S.state||it.st===S.state);
     if(S.scope==='all')return it.c!=='DE';
+    if(S.scope==='updated')return !!String(it.chg||'').trim();
     return true;
   });
   return list.sort((a,b)=>a.d===b.d?b.p-a.p:(a.d<b.d?1:-1));
@@ -241,7 +242,7 @@ function renderMarquee(){
   el.innerHTML=`<div class="mq-label">${ic('wave')}Top</div><div class="mq-view"><div class="mq-track" style="--dur:${Math.max(40,Math.round(chars/7))}s"><div class="mq-list">${list}</div><div class="mq-list" aria-hidden="true">${list.replace(/<button /g,'<button tabindex="-1" ')}</div></div></div>`;
 }
 function renderControls(){
-  const scopes=[['state','Deutschland'],['local','Bundesland'],['all','International']];
+  const scopes=[['state','Deutschland'],['local','Bundesland'],['all','International'],['updated','Aktualisiert']];
   const availableStates=Object.entries(STATES).filter(([k])=>ITEMS.some(it=>it.c==='DE'&&it.st===k));
   const states=availableStates.map(([k,n])=>'<option value="'+k+'" '+(S.state===k?'selected':'')+'>'+n+'</option>').join('');
   $('#states').innerHTML=S.scope==='local'?'<div class="state-picker"><select id="stateSelect" aria-label="Bundesland auswählen"><option value="all" '+(!S.state?'selected':'')+'>Alle Bundesländer</option>'+states+'</select></div>':'';
@@ -351,7 +352,7 @@ document.addEventListener('click',e=>{
   const d=t.dataset;
   if(d.open!==undefined){openSheet(d.open);return}
   if(d.close!==undefined){closeSheet();return}
-  if(d.scope!==undefined){S.scope=d.scope;S.state='';renderControls();renderFeed();return}
+  if(d.scope!==undefined){S.scope=d.scope;S.state='';S.cat='all';renderControls();renderFeed();return}
   if(d.state!==undefined){S.state=d.state==='all'?'':d.state;renderControls();renderFeed();return}
   if(d.cat!==undefined){S.cat=d.cat;renderControls();renderFeed();return}
   if(d.share!==undefined){
