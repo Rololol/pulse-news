@@ -24,6 +24,514 @@
     "diff": []
   },
   {
+    "id": "story-0e2b49ca901c3073",
+    "c": "INT",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T08:40:08.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Trump und Weltführer uneinig bei Regulierung von Künstlicher Intelligenz",
+    "s": "Beim Thema Künstliche Intelligenz sind die Ansichten von Donald Trump und anderen Weltführern auseinandergegangen. Trump lehnte globale Regulierungsbemühungen ab. UN-Generalsekretär António Guterres warnte vor den Gefahren autonomer Entscheidungen von Maschinen.",
+    "m": "Während eines internationalen Treffens prallten unterschiedliche Positionen zur Zukunft der Künstlichen Intelligenz aufeinander. Der US-Präsident Donald Trump stellte sich gegen weltweite Anstrengungen zur Kontrolle dieser Technologie. Demgegenüber äußerte sich UN-Generalsekretär António Guterres besorgt über Maschinen, die über Leben und Tod entscheiden könnten. Weitere anwesende führende Politiker forderten indessen eine internationale Zusammenarbeit, um die Entwicklung und Nutzung der Technologie zu steuern. Konkrete Maßnahmen oder Verträge wurden im Rahmen dieser Auseinandersetzung nicht beschlossen. Die Diskussion verdeutlicht die globalen Spannungen zwischen nationaler Handlungsfreiheit und dem Ruf nach Sicherheitsstandards bei Zukunftstechnologien.",
+    "r": "Die Debatte zeigt den Mangel an internationalem Konsens im Umgang mit Künstlicher Intelligenz auf höchster politischer Ebene. Da KI zunehmend globale Bedeutung erlangt, sind die Positionen wichtiger Akteure für künftige Regulierungen entscheidend.",
+    "srcs": [
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/09/23/killer-robots-or-super-intelligence-trump-and-world-leaders-clash-over-ai",
+        "date": "2026-09-23T08:40:08.000Z"
+      }
+    ],
+    "url": "https://www.euronews.com/2026/09/23/killer-robots-or-super-intelligence-trump-and-world-leaders-clash-over-ai",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-55c5afd9cbf2d660",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:39:38.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "\"Sechs Gewinnt\": Unsere Gewinnervereine aus ganz SH",
+    "s": "Mehrere Vereine und Freiwillige Feuerwehren aus ganz Schleswig-Holstein haben beim NDR-Gewinnspiel \"Sechs Gewinnt\" jeweils 1.000 Euro gewonnen. Voraussetzung für den Gewinn war es, das richtige Codewort weiterzusagen und den Radiosender NDR 1 Welle Nord zu hören. Die Aktion unterstützt das Ehrenamt und die Vereinskultur in der Region.",
+    "m": "Bei dem Gewinnspiel \"Sechs Gewinnt\" von NDR 1 Welle Nord wurden Gewinnervereine und Freiwillige Feuerwehren in ganz Schleswig-Holstein ausgezeichnet. Die Teilnehmer konnten sich eine Finanzspritze von jeweils 1.000 Euro sichern, indem sie ein bestimmtes Codewort weitersagten. Das Format verbindet das Radiohören mit direkter finanzieller Unterstützung für lokale Gemeinschaften und Organisationen im Bundesland. Die Aktion unterstreicht die Bedeutung des ehrenamtlichen Engagements in Schleswig-Holstein. Genaue Namen aller begünstigten Vereine wurden in der Meldung nicht einzeln aufgeführt, jedoch steht fest, dass zahlreiche Organisationen profitieren konnten.",
+    "r": "Die Aktion zeigt, wie regionale Medien das lokale Ehrenamt und Vereine in Schleswig-Holstein finanziell unterstützen können. Das Gewinnspiel bietet eine direkte Verbindung zwischen Hörern und der Förderung des Gemeinschaftsslebens.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/sechs-gewinnt-unsere-gewinnervereine-aus-ganz-sh,sechsgewinnt-104.html",
+        "date": "2026-09-23T08:39:38.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/sechs-gewinnt-unsere-gewinnervereine-aus-ganz-sh,sechsgewinnt-104.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-d0b86b794e8f12c0",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:39:33.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Neustadt: 45-jähriger Mann wird von Zug erfasst und getötet",
+    "s": "Am Dienstag ist ein 45-jähriger Mann im Bereich des Bahnhofs Neustadt-Böbig von einem einfahrenden Zug erfasst und tödlich verletzt worden. Nach Angaben der Polizei wurden mehrere Schüler Zeugen des Unglücks. Die genauen Umstände des Vorfalls sind Gegenstand der laufenden polizeilichen Ermittlungen.",
+    "m": "Das Unglück ereignete sich am Dienstag im Gleisbereich des Bahnhofs Neustadt-Böbig. Ein 45-jähriger Mann geriet aus bislang ungeklärter Ursache in den Bereich eines einfahrenden Zuges und wurde dabei so schwer verletzt, dass er noch vor Ort verstarb. An der Unfallstelle waren auch mehrere Schüler anwesend, die den Vorfall miterleben mussten und Zeugen des tragischen Geschehens wurden. Die Polizei hat die Ermittlungen zur Klärung des genauen Hergangs aufgenommen. Weitere Details zum Ablauf oder zu möglichen Auswirkungen auf den Bahnverkehr liegen derzeit nicht vor.",
+    "r": "Der Unfall zeigt erneut die Gefahren im Gleisbereich auf und verdeutlicht die psychischen Belastungen für anwesende Zeugen, insbesondere Jugendliche. Ein polizeilicher Großeinsatz und die Aufarbeitung des Vorfalls sind direkte Folgen des Geschehens.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/toedlicher-bahnunfall-bei-neustadt-schueler-werden-zeugen-100.html",
+        "date": "2026-09-23T08:39:33.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/toedlicher-bahnunfall-bei-neustadt-schueler-werden-zeugen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f301f66e6d368fd7",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T08:39:22.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "DAX gibt frühe Gewinne nach positivem Start wieder ab",
+    "s": "Der deutsche Aktienindex DAX konnte zu Handelsbeginn von neuen Friedenshoffnungen profitieren und verzeichnete einen guten Start. Im Laufe des Tages sind die anfänglichen Kursgewinne jedoch wieder vollständig verloren gegangen. Grund für diese Entwicklung könnte eine anhaltende Zurückhaltung seitens internationaler Investoren sein.",
+    "m": "Die Börse startete am Morgen optimistisch in den Handelstag, angetrieben von aufkommenden Friedenshoffnungen. Dieses positive Momentum hielt jedoch nicht an, und der DAX gab seine frühen Gewinne im weiteren Verlauf komplett ab. Marktbeobachter führen diese Entwicklung unter anderem darauf zurück, dass internationale Investoren sich weiterhin zurückhalten und keine größeren Positionen aufbauen. Konkrete Zahlen zu den Handelsvolumina oder den genauen Indikatorenstand wurden in dem Bericht nicht genannt. Es bleibt unklar, ob sich die Zurückhaltung der Investoren verfestigen wird oder welche geopolitischen Ereignisse die Friedenshoffnungen konkret ausgelöst hatten.",
+    "r": "Die Entwicklung des DAX ist ein wichtiger Indikator für die Stimmung an den Finanzmärkten und das Verhalten internationaler Investoren. Kursverläufe spiegeln unmittelbar geopolitische und wirtschaftliche Erwartungen wider.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+        "date": "2026-09-23T08:39:22.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a8bbbe86368cc73f",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:38:24.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Berliner Polizei durchsucht Objekte wegen illegalen Schusswaffenhandels",
+    "s": "Die Berliner Polizei hat im Rahmen von Ermittlungen wegen illegalen Schusswaffenhandels mehrere Wohnungen und Lokale in der Hauptstadt durchsucht. Dabei wurden mehrere Personen festgenommen. Zudem stellten die Einsatzkräfte Schusswaffen und Munition sicher.",
+    "m": "Die Razzien fanden im Umfeld der Organisierten Kriminalität in ganz Berlin statt. Konkret wurden im Zuge der Einsätze zwei scharfe Schusswaffen sichergestellt, wie aus Berichten hervorgeht. Es gab mehrere Festnahmen von verdächtigen Personen. Die Polizei geht mit diesen Maßnahmen gegen den illegalen Schusswaffenhandel vor. Weitere Details zum Ablauf der Durchsuchungen und zu den Identitäten der Festgenommenen wurden zunächst nicht bekanntgegeben. Die Ermittlungen in diesem Fall dauern an.",
+    "r": "Der illegale Schusswaffenhandel im Umfeld der Organisierten Kriminalität in einer deutschen Großstadt stellt ein erhebliches Sicherheitsrisiko dar. Polizeiliche Razzien und Festnahmen sind zentrale Maßnahmen zur Eindämmung dieser kriminellen Strukturen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
+        "date": "2026-09-23T08:38:24.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-berlin-illegaler-waffenhandel-schusswaffen-organisierte-kriminalitaet-polizei",
+        "date": "2026-09-23T08:21:37.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend über Razzien der Berliner Polizei im Zusammenhang mit illegalem Schusswaffenhandel, bei denen es mehrere Festnahmen und Sicherstellungen von Waffen gab.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt konkret, dass neben Wohnungen auch Lokale durchsucht wurden und dass neben Schusswaffen auch Munition sichergestellt wurde."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Ordnet die Razzien ausdrücklich dem Umfeld der Organisierten Kriminalität zu und präzisiert die Sicherstellung auf zwei scharfe Schusswaffen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-895dfe85176a873c",
+    "c": "INT",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T08:38:12.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Ofcom leitet Untersuchung gegen Pornhub wegen Altersüberprüfung ein",
+    "s": "Die britische Medienaufsichtsbehörde Ofcom hat eine formelle Untersuchung gegen den Pornhub-Betreiber Aylo eingeleitet. Grund für das Verfahren sind Bedenken hinsichtlich der Zuverlässigkeit der dortigen Altersverifikation. Die Behörde prüft, ob das Unternehmen ausreichende Sorgfaltspflichten zur Altersprüfung seiner Nutzer erfüllt hat.",
+    "m": "Die britische Regulierungsbehörde Ofcom hat offiziell ein Ermittlungsverfahren gegen die Plattform Pornhub beziehungsweise deren Betreiber Aylo gestartet. Im Zentrum der Untersuchung steht die Sorge der Behörde, dass das Unternehmen möglicherweise nicht die erforderlichen und ausreichenden Maßnahmen zur Überprüfung des Alters seiner Nutzer getroffen hat. Die Einhaltung strenger Alterschecks ist für solche Plattformen gesetzlich vorgeschrieben, um Minderjährige vor dem Zugriff auf nicht jugendfreie Inhalte zu schützen. Ofcom wird nun prüfen, inwiefern die bisherigen Systeme des Betreibers den regulatorischen Anforderungen entsprechen. Bei Verstößen drohen dem Unternehmen entsprechende Konsequenzen seitens der Aufsichtsbehörde.",
+    "r": "Die Untersuchung ist relevant, da sie die Durchsetzung von Jugendschutzgesetzen und Altersverifikationspflichten bei großen Online-Plattformen durch staatliche Regulierungsbehörden betrifft.",
+    "srcs": [
+      {
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-23T08:38:12.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-7928cbbae71fb203",
+    "c": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T08:37:38.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "1. FC Kaiserslautern bereitet sich auf die Länderspielpause vor",
+    "s": "Beim 1. FC Kaiserslautern findet aufgrund der Länderspielpause drei Wochen lang kein Pflichtspiel statt. Nach einem insgesamt guten Saisonstart stellt diese Phase Trainer Torsten Lieberknecht und die Mannschaft vor eine ungewohnte Situation. Der Verein bereitet sich darauf vor, die spielfreie Zeit zu nutzen.",
+    "m": "Die Roten Teufel sind ordentlich in die neue Saison gestartet, müssen nun jedoch eine dreiwöchige Pflichtspielpause überbrücken. Für Coach Torsten Lieberknecht bedeutet diese lange Unterbrechung Neuland. Der Verein und das Trainerteam müssen die ungewohnte Situation aktiv moderieren, um den Schwung aus den vergangenen Spielen nicht zu verlieren. Die Berichterstattung lässt offen, ob Testspiele oder spezielle Trainingseinheiten geplant sind, um den Spielrhythmus hochzuhalten. Genauere Details zum Trainingsplan oder personellen Änderungen während der Pause werden in den Quellen nicht genannt. Die Mannschaft versucht, die Zeit optimal für die Regeneration und die taktische Weiterentwicklung zu nutzen, um nach der Pause wieder anzugreifen.",
+    "r": "Die Länderspielpause unterbricht den Spielbetrieb der 2. Bundesliga und zwingt Vereine wie den 1. FC Kaiserslautern zu einer längeren Anpassung des Trainingsbetriebs.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/sport/fussball/fck-programm-laenderspielpause-torsten-lieberknecht-100.html",
+        "date": "2026-09-23T08:37:38.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/sport/fussball/fck-programm-laenderspielpause-torsten-lieberknecht-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-c024241d5e135da4",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:36:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Mutmaßliche Viehdiebe nach Diebstahl von über 200 Rindern festgenommen",
+    "s": "Die Polizei hat mehrere mutmaßliche Viehdiebe festgenommen, nachdem im Zuge mehrerer Fälle über 200 Rinder entwendet worden waren. Nähere Details zu den Tatorten, den Verdächtigen oder den Hintergründen der Festnahmen wurden zunächst nicht genannt. Die Ermittlungen zu den Vorfällen dauern an.",
+    "m": "Die Polizei konnte im Rahmen von Ermittlungen zu mehreren Fällen von Viehdiebstahl mehrere Tatverdächtige festnehmen. Insgesamt waren über 200 Rinder von den Diebstählen betroffen. Bislang ist unklar, wie die Täter bei den Diebstählen vorgegangen sind und wo genau die Tiere entwendet wurden. Auch über den Verbleib der Rinder oder mögliche Hehler gibt es noch keine offiziellen Angaben. Die Behörden prüfen nun, ob die Festgenommenen für alle gemeldeten Fälle verantwortlich sind. Weitere Auskünfte zu den laufenden Ermittlungen wurden für einen späteren Zeitpunkt angekündigt.",
+    "r": "Die Festnahme mutmaßlicher Täter nach dem Diebstahl einer großen Anzahl von Nutztieren ist ein bedeutender Kriminalfall für die betroffene Region. Solche Vorfälle betreffen direkt die wirtschaftliche Existenzgrundlage von landwirtschaftlichen Betrieben.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/ueber-200-rinder-polizei-nimmt-mutmassliche-viehdiebe-fest",
+        "date": "2026-09-23T08:36:54.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/ueber-200-rinder-polizei-nimmt-mutmassliche-viehdiebe-fest",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-475c770ad96b0eb3",
+    "c": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T08:36:04.000Z",
+    "p": 2,
+    "st": "BE",
+    "city": "",
+    "t": "Umweltaktivisten seilen sich von Berliner CDU-Zentrale ab",
+    "s": "In Berlin haben Umweltaktivisten eine Protestaktion an der Zentrale der CDU durchgeführt. Die Demonstranten seilten sich von dem Gebäude ab. Zu den genauen Hintergründen und Forderungen der Aktivisten gibt es in dieser frühen Meldung noch keine weiteren Angaben. Die Polizei und Einsatzkräfte sind mit dem Vorfall befasst.",
+    "m": "Bislang ist bekannt, dass Umweltaktivisten eine Aktion an der CDU-Zentrale in Berlin gestartet haben und sich dabei vom Dach oder der Fassade des Gebäudes abseilten. Weitere Details zu der Identität der Aktivisten oder der genauen Dauer und dem Verlauf der Aktion liegen noch nicht vor. Auch Reaktionen der CDU oder der Berliner Polizei auf die Störaktion sind in den aktuellen Berichten bisher nicht näher ausgeführt. Es bleibt abzuwarten, ob die Aktion friedlich beendet werden konnte und ob es zu Festnahmen oder polizeilichen Ermittlungen kam.",
+    "r": "Die Meldung dokumentiert eine politische Protestaktion an einer Parteizentrale in der Hauptstadt, die Auswirkungen auf den dortigen Sicherheitsbetrieb haben kann.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-umweltaktivisten-seilen-sich-von-berliner-cdu-zentrale-ab-102.html",
+        "date": "2026-09-23T08:36:04.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-umweltaktivisten-seilen-sich-von-berliner-cdu-zentrale-ab-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a11f1d433f2864fa",
+    "c": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T08:36:03.000Z",
+    "p": 3,
+    "st": "HH",
+    "city": "",
+    "t": "Fachleute beraten in Hamburg über Folgen des Hitzesommers",
+    "s": "Auf dem Extremwetterkongress in Hamburg diskutieren Fachleute über die Auswirkungen des vergangenen Hitzesommers. Dabei steht die Frage im Raum, wie sich solche Wetterextreme künftig auf die Region auswirken werden. Experten bewerten die langfristigen Risiken und notwendigen Anpassungsmaßnahmen.",
+    "m": "Der Extremwetterkongress in Hamburg bietet eine Plattform für den Austausch von Wissenschaftlern und Meteorologen. Im Fokus stehen die Analysen des Rekordsommers 2026. Forscher weisen darauf hin, dass die extremen Temperaturen und Trockenperioden kein einmaliges Phänomen bleiben dürften. Klimamodelle zeigen, dass solche Wetterbedingungen in etwa 30 Jahren den klimatischen Normalzustand darstellen könnten. Diskutiert werden konkrete Strategien für den Hochwasserschutz, die Stadtplanung und die Landwirtschaft. Offen bleibt, wie schnell politische Maßnahmen zur CO2-Reduktion und städtischen Anpassung umgesetzt werden können.",
+    "r": "Die Erkenntnisse des Extremwetterkongresses zeigen dringenden Handlungsbedarf für den Klimaschutz und die städtische Anpassung an künftige Wetterextreme auf. Die Einschätzung, dass der Rekordsommer bald der Normalfall sein könnte, verdeutlicht die fortschreitende Klimaveränderung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/hamburg-fachleute-beraten-ueber-die-folgen-des-hitzesommers,extremwetterkongress-100.html",
+        "date": "2026-09-23T08:36:03.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hamburg/hamburg-fachleute-beraten-ueber-die-folgen-des-hitzesommers,extremwetterkongress-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-d2fe3d6e4cc944d7",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:34:39.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Mordprozess in Schrozberg wird nach eingeschlafenem Schöffen fortgesetzt",
+    "s": "Ein Mordprozess in Schrozberg kann regulär fortgesetzt werden. Zuvor war ein Schöffe während der Verhandlung im Gerichtssaal eingeschlafen. Die Verteidigung hatte daraufhin einen Befangenheitsantrag gestellt, welcher jedoch nicht zum Abbruch des Verfahrens führte.",
+    "m": "Im Mordprozess um einen Fall aus dem baden-württembergischen Schrozberg kam es während der Verhandlung zu einem Zwischenfall, als ein ehrenamtlicher Richter im Gerichtssaal einschlief. Angesichts dieses Vorfalls stellte die Verteidigung umgehend einen Befangenheitsantrag gegen den Schöffen. Das Gericht prüfte die Situation, und es wurde entschieden, dass der Prozess ohne weitere Unterbrechungen normal fortgeführt werden kann. Der Vorfall warf kurzzeitig Fragen zum ordnungsgemäßen Ablauf der Hauptverhandlung auf, gefährdet das Verfahren im aktuellen Stadium jedoch nicht. Über den genauen Hintergrund der Tat oder den weiteren zeitlichen Ablauf des Mordprozesses wurden in dieser Meldung keine zusätzlichen Details genannt. Die Verhandlung wird somit unter den gewohnten formalen Bedingungen weitergeführt.",
+    "r": "Der Vorfall betrifft den ordnungsgemäßen Ablauf eines laufenden Mordprozesses und die Frage der richterlichen Unparteilichkeit beziehungsweise Besetzung. Solche Zwischenfälle können Auswirkungen auf die prozessuale Validität haben und sind daher von rechtlicher Relevanz.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/mord-prozess-schrozberg-femizid-ehefrau-hinter-doenerimbiss-erschossen-schoeffe-eingeschlafen-befangenheit-100.html",
+        "date": "2026-09-23T08:34:39.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/mord-prozess-schrozberg-femizid-ehefrau-hinter-doenerimbiss-erschossen-schoeffe-eingeschlafen-befangenheit-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a5ce24a23bf95d1b",
+    "c": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:30:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Strafmaß im Weinstein-Verfahren in New York wird erwartet",
+    "s": "Im Weinstein-Verfahren in New York wird das bevorstehende Strafmaß für den verurteilten Sexualstraftäter erwartet. Die Bekanntgabe soll über das weitere rechtliche Schicksal des früheren Filmproduzenten entscheiden. Der Fall gilt als Meilenstein der #MeToo-Bewegung.",
+    "m": "Das Verfahren gegen den früheren Filmproduzenten Harvey Weinstein hat weltweit große Aufmerksamkeit erregt und war ein Auslöser für die #MeToo-Bewegung. Nun wird in New York das endgültige Strafmaß in dem aufsehenerregenden Prozess erwartet. Beteiligt sind die Justizbehörden des Bundesstaates New York sowie die Verteidigung und die Nebenklägerinnen. Die Entscheidung hat weitreichende Signalwirkung für den Umgang mit Sexualverbrechen in der Filmindustrie und der Gesellschaft. Bislang ist unklar, wie hoch die Strafe im Detail ausfallen wird und welche Rechtsmittel die Verteidigung im Anschluss einlegen könnte.",
+    "r": "Das Verfahren markiert einen zentralen Fall im Umgang mit sexualisierter Gewalt und hat weltweite Bedeutung für die juristische Aufarbeitung solcher Taten.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/strafmass-im-weinstein-verfahren-in-new-york-erwartet",
+        "date": "2026-09-23T08:30:18.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/strafmass-im-weinstein-verfahren-in-new-york-erwartet",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-2751843db966fd84",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T08:30:07.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bosch wächst leicht im Kerngeschäft belastet durch Ergebnisminderung",
+    "s": "Der Technologiekonzern Bosch hat ein leichtes Wachstum verzeichnet. Gleichzeitig wird das Ergebnis durch das Kerngeschäft belastet. Genauere Details zum Verlauf und zu den finanziellen Auswirkungen wurden genannt.",
+    "m": "Der Technologiekonzern Bosch verzeichnet ein leichtes Wachstum, wobei das Kerngeschäft das Ergebnis belastet. Die Entwicklung zeigt branchenspezifische Herausforderungen für den Konzern auf. Weitere Details zu Kennzahlen, konkreten Geschäftsbereichen und den genauen Ursachen für die Ergebnisbelastung gehen aus dem Bericht hervor. Auch Maßnahmen zur Bewältigung der Situation könnten eine Rolle spielen.",
+    "r": "Die Entwicklung von Bosch als bedeutender Technologiekonzern ist ein Indikator für die wirtschaftliche Lage in der Branche. Die Belastung im Kerngeschäft zeigt strukturelle oder konjunkturelle Herausforderungen auf.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis",
+        "date": "2026-09-23T08:30:07.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-dbb6cf704581b6c9",
+    "c": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T08:29:46.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Fabian Bredlow droht beim VfB Stuttgart trotz starker Leistungen die Rückkehr auf",
+    "s": "Fabian Bredlow hat beim VfB Stuttgart in den vergangenen Wochen überzeugt und starke Leistungen gezeigt. Dennoch steht er vor einer schwierigen sportlichen Entscheidung, da Konkurrenten oder Trainerentscheidungen seine Position gefährden könnten. Die Frage nach der Nummer eins im Tor bleibt damit beim Bundesligisten brisant.",
+    "m": "In der Fußball-Bundesliga sorgt die Torwartsituation beim VfB Stuttgart für Gesprächsstoff. Fabian Bredlow hat zuletzt mehrfach bewiesen, dass auf ihn Verlass ist und er dem Team mit starken Paraden helfen kann. Dennoch ist seine langfristige Zukunft als Stammtorhüter keineswegs garantiert, weshalb ihm droht, wieder auf der Ersatzbank Platz nehmen zu müssen. Die sportliche Leitung und das Trainerteam müssen abwägen, wie die Besetzung im Tor optimal gestaltet wird. Solche Konkurrenzkämpfe sind im Profifußball üblich, können aber für den betroffenen Spieler eine mentale Belastung darstellen. Bislang hat sich der Verein nicht endgültig auf eine langfristige Hierarchie im Kasten festgelegt. Die kommenden Trainingseinheiten und Spiele werden zeigen, wer das Vertrauen des Trainers erhält.",
+    "r": "Die Torwartfrage bei einem Bundesligisten ist sportlich relevant, da sie das Mannschaftsgefüge und den sportlichen Erfolg direkt beeinflusst. Konkurrenzkämpfe auf dieser Schlüsselposition stehen im Fokus der sportlichen Berichterstattung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/gut-ist-nicht-immer-gut-genug-bredlow-droht-wieder-die-bank",
+        "date": "2026-09-23T08:29:46.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/gut-ist-nicht-immer-gut-genug-bredlow-droht-wieder-die-bank",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-39b5541ea7822da7",
+    "c": "INT",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T08:29:32.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Greenpeace warnt vor anhaltender Öl-Umweltverschmutzung in der Straße von Hormus",
+    "s": "In der umkämpften Straße von Hormus besteht laut einer Warnung von Greenpeace weiterhin eine erhebliche Umweltgefahr durch Öl. Die Organisation macht auf anhaltende Verschmutzungen in dem strategisch wichtigen Gewässer aufmerksam. Das Gebiet zwischen den USA und dem Iran ist durch geopolitische Konflikte belastet.",
+    "m": "Die Umweltschutzorganisation Greenpeace hat erneut auf die gravierenden ökologischen Risiken in der Straße von Hormus hingewiesen. Nach Angaben der Organisation kommt es dort weiterhin zu Umweltverschmutzungen durch Öl. Diese Situation stellt eine dauerhafte Bedrohung für die Meeresumwelt und die lokale Ökologie dar. Die Region ist Schauplatz politischer und militärischer Spannungen zwischen den USA und dem Iran, was Einsätze und unabhängige Kontrollen erschwert. Bisher gibt es keine konkreten Berichte über neue Havarien oder gezielte Angriffe, die den jüngsten Alarm ausgelöst haben könnten. Greenpeace fordert mehr Aufmerksamkeit für die ökologischen Folgen des Konflikts in dem Seegebiet.",
+    "r": "Die anhaltende Umweltverschmutzung in einer der wichtigsten Schifffahrtsstraßen der Welt betrifft globale Handelswege und maritime Ökosysteme. Der Konflikt zwischen den USA und dem Iran hat somit auch eine direkte ökologische Dimension, die internationale Aufmerksamkeit erfordert.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/weiter-umweltverschmutzung-durch-oel-in-der-strasse-von-hormus-104.html",
+        "date": "2026-09-23T08:29:32.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/weiter-umweltverschmutzung-durch-oel-in-der-strasse-von-hormus-104.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-bc93aebf22a4d706",
+    "c": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T08:29:32.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Neuer Gesundheitsminister Linnemann stellt sich im Bundestag den Fragen",
+    "s": "Der neue Gesundheitsminister Linnemann stellt sich heute im Bundestag den Fragen der Abgeordneten. An der Befragung nimmt zudem Verteidigungsminister Pistorius teil.",
+    "m": "Im Deutschen Bundestag kommt es heute zu einer Regierungsbefragung, bei der sich der neue Gesundheitsminister Linnemann den Fragen der Abgeordneten stellt. Ebenfalls den Fragen der Parlamentarier stellt sich Verteidigungsminister Pistorius. Die Befragung bietet den Abgeordneten die Gelegenheit, aktuelle politische Vorhaben und Fragen an die beiden Minister zu richten. Die genauen inhaltlichen Schwerpunkte der Debatte gehen aus den vorliegenden Informationen nicht hervor.",
+    "r": "Die Regierungsbefragung im Bundestag ist für die parlamentarische Kontrolle der Regierungsarbeit relevant. Sie ermöglicht es den Abgeordneten, die Minister direkt zu aktuellen politischen Themen zu befragen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/pistorius-und-linnemann-stellen-sich-den-fragen-der-abgeordneten-100.html",
+        "date": "2026-09-23T08:29:32.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/pistorius-und-linnemann-stellen-sich-den-fragen-der-abgeordneten-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a938f04d370f89f4",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T08:21:29.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bund reagiert auf Dumpingangebote für deutsche Konzerne",
+    "s": "Ausländische Konzerne haben kürzlich durch günstige Angebote die Kontrolle über mehrere deutsche Unternehmen erlangt. Zu den betroffenen Firmen zählen unter anderem die Commerzbank, Hugo Boss und ProSiebenSat.1. Angesichts dieser Entwicklungen prüft der Bund nun mögliche Reaktionen und Schutzmaßnahmen. Es stellt sich die grundlegende Frage, wie solche feindlichen Übernahmen und Dumpingofferten künftig verhindert werden können.",
+    "m": "In den letzten Monaten sind ausländische Investoren verstärkt durch vergleichsweise niedrige Angebote bei bekannten deutschen Konzernen wie der Commerzbank, Hugo Boss und ProSiebenSat.1 aktiv geworden. Durch diese Offerten ist es gelungen, die Kontrolle oder nennenswerte Anteile an den traditionsreichen Unternehmen zu erlangen. Dies ruft nun die Bundespolitik auf den Plan, um über geeignete Instrumente zum Schutz der heimischen Wirtschaft zu beraten. Diskutiert wird, welche regulatorischen Hürden oder gesetzlichen Verschärfungen notwendig sind, um deutsche Unternehmen vor derartigen Übernahmen zu bewahren. Bislang ist unklar, welche konkreten Maßnahmen die Bundesregierung ergreifen wird, um den Wirtschaftsstandort Deutschland nachhaltig zu sichern. Die Debatte berührt grundlegende Fragen der offenen Marktwirtschaft und der nationalen Industriesicherheit.",
+    "r": "Die Übernahme deutscher Konzerne durch ausländische Investoren mittels niedriger Angebote betrifft zentrale Akteure der deutschen Wirtschaft. Die Reaktion der Politik verdeutlicht die Sorge um den heimischen Wirtschaftsstandort und die wirtschaftliche Souveränität.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/commerzbank-und-co.-bund-prueft-dumpingangebote-fuer-deutsche-konzerne/100250785.html",
+        "date": "2026-09-23T08:21:29.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/commerzbank-und-co.-bund-prueft-dumpingangebote-fuer-deutsche-konzerne/100250785.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1623a8938814d12a",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T08:15:04.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Lonely Planet kürt Dessau zu einem der Top-Reiseziele 2027",
+    "s": "Der renommierte Reiseführer „Lonely Planet“ hat die Stadt Dessau in Sachsen-Anhalt zu einem der weltweiten Top-Reiseziele für das Jahr 2027 ernannt. Die kleine Stadt wird dabei in eine Liste mit bekannten Orten wie Abu Dhabi und den Galapagos-Inseln aufgenommen. Als Begründung für die Auszeichnung nennt der Reiseführer vor allem Architektur und Design, die bis heute prägend sind.",
+    "m": "Die sachsen-anhaltische Stadt Dessau hat es in die Auswahl der weltweiten Top-Reiseziele für das Jahr 2027 des Reiseführers „Lonely Planet“ geschafft. Damit steht die Stadt in einer Reihe mit prominenten globalen Destinationen wie Abu Dhabi und den Galapagos-Inseln. Verantwortlich für die positive Bewertung durch den Herausgeber ist nach Angaben des Portals die historische und moderne Architektur sowie das prägende Design vor Ort. Die Macher des Reiseführers beschreiben die Stadt in ihrer Begründung als „eher genial als schön“. Die Einordnung unterstreicht die anhaltende internationale Aufmerksamkeit für die baulichen und gestalterischen Besonderheiten der Region. Weitere Details zu den Kriterien der Auswahl oder konkreten touristischen Planungen wurden in der Meldung zunächst nicht genannt.",
+    "r": "Die Auszeichnung durch einen international bekannten Reiseführer lenkt weltweite Aufmerksamkeit auf eine deutsche Region und stärkt deren touristisches Profil. Sie zeigt, dass auch kleinere Städte außerhalb üblicher Metropolen durch spezifische kulturelle Merkmale Beachtung finden.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/themen/specials/lifestyle/article6ab36c20174ceb992b6e6f7c/bauhaus-erbe-eher-genial-als-schoen-lonely-planet-erklaert-dessau-zu-einem-der-top-reiseziele-2027.html",
+        "date": "2026-09-23T08:15:04.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/themen/specials/lifestyle/article6ab36c20174ceb992b6e6f7c/bauhaus-erbe-eher-genial-als-schoen-lonely-planet-erklaert-dessau-zu-einem-der-top-reiseziele-2027.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-144f38fb8a784142",
+    "c": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T08:14:26.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "OECD hebt Wachstumsprognose für die deutsche und Weltwirtschaft an",
+    "s": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft angehoben. Auch für die globale Wirtschaft zeigen sich die Experten zuversichtlich. Maßgeblich für die Entwicklung sind unter anderem kräftig wachsende Exporte.",
+    "m": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) hat ihre Konjunktureinschätzungen aktualisiert und prognostiziert für die deutsche Wirtschaft positivere Aussichten. Zugleich wird für die Weltwirtschaft im Zeitraum der Jahre 2026 und 2027 ein robustes Wachstum von jeweils 2,9 sowie 3,0 Prozent erwartet. Als wesentlicher Treiber dieser positiven Entwicklung wird von Experten ein überraschend kräftiges Wachstum der Exporte genannt. Zu diesem starken Exportwachstum trägt maßgeblich der weltweite Boom im Bereich der künstlichen Intelligenz (KI) bei. Konkrete Zahlen für das Inland oder Details zu weiteren Branchen wurden in der vorliegenden Prognose nicht detailliert aufgeschlüsselt.",
+    "r": "Die aktualisierten Prognosen der OECD geben Aufschluss über die wirtschaftliche Entwicklung Deutschlands sowie des globalen Marktes. Insbesondere der Einfluss technologischer Trends wie künstliche Intelligenz auf den Welthandel ist von volkswirtschaftlicher Bedeutung.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/unternehmen/prognose-oecd-erhoeht-wachstumsprognose-fuer-die-deutsche-wirtschaft/100256794.html",
+        "date": "2026-09-23T08:14:26.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/unternehmen/prognose-oecd-erhoeht-wachstumsprognose-fuer-die-deutsche-wirtschaft/100256794.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-b288bae02cbfc359",
     "c": "INT",
     "k": "wirtschaft",
@@ -514,6 +1022,42 @@
     "diff": []
   },
   {
+    "id": "story-1cabf5a2829c8c1b",
+    "c": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T07:08:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Gesetz zum Verbot der Gesichtsverhüllung im öffentlichen Raum tritt in Kraft",
+    "s": "Ein neues Gesetz zur Verbot der Verschleierung des Gesichts in der Öffentlichkeit tritt am heutigen Tag in Kraft. Das Gesetz, welches umgangssprachlich als „Burka-Gesetz“ bezeichnet wird, ahndet das Verdecken des Gesichts mit empfindlichen Geldbußen. Von der Regelung ausgenommen sind bestimmte Ausnahmefälle wie gesundheitliche Gründe.",
+    "m": "Das neue Gesetz zur Verhinderung der Gesichtsverhüllung in öffentlich zugänglichen Bereichen setzt ab sofort neue rechtliche Bestimmungen durch. Wer künftig gegen das Verbot verstößt, muss mit Geldstrafen von bis zu 3.000 Euro rechnen. Der Gesetzgeber sieht jedoch konkrete Ausnahmen vor, unter anderem für das Tragen von Gesichtsbedeckungen aus medizinischen beziehungsweise gesundheitlichen Gründen. Das Verbot zielt auf die allgemeine Identifizierbarkeit und Sicherheit in der Öffentlichkeit ab. Mit dem heutigen Inkrafttreten ist die Regelung verbindlich anzuwenden. Weitere Einzelheiten zu den Kontrollmechanismen oder konkreten Anwendungsfällen in der Praxis wurden in den vorliegenden Meldungen nicht genannt.",
+    "r": "Das Inkrafttreten neuer gesetzlicher Verbote für Gesichtsverhüllungen im öffentlichen Raum ist für die öffentliche Sicherheit, das rechtliche Leben und potenziell betroffene Personen von unmittelbarer Relevanz.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/lei-das-burcas-entra-hoje-em-vigor-e-preve-coimas-ate-tres-mil-euros-por-cobrir-a-cara_n1767148",
+        "date": "2026-09-23T07:08:00.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNxNHVFenMtU290WkVZZDRMM05OVGx4VXNXOVpWeXJKeTVlVWZtZmVjVkkzR2ExT3FURmJVbVpCWE1JbktfZUdTVlZmamY0d2pENXhMb3haUkJ2UHNQQjVwVC0wT2xqUGt2Mk8zNTBJaDRPUHNCZUVmbzFwbzJhdS1hemxJOG9hcUVQN3ZXX19DNDEycUlnRWE2RkZDQUlvemhqdGtvdjRvTnVxWFVIZnUwRjZrV2NYNEtsZGxGRHJVQVp3ZWxN?oc=5",
+        "date": "2026-09-23T06:08:31.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/lei-das-burcas-entra-hoje-em-vigor-e-preve-coimas-ate-tres-mil-euros-por-cobrir-a-cara_n1767148",
+    "agree": "Beide Quellen stimmen darin überein, dass das Gesetz zum Verbot der Gesichtsverhüllung am heutigen Tag in Kraft tritt und bei Verstößen Bußgelder von bis zu 3.000 Euro drohen.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Teilt lediglich die Überschrift und den Verweis auf den Bericht von rtp.pt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-5bd36cf3c5e4154a",
     "c": "DE",
     "k": "panorama",
@@ -581,6 +1125,78 @@
     ]
   },
   {
+    "id": "story-2c62e9c4b255907d",
+    "c": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T05:57:37.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Kanzleramtschefin Warken verspricht zügige Reformen trotz Koalitionsunruhe",
+    "s": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass geplante Reformen trotz interner Unruhen in der Koalition zügig umgesetzt werden. Ein zeitgleich stattgefundenes Treffen der Koalitionsspitzen verlief unter Ausschluss der Öffentlichkeit, da nach außen keine Details drangen. Die Zusicherung soll den Wirtschaftsstandort stärken und Vertrauen in die Regierungsarbeit schaffen.",
+    "m": "Kanzleramtschefin Warken führte Gespräche mit Vertretern einflussreicher Wirtschaftsverbände, um über anstehende politische Reformen zu beraten. Angesichts anhaltender Unruhen innerhalb der Koalition betonte sie die Dringlichkeit und versprach ein hohes Umsetzungstempo. Parallel dazu tagten die Spitzen der Koalitionsparteien, wobei über die genauen Inhalte und Ergebnisse dieses Treffens bislang keine offiziellen Informationen an die Öffentlichkeit drangen. Wirtschaftsvertreter fordern seit längerem verlässliche Rahmenbedingungen und strukturelle Veränderungen, um Investitionen abzusichern. Ob die Koalition trotz der internen Reibungen handlungsfähig bleibt und die Reformvorhaben wie geplant beschließen kann, ist Gegenstand anhaltender Beobachtung. Offen ist zudem, welche konkreten Gesetzesvorhaben priorisiert werden sollen. Die Gespräche markieren einen Versuch der Bundesregierung, den Dialog mit der Wirtschaft zu intensivieren und Kritik an angeblich schleppenden Reformprozessen zu entkräften.",
+    "r": "Die Zusicherung schneller Reformen durch die Kanzleramtschefin ist für die Wirtschaft von zentraler Bedeutung, da Investitionsentscheidungen stark von verlässlichen politischen Rahmenbedingungen abhängen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+        "date": "2026-09-23T05:57:37.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJV3BVYnZkOVN2Q0FMZGFyQ2tWeExYbldhYkQ5SlIxMlZObFBqXy03VmdnZkh2NFNBVkU2MEhXNjdtVmh1RXRQbEJtdm41Vm1zZGdSeDhnR24tNjRpdndTV3hZMGJRTlRGOGdTbDloWFJycGU4dTY5Q0tMenQ?oc=5",
+        "date": "2026-09-23T05:57:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Kanzleramtschefin Warken Wirtschaftsverbänden ein zügiges Tempo bei Reformen versprochen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel der Tagesschau und erwähnt zusätzliche Schlagzeilen und Meinungen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-17496790897e1e29",
+    "c": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T05:57:36.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Erleichterung über Grönland-Abkommen mit den USA, aber auch Skepsis",
+    "s": "Zwischen den USA und Grönland gibt es nach langer Ungewissheit ein Abkommen im Streit um die Arktisinsel. Die Erleichterung vor Ort ist groß. Es bleibt jedoch die Frage, ob US-Präsident Trump sich langfristig damit zufrieden gibt.",
+    "m": "Der langwierige Streit um die Arktisinsel Grönland und die USA hat zu einem offiziellen Abkommen geführt, das bei den Menschen auf der Insel für große Erleichterung sorgt. Lange war unklar, wie der Konflikt ausgehen würde. Dennoch wird in Kommentaren und Einschätzungen darauf hingewiesen, dass eine gewisse Skepsis bleibt. Es stellt sich die Frage, ob US-Präsident Trump nun tatsächlich Ruhe geben wird oder ob es sich um einen alten Deal in neuer Verpackung handelt. Die genauen Details des Abkommens und dessen langfristige Auswirkungen auf die Region müssen in nächster Zeit beobachtet werden.",
+    "r": "Das Abkommen beendet einen langwierigen Streit zwischen den USA und Grönland und hat geopolitische sowie wirtschaftliche Bedeutung für die Arktis-Region. Die Frage nach der Verlässlichkeit des US-Präsidenten betrifft die internationale Stabilität.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html",
+        "date": "2026-09-23T05:57:36.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OMEUxcVBsbG9WRFVuWTVDeVE1OTVRWmF6cnJvcUZJOU1tZTRySi1rRlZramllZHcwN2JmTTRwU1lpR3JiNjhpSVhya0E3ZGtZMDA1VVo2bHg3TUNRTHA0Vm1SS0tHSXdoQjE3Vy0zQlV3QWczRHZF?oc=5",
+        "date": "2026-09-23T05:57:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html",
+    "agree": "Beide Quellen berichten über das neue Abkommen bezüglich Grönland und die damit verbundene Freude sowie anhaltende Skepsis gegenüber US-Präsident Trump.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Enthält einen Verweis auf einen Kommentar, der das Abkommen als einen alten Deal in neuer Verpackung bezeichnet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-487b5b13d64c22aa",
     "c": "INT",
     "k": "wirtschaft",
@@ -613,6 +1229,42 @@
         "note": "Die Quelle nennt ergänzend Details wie den Einsatz von zwölf Airbus-Maschinen, die 20 Tonnen extra Sprit fassen und eine Flugzeit von 18 Stunden."
       }
     ]
+  },
+  {
+    "id": "story-cb797e3b554e0782",
+    "c": "INT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T05:36:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Qantas plant Nonstop-Flüge von Sydney nach New York ab 2028",
+    "s": "Die australische Fluggesellschaft Qantas plant ab 2028 direkte Nonstop-Flüge von Sydney nach New York. Dazu sollen zwölf Airbus-Maschinen mit extragroßen Zusatztanks ausgestattet werden. Die Modifikation ermöglicht eine Vergrößerung der Treibstoffkapazität um 20 Tonnen.",
+    "m": "Die Fluggesellschaft Qantas setzt für ihre geplanten Nonstop-Verbindungen zwischen Australien und den USA auf technische Nachrüstungen. Insgesamt zwölf Airbus-Maschinen erhalten spezielle XXL-Tanks, die zusätzlichen Raum für 20 Tonnen Treibstoff bieten. Durch diesen erweiterten Spritvorrat können die Flugzeuge die enorme Distanz von Sydney nach New York ohne einen zwischenzeitlichen Stopp bewältigen. Die reine Flugzeit für diese extrem lange Strecke wird voraussichtlich 18 Stunden betragen. Die Aufnahme des Direktflugbetriebs ist für das Jahr 2028 anvisiert. Mit diesem Schritt will die Airline eine direkte und zeiteffiziente Verbindung auf der transisthmischen beziehungsweise transkontinentalen Route etablieren.",
+    "r": "Die Maßnahme ermöglicht extrem lange Direktflüge über Distanzen, die bisher Zwischenstopps erforderten, und verändert damit die Langstreckenverbindungen im internationalen Flugverkehr.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5",
+        "date": "2026-09-23T05:36:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/qantas-will-mit-xxl-tanks-ab-2028-von-sydney-direkt-nach-new-york-fliegen-a-1d61156a-bf02-48ad-b85f-623caedcaf34#ref=rss",
+        "date": "2026-09-23T05:36:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Qantas ab 2028 mit XXL-Tanks und Airbus-Maschinen direkt von Sydney nach New York fliegen will.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet im Detail, dass zwölf Airbus-Maschinen zusätzliche Tanks für 20 Tonnen extra Sprit erhalten und die Flugzeit 18 Stunden betragen soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-60540da4fe63741d",
@@ -653,6 +1305,108 @@
     ]
   },
   {
+    "id": "story-4534c4f9db03bd40",
+    "c": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T03:46:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "ZDF-Reihe beleuchtet das Havelland im Krimiformat",
+    "s": "Das ZDF widmet dem Havelland eine eigene Krimireihe. Die Produktion wirft die Frage auf, was Zuschauer durch das Format über die Region lernen können. Weitere Details über Handlung, Ausstrahlung oder Beteiligte gehen aus den vorliegenden Meldungen nicht hervor.",
+    "m": "Die Meldungen kündigen einen neuen sogenannten Havellandkrimi im ZDF an. Im Mittelpunkt steht die Vermittlung von Regionalbezügen und Hintergrundwissen über das Havelland durch die fiktionale Handlung. Konkrete Informationen zu Sendeterminen, Besetzung, Produktionsstab oder konkreten Handlungsorten werden in den Texten nicht genannt. Es bleibt offen, ob es sich um einen einzelnen Fernsehfilm oder eine fortlaufende Reihe handelt. Auch Aussagen über die realistische Darstellung der Region fehlen in den spärlichen Berichten bisher gänzlich.",
+    "r": "Die Ankündigung ist für Medien- und Kulturinteressierte relevant, da neue fiktionale Fernsehformate mit regionalem Bezug das touristische Image von Landschaften wie dem Havelland beeinflussen können.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVJMX2ZvbEhEYkRUaG5Cejd3emFVNzJFbUNDVjB0NFVaY1lOdkRuZ1poeV9aWG41MlVRWTVpZV9xTXlyUVAzVlAtT0tJQ0NpX0lKelZoNzJxRnhLYnQwMUw5N0FrWllhTmRtZ01kMm1WZzVSQnJDZmpnWVY1elFyMl9ZWUlPMHl5LXl1bGxsbWtQOS15WmM1SDdUUjZDWVNfR2ozM2IxMHBjZUtwbXgyVW9YTndKS1JBTnFVcGd6TmRSaEtlX2JVZ3J0S1B3bWllbEtMUkJTZHhKa0RIZzh3?oc=5",
+        "date": "2026-09-23T03:46:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/tv/havellandkrimi-im-zdf-was-lernt-man-bei-der-krimireihe-ueber-das-havelland-a-2962f4ac-cc75-44d3-8900-12211f31bc04#ref=rss",
+        "date": "2026-09-23T03:46:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVJMX2ZvbEhEYkRUaG5Cejd3emFVNzJFbUNDVjB0NFVaY1lOdkRuZ1poeV9aWG41MlVRWTVpZV9xTXlyUVAzVlAtT0tJQ0NpX0lKelZoNzJxRnhLYnQwMUw5N0FrWllhTmRtZ01kMm1WZzVSQnJDZmpnWVY1elFyMl9ZWUlPMHl5LXl1bGxsbWtQOS15WmM1SDdUUjZDWVNfR2ozM2IxMHBjZUtwbXgyVW9YTndKS1JBTnFVcGd6TmRSaEtlX2JVZ3J0S1B3bWllbEtMUkJTZHhKa0RIZzh3?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass es beim ZDF eine Krimireihe unter dem Titel Havellandkrimi gibt und thematisieren, was man darüber über das Havelland lernt.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-72cf976decf8eed4",
+    "c": "INT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T00:00:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "FMI stuft hohe Hauspreise als Hauptrisiko für Portugals Finanzsektor ein",
+    "s": "Der Internationale Währungsfonds hat erklärt, dass die Immobilienpreise in Portugal das größte Risiko für den dortigen Finanzsektor darstellen. Diese Einschätzung verdeutlicht potenzielle Gefahren und künftige Auswirkungen auf die wirtschaftliche Stabilität des Landes. Die Behörde warnt vor den anhaltenden Entwicklungen auf dem Wohnungsmarkt.",
+    "m": "Das Thema der hohen Hauspreise in Portugal steht im Zentrum aktueller Warnungen des Internationalen Währungsfonds. Laut der Institution birgt die Preisentwicklung erhebliche Risiken und künftige Implikationen für die Stabilität des Finanzsektors. Konkrete Details zu den Preistrends oder politischen Gegenmaßnahmen wurden in den Meldungen bisher nicht genannt. Der FMI fordert jedoch Aufmerksamkeit für diese wirtschaftliche Schwachstelle. Wirtschaftsexperten und Beobachter analysieren nun die möglichen Folgen für Banken und Kreditinstitute. Weitere offene Punkte betreffen die Frage, wie die Risiken konkret eingedämmt werden sollen.",
+    "r": "Die Einschätzung des Internationalen Währungsfonds betrifft die finanzielle Stabilität eines europäischen Landes und ist daher von wirtschaftlicher Bedeutung. Sie zeigt potenzielle Risiken für Banken und den Wohnungsmarkt auf.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+        "date": "2026-09-23T00:00:00.000Z"
+      },
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/preco-das-casas-e-a-principal-vulnerabilidade-do-setor-financeiro-portugues-considera-fmi_n1767030",
+        "date": "2026-09-22T17:42:50.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
+    "agree": "Die Quellen sind sich einig, dass der FMI die hohen Hauspreise in Portugal als die Hauptvulnerabilität für den Finanzsektor ansieht.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den Originalartikel des Jornal Económico."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Berichtet direkt, dass der FMI dies heute so betrachtet hat und nennt konkrete Implikationen für die Zukunft."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f95a8a3f676df386",
+    "c": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-22T21:41:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen - Spiegel",
+    "s": "Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen Spiegel <a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdE01YjZpdlFpaXdlUTZ1YnBZWS1XUWJlTkxESXNTd0phZnpQdi1pdHkyajdneTZDS0VBZkJZNk1uMDduOTBBUWN3NWFnMEpPYlJ1dWxPRXNwZEtsZ09OMGJpYnE0VzdtZkFpZXpoWnNfNFg0SDFZLWp",
+    "m": "Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen Spiegel <a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdE01YjZpdlFpaXdlUTZ1YnBZWS1XUWJlTkxESXNTd0phZnpQdi1pdHkyajdneTZDS0VBZkJZNk1uMDduOTBBUWN3NWFnMEpPYlJ1dWxPRXNwZEtsZ09OMGJpYnE0VzdtZkFpZXpoWnNfNFg0SDFZLWp Im Streit über den Zugang von CNN, MS Now und »Politico« zum Weißen Haus wird wohl ein Richter eine Entscheidung fällen – die Donald Trump nach eigener Aussage »wahrscheinlich« befolgen wird. Derweil sendet aus dem Weißen Haus: Trump TV.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQczRKVk5BaGNnVi1LcVJTTGhZZjZXbXJocWpKNnAyc1ZDeEdtVmduQXczTFJ3Y3kzUk1SZUlWZ09zN21RX3EtM1hNa1liRGRZT0tibmJVb3NSRVBlSG5YaWRlUlQwWTl4UDM3ZzJYclZEQXUtYWlFU2xJMlV4U0M0QzVGYjdJc3MxOEpxZVhHMmFhV2NsTXVJR0NjamZ5N2VZbGU4MWN5SFNaVmFGR1JqQXFXNHE5OWpFMTlHSG52TFlhejNIT0dKTHAzV0VTYjA?oc=5",
+        "date": "2026-09-22T21:41:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/donald-trump-wuerde-richterspruch-zu-cnn-und-co-wahrscheinlich-befolgen-a-17bd27dc-c7aa-4475-95c9-8f55c3dd00c3#ref=rss",
+        "date": "2026-09-22T21:41:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQczRKVk5BaGNnVi1LcVJTTGhZZjZXbXJocWpKNnAyc1ZDeEdtVmduQXczTFJ3Y3kzUk1SZUlWZ09zN21RX3EtM1hNa1liRGRZT0tibmJVb3NSRVBlSG5YaWRlUlQwWTl4UDM3ZzJYclZEQXUtYWlFU2xJMlV4U0M0QzVGYjdJc3MxOEpxZVhHMmFhV2NsTXVJR0NjamZ5N2VZbGU4MWN5SFNaVmFGR1JqQXFXNHE5OWpFMTlHSG52TFlhejNIT0dKTHAzV0VTYjA?oc=5",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-e9fe30db77c94962",
     "c": "INT",
     "k": "politik",
@@ -685,6 +1439,46 @@
         "note": "Berichtet zusätzlich, dass sich Spitzenbeamte der USA und des Irans bei der UN getroffen haben."
       }
     ]
+  },
+  {
+    "id": "story-14a18d088a96f4b1",
+    "c": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-22T18:21:56.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump bei den UN: „Soll ich sie zur Hölle schicken?“",
+    "s": "US-Präsident Trump hat bei der UN-Generalversammlung in New York einen ungewöhnlichen Auftritt hingelegt. Dabei äußerte er sich in drastischen Worten zum Konflikt mit dem Iran. Im Raum stehen die Optionen von Verhandlungen oder einem militärischen Eingreifen. Seine Aussagen sorgen international für Aufsehen.",
+    "m": "Bei seinem Auftritt vor den Vereinten Nationen in New York stellte US-Präsident Trump die Frage, ob er den Iran zur Hölle schicken solle. Die Berichte der Quellen heben hervor, dass er damit vor der Entscheidung zwischen Bombardieren oder Verhandeln steht. Ein solcher Schritt könnte laut den Formulierungen der Berichte ein mögliches Kriegsverbrechen gegen den Staat bedeuten. Der genaue zeitliche Ablauf und weitere Details zu den Reaktionen anderer Staaten gehen aus den aktuellen Meldungen nicht hervor. Die Äußerungen unterstreichen die angespannte diplomatische Lage zwischen den USA und dem Iran auf internationaler Bühne.",
+    "r": "Die Äußerungen des US-Präsidenten bei den Vereinten Nationen betreffen die internationale Sicherheit und die diplomatischen sowie militärischen Spannungen im Nahen Osten.",
+    "srcs": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-klimawandel-ki-li.3551641",
+        "date": "2026-09-22T18:21:56.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/trump-un-new-york-generalversammlung-iran-100.html",
+        "date": "2026-09-22T16:17:00.000Z"
+      }
+    ],
+    "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-klimawandel-ki-li.3551641",
+    "agree": "Die Quellen stimmen überein, dass US-Präsident Trump bei der UN in New York den Iran betreffend die provokante Äußerung über das 'Zur-Hölle-Schicken' getätigt hat.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Bezeichnet den Auftritt als bizarr und spricht von der Ankündigung eines möglichen Kriegsverbrechens gegen den Iran."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Stellt die Frage in den Raum, ob Trump vor der Entscheidung zwischen bombardieren oder verhandeln steht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-9761213e09565887",

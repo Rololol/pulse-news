@@ -1529,5 +1529,778 @@
     "updatedAt": "2026-09-23T08:47:48.808Z",
     "sourceSignature": "https://www.euronews.com/2026/09/23/killer-robots-or-super-intelligence-trump-and-world-leaders-clash-over-ai",
     "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMzF8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL3VzYS1wcnVlZmVuLXdlZ2VuLWhvaGVyLXNwcml0cHJl": {
+    "t": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+    "s": "Angesichts stark gestiegener Kraftstoffpreise erwägen die USA einen Exportstopp für Diesel. US-Präsident Trump hat sich für diese Maßnahme ausgesprochen, um der Preisentwicklung entgegenzuwirken. Ein solcher Schritt wurde zuletzt während der Ölkrise in den 1970er-Jahren angewandt. Die Berichte bringen die möglichen Maßnahmen mit den Folgen des Irankriegs in Verbindung.",
+    "m": "Die US-Regierung prüft derzeit als Reaktion auf die hohen Spritpreise einen Exportstopp für Dieselkraftstoff. US-Präsident Donald Trump hat sich öffentlich für diesen Schritt ausgesprochen. Hintergrund der Überlegungen sind die wirtschaftlichen und marktbezogenen Folgen, die im Zusammenhang mit dem Irankrieg stehen. Solgreiche Exportbeschränkungen für Treibstoff haben historischen Vorbildern zufolge Seltenheitswert und wurden in den Vereinigten Staaten zuletzt während der globalen Ölkrise in den 1970er-Jahren ergriffen. Ob und wann die Maßnahme offiziell beschlossen und umgesetzt wird, bleibt vorerst offen. Auch konkrete Details zu den Auswirkungen auf den heimischen und internationalen Kraftstoffmarkt werden noch geprüft.",
+    "r": "Die Überlegung eines Exportstopps durch eine der größten Volkswirtschaften der Welt kann erhebliche Auswirkungen auf den globalen Energiemarkt und internationale Dieselpreise haben. Die historische Einordnung verdeutlicht die Seltenheit solcher drastischen wirtschaftspolitischen Eingriffe in den Kraftstoffexport.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass die USA angesichts gestiegener Treibstoffpreise einen Exportstopp für Diesel prüfen und ein solcher Schritt zuletzt in den 1970er-Jahren während der Ölkrise angewandt wurde.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt konkret die Folgen des Irankriegs als Auslöser für die Situation."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Führt an, dass sich US-Präsident Trump explizit für den Diesel-Exportstopp ausgesprochen hat."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:12:06.385Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html|https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMjB8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2dlcmljaHQtdmVyaGFuZGVsdC11ZWJlci1kbS12ZXJz": {
+    "t": "Landgericht Karlsruhe verhandelt über Online-Apotheke von dm",
+    "s": "Vor dem Landgericht Karlsruhe hat eine juristische Verhandlung über das Angebot der Versandapotheke der Drogeriemarktkette dm begonnen. Im Fokus des Verfahrens stehen wettbewerbsrechtliche oder regulatorische Fragen im Zusammenhang mit dem Apothekenvertrieb. Die Entscheidung des Gerichts könnte weitreichende Folgen für den Online-Vertrieb von Medikamenten durch Drogeriemärkte haben.",
+    "m": "Das Landgericht Karlsruhe befasst sich in einem Verfahren mit der Online-Apotheke der bekannten Drogeriemarktkette dm. Konkrete Details zum genauen Kläger oder den exakten juristischen Paragraphen, auf denen die Klage beruht, gehen aus der Meldung nicht hervor. Solche Auseinandersetzungen im Apotheken- und Versandhandel drehen sich häufig um Vorgaben des deutschen Apothekenrechts oder wettbewerbsrechtliche Bestimmungen. Der Ausgang des Verfahrens ist offen, könnte jedoch den Markt für den digitalen Arzneimittelversand in Deutschland nachhaltig beeinflussen.",
+    "r": "Das Verfahren ist relevant, da es Grundsatzfragen zum Vertrieb von Medikamenten über Online-Kanäle durch große Handelsketten berührt. Eine richterliche Entscheidung könnte den rechtlichen Rahmen für den digitalen Apothekenmarkt in Deutschland prägen.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Alle Quellen stimmen darin überein, dass das Landgericht Karlsruhe über die Versandapotheke der Drogeriemarktkette dm verhandelt.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:12:14.567Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDZ8aHR0cHM6Ly93d3cuc3BpZWdlbC5kZS9zcG9ydC9yYWRzcG9ydC9iaWF0aGxvbi1vbHltcGlhc2llZ2VyLWVt": {
+    "t": "Biathlon-Olympiasieger Émilien Jacquelin wechselt zum Radsport",
+    "s": "Der französische Wintersportstar Émilien Jacquelin hat vorerst genug von Schnee und Schießstand. Der 31-Jährige plant, in der kommenden Saison im Radsport an den Start zu gehen.",
+    "m": "Émilien Jacquelin, bekannter Biathlon-Olympiasieger aus Frankreich, hat angekündigt, sich vorerst vom Wintersport abzuwenden. Der 31-jährige Athlet wird in der kommenden Saison seine Karriere im Radsport fortsetzen und dort an Wettkämpfen teilnehmen. Damit wagt er einen disziplinübergreifenden Schritt in eine andere Ausdauersportart. Ob es sich um eine langfristige Umorientierung oder eine zeitlich begrenzte Pause vom Biathlon handelt, bleibt in den Details noch abzuwarten. Es ist ein bemerkenswerter Wechsel eines etablierten Wintersportlers in den professionellen Radsport.",
+    "r": "Der Wechsel eines prominenten Olympiasiegers wie Émilien Jacquelin vom Biathlon zum Radsport ist ein ungewöhnlicher Schritt im Spitzensport. Er zeigt, wie Athleten zwischen verwandten Ausdauersportarten wechseln.",
+    "k": "sport",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:12:22.266Z",
+    "sourceSignature": "https://www.spiegel.de/sport/radsport/biathlon-olympiasieger-emilien-jacquelin-faehrt-jetzt-rad-a-4c0d2cd7-0dbf-423d-a76c-82f8500efed0#ref=rss",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDF8aHR0cHM6Ly93d3cudGFnZXNzY2hhdS5kZS9pbmxhbmQvcmVnaW9uYWwvaGVzc2VuL2hyLWluLWZyYW5rZnVy": {
+    "t": "Frankfurter Gastronomen kämpfen um ihre Außenbereiche",
+    "s": "In Frankfurt droht Gastronomen im Stadtteil Gallus der Verlust ihrer Außenbereiche. Die Bauaufsicht fordert teilweise den Rückbau dieser Flächen, die zuvor jahrelang geduldet wurden. Die betroffenen Wirte zeigen kein Verständnis für diese Entscheidung.",
+    "m": "Für zahlreiche gastronomische Betriebe im Frankfurter Gallusviertel stehen die Außenbereiche auf dem Spiel. Die zuständige Bauaufsicht hat angeordnet, dass diese Flächen teilweise verschwinden sollen. Die betroffenen Inhaber kritisieren diesen Schritt scharf, da die Außengastronomie für ihren Betrieb wirtschaftlich wichtig ist und das Angebot jahrelang von den Behörden geduldet wurde. Nun fordern die Wirte von der Stadt den Verzicht auf harte Maßnahmen und stattdessen die Suche nach fairen Kompromissen. Bislang ist unklar, wie die Stadt auf diese Forderungen reagieren wird und ob es für einzelne Betriebe Ausnahmeregelungen geben kann.",
+    "r": "Die drohende Schließung von Außenbereichen betrifft die lokale Wirtschaft und das soziale Leben im Frankfurter Gallus. Der Konflikt wirft Fragen zum Umgang der Verwaltung mit langjährig geduldeten Situationen auf.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:12:30.205Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/regional/hessen/hr-in-frankfurt-kaempfen-gastronomen-um-ihre-aussenbereiche-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNzE4fGh0dHBzOi8vd3d3LnN3ci5kZS9zd3Jha3R1ZWxsL2JhZGVuLXd1ZXJ0dGVtYmVyZy9pZy1tZXRhbGwtZm9y": {
+    "t": "Schwierige Tarifgespräche in der Metall- und Elektroindustrie",
+    "s": "Vor den anstehenden Tarifgesprächen in der Metall- und Elektroindustrie fordert die IG Metall ein Lohnplus sowie mehr Sicherheit. Die Verhandlungen gestalten sich angesichts der kriselnden Autobranche und einer boomenden Rüstungsindustrie als schwierig. Arbeitgeber kritisieren den Vorstoß der Gewerkschaft als realitätsfern.",
+    "m": "Die Tarifverhandlungen in der Metall- und Elektroindustrie stehen vor schwierigen Voraussetzungen. Während die Autobranche kriselt, verzeichnet die Rüstungsindustrie einen Boom. In diesem Spannungsfeld fordert die IG Metall Mitte neben einem Lohnplus von fünf Prozent auch mehr Sicherheit für die Beschäftigten und lehnt eine 40-Stunden-Woche ab. Gleichzeitig weist die Gewerkschaft darauf hin, dass Gewinnbeteiligungen aufgrund der unterschiedlichen wirtschaftlichen Situation der Unternehmen nicht überall möglich sind. Die Arbeitgeberseite hat den gewerkschaftlichen Vorstoß scharf kritisiert und als realitätsfern bezeichnet.",
+    "r": "Die Tarifrunde in der Metall- und Elektroindustrie betrifft einen der wichtigsten Wirtschaftszweige Deutschlands mit weitreichenden Folgen für Beschäftigte und Unternehmen in verschiedenen Branchen wie der Auto- und Rüstungsindustrie.",
+    "k": "wirtschaft",
+    "p": 4,
+    "agree": "Die Quellen stimmen überein, dass die Tarifgespräche in der Metall- und Elektroindustrie schwierig werden, die Autobranche kriselt, die Rüstung boomt und die IG Metall ein Lohnplus sowie mehr Sicherheit fordert.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "SWR Aktuell Rheinland-Pfalz",
+        "note": "Konkretisiert die Forderung der IG Metall Mitte auf fünf Prozent mehr Geld, lehnt die 40-Stunden-Woche ab und erwähnt, dass Gewinnbeteiligungen nicht überall möglich sind."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Ergänzt, dass die Arbeitgeber den Vorstoß der Gewerkschaft als \"realitätsfern\" kritisiert haben."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:12:38.270Z",
+    "sourceSignature": "https://www.swr.de/swraktuell/baden-wuerttemberg/ig-metall-forderungen--tarifverhandlungen-metall-elektroindustrie-100.html|https://www.swr.de/swraktuell/rheinland-pfalz/ig-metall-forderungen-fuer-tarifverhandlungen-mitte-metall-elektroindustrie-100.html|https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-vor-der-tarifrunde-ig-metall-fordert-lohnplus-und-mehr-sicherheit-arbeitgeber-kritisieren-vorstoss-als-realitaetsfern-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMzJ8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2V4dHJlbXdldHRlcmtvbmdyZXNzLWJlcmFldC11ZWJl": {
+    "t": "Extremwetterkongress in Hamburg berät über Klimafolgen",
+    "s": "In Hamburg hat heute ein Extremwetterkongress begonnen. Experten beraten dort über den Umgang mit den Auswirkungen des Klimawandels. Die Veranstaltung bietet eine Plattform für den fachlichen Austausch zu diesem Thema.",
+    "m": "Ab heute diskutieren Experten in Hamburg auf einem Extremwetterkongress über die verschiedenen Auswirkungen des Klimawandels. Im Fokus stehen dabei konkrete Strategien und Maßnahmen zum Umgang mit den Folgen extremer Wetterereignisse. Die Veranstaltung bringt Fachleute aus verschiedenen Bereichen zusammen, um über aktuelle Entwicklungen und Herausforderungen zu beraten. Weitere Details zum genauen Programm oder konkreten Teilnehmern wurden in der Meldung nicht genannt.",
+    "r": "Der Kongress ist relevant, weil dort Fachleute über den aktuellen Umgang mit den Folgen des Klimawandels beraten, was für künftige Schutzmaßnahmen von Bedeutung ist.",
+    "k": "umwelt",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass in Hamburg ein Extremwetterkongress zum Thema Klimawandel stattfindet.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:12:46.179Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTU0fGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pcEFGQlZWOTVjVXhQYTJSMk5WWlJP": {
+    "t": "Wadephul widerspricht Trump im Streit um Internationalen Strafgerichtshof",
+    "s": "Der deutsche Außenminister Johann Wadephul hat sich in einem Gerichtsstreit deutlich gegen Forderungen von US-Präsident Donald Trump gestellt. Trump hatte zuvor in einer Rede vor den Vereinten Nationen die Mitgliedstaaten zum Austritt aus dem Internationalen Strafgerichtshof aufgefordert. Wadephul lehnte diesen Vorstoß entschieden ab und plädierte stattdessen für den Erhalt und die Unterstützung der Institution.",
+    "m": "Donald Trump nutzte einen Auftritt bei der UN, um die internationale Gemeinschaft zum Verlassen des Internationalen Strafgerichtshofes zu drängen. Der deutsche Außenminister Johann Wadephul reagierte darauf mit einer klaren Absage an die US-Forderung. Mit der Aussage \"Werden wir nicht machen\" ging er auf direkte Konfrontation zum US-Präsidenten. In seiner Reaktion hielt Wadephul ein ausdrückliches Plädoyer für den Strafgerichtshof und dessen wichtige internationale Rolle. Der Streit verdeutlicht die unterschiedlichen Haltungen zwischen Washington und Berlin bezüglich multilateraler Institutionen und der internationalen Gerichtsbarkeit. Bisher ist unklar, welche konkreten diplomatischen Folgen diese Differenzen für das transatlantische Verhältnis haben werden.",
+    "r": "Die Auseinandersetzung betrifft das Verhältnis wichtiger Verbündeter zu zentralen internationalen Institutionen und verdeutlicht fundamentale diplomatische Differenzen zwischen Deutschland und den USA.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass Johann Wadephul auf Trumps Forderung zum Austritt aus dem Strafgerichtshof mit einer klaren Absage reagiert hat.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt den Hinweis auf einen anhaltenden Gerichtsstreit im Titel, während der Haupttext dazu keine Details liefert."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt konkret, dass Trumps Forderung in einer Rede vor der UN geäußert wurde und Wadephul ein Plädoyer für die Institution hielt."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:12:54.823Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2R2NVZRODlnY3VjZTRyWmM4alFVc0EwRVg4SGlBeFA2ZDFIU2ZWTDVMeVV0amlQZi1QRTN0RkpwaEFncW90MXF5Q1BRUlJ6bl9DQlNESGd1aWkyQlBsVlRvOHhFZDkwcmZ1MEJWYzBpcmUxeE0zbk5MdFpYTWx2bDMwZXJUeUdnNnZLOUtkV0gxTWVFLWZQZUlySDUwYXR2YXFfRQ?oc=5|https://www.n-tv.de/politik/Wadephul-geht-im-Gerichtsstreit-auf-Konfrontation-zu-Trump-id31338157.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDV8aHR0cHM6Ly93d3cudGFnZXNzY2hhdS5kZS9pbmxhbmQvcmVnaW9uYWwvc2NobGVzd2lnaG9sc3RlaW4vaGFz": {
+    "t": "Nach Einbruch in Haspa-Filiale: Ruhende Verfahren gehen weiter",
+    "s": "Nach einem Einbruch in eine Haspa-Filiale werden ruhende Gerichtsverfahren fortgesetzt. Vorausgegangen war ein Urteil des Hanseatischen Oberlandesgerichts in Hamburg. Das Gericht hatte der Bank im Mai in einem der Prozesse recht gegeben.",
+    "m": "Nach dem Einbruch in eine Haspa-Filiale werden die zuvor ruhenden Gerichtsverfahren nun wieder aufgenommen. Hintergrund ist eine Entscheidung des Oberlandesgerichts Hamburg vom vergangenen Mai. In einem Musterprozess gab das Gericht damals der Bank recht. Nun zeigt dies Auswirkungen auf die weiteren anhängigen Verfahren, die im Zuge dessen fortgeführt werden. Weitere Details zum Hergang des Einbruchs oder konkrete Schadenssummen nennen die Quellen nicht.",
+    "r": "Die Fortsetzung der Gerichtsverfahren ist relevant für die juristische Aufarbeitung des Haspa-Einbruchs und betrifft die beteiligten Parteien direkt.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Die Quellen stimmen darin überein, dass nach einem OLG-Urteil im Mai in Hamburg die ruhenden Verfahren bezüglich des Haspa-Einbruchs fortgesetzt werden.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:02.643Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/regional/schleswigholstein/haspa-prozesse-nach-einbruch-ruhende-verfahren-gehen-weiter,haspa-106.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktODl8aHR0cHM6Ly93d3cudGFnZXNzY2hhdS5kZS9pbmxhbmQvcmVnaW9uYWwvbmllZGVyc2FjaHNlbi9sb2huZS1r": {
+    "t": "Kleintransporter von Zug erfasst: Fahrer schwer verletzt",
+    "s": "An einem unbeschrankten Bahnübergang im Landkreis Vechta ist ein Kleintransporter von einem Zug erfasst worden. Bei dem Unfall in Lohne erlitt der Fahrer schwere Verletzungen. Der Vorfall hatte zudem Auswirkungen auf den regionalen Bahnverkehr.",
+    "m": "Der Zusammenstoß ereignete sich an einem unbeschrankten Bahnübergang im Landkreis Vechta in der Stadt Lohne. Ein herannahender Zug erfasste dabei einen Kleintransporter aus noch ungeklärter Ursache. Der Fahrer des Transporters wurde schwer verletzt und musste versorgt werden. Durch den Unfall kam es zu Einschränkungen und Folgen für den Bahnverkehr auf der betroffenen Strecke. Weitere Details zum genauen Unfallhergang oder zur Identität der Beteiligten liegen derzeit nicht vor. Rettungskräfte und Polizei waren im Einsatz, um die Unfallstelle zu sichern.",
+    "r": "Bahnübergänge ohne Schranken stellen ein erhebliches Sicherheitsrisiko dar, wie dieser schwere Unfall mit einem Zug und einem Kleintransporter im Landkreis Vechta zeigt. Solche Zwischenfälle beeinträchtigen regelmäßig den Bahnverkehr.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:10.340Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/regional/niedersachsen/lohne-kleintransporter-von-zug-erfasst-fahrer-schwer-verletzt,lohne-152.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNzZ8aHR0cHM6Ly93d3cuc3BpZWdlbC5kZS93aXJ0c2NoYWZ0L3NvemlhbGVzL2VpbnplbGhhbmRlbC1pbm5lbnN0": {
+    "t": "Studie bescheinigt deutschen Innenstädten wieder höhere Attraktivität",
+    "s": "Deutsche Stadtzentren hatten in den vergangenen Jahren stark an Reiz verloren und waren von Problemen wie Leerständen und Müll geprägt. Eine aktuelle Umfrage zeigt nun jedoch, dass sich die Stimmung bei den Besuchern spürbar bessert. Die genauen Details und Ergebnisse der Studie wurden zunächst nicht weiter ausgeführt.",
+    "m": "In den vergangenen Jahren waren deutsche Stadtzentren von zahlreichen Problemen wie Leerständen, Pleiten und Müll geplagt, was zu einem anhaltenden Attraktivitätsverlust führte. Eine neue Umfrage signalisiert nun eine Trendwende, da sich die Stimmung unter den Besuchern der Innenstädte verbessert hat. Bislang liegen kaum weiterführende Informationen über den genauen Umfang, die Methodik oder die Initiatoren der zugrundeliegenden Studie vor. Die Entwicklung könnte jedoch ein positives Signal für den stationären Handel und die lokale Wirtschaft darstellen. Offen bleibt, ob dieser Stimmungswechsel in allen Regionen Deutschlands gleichermaßen zu beobachten ist oder nur auf bestimmte Stadtgrößen zutrifft. Auch konkrete Zahlen zu verringerten Leerständen wurden in diesem Zusammenhang noch nicht genannt.",
+    "r": "Die Studie zeigt eine Stimmungsverbesserung bei Besuchern deutscher Innenstädte, die zuvor unter Problemen wie Leerständen litten. Dies ist relevant für die Beurteilung der Zukunft des stationären Einzelhandels in Deutschland.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:18.487Z",
+    "sourceSignature": "https://www.spiegel.de/wirtschaft/soziales/einzelhandel-innenstaedte-werden-laut-studie-wieder-attraktiver-a-d975209e-50ab-4988-9073-885c364ef154#ref=rss",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMzB8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2FkYWMtZm9yZGVydC1hYnNjaGFmZnVuZy1kZXItMTIt": {
+    "t": "ADAC fordert Abschaffung der Preisregulierungsregel an Tankstellen",
+    "s": "Der ADAC spricht sich für die Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen aus. Nach Ansicht des Automobilclubs hat die Regelung das Tanken für Verbraucher nicht günstiger gemacht, sondern sie stattdessen zusätzlich belastet. Neben dem ADAC gibt es auch von anderer Seite Kritik an der bisherigen Regelung.",
+    "m": "Der Allgemeine Deutsche Automobil-Club (ADAC) hat eine Aufhebung der seit längerem bestehenden 12-Uhr-Regelung an deutschen Tankstellen gefordert. Die Maßnahme, die ursprünglich für mehr Preistransparenz und stabile oder sinkende Preise sorgen sollte, hat nach Einschätzung des Clubs ihren Zweck verfehlt. Statt zu Einsparungen für Autofahrer zu führen, habe sie zu einer spürbaren Belastung der Verbraucher geführt. Konkrete Details zu alternativen Vorschlägen oder Reaktionen von Politik und Mineralölkonzernen nennen die Berichte bisher nicht. Auch von anderer Seite wird die aktuelle Regelung kritisiert, wobei die genauen Quellen und Ausgestaltungen dieser Kritik offen bleiben. Die Debatte wirft erneut Fragen zur Wirksamkeit staatlicher Eingriffe in die Preisgestaltung auf dem Kraftstoffmarkt auf.",
+    "r": "Die Forderung eines großen Automobilclubs wie des ADAC betrifft die täglichen Lebenshaltungskosten von Millionen Autofahrern in Deutschland. Sie berührt fundamentale Fragen der Preisregulierung und des Verbraucherschutzes auf dem Kraftstoffmarkt.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Beide Quellen stimmen darin überein, dass der ADAC die Abschaffung der 12-Uhr-Regel an Tankstellen fordert.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Ergänzt, dass die Regel das Tanken nicht billiger gemacht, sondern Verbraucher belastet hat und dass auch andere Kritiker diese Position teilen."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:26.932Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html|https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMjg0fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9hbWVyaWthL3RydW1wLXNlbGVuc2t5ai11bi0x": {
+    "t": "Trump und Selenskyj beraten bei UN-Generalversammlung über Deeskalation",
+    "s": "Bei der UN-Generalversammlung in New York ist US-Präsident Trump mit dem ukrainischen Staatschef Wolodymyr Selenskyj zusammengekommen. Im Mittelpunkt des Gesprächs stand der russische Angriffskrieg und mögliche Wege zur Deeskalation. Trump war während des Treffens ein gefragter Gesprächspartner auf dem diplomatischen Parkett.",
+    "m": "Das Treffen zwischen dem US-Präsidenten und dem ukrainischen Präsidenten Wolodymyr Selenskyj fand im Rahmen der UN-Generalversammlung statt. Inhaltlich ging es vor allem um die Situation in der Ukraine und die Suche nach einer Deeskalation des Konflikts mit Russland. Neben den Gesprächen mit der Ukraine sah sich Trump auch mit Kritik konfrontiert, so erhielt er unter anderem Gegenwind vom französischen Präsidenten Emmanuel Macron. Konkrete Ergebnisse oder vereinbarte Maßnahmen der Unterredung wurden in den Berichten zunächst nicht genannt. Das diplomatische Parkett in New York bot somit eine Bühne für intensive und teils kontroverse Konsultationen zur internationalen Sicherheit.",
+    "r": "Das Treffen zwischen US-Präsident Trump und dem ukrainischen Staatschef Selenskyj beleuchtet die diplomatischen Bemühungen und Spannungen im Ukraine-Konflikt auf internationaler Bühne.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass US-Präsident Trump und der ukrainische Staatschef Selenskyj im Rahmen der UN-Generalversammlung über eine Deeskalation des Russland-Krieges gesprochen haben.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich, dass Trump ein gefragter Gesprächspartner war und Gegenwind vom französischen Präsidenten Macron bekam."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:13:35.047Z",
+    "sourceSignature": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html|https://news.google.com/rss/articles/CBMieEFVX3lxTFBxeHh3bFdyTThCNzB0aUtLZDFsUFpLeWhIZURiUDB0TE1vb3JPSjAtVFNfaUNhSENSc1VxUGJsYmhmUTlyZW1PLU80VWliOXg5T3NmaHlvMjYwbmVBNzNjY0tDeUk4bVpBZ0ZmR2tKT0h6X1dPSF9qQw?oc=5",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDh8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS9rYXJyaWVyZS9nZWhhbHQtZmluZGVuLXNpZS1oZXJhdXMt": {
+    "t": "Gehaltsrechner für Führungskräfte im Vergleich",
+    "s": "Eine interaktive Anwendung ermöglicht es Führungskräften, ihr eigenes Einkommen mit dem anderer Chefs zu vergleichen. Dabei spielen Faktoren wie Branche, Unternehmensgröße und Standort eine entscheidende Rolle für die Höhe des Gehalts. Der Rechner soll eine Orientierung über die Vergütungsstrukturen bieten.",
+    "m": "Das Handelsblatt stellt einen Gehaltsrechner zur Verfügung, mit dem Führungskräfte ihre finanzielle Position im Branchenvergleich ermitteln können. Die Auswertung zeigt, dass neben der individuellen Leistung vor allem harte Faktoren wie der Wirtschaftszweig, die Größe des Arbeitgebers sowie der geografische Standort das Gehalt maßgeblich beeinflussen. Nutzer können ihre eigenen Daten eingeben, um zu sehen, ob sie im oberen, mittleren oder unteren Bereich ihrer Vergleichsgruppe liegen. Das Tool dient als nützliche Orientierungshilfe für Gehaltsverhandlungen und Marktanalysen. Offen bleibt, auf welcher genauen Datengrundlage die Berechnungen im Detail basieren.",
+    "r": "Das Tool gibt Einblicke in die Vergütungsstrukturen von Führungskräften und verdeutlicht die Abhängigkeit des Gehalts von äußeren Faktoren wie Branche und Standort.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:42.803Z",
+    "sourceSignature": "https://www.handelsblatt.com/karriere/gehalt-finden-sie-heraus-wie-viel-sie-als-fuehrungskraft-verdienen-sollten/100248227.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktOTZ8aHR0cHM6Ly93d3cuc3dyLmRlL3N3cmFrdHVlbGwvcmhlaW5sYW5kLXBmYWx6L3RyaWVyL2YxNi1rYW1wZmx1": {
+    "t": "F-16-Kampfjet auf US-Airbase Spangdahlem abgestürzt",
+    "s": "Auf der US-Airbase Spangdahlem in Rheinland-Pfalz ist ein Kampfjet vom Typ F-16 abgestürzt. Der Pilot konnte sich rechtzeitig mit dem Schleudersitz retten und überlebte den Vorfall. Zur genauen Absturzursache gibt es zum aktuellen Zeitpunkt noch keine offiziellen Erkenntnisse. Die Ermittlungen zu dem Unglück wurden aufgenommen.",
+    "m": "Das Unglück ereignete sich auf dem Gelände der US-Airbase Spangdahlem, wo eine F-16 der US Air Force verunglückte. Nach dem Notausstieg über den Schleudersitz wurde der betroffene Pilot medizinisch versorgt. Wie es zu dem Absturz kommen konnte, ist völlig unklar und Gegenstand laufender Untersuchungen. Die Airbase dient als wichtiger Stützpunkt der US-Streitkräfte in Deutschland. Weitere Details zum genauen Hergang, zu eventuellen Schäden am Boden oder zur Munitionsbelaadung des Jets wurden von den Behörden zunächst nicht mitgeteilt. Die Ermittler stehen nun vor der Aufgabe, die Blackbox und Trümmerteile auszuwerten.",
+    "r": "Der Absturz eines Militärjets auf einer deutschen Airbase betrifft die Flugsicherheit und die Zusammenarbeit mit den US-Streitkräften. Solche Zwischenfälle erfordern umfassende Untersuchungen zur Klärung der technischen oder menschlichen Ursachen.",
+    "k": "panorama",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass eine F-16 der US Air Force auf der Airbase Spangdahlem abgestürzt ist und sich der Pilot mit dem Schleudersitz retten konnte.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Erwähnt zusätzlich, dass der gerettete Pilot medizinisch versorgt wird."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:51.383Z",
+    "sourceSignature": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/f16-kampflugzeug-absturz-spangdahlem-us-airbase-100.html|https://www.tagesschau.de/inland/regional/rheinlandpfalz/flugzeugunglueck-us-airbase-spangdahlem-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMzAwfGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pcHdGQlZWOTVjVXhPVTBGcVh6QmlR": {
+    "t": "Kritik am Bundeskanzler: Brinkhaus soll in Unionsfraktionssitzung mit Merz abgerechnet haben",
+    "s": "In einer Sitzung der Unionsfraktion soll der ehemalige Fraktionschef Ralph Brinkhaus den Bundeskanzler scharf kritisiert haben. Laut Berichten hat er dem Kanzler schwere Vorwürfe gemacht und einen Wandel gefordert. Das Treffen sorgte in der Union für Aufsehen.",
+    "m": "Der ehemalige Unionsfraktionschef Ralph Brinkhaus hat in einer Sitzung der Unionsfraktion offene Kritik am Bundeskanzler geäußert. Medienberichten zufolge soll er dabei direkt mit Friedrich Merz abgerechnet und dem Kanzler schwere Vorwürfe gemacht haben. Brinkhaus äußerte die deutliche Forderung, dass sich alle verändern müssten, wobei er betonte, dass dies in erster Linie für den Kanzler gelte. Die Aussagen wurden im internen Kreis der Fraktion getroffen. Nähere Details zum genauen Ablauf oder Reaktionen anderer Teilnehmer gehen aus den vorliegenden Berichten bislang nicht hervor.",
+    "r": "Interne Kritik hochrangiger Unionspolitiker am Bundeskanzler verdeutlicht parteiinterne Spannungen und Debatten über den künftigen Kurs. Solche Äußerungen geben Einblicke in die atmosphärische Lage innerhalb der Fraktion.",
+    "k": "politik",
+    "p": 3,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:13:59.134Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0FqXzBiQ3Btb2lkMHhQdl9oa0xlYVk0QVJDZk5Rb1lfUkttODg4QnNwWHdfUTZPY3pJWV8yTHdXc2dSYTlQWnFndkNlaEFrV0JnOEJDYllmZUJFd0hxcFJiMFVMdDAtM3hWTlJCbUszWUNIUE5ETGdxZXYyLXg1dFpPTF94bzJtN3IyYWowMWgxbUIzSnp2TnMxaFllaTlTUE9LM1kxaw?oc=5|https://www.zeit.de/politik/deutschland/2026-09/ralph-brinkhaus-friedrich-merz-unionsfraktion-kritik-gxe",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNTN8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS9tZWludW5nL3dpcnRzY2hhZnRzZm9ydW0vbW9uaWthLXNj": {
+    "t": "Monika Schnitzer kritisiert Staatshilfen als falsche Reaktion auf Krisen",
+    "s": "Die Vorsitzende der Wirtschaftsweisen, Monika Schnitzer, übt in einem Gastbeitrag scharfe Kritik an staatlichen Entlastungsmaßnahmen. Instrumente wie Tankrabatte und Energiehilfen lösen ihrer Ansicht nach nicht die wahren Probleme. Stattdessen verlagern sie Verluste und wecken neue Erwartungen an den Staat.",
+    "m": "In einem Gastbeitrag für das Handelsblatt äußert sich Monika Schnitzer kritisch zur aktuellen Wirtschaftspolitik. Maßnahmen wie Tankrabatte und Energiehilfen werden von der Politik eingesetzt, um Bürger mit viel Empathie zu beruhigen. Schnitzer argumentiert jedoch, dass diese Politik kontraproduktiv ist, da sie lediglich Verluste verteilt. Anstatt strukturelle Probleme zu lösen, schaffe jede Krise neue Ansprüche an staatliche Unterstützung. Der Beitrag beleuchtet damit die grundsätzliche Debatte über das Ausmaß staatlicher Interventionen in Krisenzeiten und deren langfristige finanzielle Folgen für die Allgemeinheit.",
+    "r": "Die Aussagen beleuchten die wirtschaftspolitische Debatte über den Sinn und die Grenzen staatlicher Kriseninterventionen und Entlastungspakete.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:14:07.147Z",
+    "sourceSignature": "https://www.handelsblatt.com/meinung/wirtschaftsforum/monika-schnitzer-die-koalition-verteilt-mit-viel-empathie-beruhigungspillen/100256190.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTMzfGh0dHBzOi8vd3d3LnplaXQuZGUvZ2VzZWxsc2NoYWZ0L3plaXRnZXNjaGVoZW4vMjAyNi0wOS9yYXp6aWEt": {
+    "t": "Razzia in Berlin: Polizei geht gegen illegalen Schusswaffenhandel vor",
+    "s": "Die Berliner Polizei hat im Umfeld der Organisierten Kriminalität mehrere Wohnungen und Lokale durchsucht. Im Zuge dieser Razzien wurden mehrere Personen festgenommen. Zudem stellten die Einsatzkräfte Waffen und Munition sicher.",
+    "m": "Die Durchsuchungen fanden im gesamten Stadtgebiet statt und richteten sich gegen den illegalen Schusswaffenhandel. Nach Angaben der Behörden gab es mehrere Festnahmen von Verdächtigen. Die Polizei konnte bei den Einsätzen im Umfeld der Organisierten Kriminalität unter anderem scharfe Schusswaffen und Munition sicherstellen. Die Ermittlungen zu den Hintergründen und weiteren Beteiligten dauern an. Offen ist bislang, wie viele Personen genau festgenommen wurden und ob es Verbindungen zu weiteren Straftaten gibt.",
+    "r": "Der Großeinsatz der Berliner Polizei verdeutlicht das fortgesetzte Vorgehen gegen die Organisierte Kriminalität in der Hauptstadt. Die Sicherstellung von Waffen und Munition sowie die Festnahmen zeigen konkrete Erfolge in den Ermittlungen zum illegalen Schusswaffenhandel.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Beide Quellen berichten übereinstimmend von Razzien der Berliner Polizei gegen den illegalen Schusswaffenhandel, bei denen es Festnahmen und Sicherstellungen von Waffen gab.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "nennt konkret zwei sichergestellte scharfe Schusswaffen und erwähnt Razzien im Umfeld der Organisierten Kriminalität."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "erwähnt ergänzend die Durchsuchung von Wohnungen und Lokalen sowie die Sicherstellung von Munition."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:14:15.091Z",
+    "sourceSignature": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-berlin-illegaler-waffenhandel-schusswaffen-organisierte-kriminalitaet-polizei-gxe|https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMzg5fGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pc3dGQlZWOTVjVXhRYm5sMUxWWmFV": {
+    "t": "Wirtschaftskrieg der USA gegen Teheran spürbar an Flughäfen",
+    "s": "Die USA haben angekündigt, iranische Fluggesellschaften weltweit lahmzulegen. Unternehmen, die diesen Airlines Kerosin bereitstellen oder die Abfertigung übernehmen, drohen harte Sanktionen. Nun zeigt die Drohung der US-Regierung international Wirkung. Auch ein britisches Unternehmen hat auf die Maßnahme reagiert.",
+    "m": "Die US-Regierung setzt ihren wirtschaftlichen Druck auf den Iran massiv fort und nimmt dabei gezielt den Luftverkehr ins Visier. Ziel ist es, iranische Airlines weltweit lahmzulegen und deren Operationen durch die Drohung mit harten Konsequenzen zu unterbinden. Konkret sollen sämtliche Dienstleister, die betroffenen Flugzeugen Kerosin liefern oder die Abfertigung am Boden übernehmen, bestraft werden. Diese extraterritoriale Sanktionsdrohung sorgt bei Ländern und internationalen Dienstleistern für große Sorge. Nun zeigen die Maßnahmen erste spürbare Konsequenzen an Flughäfen, da auch ein britisches Unternehmen auf die Situation reagiert hat. Bislang ist unklar, welche konkreten britischen Firmen betroffen sind und wie stark der internationale zivile Flugverkehr dadurch langfristig eingeschränkt wird.",
+    "r": "Die US-Sanktionsdrohungen gegen Unterstützer iranischer Fluggesellschaften beeinträchtigen den internationalen Flugbetrieb an Flughäfen. Länder und Unternehmen fürchten die harten Strafen und passen ihr Verhalten an.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass die USA iranische Airlines lahmlegen wollen und Personen sowie Unternehmen, die Kerosin bereitstellen oder die Abfertigung übernehmen, mit harten Sanktionen bestraft werden.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt im Titel, dass Länder Sanktionen fürchten und der Wirtschaftskrieg an Flughäfen spürbar wird."
+      },
+      {
+        "name": "ntv",
+        "note": "Berichtet ergänzend, dass ein britisches Unternehmen auf die Drohung der US-Regierung reagiert hat."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:14:23.558Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbnl1LVZaUjFCRTVzN0x1MVJfSE1TVGNGTTJMNWFHNzJBNmtKNG05Zzl3MVY5d2Q5VkNkYnJHYXRiSlgyNWlRWGdXNzBYaU1RR0x0Ykx1STB1TjlfOE5EMWgyZ0p1OUxwaTRWNEtvdE14V291WHByWTFmYUVLc2FZVzZ4STRWNEZ3Um1ZVlRReFgzWExTb3FsdlVad1lMeUxPUUVOWldOREhFV1RURV9BQm1Faw?oc=5|https://www.n-tv.de/wirtschaft/Wirtschaftskrieg-der-USA-gegen-Teheran-wird-an-Flughaefen-spuerbar-id31337461.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNTR8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS91bnRlcm5laG1lbi9laW56ZWxoYW5kZWwtZWxla3Ryb25p": {
+    "t": "Bonpflicht soll abgeschafft werden: Elektronische Kassen im Fokus",
+    "s": "Die Bundesregierung plant die Abschaffung der Bonpflicht für den Handel. Dies soll zu weniger Bürokratie für alle Beteiligten führen. Moderne und elektronische Kassensysteme sind in Geschäften bereits weit verbreitet und sollen künftig Standard werden.",
+    "m": "Die geplante Abschaffung der Bonpflicht im Einzelhandel zielt darauf ab, den bürokratischen Aufwand für Unternehmen und Verbraucher deutlich zu verringern. Elektronische Kassen, die für solche Regelungen eine wichtige technische Grundlage bilden, sind im Handel bereits stark verbreitet und sollen künftig flächendeckend zum Standard werden. Konkrete Zeitpläne für die gesetzliche Umsetzung oder Details zu möglichen Ausnahmen wurden in den vorliegenden Informationen bisher nicht genannt. Auch die Reaktionen von Wirtschaftsverbänden oder Verbraucherschützern sind noch offen. Der Schritt soll vor allem kleine und mittlere Betriebe entlasten, die durch die bisherige Regelung einen erhöhten Papier- und Verwaltungsaufwand hatten.",
+    "r": "Die Reform betrifft den gesamten deutschen Einzelhandel und zielt auf eine spürbare Entlastung von bürokratischen Vorgaben ab. Die flächendeckende Etablierung elektronischer Kassen berührt zudem technische Standards im Zahlungsverkehr.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:14:31.603Z",
+    "sourceSignature": "https://www.handelsblatt.com/unternehmen/einzelhandel-elektronische-kassen-sollen-im-handel-standard-werden/100256816.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTQ4fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL2lubmVucG9saXRpay93b2hudW5nZW4tdmVyZ2Vz": {
+    "t": "Debatte über die Vergesellschaftung von Wohnungen in Berlin",
+    "s": "Die Partei Die Linke fordert die Vergesellschaftung von Wohnungen großer Konzerne in Berlin. Im Zentrum der Diskussion steht ein bisher ungenutzter Artikel des Grundgesetzes. Das Vorhaben wird in der Öffentlichkeit und unter Experten intensiv diskutiert.",
+    "m": "Die Initiative zielt darauf ab, Wohnraum dem profitorientierten Markt zu entziehen und durch Vergesellschaftung bezahlbar zu machen. Konkret geht es um die Anwendung von Artikel 15 des Grundgesetzes, der die Überführung von Grund und Boden sowie Produktionsmitteln in Gemeineigentum ermöglicht. Bislang wurde dieser Verfassungsartikel in der Geschichte der Bundesrepublik noch nie angewandt. Juristischer Streitpunkt ist insbesondere, ob dem Land Berlin die Gesetzgebungskompetenz für ein derartiges Enteignungsverfahren zusteht oder ob der Bund zuständig ist. Kritiker zweifeln an der Verfassungsmäßigkeit und warnen vor enormen Entschädigungskosten für die öffentliche Hand. Befürworter hingegen sehen in der Maßnahme ein notwendiges Mittel zur Bekämpfung der Wohnungsnot und hoher Mieten in der Hauptstadt.",
+    "r": "Die Debatte berührt grundlegende Fragen des Eigentumsschutzes und der Kompetenzverteilung zwischen Bund und Ländern bei der Bekämpfung der Wohnungsnot. Eine erfolgreiche Umsetzung könnte Signalwirkung für andere deutsche Großstädte haben.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Beide Quellen stimmen darin überein, dass Die Linke in Berlin Wohnungen von großen Konzernen vergesellschaften will und dabei ein bisher nie angewandter Artikel des Grundgesetzes im Fokus steht.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich, dass das juristische Vorgehen umstritten ist und nennt die Autoren A. Stephany, A. Lagmöller und M. Bauer."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:14:39.783Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/wohnungen-vergesellschaftung-berlin-100.html|https://www.tagesschau.de/inland/innenpolitik/wohnungen-vergesellschaftung-berlin-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDA2fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL2lubmVucG9saXRpay9tZXJ6LXVuaW9uc2ZyYWt0": {
+    "t": "Kein Aufstand gegen Merz - aber großes Grummeln",
+    "s": "Nach dem Wahldebakel vom Wochenende stand für Kanzler Merz ein schwieriger Termin an. Er musste sich der Sitzung der Unionsfraktion im Bundestag stellen. Dort erhielt er von den Abgeordneten vor allem Zuspruch.",
+    "m": "Die Zusammenkunft der Unionsfraktion im Bundestag fand im direkten Anschluss an das Wahldebakel vom vergangenen Wochenende statt. Bundeskanzler Friedrich Merz musste sich dort einem schwierigen Termin stellen. Entgegen möglicher Spekulationen über einen internen Aufstand blieb dieser jedoch aus. Stattdessen erhielt der Kanzler in der Sitzung vor allem Zuspruch von den Abgeordneten. Gleichzeitig wurde ihm jedoch unmissverständlich signalisiert, dass er nun auch Ergebnisse liefern muss.",
+    "r": "Das Treffen zeigt das parteiinterne Verhältnis zu Kanzler Merz nach einem verlorenen Wahlsonntag. Die Reaktion der Unionsfraktion ist ein wichtiger Indikator für die politische Stabilität der Regierung.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass es nach dem Wahldebakel am Wochenende keinen Aufstand gegen Kanzler Merz in der Unionsfraktion gab, er dort viel Zuspruch erhielt und nun liefern muss.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Nennt Katrin Aue als Autorin des Beitrags."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:14:47.790Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/innenpolitik/merz-unionsfraktion-100.html|https://www.tagesschau.de/inland/innenpolitik/merz-unionsfraktion-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNTl8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS9maW5hbnplbi92b3Jzb3JnZS9hbHRlcnN2b3Jzb3JnZS1z": {
+    "t": "Handelsblatt veröffentlicht Tool für Rentner zum Auswandern",
+    "s": "Der Traum vom Lebensabend im Ausland beschäftigt viele Menschen. Um bei der Auswahl des passenden Ziellandes zu helfen, stellt das Handelsblatt ein spezielles Online-Tool zur Verfügung. Die Anwendung unterstützt dabei, sonnige, sichere und attraktive Länder am Meer für den Ruhestand zu finden.",
+    "m": "Das Auswandern im Rentenalter ist für viele ein lang gehegter Wunsch. Die Entscheidung für das richtige Land hängt von zahlreichen Faktoren wie Sonnenschein, Sicherheit und Lebenshaltungskosten ab. Das neu vorgestellte Tool des Handelsblatts soll Interessierten bei dieser komplexen Auswahl helfen. Es filtert passende Destinationen heraus, die den Kriterien der zukünftigen Auswanderer entsprechen. Konkrete Details zur Funktionsweise oder zu spezifischen Ländern werden im Text nicht genannt. Die Anwendung soll jedoch als Orientierungshilfe für den Schritt ins Ausland dienen.",
+    "r": "Das Tool bietet eine praktische Orientierungshilfe für Menschen, die ihren Lebensabend im Ausland verbringen möchten. Es erleichtert die komplexe Auswahl eines geeigneten und sicheren Ziellandes.",
+    "k": "wirtschaft",
+    "p": 1,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:14:55.550Z",
+    "sourceSignature": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-mit-diesem-tool-koennen-sie-sich-ihr-traumland-aussuchen/100168299.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDE4fGh0dHBzOi8vd3d3LmZhei5uZXQvYWt0dWVsbC9nZXNlbGxzY2hhZnQvb2t0b2JlcmZlc3Qta2VsbG5lcmlu": {
+    "t": "Oktoberfest: Kellnerinnen retten mit Herzdruckmassage das Leben eines 78-Jährigen",
+    "s": "Auf dem Oktoberfest ist ein 78-jähriger Mann plötzlich zusammengebrochen. Zwei aufmerksame Kellnerinnen haben die Situation sofort bemerkt und umgehend reagiert. Durch ihren schnellen Einsatz konnten sie dem Mann das Leben retten. Aktuell gibt es keine weiteren Berichte über den genauen Gesundheitszustand des Seniors.",
+    "m": "Der Vorfall ereignete sich auf dem diesjährigen Oktoberfest, wo ein 78-jähriger Besucher unerwartet kollabierte. Zwei Kellnerinnen wurden auf den Notfall aufmerksam und zögerten keine Sekunde, um Erste Hilfe zu leisten. Konkret führten sie eine Herzdruckmassage durch, um den Kreislauf des Mannes zu stabilisieren. Diese schnelle und entschlossene Reaktion war entscheidend für das Überleben des Seniors. Das Handeln der Servicekräfte wird als gelungene Wiederbelebung beschrieben. Bisher sind keine Details über die genaue Zelt- oder Bereichsbezeichnung des Vorfalls bekannt. Auch ob der Mann ins Krankenhaus gebracht wurde, geht aus den Berichten nicht hervor. Die beteiligten Akteure werden namentlich nicht genannt, stehen jedoch im Fokus dieser Rettungsaktion.",
+    "r": "Die Meldung zeigt, wie lebensrettend schnelles Handeln von Ersthelfern bei medizinischen Notfällen im Alltag sein kann. Solche Vorfälle verdeutlichen die Bedeutung von Zivilcourage und Kenntnissen in Wiederbelebungsmethoden bei Großveranstaltungen.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass zwei Kellnerinnen auf dem Oktoberfest einem zusammengebrochenen 78-jährigen Mann das Leben gerettet haben.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt explizit die Herzdruckmassage als konkrete Rettungsmaßnahme."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:15:03.934Z",
+    "sourceSignature": "https://www.faz.net/aktuell/gesellschaft/oktoberfest-kellnerinnen-retten-wiesnbesucher-das-leben-accg-201254136.html|https://www.spiegel.de/panorama/oktoberfest-herzdruckmassage-kellnerinnen-retten-wiesnbesucher-a-dfee02fe-d74d-4bcd-b9b5-c3227884b65d#ref=rss",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNDMzfGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL3BvZGNhc3QtMTFrbS13YWhsZW4tcmVmb3JtZW4t": {
+    "t": "Warum Regieren immer komplizierter wird",
+    "s": "Nach jüngsten Landtagswahlen steht der Bundeskanzler stark unter Druck, während wichtige Reformvorhaben gefährdet sind. Der gesamte Politikbetrieb wirkt zunehmend aus dem Tritt geraten. Der Podcast 11KM widmet sich in einer aktuellen Episode den Ursachen und Begleiterscheinungen dieser Entwicklung. Dabei wird der Zustand einer von Dauerstress geprägten deutschen Demokratie analysiert.",
+    "m": "Die aktuellen politischen Entwicklungen nach den Landtagswahlen verdeutlichen die wachsenden Schwierigkeiten beim Regieren in Deutschland. Beobachter sehen den Bundeskanzler durch die Wahlergebnisse politisch angezählt und in seiner Handlungsfähigkeit eingeschränkt. Zentrale Reformen und politische Vorhaben stehen auf der Kippe, was zu Debatten über die Stabilität der Koalition führt. Gleichzeitig wird der alltägliche Politikbetrieb als zunehmend krisenhaft und überlastet wahrgenommen. Der Podcast 11KM nimmt diese Situation zum Anlass, um über eine Demokratie im Dauerstress zu diskutieren. Beleuchtet werden dabei die strukturellen Ursachen für die Erschöpfung der politischen Institutionen und die Frustration in der Bevölkerung. Die Folge ordnet ein, weshalb politische Entscheidungsprozesse komplexer und langwieriger geworden sind.",
+    "r": "Die Meldung beleuchtet den Zustand der deutschen Politik nach Landtagswahlen und die grundsätzlichen Probleme bei politischen Reformprozessen. Dies ist für die politische Diskussion über die Handlungsfähigkeit der Regierung und den Zustand der Demokratie relevant.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Beide Quellen stimmen überein, dass nach den Landtagswahlen der Kanzler angezählt ist, Reformen auf der Kippe stehen, der Politikbetrieb aus dem Tritt geraten ist und der Podcast 11KM das Thema einer Demokratie im Dauerstress behandelt.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Verwendet den Titel 'Warum Regieren immer komplizierter wird'."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Verwendet den Titel '11KM-Podcast: Warum Regieren immer komplizierter wird'."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:15:12.557Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/podcast-11km-wahlen-reformen-kanzler-100.html|https://www.tagesschau.de/inland/podcast-11km-wahlen-reformen-kanzler-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktODV8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS9wb2xpdGlrL2ludGVybmF0aW9uYWwvdWtyYWluZS1rcmll": {
+    "t": "EU hebt Sanktionen auf, Baku lässt Franzosen frei und Treffen Lawrow-Rubio",
+    "s": "Die Europäische Union hat die Sanktionen gegen zwei russische Oligarchen aufgehoben. Im Zuge dessen hat Aserbaidschan zwei französische Staatsbürger freigelassen. Zudem kommt es zu einem Treffen zwischen dem russischen Außenminister Lawrow und dem US-Politiker Rubio in New York. Unterdessen hat Polen nach Angriffen auf die Ukraine zwei Flughäfen gesperrt.",
+    "m": "Im Rahmen der jüngsten Entwicklungen rund um den Ukraine-Krieg hat die EU Sanktionen gegen zwei russische Oligarchen gestrichen. Daraufhin wurden zwei in Aserbaidschan inhaftierte Franzosen freigelassen. Auf diplomatischer Ebene treffen sich der russische Außenminister Sergei Lawrow und Rubio heute in New York. Nach Angriffen auf die Ukraine hat Polen zudem vorsorglich zwei Flughäfen gesperrt. Der ukrainische Präsident Wolodymyr Selenskyj äußerte sich erneut und betonte, dass ein vollständiger Stopp russischer Ölkäufe den Krieg beenden würde. Weitere Details oder Hintergründe zu den Verhandlungen und den betroffenen Personen wurden im Newsblog zunächst nicht genannt.",
+    "r": "Die Meldung ist relevant, da sie diplomatische Bewegungen, internationale Sanktionsänderungen sowie sicherheitsrelevante Luftraummaßnahmen im Kontext des Ukraine-Krieges aufzeigt.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen berichten übereinstimmend über aktuelle Ereignisse im Zusammenhang mit dem Ukraine-Krieg, darunter die Aufhebung von EU-Sanktionen, Freilassungen und diplomatische Treffen.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Handelsblatt",
+        "note": "Berichtet im Newsblog über die Aufhebung von Sanktionen gegen zwei Oligarchen, die Freilassung von zwei Franzosen durch Baku, das Treffen von Lawrow und Rubio in New York, die Sperrung von zwei Flughäfen in Polen sowie Selenskyjs Forderung nach einem Stopp russischer Ölkäufe."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:15:20.898Z",
+    "sourceSignature": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNjI3fGh0dHBzOi8vd3d3LnN3ci5kZS9zd3Jha3R1ZWxsL2JhZGVuLXd1ZXJ0dGVtYmVyZy9zdHV0dGdhcnQvc3Rl": {
+    "t": "Stuttgarter STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt",
+    "s": "Ein iranisches Gericht hat den Stuttgarter Gründer der Hilfsorganisation STELP, Serkan Eren, zu zehn Jahren Haft verurteilt. Dem 42-Jährigen werden angebliche Kontakte zu einem verfeindeten Land vorgeworfen. Eren befand sich im Iran, um Spenden zu verteilen.",
+    "m": "Der Stuttgarter Gründer der Hilfsorganisation STELP, Serkan Eren, wurde von einem iranischen Gericht zu einer Haftstrafe von zehn Jahren verurteilt. Die Vorwürfe lauten auf angebliche Kontakte zu einem verfeindeten Land. Eren war in den Iran gereist, um dort Hilfsspenden zu verteilen, bevor es zu seiner Festnahme und dem nun bekanntgewordenen Urteil kam. Die Hilfsorganisation STELP machte den Fall öffentlich. Nähere Hintergründe zu den genauen Umständen des Prozesses oder den diplomatischen Bemühungen zu seiner Freilassung gehen aus den vorliegenden Berichten derzeit noch nicht hervor. Die konkreten Konsequenzen für die humanitäre Arbeit vor Ort bleiben abzuwarten.",
+    "r": "Die Verurteilung des Gründers einer bekannten deutschen Hilfsorganisation im Iran berührt Fragen des internationalen Schutzstatus und der Sicherheit von Hilfsarbeitern. Der Fall hat direkte Relevanz für deutsch-iranische Beziehungen und zivilgesellschaftliches Engagement im Ausland.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Beide Quellen sind sich einig, dass der Stuttgarter STELP-Gründer Serkan Eren im Iran wegen angeblicher Kontakte zu einem verfeindeten Land zu zehn Jahren Haft verurteilt wurde und Spenden verteilen wollte.",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:15:29.004Z",
+    "sourceSignature": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/stelp-gruender-serkan-eren-im-iran-zu-zehn-jahren-haft-verurteilt-100.html|https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-stuttgarter-stelp-gruender-serkan-eren-im-iran-zu-zehn-jahren-haft-verurteilt-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNXxodHRwczovL3d3dy50YWdlc3NjaGF1LmRlL2lubGFuZC9saW5rZS1iZXJsaW4tYW50aXNlbWl0aXNtdXMtMTAw": {
+    "t": "Warnungen vor Koalition mit der Linken in Berlin",
+    "s": "Nach dem Wahlerfolg der Linken in Berlin gibt es deutliche Bedenken von möglichen Koalitionspartnern hinsichtlich einer Regierungsbeteiligung. Grund für die Warnungen sind unter anderem antisemitische Tendenzen innerhalb der Partei. Zudem weisen Kritiker auf mögliche negative Folgen für Jüdinnen und Juden in der Hauptstadt hin.",
+    "m": "Die Linke nimmt nach ihrem Wahlerfolg in Berlin das Rote Rathaus ins Visier und strebt Regierungsverantwortung an. Dies ruft jedoch scharfe Bedenken bei potenziellen Koalitionspartnern hervor. Im Zentrum der Kritik stehen dabei antisemitische Tendenzen, die Kritikern zufolge in der Partei existieren. Mehrere Stimmen warnen explizit vor den Konsequenzen, die eine Regierungsbeteiligung der Linken für die jüdische Gemeinschaft in der Hauptstadt haben könnte. Bislang ist unklar, wie die Parteispitze auf diese Vorwürfe reagieren wird und ob ernsthafte Koalitionsverhandlungen zustande kommen.",
+    "r": "Die Diskussionen über eine mögliche Regierungsbeteiligung der Linken in Berlin berühren fundamentale Fragen der demokratischen Regierungsfähigkeit und des Minderheitenschutzes in der Hauptstadt. Die Debatte verdeutlicht die politischen Hürden bei der Regierungsbildung nach der Wahl.",
+    "k": "politik",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:15:36.756Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/linke-berlin-antisemitismus-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktODd8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS9maW5hbnplbi9maW5hbnpiZXJhdHVuZy13YXJ1bS1zZXJ2": {
+    "t": "Finanzberatung: Mehr Betreuung gegen Gebühr: Warum Servicegebühren für Makler wichtiger werden",
+    "s": "Versicherungsmakler und Finanzberater verlangen vermehrt monatliche Servicegebühren zusätzlich zu klassischen Provisionen. Diese Entwicklung soll eine stabilere Betreuung und zusätzliche Einnahmen sichern. Für Verbraucher ist diese Umstellung jedoch nur dann vorteilhaft, wenn die angebotenen Zusatzleistungen klar erkennbar und transparent sind.",
+    "m": "Die Branche der Finanzberatung und des Versicherungsmaklerwesens befindet sich im Wandel, da neben den traditionellen Abschlussprovisionen immer häufiger monatliche Servicepauschalen erhoben werden. Durch dieses Modell versuchen Berater, ihre Einnahmen unabhängiger von reinen Produktverkäufen zu gestalten und eine kontinuierliche Betreuung der Kundschaft zu finanzieren. Marktbeobachter betonen, dass Verbraucher bei solchen Modellen genau hinsehen müssen, da laufende Kosten langfristig ins Gewicht fallen. Kritisch wird gesehen, ob die verlangten Gebühren im fairen Verhältnis zu dem tatsächlichen Mehrwert und den angebotenen Zusatzleistungen stehen. Transparenz bei der Abrechnung und klar definierte Serviceversprechen gelten daher als entscheidende Faktoren für die Akzeptanz bei den Kunden. Bislang ist unklar, wie sich dieses Abrechnungsmodell flächendeckend auf dem Markt etablieren wird und wie stark Verbraucherschützer darauf reagieren.",
+    "r": "Die Veränderung der Vergütungsstrukturen im Maklermarkt betrifft direkt die Verbraucherfinanzen und die Beratungsqualität. Sie zeigt einen generellen Trend hin zu wiederkehrenden Servicegebühren in der Finanzdienstleistungsbranche.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:15:45.153Z",
+    "sourceSignature": "https://www.handelsblatt.com/finanzen/finanzberatung-warum-servicegebuehren-fuer-makler-wichtiger-werden/100252843.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNnxodHRwczovL3d3dy5kZXV0c2NobGFuZGZ1bmsuZGUvc3BkLXNwaXR6ZS1saW5rZS1kYXJmLWFudGlzZW1pdGlz": {
+    "t": "SPD-Spitze fordert von Berliner Linken konsequentes Handeln gegen Antisemitismus",
+    "s": "Die Bundes-SPD hat sich in die Diskussion über Clan-Kontakte und Antisemitismus-Vorwürfe gegen die Berliner Linkspartei eingeschaltet. In einem Instagram-Statement fordern die Parteivorsitzenden und der Generalsekretär ein klares Vorgehen. Die Linke dürfe Antisemitismus und Clan-Kriminellen keinen Platz bieten.",
+    "m": "Anlass für das Statement sind anhaltende Debatten um vermeintliche Clan-Kontakte und Antisemitismus-Vorwürfe innerhalb der Berliner Linkspartei. Nun haben sich die Bundesvorsitzenden Klingbeil und Bas sowie Generalsekretär Klüssendorf öffentlich zu Wort gemeldet. In ihrer auf der Plattform Instagram veröffentlichten Erklärung betonen sie unmissverständlich, dass die Partei jeglichen Tendenzen in diese Richtung konsequent entgegentreten muss. Wörtlich heißt es, man dürfe Antisemitismus und Clan-Kriminellen in den eigenen Reihen keinen Millimeter Platz lassen. Damit übt die Bundesparteispitze Druck auf den Landesverband aus, die Vorwürfe lückenlos aufzuklären und Konsequenzen zu ziehen. Weitere Details zum Ausmaß der Vorwürfe oder Reaktionen der Berliner Linken gehen aus dem Bericht nicht hervor.",
+    "r": "Die Intervention der Bundes-SPD erhöht den politischen Druck auf den Berliner Landesverband der Linken. Das Thema berührt Grundfragen des Umgangs mit Extremismus und organisierter Kriminalität in politischen Parteien.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Die Bundes-SPD hat sich in einem Statement auf Instagram zu Vorwürfen gegen die Berliner Linke geäußert.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet über das Instagram-Statement der SPD-Spitze Klingbeil, Bas und Klüssendorf bezüglich der Vorwürfe gegen die Berliner Linke."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:15:53.570Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/spd-spitze-linke-darf-antisemitismus-keinen-millimeter-platz-lassen-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktOXxodHRwczovL3d3dy5kZXV0c2NobGFuZGZ1bmsuZGUva2xldHRlci1wcm90ZXN0LXZvbi1ha3RpdmlzdGVuLWFu": {
+    "t": "Kletter-Protest von Robin-Wood-Aktivisten an CDU-Zentrale in Berlin",
+    "s": "Aktivisten der Umweltschutzorganisation Robin Wood haben in Berlin eine Kletteraktion an der CDU-Parteizentrale durchgeführt. Mit dieser Protestaktion richteten sie sich gegen die Klimapolitik der Regierung. Weitere Details zum Ablauf oder zu Reaktionen liegen derzeit nicht vor.",
+    "m": "Aktivisten der Gruppe Robin Wood haben mit einer Kletteraktion an der Bundeszentrale der CDU in Berlin protestiert. Ziel der Aktion war es, auf die aus ihrer Sicht unzureichende Klimapolitik der Regierung aufmerksam zu machen. Die Parteizentrale der CDU diente dabei als Kulisse für den öffentlichkeitswirksamen Protest. Über mögliche Festnahmen, Polizeieinsätze oder Schäden ist in den bisherigen Berichten nichts bekannt. Auch konkrete Forderungen an die Adresse der Partei oder der Regierung wurden im Rahmen der vorliegenden Meldung nicht näher spezifiziert. Die Aktion unterstreicht die anhaltenden Proteste von Umweltschutzgruppen gegen politische Entscheidungen im Bereich des Klimaschutzes.",
+    "r": "Die Protestaktion verdeutlicht den anhaltenden zivilen Ungehorsam von Umweltaktivisten gegen die aktuelle Regierungspolitik. Die CDU-Zentrale als Ort des Protests unterstreicht die politische Dimension der Forderungen.",
+    "k": "umwelt",
+    "p": 1,
+    "agree": "Die Quellen sind sich einig, dass Aktivisten der Gruppe Robin Wood eine Kletteraktion an der CDU-Zentrale in Berlin durchgeführt haben, um gegen die Klimapolitik zu protestieren.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:16:02.391Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/kletter-protest-von-aktivisten-an-cdu-zentrale-102.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktOTF8aHR0cHM6Ly93d3cuaGFuZGVsc2JsYXR0LmNvbS9wb2xpdGlrL2RldXRzY2hsYW5kL3BlcnNvbmFsaWUtdGh1": {
+    "t": "Thüringens SPD-Chef Georg Maier kündigt Rückzug an",
+    "s": "Der thüringische SPD-Vorsitzende Georg Maier hat angekündigt, bei der nächsten Wahl nicht mehr für den Parteivorsitz zu kandidieren. Er will sein Amt als Landesinnenminister jedoch weiterhin ausüben. Die Personalie sorgt für Bewegung in der thüringischen Landespolitik. Ein konkreter Vorschlag für die Nachfolge wurde ebenfalls thematisiert.",
+    "m": "Georg Maier, der bisherige Chef der SPD in Thüringen, hat seinen Verzicht auf eine erneute Kandidatur für den Parteivorsitz erklärt. Trotz dieses Rückzugs aus der Parteispitze plant er, sein Amt als thüringischer Innenminister fortzuführen. In diesem Zusammenhang hat er bereits einen Vorschlag unterbreitet, wer seine Nachfolge an der Parteispitze antreten könnte. Die Entscheidung fällt in eine politisch sensible Phase für die SPD im Freistaat. Die Partei muss sich nun auf einen personellen Neuanfang an der Spitze einstellen. Weitere Details zur genauen Nachfolge und zum Zeitplan wurden im Rahmen der Ankündigung bekannt gegeben. Die Landespartei steht vor der Herausforderung, die Führung neu zu ordnen.",
+    "r": "Der Wechsel an der Spitze der thüringischen SPD ist ein signifikanter Vorgang für die politische Landschaft des Bundeslandes. Die Nachfolgefrage berührt die personelle Stabilität der Partei und betrifft auch die Landesregierung, da Maier Innenminister bleiben will.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Georg Maier tritt nicht mehr als thüringischer SPD-Chef an, bleibt aber Innenminister.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Handelsblatt",
+        "note": "Berichtet, dass Georg Maier den Vorsitz der SPD Thüringen abgeben will, aber Innenminister bleibt und einen Vorschlag für seine Nachfolge hat."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:16:10.667Z",
+    "sourceSignature": "https://www.handelsblatt.com/politik/deutschland/personalie-thueringens-spd-chef-maier-tritt-nicht-mehr-an/100256818.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktN3xodHRwczovL3d3dy5kZXV0c2NobGFuZGZ1bmsuZGUvZ3J1ZW5lbi1pbm5lbnBvbGl0aWtlcmluLWZvcmRlcnQt": {
+    "t": "Grünen-Innenpolitikerin Mihalic fordert Linken-Abgeordneten Koçak zum Mandatsverzicht auf",
+    "s": "Die parlamentarische Geschäftsführerin der Grünen-Fraktion, Irene Mihalic, hat den Bundestagsabgeordneten der Linken, Cansel Koçak, aufgefordert, sein Mandat niederzulegen. Anlass für die Forderung ist eine aktuelle politische Diskussion über die Linkspartei.",
+    "m": "Die parlamentarische Geschäftsführerin der Grünen-Fraktion, Mihalic, hat sich öffentlich zu dem Abgeordneten Koçak von der Partei Die Linke geäußert. Sie legte ihm nahe, sein Bundestagsmandat niederzulegen. Dieser Vorgang steht im Kontext einer breiteren politischen Diskussion über die Linkspartei und deren personelle beziehungsweise mandatsbezogene Situation. Weitere Details zum zeitlichen Ablauf, konkreten Hintergründen oder Reaktionen anderer Beteiligten gehen aus dem Bericht nicht hervor. Auch offene Fragen oder konkrete Zahlen wurden in der Meldung nicht genannt.",
+    "r": "Die Aufforderung einer ranghohen Grünen-Politikerin an einen Bundestagsabgeordneten einer anderen Partei, sein Mandat niederzulegen, ist ein relevanter Vorgang innerhalb der aktuellen parlamentarischen und parteipolitischen Diskussionen.",
+    "k": "politik",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:16:18.370Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/gruenen-innenpolitikerin-fordert-ko-ak-zu-mandatsverzicht-auf-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTF8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2lubmVubWluaXN0ZXItbWFpZXItd2lsbC1zcGQtbGFu": {
+    "t": "Thüringens Innenminister Maier kündigt Rückzug als SPD-Landeschef an",
+    "s": "Thüringens Innenminister Georg Maier hat angekündigt, den Landesvorsitz der SPD abzugeben. Dies teilte der Nachrichtensender Deutschlandfunk mit. Weitere Details oder Hintergründe zu dieser Entscheidung wurden in der Meldung zunächst nicht genannt.",
+    "m": "Der thüringische Innenminister Georg Maier hat seinen Entschluss erklärt, den Vorsitz der Landes-SPD niederzulegen. Über diesen Schritt berichtete der Deutschlandfunk in einer Kurzmeldung. Konkrete Angaben zu den Gründen für diesen Rückzug, einem zeitlichen Ablauf für die Amtsübergabe oder möglichen Nachfolgekandidaten enthält der Bericht nicht. Auch Reaktionen aus der Partei oder der Landespolitik liegen zu diesem Zeitpunkt noch nicht vor.",
+    "r": "Die Personalie betrifft die politische Führung der SPD in Thüringen und hat damit Relevanz für das politische Gefüge im Bundesland. Ein Wechsel an der Parteispitze kann Auswirkungen auf die kommende politische Ausrichtung der Landespartei haben.",
+    "k": "politik",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet, dass Thüringens Innenminister Maier seinen Rückzug als SPD-Landeschef angekündigt hat."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:16:26.153Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/innenminister-maier-will-spd-landesvorsitz-abgeben-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktOTV8aHR0cHM6Ly93d3cud2VsdC5kZS9wb2xpdGlrL2F1c2xhbmQvdmlkZW82YWIzNzc5ZjI3NGQxYmFiMjdiNjFi": {
+    "t": "„Das Ziel ist es, der ukrainischen Wirtschaft maximalen Schaden zuzufügen“",
+    "s": "Russische Streitkräfte nehmen gezielt die ukrainische Energieinfrastruktur ins Visier. Das Ziel ist es nach Berichten der Front, der ukrainischen Wirtschaft massiven Schaden zuzufügen. Betroffen ist unter anderem die Region um Isjum als Rückzugsort für ukrainische Soldaten.",
+    "m": "Aus der Frontregion nahe Isjum in der Ukraine wird von anhaltenden russischen Angriffen berichtet. Die Stadt dient ukrainischen Soldaten als Rückzugsort und ist regelmäßig Ziel feindlicher Attacken. Besonders im Winter wird die Energieinfrastruktur des Landes massiv ins Visier genommen. Reporter Christoph Wanner schildert vor Ort, dass dieses Vorgehen strategisch darauf ausgerichtet ist, der ukrainischen Wirtschaft maximalen Schaden zuzufügen. Konkrete Opferzahlen oder Ausmaß der Schäden an den Energieanlagen werden in dem Bericht nicht genannt. Der zeitliche Ablauf der Angriffe konzentriert sich auf die kalte Jahreszeit, um die Versorgung der Bevölkerung und der Streitkräfte zu treffen.",
+    "r": "Die gezielten Angriffe auf die Energieinfrastruktur im Winter gefährden die ukrainische Wirtschaft und die Grundversorgung an der Front. Dies verdeutlicht die anhaltende strategische Kriegführung Russlands gegen zivile und militärische Unterstützungsstrukturen.",
+    "k": "politik",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:16:34.044Z",
+    "sourceSignature": "https://www.welt.de/politik/ausland/video6ab3779f274d1bab27b61b04/ukraine-krieg-das-ziel-ist-es-der-ukrainischen-wirtschaft-maximalen-schaden-zuzufuegen.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktOHxodHRwczovL3d3dy5kZXV0c2NobGFuZGZ1bmsuZGUvZ3Jvc3NyYXp6aWEtd2VnZW4td2FmZmVuZ2V3YWx0LW1l": {
+    "t": "Großrazzia in Berlin wegen steigender Schusswaffengewalt",
+    "s": "In Berlin hat eine Großrazzia im Zusammenhang mit Schusswaffengewalt stattgefunden. Dabei kam es zu mehreren Festnahmen. Die Operation ist Teil von Maßnahmen gegen die gestiegene Kriminalität in diesem Bereich.",
+    "m": "Die Berliner Behörden führten eine großangelegte Razzia durch, die sich gegen Waffengewalt richtet. Hintergrund sind die zuletzt gestiegenen Fälle von Schusswaffengewalt in der Hauptstadt. Im Rahmen des Polizeieinsatzes wurden mehrere Personen festgenommen. Weitere Details zu den Hintergründen, den genauen Funden oder den betroffenen Örtlichkeiten wurden zunächst nicht bekannt gegeben. Der Einsatz verdeutlicht den anhaltenden Druck der Sicherheitsbehörden auf kriminelle Strukturen in Berlin.",
+    "r": "Derartige Großeinsätze spiegeln die Bemühungen wider, gegen die zunehmende Waffengewalt in Berlin vorzugehen. Sie verdeutlichen die polizeiliche Präsenz und das Vorgehen gegen Kriminalität.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Alle Quellen stimmen darin überein, dass es in Berlin eine Großrazzia wegen Waffengewalt und mehrere Festnahmen gab.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:16:42.027Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/grossrazzia-wegen-waffengewalt-mehrere-festnahmen-102.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTJ8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL3dhZGVwaHVsLXVuby1zaWNoZXJoZWl0c3JhdC1tdXNz": {
+    "t": "Vereinte Nationen - Wadephul: \"UNO-Sicherheitsrat muss handlungsfähiger werden\"",
+    "s": "Bundesaußenminister Wadephul hat sich am Rande der UN-Generaldebatte in New York für Reformen des Sicherheitsrates ausgesprochen. Im Deutschlandfunk betonte der CDU-Politiker, dass bestehende Blockaden aufgehoben werden müssen. Ziel sei es, das wichtigste UN-Gremium wieder handlungsfähiger zu machen.",
+    "m": "Am Rande der Generaldebatte der Vereinten Nationen in New York äußerte sich der deutsche Bundesaußenminister Wadephul zur aktuellen Verfassung des UNO-Sicherheitsrates. Im Interview mit dem Deutschlandfunk forderte der CDU-Politiker konkrete Reformen, um das Gremium von aktuellen Blockaden zu befreien. Der Sicherheitsrat müsse dringend wieder handlungsfähiger werden, um in internationalen Krisen effektiv agieren zu können. Konkrete Schritte oder Mechanismen zur Aufhebung dieser Blockaden wurden in dem Bericht jedoch nicht genannt. Die Aussagen fallen in eine Phase anhaltender internationaler Debatten über die Struktur und Zusammensetzung des UN-Sicherheitsrates sowie über die Nutzung des Vetorechts durch ständige Mitglieder. Weitere Details zur Resonanz anderer Staaten auf Wadephuls Vorstoß liegen derzeit nicht vor.",
+    "r": "Die Reform des UNO-Sicherheitsrates betrifft die globale Sicherheitsarchitektur und die Handlungsfähigkeit internationaler Organisationen. Forderungen deutscher Regierungsvertreter nach strukturellen Veränderungen verdeutlichen den diplomatischen Druck zur Krisenbewältigung.",
+    "k": "politik",
+    "p": 3,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:16:49.943Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTAzfGh0dHBzOi8vd3d3LmhhbmRlbHNibGF0dC5jb20vdW50ZXJuZWhtZW4vaW5kdXN0cmllL2Jvc2NoLWRlci1n": {
+    "t": "Bosch wächst im ersten Halbjahr nur durch Zukäufe",
+    "s": "Der Autozulieferer Bosch hat erstmals Halbjahreszahlen vorgelegt und verzeichnet ein Wachstum, das jedoch ausschließlich auf Übernahmen zurückzuführen ist. Insbesondere das Geschäft mit Automobilen bereitet dem Stiftungskonzern Sorgen.",
+    "m": "Der weltweit größte Autozulieferer Bosch hat seine Geschäftszahlen für das erste Halbjahr präsentiert. Das Unternehmen konnte insgesamt ein Wachstum verzeichnen, allerdings ist dieses ausschlaggebend auf eine kürzlich getätigte Übernahme im Bereich der Heizungs- und Klimageschäfte zurückzuführen. Ohne diesen Zukauf würde das Bild vermutlich anders aussehen. Während dieser Bereich somit stützend wirkt, bereitet das klassische Automobilgeschäft den Verantwortlichen des Stiftungskonzerns zunehmend Sorgen. Weitere finanzielle Details, konkrete Umsatzzahlen oder Angaben zur Beschäftigungssituation wurden in dieser Meldung nicht genannt.",
+    "r": "Die Entwicklung des weltgrößten Autozulieferers Bosch gibt Aufschluss über die konjunkturelle Lage und die Transformation der Automobil- sowie der Heizungs- und Klimabranche.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:16:57.819Z",
+    "sourceSignature": "https://www.handelsblatt.com/unternehmen/industrie/bosch-der-groesste-autozulieferer-der-welt-waechst-nur-noch-durch-zukauf/100256497.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTB8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL25hY2gtc2VyaWUtdm9uLXJpbmRlcmRpZWJzdGFlaGxl": {
+    "t": "Zwei Festnahmen nach Rinderdiebstählen in Brandenburg",
+    "s": "Nach einer Serie von Viehdiebstählen in Brandenburg hat die Polizei zwei mutmaßliche Täter aus Polen festgenommen. Die Verdächtigen wurden im Zuge von Ermittlungen gefasst. Weitere Einzelheiten zur Festnahme und zum Verbleib der Tiere wurden zunächst nicht bekanntgegeben.",
+    "m": "In Brandenburg ist es in der vergangenen Zeit zu einer Serie von Rinderdiebstählen gekommen, die nun zu einem Ermittlungserfolg geführt hat. Die Brandenburger Polizei konnte zwei mutmaßliche Täter festnehmen, bei denen es sich um Staatsbürger aus dem benachbarten Polen handelt. Die Diebstahlsserie hatte bei Landwirten in der Region für Besorgnis gesorgt. Die Ermittlungen der Behörden zu den Hintergründen der Taten und möglichen Mittätern dauern an. Es ist unklar, wie viele Rinder insgesamt gestohlen wurden und ob diese bereits sichergestellt werden konnten. Die Polizei prüft nun, ob die Verdächtigen für weitere, ähnlich gelagerte Straftaten in der Grenzregion verantwortlich sind.",
+    "r": "Die Festnahme von Tatverdächtigen nach einer Serie von Viehdiebstählen in Brandenburg ist für die betroffenen Landwirte und die regionale Sicherheit von Bedeutung. Der Vorfall beleuchtet zudem die grenzübergreifende Kriminalität in den Grenzregionen zu Polen.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Die Quellen stimmen überein, dass nach einer Serie von Rinderdiebstählen in Brandenburg zwei mutmaßliche Täter aus Polen festgenommen wurden.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-23T09:17:05.735Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/nach-serie-von-rinderdiebstaehlen-zwei-mutmassliche-taeter-aus-polen-festgenommen-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTR8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2RldXRzY2hsYW5kLXJhdGlmaXppZXJ0LXVuby1ob2No": {
+    "t": "Deutschland ratifiziert offiziell das UNO-Hochseeschutzabkommen",
+    "s": "Deutschland ist dem UNO-Hochseeschutzabkommen offiziell beigetreten. Bundesumweltminister Schneider hat die Ratifikationsurkunde bei den Vereinten Nationen in New York hinterlegt. Damit ist die Bundesrepublik nun Teil des internationalen Abkommens.",
+    "m": "Mit der offiziellen Hinterlegung der Ratifikationsurkunde durch Bundesumweltminister Schneider bei den Vereinten Nationen in New York hat Deutschland den Beitritt zum UNO-Hochseeschutzabkommen vollzogen. Die Bundesrepublik gehört nun zu insgesamt 94 Staaten, die das internationale Abkommen ratifiziert haben. Das Abkommen zielt darauf ab, die Meeresumwelt weltweit besser zu schützen. Weitere Details zum zeitlichen Inkrafttreten oder konkreten Schutzgebieten wurden in der Meldung nicht genannt.",
+    "r": "Der Beitritt Deutschlands erhöht die Zahl der Vertragsstaaten des internationalen Abkommens auf 94. Dies ist ein relevanter Schritt für den globalen Meeresschutz.",
+    "k": "umwelt",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:17:13.163Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/deutschland-ratifiziert-uno-hochseeschutzabkommen-100.html",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNjR8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL2Vjb25vbWlhL29jZGUtZWNvbm9taWEtbXVuZGlhbC1kZXZl": {
+    "t": "OCDE prognostiziert weltweites Wirtschaftswachstum von 2,9 Prozent für das laufende Jahr",
+    "s": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung hat ihre Einschätzung zur globalen Wirtschaft veröffentlicht. Demnach wird für das laufende Jahr ein weltweites Wachstum von 2,9 Prozent erwartet. Langfristig wird eine graduelle Erholung bis zum Jahr 2027 prognostiziert. Dennoch bleibt die wirtschaftliche Entwicklung nach Einschätzung der Organisation mit zahlreichen Risiken behaftet.",
+    "m": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung rechnet in ihrer aktuellen Prognose mit einem globalen Wirtschaftswachstum von 2,9 Prozent in diesem Jahr. Für das Jahr 2027 wird eine schrittweise und graduelle Erholung der Weltwirtschaft in Aussicht gestellt. Allerdings warnt die Organisation vor erheblichen Unsicherheiten und Risiken, die den Aufschwung gefährden können. Zu den wesentlichen Risikofaktoren zählen insbesondere die Bereiche Energie und Inflation. Darüber hinaus spielen laut der Einschätzung auch strenge finanzielle Bedingungen eine Rolle. Genauso werden extreme Wetterphänomene als potenzielle Gefahren genannt. Schließlich wird auch die zukünftige Entwicklung von Investitionen im Bereich der künstlichen Intelligenz als Einflussfaktor aufgeführt.",
+    "r": "Die globale Wirtschaftsprognose der OECD ist von hoher Relevanz, da sie globale Wachstumstrends für die Weltwirtschaft aufzeigt. Zudem benennt sie zentrale Risikofaktoren wie Inflation und Energiepreise, die weitreichende Auswirkungen auf die internationale Finanz- und Wirtschaftspolitik haben können.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:17:27.177Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/economia/ocde-economia-mundial-deve-crescer-29-este-ano-e-ter-recuperacao-gradual-em-2027_n1767170",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMTA0fGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9iZW5maWNhL21lZGlvLWRvLWJlbmZpY2EtZW56by1iYXJy": {
+    "t": "Benfica-Mittelfeldspieler Enzo Barrenechea am linken Knie operiert",
+    "s": "Der argentinische Mittelfeldspieler Enzo Barrenechea von Benfica Lissabon musste sich einer Knieoperation unterziehen. Grund für den Eingriff ist eine Meniskusruptur im linken Knie infolge einer Stauchung. Der Klub gab diesen medizinischen Schritt am späten Dienstagabend bekannt.",
+    "m": "Der argentinische Profi Enzo Barrenechea, der als Mittelfeldspieler für den portugiesischen Erstligisten Benfica Lissabon aktiv ist, hat sich einer medizinischen Behandlung unterzogen. Bei dem Eingriff handelte es sich um eine Arthroskopie des linken Knies. Notwendig wurde die Operation durch eine Knieprellung beziehungsweise -stauchung, die zu einer Meniskusläsion, genauer einer Rissbildung des inneren Meniskus, geführt hatte. Die offizielle Bekanntgabe zu dem medizinischen Eingriff erfolgte durch den Verein am späten Dienstagabend. Nähere Angaben zur voraussichtlichen Ausfallzeit des Spielers wurden in der Mitteilung zunächst nicht gemacht.",
+    "r": "Die Verletzung und der chirurgische Eingriff eines Profispielers sind für den sportlichen Verlauf und die Kaderplanung des Vereins relevant.",
+    "k": "sport",
+    "p": 1,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:17:35.161Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/benfica/medio-do-benfica-enzo-barrenechea-operado-ao-joelho-esquerdo_d1767178",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNjN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzNwd2xlanhyZDdkbz9hdF9tZWRpdW09UlNT": {
+    "t": "Wut unter britischen Landwirten nach Online-Vergabe von Fördermitteln",
+    "s": "Britische Landwirte sind verärgert über das Online-Verfahren zur Vergabe von Fördermitteln in Höhe von 233 Millionen Pfund. Viele Betriebe befürchten, dass sie wichtige Umweltarbeiten aufgrund des verpassten Zugangs nicht durchführen können. Die Situation sorgt für große Sorge im Agrarsektor.",
+    "m": "Die Vergabe von staatlichen Fördermitteln für die Landwirtschaft in Höhe von 233 Millionen Pfund über ein Online-System hat bei Bauern in Großbritannien heftige Reaktionen ausgelöst. Zahlreiche Landwirte gingen bei dem digitalen Vergabeverfahren leer aus und kritisieren den Ablauf scharf. Sie machen sich nun erhebliche Sorgen, dass notwendige und bereits geplante Umweltarbeiten auf ihren Flächen ausfallen müssen. Der Vorfall wirft Fragen zur Zugänglichkeit und Gerechtigkeit digitaler Verwaltungsprozesse für landwirtschaftliche Betriebe auf. Bislang ist unklar, ob das Ministerium nachbessern oder zusätzliche Hilfen bereitstellen wird, um die entstandenen Lücken zu schließen. Betroffene Verbände fordern eine Überprüfung des Verfahrens, während das Vertrauen in die zuständigen Behörden leidet.",
+    "r": "Die Verteilung von Fördermitteln für Umweltarbeiten in der Landwirtschaft betrifft die ökologische Zukunft ländlicher Regionen direkt. Wenn Betriebe leer ausgehen, gefährdet dies konkrete Maßnahmen zum Umweltschutz.",
+    "k": "umwelt",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass britische Landwirte wegen der Online-Vergabe von 233 Millionen Pfund an Fördermitteln wütend sind und Umweltschutzarbeiten gefährdet sehen.",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:17:43.357Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktNjV8aHR0cHM6Ly93d3cubnByLm9yZy8yMDI2LzA5LzIzL254LXMxLTU5NzMzMDYvYWktc2xvd2Rvd24tZGViYXRl": {
+    "t": "Auswirkungen einer KI-Entwicklungssbremse auf kleine Unternehmen und Marktführer",
+    "s": "Kritiker warnen vor den Folgen einer Verlangsamung der KI-Entwicklung bei den größten Technologieunternehmen. Eine solche Pause könnte dazu führen, dass führende KI-Labore ihre Marktmacht weiter konsolidieren. Gleichzeitig versuchen zahlreiche andere Firmen, im Wettbewerb aufzuholen. Das Thema beleuchtet die wettbewerbspolitischen Dynamiken in der aktuellen KI-Landschaft.",
+    "m": "Die Debatte dreht sich um die Frage, ob und wie eine Verlangsamung der künstlichen Intelligenz die Branchenstruktur beeinflusst. Große Technologiekonzerne und sogenannte Frontier Labs treiben die Entwicklung rasant voran. Kleinere Unternehmen und Start-ups stehen unter Druck, den Anschluss nicht zu verlieren. Befürworter oder Kritiker einer Bremse argumentieren aus unterschiedlichen Perspektiven über die Machtverhältnisse im Sektor. Sollten die führenden Akteure ihre Forschung drosseln, könnte dies etablierten Giganten einen noch größeren Vorteil verschaffen. Kleinere Wettbewerber hätten dadurch möglicherweise noch geringere Chancen, technologisch aufzuschließen. Die Diskussion verdeutlicht die Sorge vor Monopolbildungen im Bereich der künstlichen Intelligenz. Bisher bleibt offen, ob regulatorische Eingriffe oder freiwillige Maßnahmen eine solche Entwicklung steuern könnten.",
+    "r": "Die Meldung ist relevant, da sie die wettbewerbsrechtlichen und strukturellen Risiken einer möglichen Verlangsamung der KI-Entwicklung beleuchtet. Sie zeigt auf, wie regulatorische oder marktbedingte Pausen bei Großkonzernen die Existenz kleinerer Firmen beeinflussen können.",
+    "k": "technik",
+    "p": 2,
+    "agree": "",
+    "chg": "",
+    "diff": [],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:17:51.765Z",
+    "sourceSignature": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+    "method": "gemini"
+  },
+  "djctZXZlbnQtdHJhY2tpbmd8c3RvcnktMjg5fGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9wYWlzL2xlaS1kYXMtYnVyY2FzLWVudHJhLWhvamUtZW0t": {
+    "t": "Inkrafttreten des Gesetzes zum Verbot der Gesichtsverhüllung in der Öffentlichkeit",
+    "s": "Das Gesetz zum Verbot der Verschleierung des Gesichts in der Öffentlichkeit tritt in Kraft. Es sieht empfindliche Geldstrafen für Zuwiderhandlungen vor. Ausnahmen gelten unter anderem aus gesundheitlichen Gründen.",
+    "m": "Die sogenannte burca-lei tritt heute in Kraft und verbietet das Verstecken des Gesichts an öffentlichen Orten. Bei Verstößen drohen Bußgelder von bis zu dreitausend Euro. Das Gesetz enthält spezifische Ausnahmeregelungen, darunter gesundheitliche Gründe, die von dem Verbot ausgenommen sind. Weitere Details zum genauen Gesetzgebungsverfahren oder begleitenden Maßnahmen werden in den Berichten nicht genannt. Die Regelung reiht sich in europäische Debatten über die Verschleierung in der Öffentlichkeit ein. Es bleiben offene Fragen zur praktischen Durchsetzbarkeit im Alltag.",
+    "r": "Das Inkrafttreten des neuen Gesetzes berührt die öffentliche Ordnung und betrifft fundamentale Fragen des Zusammenlebens sowie der persönlichen Freiheitsrechte im öffentlichen Raum.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass das Gesetz zum Verbot der Gesichtsverhüllung heute in Kraft tritt und Bußgelder von bis zu 3000 Euro vorsieht.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet, dass Ausnahmen unter anderem aus gesundheitlichen Gründen gelten."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den Jornal de Notícias als Ursprung der Meldung."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-23T09:17:59.800Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/pais/lei-das-burcas-entra-hoje-em-vigor-e-preve-coimas-ate-tres-mil-euros-por-cobrir-a-cara_n1767148|https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUlGMmdFcHhxWXJ2clVwVTdGWVJmYkNfcVpvZFdKcmRmMXhkb0VpRTBfU1R4RHBtekJvcmFyVDV5TkdWUFRjUE9RRkszZDF0MlhwaUxWSDA1OHJ0V1FrM3U3TUk4Uzd0ZWxnb3ZKbjh5OHV2UTViQzZvYS1tYWU1clZfNkxrakxlMVlGdkxUM1AzRFR2VVowUHJ5dGVjS0xyOERoRFNIR0kzcXpRLXlEdWlmTkVxY1BSeFNDZEozRk5Rd9IBsgFBVV95cUxPREFvUjh5WDVxVVUyT0pMV2premM2RWpEOWlGUm9hS0g0NkZPNFMzUzJoWllfMTBYbkdsb2FEa2FiTkY3azJNZXg3bGZnSURXeTc4R2dfWTZmb2ZUaGtybUhBNzZVVXVSMjZieG1NeDZQTjV6ZUhlcUZGOTM5LTBfdHQ5dE5XTGFuSndCRVdxZldCNm1aVUZFN1pEMG9TOHkxcUR6emF6Q1hsTERjVkNkN0dR?oc=5",
+    "method": "gemini"
   }
 }
