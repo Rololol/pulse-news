@@ -29,7 +29,7 @@ function localFallback(item){
   const first=sources[0]||clean(item.title);
   const sentences=first.split(/(?<=[.!?])\s+/).filter(Boolean);
   return {
-    t:clean(item.title).slice(0,110),
+    t:clean(item.title).replace(/Gewehfreparatur/gi,"Gewehrreparatur").slice(0,110),
     s:(sentences.slice(0,2).join(" ")||clean(item.title)).slice(0,220),
     m:sources.slice(0,2).join(" ").slice(0,500),
     r:"Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet.",
@@ -98,7 +98,11 @@ ${sourceText}`;
     parsed=JSON.parse(cleaned);
   }
   if(!parsed.t||!parsed.s||!parsed.m||!parsed.r)throw new Error("Gemini returned incomplete object");
-  parsed.t=clean(parsed.t).split(/\s+/).slice(0,12).join(" ");
+  parsed.t=clean(parsed.t).replace(/Gewehfreparatur/gi,"Gewehrreparatur").split(/\s+/).slice(0,12).join(" ");
+  const sourceTitles=(item.sources||[]).map(x=>clean(x.title||"").toLowerCase()).join(" ");
+  const titleWords=parsed.t.toLowerCase().split(/\s+/).filter(w=>w.length>=5);
+  const titleOverlap=titleWords.filter(w=>sourceTitles.includes(w)).length/Math.max(1,titleWords.length);
+  if(titleOverlap<0.25)parsed.t=clean(item.title).replace(/Gewehfreparatur/gi,"Gewehrreparatur").split(/\s+/).slice(0,12).join(" ");
   parsed.s=clean(parsed.s).slice(0,220);
   parsed.m=clean(parsed.m).slice(0,500);
   parsed.r=clean(parsed.r).slice(0,280);
