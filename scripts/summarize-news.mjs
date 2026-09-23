@@ -25,6 +25,7 @@ function localFallback(item){
     t:clean(item.title).slice(0,110),
     s:(sentences.slice(0,2).join(" ")||clean(item.title)).slice(0,220),
     m:sources.slice(0,2).join(" ").slice(0,500),
+    r:"Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet.",
     k:categoryMap[item.topic]||"panorama",
     c:countryMap[item.country]==="DE"?"DE":"INT",
     p:Math.min(5,Math.max(1,(item.sources?.length||1))),
@@ -39,13 +40,14 @@ const schema={
     t:{type:"string"},
     s:{type:"string"},
     m:{type:"string"},
+    r:{type:"string"},
     k:{type:"string",enum:["politik","wirtschaft","sport","wissenschaft","technik","panorama","umwelt"]},
     c:{type:"string",enum:["DE","INT"]},
     p:{type:"integer",minimum:1,maximum:5},
     agree:{type:"string"},
     diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}}
   },
-  required:["t","s","m","k","p","agree","diff","c"]
+  required:["t","s","m","r","k","p","agree","diff","c"]
 };
 
 async function ask(item){
@@ -53,7 +55,7 @@ async function ask(item){
     "["+(src.source||"Quelle "+(i+1))+"]\n"+clean(src.title||"")+"\n"+clean(src.snippet||"")
   ).join("\n\n");
   const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m und agree auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
-{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"gemeinsame Kurzfassung, 1-2 Sätze, max. 220 Zeichen, nur was alle Quellen bestätigen","m":"zusätzliche Details, 2-4 Sätze, max. 500 Zeichen","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
+{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"Was ist passiert? 1-2 Sätze, max. 220 Zeichen, nur was die Quellen bestätigen","m":"Was ist bisher bekannt? 2-4 Sätze, max. 500 Zeichen","r":"Warum ist die Meldung relevant? 1-2 nüchterne Sätze, max. 280 Zeichen, nur aus den gelieferten Informationen ableiten","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
 Wenn es keine Abweichungen gibt, gib diff als leeres Array zurück. Erfinde nichts, das nicht in den gelieferten Texten steht. Bei nur einer Quelle bleiben agree und diff leer.
 Quellen:
 ${sourceText}`;
@@ -87,10 +89,11 @@ ${sourceText}`;
     const cleaned=text.replace(/^\`\`\`json\s*/i,"").replace(/^\`\`\`\s*/i,"").replace(/\s*\`\`\`$/,"").trim();
     parsed=JSON.parse(cleaned);
   }
-  if(!parsed.t||!parsed.s||!parsed.m)throw new Error("Gemini returned incomplete object");
+  if(!parsed.t||!parsed.s||!parsed.m||!parsed.r)throw new Error("Gemini returned incomplete object");
   parsed.t=clean(parsed.t).split(/\s+/).slice(0,12).join(" ");
   parsed.s=clean(parsed.s).slice(0,220);
   parsed.m=clean(parsed.m).slice(0,500);
+  parsed.r=clean(parsed.r).slice(0,280);
   parsed.k=categoryMap[parsed.k]?parsed.k:(categoryMap[item.topic]||"panorama");
   parsed.c=parsed.c==="DE"?"DE":"INT";
   parsed.p=Math.min(5,Math.max(1,Math.round(Number(parsed.p)||1)));
@@ -134,7 +137,7 @@ let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
   const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
-  const key=hashKey("v3-de-focus|"+item.id+"|"+signature+"|"+(item.stateHint||""));
+  const key=hashKey("v4-de-focus|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
@@ -153,7 +156,7 @@ for(const item of ranked){
 
   output.push({
     id:item.id,c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
-    lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,
+    lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
     srcs,agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[]
   });
   await sleep(apiKey?6000:0);
