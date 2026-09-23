@@ -41,7 +41,8 @@ function localFallback(item){
     c:countryMap[item.country]==="DE"?"DE":"INT",
     p:Math.min(5,Math.max(1,(item.sources?.length||1))),
     agree: item.sources?.length>1 ? "Mehrere RSS-Quellen berichten über dasselbe Ereignis." : "",
-    diff:[]
+    diff:[],
+    chg:""
   };
 }
 
