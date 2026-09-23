@@ -6,6 +6,7 @@ on:
       - "data.json"
       - "data/news.json"
       - "data/ai-cache.json"
+      - "data/archive/**"
   workflow_dispatch:
   workflow_run:
     workflows: ["Update news"]
