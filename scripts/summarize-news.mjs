@@ -111,6 +111,15 @@ ${sourceText}`;
   parsed.p=Math.min(5,Math.max(1,Math.round(Number(parsed.p)||1)));
   parsed.agree=clean(parsed.agree||"").slice(0,260);
   parsed.diff=Array.isArray(parsed.diff)?parsed.diff.filter(x=>x&&x.name&&x.note).slice(0,6).map(x=>({name:clean(x.name),note:clean(x.note).slice(0,280)})):[];
+  // Qualitätsprüfung: Kurzfassung und Kontext dürfen nicht nahezu identisch sein.
+  const sWords=new Set(parsed.s.toLowerCase().split(/\s+/).filter(w=>w.length>=5));
+  const mWords=new Set(parsed.m.toLowerCase().split(/\s+/).filter(w=>w.length>=5));
+  let shared=0;for(const w of sWords)if(mWords.has(w))shared++;
+  const overlap=shared/Math.max(1,sWords.size);
+  if(sWords.size>=8&&mWords.size>=8&&overlap>0.88)throw new Error("Qualitätsprüfung: Kurzfassung und Kontext sind zu ähnlich");
+  // Offensichtlich fremdsprachige Titel werden nicht als deutsche Pulse-Titel akzeptiert.
+  const foreignTitle=/\b(economia|mundial|deve|crescer|este|ano|recuperacao|gradual|the|and|with|from|world|economy|growth|will|this|year)\b/i;
+  if(foreignTitle.test(parsed.t))throw new Error("Qualitätsprüfung: Titel nicht deutsch");
   return parsed;
 }
 
@@ -154,7 +163,7 @@ let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
   const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
-  const key=hashKey("v4-de-focus|"+item.id+"|"+signature+"|"+(item.stateHint||""));
+  const key=hashKey("v5-de-detail|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
