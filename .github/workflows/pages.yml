@@ -2,6 +2,10 @@ name: Deploy Pulse News
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - "data.json"
+      - "data/news.json"
+      - "data/ai-cache.json"
   workflow_dispatch:
   workflow_run:
     workflows: ["Update news"]
