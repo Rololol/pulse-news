@@ -1,6 +1,6 @@
 [
   {
-    "id": "story-8",
+    "id": "story-b070f6912e478f28",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -25,10 +25,11 @@
       }
     ],
     "agree": "Beide Quellen stimmen überein, dass der STELP-Gründer Serkan Eren im Iran im Gefängnis sitzt und zu zehn Jahren Haft verurteilt wurde.",
-    "diff": []
+    "diff": [],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-09-23-100.html"
   },
   {
-    "id": "story-9",
+    "id": "story-c47b20465a4c59ff",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -48,10 +49,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.dw.com/de/spd-setzt-linken-in-berlin-ein-stoppsignal-news-kompakt-das-wichtigste-kurz-gefasst/a-79382341?maca=de-rss-de-all-1119-xml-mrss"
   },
   {
-    "id": "story-10",
+    "id": "story-d2fe3d6e4cc944d7",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
@@ -71,10 +73,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/mord-prozess-schrozberg-femizid-ehefrau-hinter-doenerimbiss-erschossen-schoeffe-eingeschlafen-befangenheit-100.html"
   },
   {
-    "id": "story-11",
+    "id": "story-894644e017713d59",
     "c": "DE",
     "k": "wirtschaft",
     "lang": "de",
@@ -94,10 +97,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/hohe-bewerberzahlen-bei-ausbildungen-pflege-klinikum-ludwigshafen-100.html"
   },
   {
-    "id": "story-12",
+    "id": "story-eb538b887564f231",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
@@ -105,7 +109,7 @@
     "p": 1,
     "st": "",
     "city": "",
-    "t": "Jäger bei Gewehfreparatur schwer verletzt",
+    "t": "Jäger bei Gewehrreparatur schwer verletzt",
     "s": "Ein Jäger hat sich beim Reparieren seines Gewehrs schwer verletzt.",
     "m": "Bei der Reparatur seines Gewehrs hat sich ein Jäger schwere Verletzungen zugezogen. Bisher sind keine weiteren Details zu dem Unfall bekannt.",
     "r": "Der Vorfall verdeutlicht Gefahren im Umgang mit Jagdwaffen bei Wartungsarbeiten. Solche Unfälle sind von lokalem Interesse für die öffentliche Sicherheit.",
@@ -117,10 +121,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.zeit.de/news/2026-09/23/jaeger-verletzt-sich-beim-reparieren-seines-gewehrs-schwer"
   },
   {
-    "id": "story-13",
+    "id": "story-a438709a3a0f0923",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
@@ -140,10 +145,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ermittlungen-nach-absturz-kampfjet-flugzeug-unfall-frau-bei-brand-in-ludwigshafen-verletzt-marode-strassen-kaiserslautern-rlp-newsticker-2026-09-23-100.html"
   },
   {
-    "id": "story-14",
+    "id": "story-c3f055ca5dc72c73",
     "c": "INT",
     "k": "sport",
     "lang": "de",
@@ -163,10 +169,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-verspielt-2-0-fuehrung-gegen-manchester-city-spielerinnen-von-bengalo-irritiert-a-216e8a74-620b-4a5b-93af-9e2dc5456dc8#ref=rss"
   },
   {
-    "id": "story-16",
+    "id": "story-11db8665-70130024",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -186,10 +193,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.zeit.de/news/2026-09/23/usa-priorisieren-weisse-suedafrikaner-als-fluechtlinge"
   },
   {
-    "id": "story-17",
+    "id": "story-98dd82a306eafb1a",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -209,10 +217,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html"
   },
   {
-    "id": "story-19",
+    "id": "story-08b50a96-697d8cd1",
     "c": "DE",
     "k": "sport",
     "lang": "de",
@@ -246,10 +255,11 @@
         "name": "Google News DE",
         "note": "Enthält lediglich die Überschrift über das Schwärmen von Klopp mit Verweis auf den Spiegel."
       }
-    ]
+    ],
+    "url": "https://www.faz.net/aktuell/sport/fussball/kylian-mbappe-schwaernt-in-den-hoechsten-toenen-von-juergen-klopp-accg-201254397.html"
   },
   {
-    "id": "story-20",
+    "id": "story-c11703845f207a3d",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -269,10 +279,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.zeit.de/politik/deutschland/2026-09/ralph-brinkhaus-friedrich-merz-unionsfraktion-kritik"
   },
   {
-    "id": "story-21",
+    "id": "story-63535ead-29bd8ec",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -292,10 +303,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.welt.de/sport/article6ab36fc8a15a9fecb668c5b9/elif-eralp-und-berlins-olympia-aus-wenn-das-der-stil-ist-wie-man-mit-andersdenkenden-umgehen-will.html"
   },
   {
-    "id": "story-22",
+    "id": "story-a9d6cc3337e1b58a",
     "c": "DE",
     "k": "sport",
     "lang": "de",
@@ -315,10 +327,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.tagesschau.de/inland/regional/saarland/sr-langjaehriger-elversberger-manuel-feil-schliesst-sich-fc-homburg-an-102.html"
   },
   {
-    "id": "story-23",
+    "id": "story-eee3706a70d409d3",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
@@ -338,10 +351,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.faz.net/aktuell/besser-leben/stil/prada-eroeffnet-die-milan-fashion-week-2026-accg-201254084.html"
   },
   {
-    "id": "story-24",
+    "id": "story-7ffa21fa-1e32a7bd",
     "c": "DE",
     "k": "umwelt",
     "lang": "de",
@@ -361,10 +375,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.sueddeutsche.de/bayern/bayern-zugspitze-klimawandel-li.3552575"
   },
   {
-    "id": "story-38",
+    "id": "story-285c0d89-49948bd0",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
@@ -398,10 +413,11 @@
         "name": "Tagesschau",
         "note": "Berichtet, dass sich US-Präsident Trump direkt für einen Diesel-Exportstopp ausgesprochen hat."
       }
-    ]
+    ],
+    "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html"
   },
   {
-    "id": "story-25",
+    "id": "story-b3e426ce2dd35f77",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -421,10 +437,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html"
   },
   {
-    "id": "story-26",
+    "id": "story-6fd5151e-e1d9359",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -444,10 +461,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/chinas-staats-und-parteichef-xi-zu-gast-in-den-usa-100.html"
   },
   {
-    "id": "story-27",
+    "id": "story-b5075ea02b302719",
     "c": "INT",
     "k": "panorama",
     "lang": "de",
@@ -467,10 +485,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/mangel-an-hilfsguetern-im-sudan-weiterhin-gross-100.html"
   },
   {
-    "id": "story-28",
+    "id": "story-841394ec1a24ed55",
     "c": "DE",
     "k": "umwelt",
     "lang": "de",
@@ -490,10 +509,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/deutschland-ratifiziert-uno-hochseeschutzabkommen-100.html"
   },
   {
-    "id": "story-29",
+    "id": "story-0cdb84f2-6d1302b5",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -513,10 +533,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/bundestag-beraet-gesetz-gegen-k-o-tropfen-hubig-starkes-signal-100.html"
   },
   {
-    "id": "story-37",
+    "id": "story-3cbf4000-5d77c647",
     "c": "DE",
     "k": "wirtschaft",
     "lang": "de",
@@ -555,10 +576,11 @@
         "name": "ZEIT ONLINE",
         "note": "Erklärt die Funktion der Regel genauer (Preiserhöhungen nur einmal täglich um 12 Uhr) und spricht von »erheblichen Zusatzkosten« danach."
       }
-    ]
+    ],
+    "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html"
   },
   {
-    "id": "story-30",
+    "id": "story-bc93aebf22a4d706",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -578,10 +600,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/pistorius-und-linnemann-stellen-sich-den-fragen-der-abgeordneten-100.html"
   },
   {
-    "id": "story-31",
+    "id": "story-f121b6606f16cfd9",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -601,10 +624,11 @@
       }
     ],
     "agree": "",
-    "diff": []
+    "diff": [],
+    "url": "https://www.deutschlandfunk.de/junge-gruppe-in-der-union-haelt-an-rentenreform-fest-102.html"
   },
   {
-    "id": "story-85",
+    "id": "story-92bfb6cd0c88cf74",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
@@ -638,10 +662,11 @@
         "name": "DER SPIEGEL",
         "note": "Erwähnt zusätzlich, dass eine Paketzustellerin körperliche Beschwerden meldete, was zur Räumung führte, und spricht von einer mutmaßlichen Quecksilbervergiftung."
       }
-    ]
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/verdacht-auf-quecksilber-dhl-zentrum-in-leizen-evakuiert,mvregioschwerin-5788.html"
   },
   {
-    "id": "story-130",
+    "id": "story-17496790-7681e1d7",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -671,10 +696,11 @@
         "name": "Google News DE",
         "note": "Erwähnt zusätzlich, dass das Abkommen in New York als taz.de-Meldung ein Happy End fand."
       }
-    ]
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html"
   },
   {
-    "id": "story-163",
+    "id": "story-487b5b13-29b3dd56",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
@@ -704,10 +730,11 @@
         "name": "DER SPIEGEL",
         "note": "Berichtet zusätzlich, dass zwölf Airbus-Maschinen mit zusätzlichen Tanks für 20 Tonnen extra Sprit ausgestattet werden und der Flug 18 Stunden dauern soll."
       }
-    ]
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5"
   },
   {
-    "id": "story-176",
+    "id": "story-0ab6a7b9-6b7e2200",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -737,10 +764,11 @@
         "name": "Tagesschau",
         "note": "Die Quelle ergänzt, dass Merz nun auch liefern müsse und nennt Katrin Aue als Autorin."
       }
-    ]
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/merz-unionsfraktion-100.html"
   },
   {
-    "id": "story-197",
+    "id": "story-86dcd6e818ebaf51",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
@@ -770,10 +798,11 @@
         "name": "DER SPIEGEL",
         "note": "Erwähnt konkret den Begriff Herzdruckmassage als Maßnahme."
       }
-    ]
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/oktoberfest-kellnerinnen-retten-wiesnbesucher-das-leben-accg-201254136.html"
   },
   {
-    "id": "story-221",
+    "id": "story-d38add954dbda42c",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -798,10 +827,11 @@
       }
     ],
     "agree": "Beide Quellen berichten übereinstimmend über den Podcast 11KM, der thematisiert, warum Regieren nach Landtagswahlen komplizierter wird, der Kanzler angezählt ist, Reformen auf der Kippe stehen und der Politikbetrieb aus dem Tritt geraten ist.",
-    "diff": []
+    "diff": [],
+    "url": "https://www.tagesschau.de/inland/podcast-11km-wahlen-reformen-kanzler-100.html"
   },
   {
-    "id": "story-228",
+    "id": "story-fe76b03c6041c985",
     "c": "DE",
     "k": "panorama",
     "lang": "de",
@@ -826,10 +856,11 @@
       }
     ],
     "agree": "Polizei und Behörden aus der Region haben sich in Baden-Baden an einen Runden Tisch gesetzt, um Maßnahmen gegen Motorrad-Raser auf der B500 zu besprechen, da es dort immer wieder zu tödlichen Unfällen kommt.",
-    "diff": []
+    "diff": [],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/motorrad-runder-tisch-b500-baden-baden-raserei-unfall-polizei-100.html"
   },
   {
-    "id": "story-246",
+    "id": "story-50bc02ee-317484a9",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -859,10 +890,11 @@
         "name": "Tagesschau Regional Rheinland-Pfalz",
         "note": "Berichtet zusätzlich, dass der Pilot medizinisch versorgt wird."
       }
-    ]
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/f16-kampflugzeug-absturz-spangdahlem-us-airbase-100.html"
   },
   {
-    "id": "story-283",
+    "id": "story-60540da4-19c8be3",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -896,10 +928,11 @@
         "name": "BBC World",
         "note": "Nennt 270 Getötete und präzisiert, dass drei Kirchen und drei Luxushotels zielgerichtet angegriffen wurden sowie dass es sich um 15 Männer handelt."
       }
-    ]
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss"
   },
   {
-    "id": "story-399",
+    "id": "story-1b2563a3-7aede5e6",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
@@ -933,10 +966,11 @@
         "name": "Google News DE",
         "note": "Führt auf, dass weitere Schlagzeilen und Meinungen zu dem Thema existieren."
       }
-    ]
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTVsaEhsSnN1SGpETkRDaGJWMTNxdlllWVE0SmJzWHVOc1lUYkZsZ05EazlOSGtDOTZGOTlrckp1MFNPNTV6TWRveW9OQ0I4SEJWa2FQb0diMWQyMkNqczA1QURXLTRhb0pEdzZkdmNDNUV6Vno5VVI2SlBjdlIyUXBDM05ZSjV6YWszVGZCS1RNLUpzc1VwX3kzdXpGMDZLRVFJZG12WnREMDdtMXZTVzhnNC0zRGZpcDZ0NmZtZEFLYW1rMzdCQXR3bDJ1OExSVUhLZ3lKNExRUQ?oc=5"
   },
   {
-    "id": "story-402",
+    "id": "story-72cf976d-1307112c",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
@@ -966,10 +1000,11 @@
         "name": "RTP Economia",
         "note": "Ergänzt, dass diese Verwundbarkeit künftige Implikationen für den Finanzsektor haben wird."
       }
-    ]
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5"
   },
   {
-    "id": "story-446",
+    "id": "story-b3694ed42d5e376d",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -999,10 +1034,11 @@
         "name": "Google News Portugal",
         "note": "Bezieht sich im Titel auf ein Treffen zwischen Trump und Zelensky sowie auf Aussagen der Ukraine zum Kriegsende in den kommenden Monaten."
       }
-    ]
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964"
   },
   {
-    "id": "story-464",
+    "id": "story-d64509264872709f",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -1032,10 +1068,11 @@
         "name": "RTP Mundo",
         "note": "Erwähnt konkret, dass eine neue versuchte Masseneinreise für den morgigen Tag der Parlamentswahlen in Marokko markiert ist."
       }
-    ]
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-espanha-e-marrocos-reunem-se-em-marrocos_v1767111"
   },
   {
-    "id": "story-468",
+    "id": "story-6721bbc7-6e93d82",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -1065,10 +1102,11 @@
         "name": "RTP Notícias",
         "note": "Berichtet zusätzlich, dass das Treffen am Dienstag am Rande der UN-Generalversammlung stattfand und der iranische Außenminister Abbas Araghchi mit dem US-Sondergesandten Steve Witkoff zusammenkam."
       }
-    ]
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDJHZ1hqM0s0RERRQzVES1RiQVFRVDdGOTZDQl9RcGtoVmVrYkZLc2l3Z0ZwMXM1RlpOam42bmxxWV96SFQ3bDR3RGJPOXd4R21wbC1XelVjQVM5ZHpXbGNra2poOU52Q0h0b3A1UjA2NGhvbWNLTlN4VXQxRE1ZUXY3SWsxbEJURU9IZVBlc0xlOXAwNXdOMEtnSG1yTzdjbWN5OG5sa29yeFIwbG5JZnc3SE84TnZWd1dUTGNpZ0lmRFNnRnkzOUFR?oc=5"
   },
   {
-    "id": "story-485",
+    "id": "story-f68b820368bcfbba",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -1093,10 +1131,11 @@
       }
     ],
     "agree": "Beide Quellen stimmen darin überein, dass der STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt wurde, weil ihm angebliche Kontakte zu einem verfeindeten Land vorgeworfen werden, während er Spenden verteilen wollte.",
-    "diff": []
+    "diff": [],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/stelp-gruender-serkan-eren-im-iran-zu-zehn-jahren-haft-verurteilt-100.html"
   },
   {
-    "id": "story-594",
+    "id": "story-06710651-67b98018",
     "c": "DE",
     "k": "wirtschaft",
     "lang": "de",
@@ -1135,10 +1174,11 @@
         "name": "Tagesschau Regional Baden-Württemberg",
         "note": "Berichtet zusätzlich, dass Arbeitgeber den Vorstoß der IG Metall als realitätsfern kritisieren."
       }
-    ]
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ig-metall-forderungen--tarifverhandlungen-metall-elektroindustrie-100.html"
   },
   {
-    "id": "story-611",
+    "id": "story-ab3fcda83508b411",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -1172,10 +1212,11 @@
         "name": "Süddeutsche Zeitung",
         "note": "Erwähnt im Podcast \"Auf den Punkt\", dass Elif Eralp die Wahl gewonnen hat, und nennt zusätzlich das Thema Enteignungen."
       }
-    ]
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-debatte-ueber-regierungsfaehigkeit-der-linken-reisst-alte-wunden-auf-102.html"
   },
   {
-    "id": "story-634",
+    "id": "story-881b7390162c0a29",
     "c": "INT",
     "k": "politik",
     "lang": "de",
@@ -1209,10 +1250,11 @@
         "name": "ZDF heute",
         "note": "Erwähnt New York als Ort und die Entscheidung zwischen bombardieren oder verhandeln."
       }
-    ]
+    ],
+    "url": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-ki-klimawandel-li.3551641"
   },
   {
-    "id": "story-710",
+    "id": "story-65f12ee9-439a8b0",
     "c": "INT",
     "k": "sport",
     "lang": "de",
@@ -1246,10 +1288,11 @@
         "name": "Guardian Sport",
         "note": "Erwähnt zusätzlich, dass das Rennen am Dienstag in der Nähe von Nagoya in Japan stattfand, sie hinter der Chinesin Guo Li Zweite wurde, in Italien lebt und das Preisessen als etwas Besonderes bezeichnete."
       }
-    ]
+    ],
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "story-784",
+    "id": "story-fbe1547165d62dc8",
     "c": "DE",
     "k": "politik",
     "lang": "de",
@@ -1274,10 +1317,11 @@
       }
     ],
     "agree": "Union und SPD wollen noch einmal über geplante Reformen verhandeln.",
-    "diff": []
+    "diff": [],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html"
   },
   {
-    "id": "story-793",
+    "id": "story-10286e4a-71e0e80d",
     "c": "INT",
     "k": "wirtschaft",
     "lang": "de",
@@ -1311,6 +1355,7 @@
         "name": "ntv",
         "note": "Nennt den Vornamen René sowie das zuständige Landesgericht Innsbruck und führt aus, dass das Verfahren in Teilen wiederholt wurde."
       }
-    ]
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/benko-prozess-urteil-100.html"
   }
 ]
