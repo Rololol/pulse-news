@@ -376,7 +376,7 @@ function closeSheet(){
 }
 
 document.addEventListener('click',e=>{
-  const t=e.target.closest('[data-open],[data-close],[data-scope],[data-state],[data-cat],[data-share],[data-more]');
+  const t=e.target.closest('[data-open],[data-close],[data-scope],[data-state],[data-country],[data-cat],[data-share],[data-more],[data-clear-search]');
   if(!t)return;
   const d=t.dataset;
   if(d.open!==undefined){openSheet(d.open);return}
