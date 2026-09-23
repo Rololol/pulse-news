@@ -61,6 +61,8 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 @keyframes mq{to{transform:translateX(-50%)}}
 
 .controls{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--nav));z-index:15;background:var(--bar);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);margin:0 -16px;padding:8px 16px 0}
+.searchbox{position:relative;margin:0 0 8px}.searchbox .ic{position:absolute;left:11px;top:50%;width:18px;height:18px;transform:translateY(-50%);color:var(--label2);pointer-events:none}.searchbox input{width:100%;height:38px;border:0;border-radius:10px;padding:0 12px 0 36px;background:var(--fill);color:var(--label);font:500 15px/1 var(--font);outline:none}.searchbox input::placeholder{color:var(--label2)}.searchbox input:focus{box-shadow:0 0 0 2px color-mix(in srgb,var(--tint) 35%,transparent)}
+.more-button{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;margin:18px 0 6px;padding:14px 18px;border:0;border-radius:14px;background:var(--fill);color:var(--tint);font-size:16px;font-weight:650;box-shadow:inset 0 0 0 .5px var(--sep);transition:background .15s,transform .15s}.more-button:hover{background:var(--sep)}.more-button:active{transform:scale(.985)}.more-button small{color:var(--label2);font-size:13px;font-weight:500}.large-text .searchbox input{font-size:18px}.large-text .more-button{font-size:19px}
 .seg{display:flex;background:var(--fill);border-radius:9px;padding:2px;gap:2px}
 .seg button{flex:1;min-width:0;border:0;background:transparent;font:600 13px/1 var(--font);padding:8px 2px;border-radius:7px;white-space:nowrap}
 .seg button[aria-pressed="true"]{background:var(--segon);box-shadow:0 1px 3px rgba(0,0,0,.16),0 0 0 .5px rgba(0,0,0,.04)}.state-picker{position:relative;padding:7px 0 9px}.state-picker select{width:100%;height:36px;appearance:none;-webkit-appearance:none;border:0;border-radius:10px;padding:0 38px 0 12px;background:var(--fill);color:var(--label);font:600 14px/1 var(--font);outline:none}.state-picker::after{content:"";position:absolute;right:13px;top:50%;width:7px;height:7px;border-right:1.8px solid var(--label2);border-bottom:1.8px solid var(--label2);transform:translateY(-65%) rotate(45deg);pointer-events:none}.state-picker select:focus{box-shadow:0 0 0 2px color-mix(in srgb,var(--tint) 35%,transparent)}
@@ -166,6 +168,7 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
   <div class="mq" id="mq" hidden></div>
   <div class="access-tools" aria-label="Barrierefreiheit"><button id="fontToggle" type="button">Größere Schrift</button><button id="motionToggle" type="button">Animationen aus</button></div>
   <div class="controls">
+    <label class="searchbox"><svg class="ic" aria-hidden="true"><use href="#i-search"/></svg><input id="searchInput" type="search" autocomplete="off" enterkeyhint="search" placeholder="Thema, Bundesland, Land, Person …" aria-label="Nachrichten durchsuchen"></label>
     <div class="seg" id="seg" role="group" aria-label="Reichweite"></div>
     <div class="state-chips" id="states" role="group" aria-label="Bundesländer"></div>
     <div class="chips" id="chips" role="group" aria-label="Themen"></div>
@@ -197,12 +200,12 @@ const COUNTRIES={INT:{n:'Welt',flag:'🌍'},DE:{n:'Deutschland',flag:'🇩🇪'}
 const STATES={BW:'Baden-Württemberg',BY:'Bayern',BE:'Berlin',BB:'Brandenburg',HB:'Bremen',HH:'Hamburg',HE:'Hessen',MV:'Mecklenburg-Vorpommern',NI:'Niedersachsen',NW:'Nordrhein-Westfalen',RP:'Rheinland-Pfalz',SL:'Saarland',SN:'Sachsen',ST:'Sachsen-Anhalt',SH:'Schleswig-Holstein',TH:'Thüringen'};
 
 /* -------- Meldungen: werden automatisch aus data.json geladen -------- */
-let ITEMS=[];
+let ITEMS=[],CURRENT_ITEMS=[],ARCHIVE_ITEMS=[];
 
 /* ------------------------------------------------------------------ *
  *  Zustand (nur im Speicher, keine Einstellungsseite mehr)
  * ------------------------------------------------------------------ */
-let S={scope:'state',cat:'all',state:''};
+let S={scope:'state',cat:'all',state:'',search:'',shown:15};
 let currentSheet=null,lastFocus=null;
 
 const $=(s,r=document)=>r.querySelector(s);
@@ -221,13 +224,22 @@ function sourceDiversityLabel(it){const n=sourceCount(it),u=independentSourceCou
 function originalUrl(it){return it.url||(Array.isArray(it.srcs)&&it.srcs[0]?.url)||''}
 function sourceType(src){try{const h=new URL(src.url||'').hostname.replace(/^www\\./,'').toLowerCase();if(/bundesregierung|bundestag|bundesbank|polizei|justiz|gericht|nasa\\.gov|esa\\.int|noaa\\.gov|who\\.int|europa\\.eu/.test(h))return 'Primärquelle'}catch{}return 'Berichterstattung'}
 
+function normalizeSearch(value){return String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim()}
+function searchableText(it){
+  const country=COUNTRIES[it.o]?.n||COUNTRIES[it.c]?.n||'';
+  const state=it.st?STATES[it.st]||it.st:'';
+  const sources=Array.isArray(it.srcs)?it.srcs.map(x=>x?.name||'').join(' '):'';
+  return normalizeSearch([it.t,it.s,it.m,it.r,it.chg,it.agree,it.city,state,country,it.k,sources].join(' '));
+}
 function visible(){
+  const q=normalizeSearch(S.search);
   const list=ITEMS.filter(it=>{
     if(S.cat!=='all'&&it.k!==S.cat)return false;
-        if(S.scope==='state')return it.c==='DE';
-    if(S.scope==='local')return it.c==='DE'&&(!S.state||it.st===S.state);
-    if(S.scope==='all')return it.c!=='DE';
-    if(S.scope==='updated')return !!String(it.chg||'').trim();
+    if(S.scope==='state'&&it.c!=='DE')return false;
+    if(S.scope==='local'&&(it.c!=='DE'||(S.state&&it.st!==S.state)))return false;
+    if(S.scope==='all'&&it.c==='DE')return false;
+    if(S.scope==='updated'&&!String(it.chg||'').trim())return false;
+    if(q&&!searchableText(it).includes(q))return false;
     return true;
   });
   return list.sort((a,b)=>a.d===b.d?b.p-a.p:(a.d<b.d?1:-1));
@@ -235,7 +247,7 @@ function visible(){
 
 function renderMarquee(){
   const el=$('#mq');
-  const pool=ITEMS.slice().sort((a,b)=>a.d===b.d?b.p-a.p:(a.d<b.d?1:-1)).slice(0,12);
+  const pool=CURRENT_ITEMS.slice().sort((a,b)=>a.d===b.d?b.p-a.p:(a.d<b.d?1:-1)).slice(0,12);
   if(!pool.length){el.hidden=true;el.innerHTML='';return}
   const chars=pool.reduce((n,it)=>n+it.t.length,0);
   const list=pool.map(it=>`<button class="mq-item" data-open="${it.id}" style="${cv(CATS[it.k])}"><i></i>${esc(it.t)}</button>`).join('');
@@ -278,7 +290,8 @@ function emptyHTML(){
 function renderFeed(){
   const list=visible(),el=$('#feed');
   if(!list.length){el.innerHTML=emptyHTML();return}
-  const [hero,...rest]=list;
+  const page=list.slice(0,S.shown);
+  const [hero,...rest]=page;
   let html=heroHTML(hero),last=null,open=false;
   for(const it of rest){
     const g=groupOf(it.d);
@@ -286,8 +299,15 @@ function renderFeed(){
     html+=cardHTML(it);
   }
   if(open)html+='</div>';
-  el.innerHTML=html+`<a class="archive-button" href="./archiv.html" aria-label="Archiv älterer Meldungen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16v13H4z"/><path d="M3 4h18v3H3z"/><path d="M9 11h6"/></svg><span>Archiv</span></a>`;
+  if(S.shown<list.length){
+    const remaining=list.length-S.shown;
+    html+=`<button class="more-button" type="button" data-more>Mehr anzeigen <small>${Math.min(15,remaining)} weitere</small></button>`;
+  }else if(list.length>15){
+    html+=`<a class="archive-button" href="./archiv.html" aria-label="Vollständiges Archiv öffnen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16v13H4z"/><path d="M3 4h18v3H3z"/><path d="M9 11h6"/></svg><span>Vollständiges Archiv</span></a>`;
+  }
+  el.innerHTML=html;
 }
+
 function renderFoot(){
   const latest=ITEMS.reduce((m,it)=>Math.max(m,Date.parse(it.d)||0),0);
   const when=latest?new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(latest)):'–';
@@ -349,18 +369,22 @@ function closeSheet(){
 }
 
 document.addEventListener('click',e=>{
-  const t=e.target.closest('[data-open],[data-close],[data-scope],[data-state],[data-cat],[data-share]');
+  const t=e.target.closest('[data-open],[data-close],[data-scope],[data-state],[data-cat],[data-share],[data-more]');
   if(!t)return;
   const d=t.dataset;
   if(d.open!==undefined){openSheet(d.open);return}
   if(d.close!==undefined){closeSheet();return}
-  if(d.scope!==undefined){S.scope=d.scope;S.state='';S.cat='all';renderControls();renderFeed();return}
-  if(d.state!==undefined){S.state=d.state==='all'?'':d.state;renderControls();renderFeed();return}
-  if(d.cat!==undefined){S.cat=d.cat;renderControls();renderFeed();return}
+  if(d.more!==undefined){S.shown+=15;renderFeed();return}
+  if(d.scope!==undefined){S.scope=d.scope;S.state='';S.cat='all';S.shown=15;renderControls();renderFeed();return}
+  if(d.state!==undefined){S.state=d.state==='all'?'':d.state;S.shown=15;renderControls();renderFeed();return}
+  if(d.cat!==undefined){S.cat=d.cat;S.shown=15;renderControls();renderFeed();return}
   if(d.share!==undefined){
     const it=ITEMS.find(i=>i.id===d.share);if(!it)return;
     try{navigator.share({title:it.t,text:it.s,url:originalUrl(it)||undefined}).catch(()=>{})}catch(err){}
   }
+});
+document.addEventListener('input',e=>{
+  if(e.target.id==='searchInput'){S.search=e.target.value;S.shown=15;renderFeed();}
 });
 document.addEventListener('change',e=>{
   if(e.target.id==='stateSelect'){
@@ -398,28 +422,34 @@ function showError(){
 }
 async function loadData(){
   showLoading();
-  const urls=[
-    new URL('data.json',document.baseURI).href,
-    './data.json?ts='+Date.now(),
-    'data/data.json?ts='+Date.now()
-  ];
-  let lastError=null;
-  for(const url of urls){
-    try{
-      const r=await fetch(url,{cache:'no-store'});
-      if(!r.ok) throw new Error('HTTP '+r.status+' for '+url);
-      const data=await r.json();
-      if(!Array.isArray(data)) throw new Error('Invalid data from '+url);
-      ITEMS=data;
-      renderAll();
-      return;
-    }catch(e){
-      lastError=e;
-    }
+  try{
+    const currentRes=await fetch('./data.json?ts='+Date.now(),{cache:'no-store'});
+    if(!currentRes.ok)throw new Error('HTTP '+currentRes.status);
+    const current=await currentRes.json();
+    if(!Array.isArray(current))throw new Error('Invalid current data');
+    CURRENT_ITEMS=current;
+  }catch(e){
+    console.error('Pulse current data load failed:',e);
+    showError();
+    return;
   }
-  console.error('Pulse data load failed:',lastError);
-  showError();
+  ARCHIVE_ITEMS=[];
+  try{
+    const idxRes=await fetch('./data/archive/index.json?ts='+Date.now(),{cache:'no-store'});
+    if(idxRes.ok){
+      const months=await idxRes.json();
+      if(Array.isArray(months)){
+        const files=await Promise.all(months.map(entry=>fetch('./data/archive/'+encodeURIComponent(entry.file)+'?ts='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[])));
+        for(const list of files)if(Array.isArray(list))ARCHIVE_ITEMS.push(...list);
+      }
+    }
+  }catch(e){console.warn('Pulse archive load failed:',e)}
+  const byId=new Map();
+  for(const item of [...CURRENT_ITEMS,...ARCHIVE_ITEMS])if(item?.id&&!byId.has(item.id))byId.set(item.id,item);
+  ITEMS=[...byId.values()];
+  renderAll();
 }
+
 function setThemeIcon(){const dark=document.documentElement.dataset.theme==='dark';const b=$('#themeToggle');if(!b)return;b.innerHTML=dark?ic('sun'):ic('moon');b.setAttribute('aria-label',dark?'Helles Design':'Dunkles Design')}
 function applyTheme(){const saved=localStorage.getItem(themeKey);if(saved)document.documentElement.dataset.theme=saved;else if(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.dataset.theme='dark';setThemeIcon()}
 $('#themeToggle').addEventListener('click',()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem(themeKey,next);setThemeIcon()});
