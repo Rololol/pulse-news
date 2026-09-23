@@ -164,7 +164,6 @@ button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--t
 <main class="wrap" id="mainContent" tabindex="-1">
   <div class="large"><h1 class="brand-title"><img src="assets/pulse-logo.svg" alt="Pulse"></h1><p class="sub" id="dateSub"></p><div class="freshline"><span class="freshdot"></span><span>Aktuelle Nachrichten · KI-zusammengefasst aus mehreren Quellen</span></div></div>
   <div class="mq" id="mq" hidden></div>
-  <div class="searchbar" role="search">⌕<input id="searchInput" type="search" placeholder="Nachrichten durchsuchen …" aria-label="Nachrichten durchsuchen"></div>
   <div class="access-tools" aria-label="Barrierefreiheit"><button id="fontToggle" type="button">Größere Schrift</button><button id="motionToggle" type="button">Animationen aus</button></div>
   <div class="controls">
     <div class="seg" id="seg" role="group" aria-label="Reichweite"></div>
@@ -203,7 +202,7 @@ let ITEMS=[];
 /* ------------------------------------------------------------------ *
  *  Zustand (nur im Speicher, keine Einstellungsseite mehr)
  * ------------------------------------------------------------------ */
-let S={scope:'state',cat:'all',state:'',search:''};
+let S={scope:'state',cat:'all',state:''};
 let currentSheet=null,lastFocus=null;
 
 const $=(s,r=document)=>r.querySelector(s);
@@ -220,8 +219,7 @@ function sourceCount(it){return Array.isArray(it.srcs)&&it.srcs.length?it.srcs.l
 function visible(){
   const list=ITEMS.filter(it=>{
     if(S.cat!=='all'&&it.k!==S.cat)return false;
-    if(S.search){const q=S.search.toLowerCase();const hay=[it.t,it.s,it.m,it.r,it.city,it.st,...(Array.isArray(it.srcs)?it.srcs.map(x=>x.name):[])].filter(Boolean).join(' ').toLowerCase();if(!hay.includes(q))return false;}
-    if(S.scope==='state')return it.c==='DE';
+        if(S.scope==='state')return it.c==='DE';
     if(S.scope==='local')return it.c==='DE'&&(!S.state||it.st===S.state);
     if(S.scope==='all')return it.c!=='DE';
     return true;
@@ -363,7 +361,6 @@ document.addEventListener('change',e=>{
     renderFeed();
   }
 });
-$('#searchInput').addEventListener('input',e=>{S.search=e.target.value.trim();renderFeed()});
 $('#fontToggle').addEventListener('click',()=>{document.body.classList.toggle('large-text');$('#fontToggle').textContent=document.body.classList.contains('large-text')?'Normale Schrift':'Größere Schrift'});
 $('#motionToggle').addEventListener('click',()=>{document.body.classList.toggle('reduce-motion');$('#motionToggle').textContent=document.body.classList.contains('reduce-motion')?'Animationen an':'Animationen aus'});
 document.addEventListener('click',e=>{const n=e.target.closest('[data-nav]');if(!n)return;const v=n.dataset.nav;if(v==='home'||v==='de'){S.scope='state';S.cat='all';S.state=''}if(v==='local'){S.scope='local';S.cat='all';S.state=''}if(v==='int'){S.scope='all';S.cat='all';S.state=''}if(v==='topics'){S.scope='state';S.cat=S.cat==='all'?'politik':'all';S.state=''}renderControls();renderFeed();document.querySelectorAll('[data-nav]').forEach(x=>x.removeAttribute('aria-current'));n.setAttribute('aria-current','page');window.scrollTo({top:0,behavior:document.body.classList.contains('reduce-motion')?'auto':'smooth'})});
