@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Arbeitsweise · Pulse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F2F2F7;--card:#FFF;--label:#000;--label2:rgba(60,60,67,.62);--sep:rgba(60,60,67,.2);--fill:rgba(118,118,128,.12);--tint:#007AFF;--bar:rgba(249,249,249,.82);--font:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display",Inter,"Segoe UI",Roboto,Arial,sans-serif}
+html[data-theme="dark"]{color-scheme:dark;--bg:#000;--card:#1C1C1E;--label:#FFF;--label2:rgba(235,235,245,.62);--sep:rgba(84,84,88,.65);--fill:rgba(118,118,128,.24);--tint:#0A84FF;--bar:rgba(22,22,24,.82)}
+@media(prefers-color-scheme:dark){:root:not([data-theme]){--bg:#000;--card:#1C1C1E;--label:#FFF;--label2:rgba(235,235,245,.62);--sep:rgba(84,84,88,.65);--fill:rgba(118,118,128,.24);--tint:#0A84FF;--bar:rgba(22,22,24,.82)}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--label);font:16px/1.55 var(--font);-webkit-font-smoothing:antialiased}.wrap{max-width:680px;margin:auto;padding:0 16px 48px}.nav{height:58px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:2;background:var(--bar);backdrop-filter:saturate(180%) blur(20px);border-bottom:.5px solid var(--sep)}.nav img{width:88px}.back{color:var(--tint);text-decoration:none;font-weight:600;font-size:14px}.theme{border:0;border-radius:50%;width:32px;height:32px;background:var(--fill);color:var(--label2);font-size:16px}.head{padding:34px 4px 22px}.head h1{font-size:34px;line-height:1.1;letter-spacing:-.03em;margin:0 0 9px;font-weight:800}.head p{margin:0;color:var(--label2);font-size:15px}.card{background:var(--card);border-radius:20px;padding:20px;margin:12px 0;box-shadow:0 1px 2px rgba(0,0,0,.04),0 6px 18px -10px rgba(0,0,0,.18)}.num{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:linear-gradient(145deg,#0A84FF,#5E5CE6);color:#fff;font-weight:800;font-size:13px;margin-bottom:10px}.card h2{font-size:20px;line-height:1.2;margin:0 0 7px;letter-spacing:-.015em}.card p{margin:0;color:var(--label2)}.card p+p{margin-top:9px}.note{margin:18px 4px 0;padding:14px;border-radius:14px;background:var(--fill);color:var(--label2);font-size:13px}.foot{text-align:center;color:var(--label2);font-size:12.5px;margin-top:28px}.foot a{color:var(--tint);text-decoration:none;font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="nav">
+<a class="back" href="./index.html">← Pulse</a>
+<img src="assets/pulse-logo.svg" alt="Pulse">
+<button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button>
+</header>
+<main>
+<section class="head">
+<h1>Arbeitsweise</h1>
+<p>Wie Pulse Nachrichtenquellen zusammenführt, Meldungen einordnet und KI-gestützte Zusammenfassungen erstellt.</p>
+</section>
+
+<section class="card"><span class="num">1</span><h2>Quellen werden laufend abgerufen</h2><p>Pulse ruft öffentlich zugängliche RSS- und News-Feeds verschiedener Nachrichtenanbieter regelmäßig ab. Dabei werden deutschsprachige und internationale Quellen berücksichtigt.</p></section>
+<section class="card"><span class="num">2</span><h2>Zusammengehörige Meldungen werden gebündelt</h2><p>Meldungen, die dasselbe Ereignis betreffen, werden technisch zusammengeführt. So kann eine Nachricht auf mehreren unabhängigen Quellen basieren, statt jedes Feed-Element einzeln anzuzeigen.</p></section>
+<section class="card"><span class="num">3</span><h2>Die KI fasst die Informationen zusammen</h2><p>Eine KI verarbeitet die zusammengeführten Quellen und erstellt daraus eine kurze Zusammenfassung. Zusätzlich werden – soweit die vorliegenden Quellen dies ermöglichen – der bisher bekannte Stand und die Relevanz des Ereignisses beschrieben.</p></section>
+<section class="card"><span class="num">4</span><h2>Quellen bleiben nachvollziehbar</h2><p>Bei jeder Meldung werden die verwendeten Quellen angezeigt und direkt verlinkt. Pulse ersetzt die Originalberichte nicht. Die vollständigen Quellen können geöffnet und selbst geprüft werden.</p></section>
+<section class="card"><span class="num">5</span><h2>Unterschiede zwischen Quellen werden kenntlich gemacht</h2><p>Wenn mehrere Quellen zu einer Meldung vorliegen, kann Pulse gemeinsame Angaben und abweichende Angaben gegenüberstellen. Unterschiedliche Darstellungen werden dabei nicht als einheitliche Tatsache ausgegeben.</p></section>
+<section class="card"><span class="num">6</span><h2>Einordnung nach Themen und Regionen</h2><p>Die Meldungen werden automatisch Themenbereichen und – soweit ermittelbar – Regionen zugeordnet. Dadurch können Nachrichten beispielsweise nach Deutschland, Bundesland oder International gefiltert werden.</p></section>
+<section class="card"><span class="num">7</span><h2>Aktualisierung</h2><p>Die Nachrichtendaten werden automatisiert aktualisiert. Neue Meldungen können dadurch regelmäßig hinzukommen; ältere Meldungen können aus der aktuellen Auswahl herausfallen.</p></section>
+
+<p class="note"><strong>Wichtig:</strong> KI-generierte Zusammenfassungen können Fehler enthalten oder Informationen verkürzt wiedergeben. Für wichtige oder strittige Informationen empfiehlt Pulse, die verlinkten Originalquellen zu öffnen und miteinander zu vergleichen.</p>
+</main>
+<p class="foot"><a href="./impressum.html">Impressum</a><span style="margin:0 8px">·</span><a href="./quellen.html">Quellen</a></p>
+</div>
+<script>
+const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');
+function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾'}
+b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply();
+</script>
+</body>
+</html>
