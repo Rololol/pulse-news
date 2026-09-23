@@ -373,7 +373,7 @@ function sheetHTML(it,isOpen){
     <div class="sbody">
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
       ${it.m?`<h4>Was bisher bekannt ist</h4><p>${esc(it.m)}</p>`:''}
-      ${isUpdated(it)?`<h4>Was hat sich geändert?</h4><p class="relevance">${esc(updateInfo(it)||'Neue Informationen oder Quellen hinzugefügt')}</p>`:''}
+      
       ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:''}
       ${isUpdated(it)?`<div class="change-box"><div class="change-title">Was hat sich geändert?</div><div class="change-text">${esc(updateInfo(it)||'Neue Informationen oder Quellen hinzugefügt')}</div></div>`:''}
       <h4>Quellen</h4>
