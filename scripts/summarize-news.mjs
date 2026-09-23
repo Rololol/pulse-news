@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import crypto from "node:crypto";
 
 const apiKey=process.env.GEMINI_API_KEY;
 const model=process.env.GEMINI_MODEL||"gemini-3.5-flash-lite";
@@ -11,10 +12,14 @@ const cacheFile="data/ai-cache.json";
 const raw=JSON.parse(await fs.readFile(inputFile,"utf8"));
 let cache={};
 try{cache=JSON.parse(await fs.readFile(cacheFile,"utf8"))}catch{}
+const nowMs=Date.now();
+for(const [k,v] of Object.entries(cache)){const t=Date.parse(v?.updatedAt||"");if(!Number.isFinite(t)||nowMs-t>cacheTTL)delete cache[k];}
 
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g," ").replace(/&nbsp;/gi," ").replace(/&amp;/gi,"&").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&#39;/g,"'").replace(/&#x27;/g,"'").replace(/&quot;/gi,'"').replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/\s+/g," ").trim();
 const hashKey=s=>Buffer.from(String(s)).toString("base64url").slice(0,120);
+const stableId=s=>"story-"+crypto.createHash("sha256").update(String(s)).digest("hex").slice(0,16);
+const cacheTTL=7*24*60*60*1000;
 
 const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
 const countryMap={DE:"DE",UK:"INT",PT:"INT",INT:"INT",US:"INT",EU:"INT"};
@@ -106,29 +111,34 @@ ${sourceText}`;
 }
 
 const categories=["politik","wirtschaft","sport","wissenschaft","technik","panorama","umwelt"];
-const byCategory=new Map(categories.map(k=>[k,[]]));
-for(const item of raw){
-  const list=byCategory.get(item.topic)||byCategory.get("panorama");
-  list.push(item);
-}
-for(const list of byCategory.values()){
-  list.sort((a,b)=>{
-    const pa=a.sources?.length||1,pb=b.sources?.length||1;
-    return (pb-pa)||(Date.parse(b.date)-Date.parse(a.date));
-  });
-}
-const ranked=[];
-const germany=raw.filter(x=>x.country==="DE");
-const international=raw.filter(x=>x.country!=="DE");
 const rankItems=list=>list.slice().sort((a,b)=>{
   const pa=a.sources?.length||1,pb=b.sources?.length||1;
   return (pb-pa)||(Date.parse(b.date)-Date.parse(a.date));
 });
-ranked.push(...rankItems(germany).slice(0,39));
-ranked.push(...rankItems(international).slice(0,6));
+const byCategory=new Map(categories.map(k=>[k,[]]));
+for(const item of raw)(byCategory.get(item.topic)||byCategory.get("panorama")).push(item);
+for(const list of byCategory.values())list.splice(0,list.length,...rankItems(list));
+
+function categoryRoundRobin(list,limit){
+  const pools=new Map(categories.map(k=>[k,rankItems(list.filter(x=>(x.topic||"panorama")===k))]));
+  const out=[],seen=new Set();
+  while(out.length<limit){
+    let added=false;
+    for(const k of categories){
+      const pool=pools.get(k);
+      while(pool.length&&seen.has(pool[0]))pool.shift();
+      if(pool.length){const item=pool.shift();out.push(item);seen.add(item);added=true;if(out.length>=limit)break;}
+    }
+    if(!added)break;
+  }
+  return out;
+}
+const ranked=[];
+ranked.push(...categoryRoundRobin(raw.filter(x=>x.country==="DE"),39));
+ranked.push(...categoryRoundRobin(raw.filter(x=>x.country!=="DE"),6));
 if(ranked.length<45){
   const used=new Set(ranked);
-  for(const item of raw.slice().sort((a,b)=>Date.parse(b.date)-Date.parse(a.date))){
+  for(const item of rankItems(raw)){
     if(ranked.length>=45)break;
     if(used.has(item))continue;
     ranked.push(item);used.add(item);
@@ -160,9 +170,9 @@ for(const item of ranked){
   }
 
   output.push({
-    id:item.id,c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
+    id:stableId(signature+"|"+(item.stateHint||"")),c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
     lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
-    srcs,agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[]
+    srcs,url:srcs[0]?.url||"",agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[]
   });
   await sleep(apiKey?6000:0);
 }
