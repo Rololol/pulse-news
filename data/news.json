@@ -1,6 +1,45 @@
 [
   {
-    "id": "story-556",
+    "id": "story-12",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:22:27.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
+        "date": "2026-09-23T06:22:27.000Z",
+        "snippet": "Angesichts der gestiegenen Treibstoffpreise in den USA hat sich US-Präsident Trump für einen Diesel-Exportstopp ausgesprochen. Zuletzt ergriffen die USA einen solchen Schritt während der Ölkrise der 1970er Jahre.",
+        "title": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel"
+      },
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
+        "date": "2026-09-23T06:11:32.000Z",
+        "snippet": "Angesichts steigender Preise vor allem für Diesel prüfen die USA einen Exportstopp des Kraftstoffs.",
+        "title": "Folgen des Irankriegs - USA prüfen wegen hoher Spritpreise Exportstopp für Diesel - Maßnahme zuletzt während Ölkrise in den 70ern angewandt"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-09/spritpreise-usa-diesel-exportstopp-donald-trump",
+        "date": "2026-09-23T05:38:41.000Z",
+        "snippet": "Mitten im Wahlkampf steigen die Spritpreise in den USA stark. Die US-Regierung denkt nun über eine Ausfuhrsperre für Diesel nach – mit möglichen Folgen auch für Europa.",
+        "title": "Spritpreise in den USA: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9#ref=rss",
+        "date": "2026-09-23T00:04:00.000Z",
+        "snippet": "Die USA exportieren eine Menge Diesel, gleichzeitig ist der Treibstoff im Land teuer wie nie. Donald Trump erwägt daher, die Ausfuhr zu kappen. Doch das könnte nach hinten losgehen.",
+        "title": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise"
+      }
+    ],
+    "title": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+    "summary": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel Angesichts der gestiegenen Treibstoffpreise in den USA hat sich US-Präsident Trump für einen Diesel-Exportstopp ausgesprochen. Zuletzt ergriffen die USA einen solchen Schritt während der Ölkrise der 1970er Jahre.\nFolgen des Irankriegs - USA prüfen wegen hoher Spritpreise Exportstopp für Diesel - Maßnahme zuletzt während Ölkrise in den 70ern angewandt Angesichts steigender Preise vor allem für Diesel prüfen die USA einen Exportstopp des Kraftstoffs.\nSpritpreise in den USA: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel Mitten im Wahlkampf steigen die Spritpreise in den USA stark. Die US-Regierung denkt nun über eine Ausfuhrsperre für Diesel nach – mit möglichen Folgen auch für Europa.\nUSA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise Die USA exportieren eine Menge Diesel, gleichzeitig ist der Treibstoff im Land teuer wie nie. Donald Trump erwägt daher, die Ausfuhr zu kappen. Doch das könnte nach hinten losgehen."
+  },
+  {
+    "id": "story-577",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "RP",
@@ -35,54 +74,104 @@
     "id": "story-7",
     "topic": "panorama",
     "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-09-23T06:14:41.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-09-23-100.html",
-        "date": "2026-09-23T06:14:41.000Z",
-        "snippet": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker.",
-        "title": "++ STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft ++ Das macht Kretschmann in seinem Ruhestand ++ Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? ++"
-      },
-      {
-        "source": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bw-newsticker-am-morgen-stelp-gruender-serkan-eren-sitzt-im-iran-im-gefaengnis-zehn-jahre-haft-oktoberfest-gebuehr-fuer-influencer-kommt-das-modell-auch-auf-den-wasen-100.html",
-        "date": "2026-09-23T06:08:00.000Z",
-        "snippet": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker.",
-        "title": "BW-Newsticker am Morgen: STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft, Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen?, Nach Motorradunfällen auf B500: Behörden beraten über mehr Sicherheit"
-      }
-    ],
-    "title": "++ STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft ++ Das macht Kretschmann in seinem Ruhestand ++ Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? ++",
-    "summary": "++ STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft ++ Das macht Kretschmann in seinem Ruhestand ++ Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? ++ Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker.\nBW-Newsticker am Morgen: STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft, Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen?, Nach Motorradunfällen auf B500: Behörden beraten über mehr Sicherheit Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
-  },
-  {
-    "id": "story-26",
-    "topic": "panorama",
-    "country": "DE",
     "stateHint": "",
-    "date": "2026-09-23T06:11:32.000Z",
+    "date": "2026-09-23T06:24:00.000Z",
     "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
+        "date": "2026-09-23T06:24:00.000Z",
+        "snippet": "Der ADAC fordert die Abschaffung der 12-Uhr-Regel an Tankstellen. Sie habe das Tanken nicht billiger gemacht, sondern Verbraucher belastet. Nicht nur der ADAC übt Kritik.",
+        "title": "ADAC fordert Ende der 12-Uhr-Regel an Tankstellen"
+      },
       {
         "source": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
         "date": "2026-09-23T06:11:32.000Z",
         "snippet": "Der ADAC hat sich für die Aufhebung der 12-Uhr-Regel an den Tankstellen ausgesprochen.",
         "title": "Spritpreise - ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen"
-      },
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-09/12-uhr-regel-tankstellen-adac-spritpreise",
-        "date": "2026-09-23T05:33:45.000Z",
-        "snippet": "Tankstellen dürfen nur einmal am Tag die Preise für Benzin und Diesel erhöhen – um 12 Uhr. Der ADAC kritisiert, dass danach »erhebliche Zusatzkosten« anfallen.",
-        "title": "Spritpreise: ADAC fordert Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen"
       }
     ],
-    "title": "Spritpreise - ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-    "summary": "Spritpreise - ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen Der ADAC hat sich für die Aufhebung der 12-Uhr-Regel an den Tankstellen ausgesprochen.\nSpritpreise: ADAC fordert Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen Tankstellen dürfen nur einmal am Tag die Preise für Benzin und Diesel erhöhen – um 12 Uhr. Der ADAC kritisiert, dass danach »erhebliche Zusatzkosten« anfallen."
+    "title": "ADAC fordert Ende der 12-Uhr-Regel an Tankstellen",
+    "summary": "ADAC fordert Ende der 12-Uhr-Regel an Tankstellen Der ADAC fordert die Abschaffung der 12-Uhr-Regel an Tankstellen. Sie habe das Tanken nicht billiger gemacht, sondern Verbraucher belastet. Nicht nur der ADAC übt Kritik.\nSpritpreise - ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen Der ADAC hat sich für die Aufhebung der 12-Uhr-Regel an den Tankstellen ausgesprochen."
   },
   {
-    "id": "story-91",
+    "id": "story-10",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:23:52.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/gelungene-wiederbelebung-kellnerinnen-retten-wiesnbesucher",
+        "date": "2026-09-23T06:23:52.000Z",
+        "snippet": "",
+        "title": "Notfall: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher"
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/oktoberfest-kellnerinnen-retten-wiesnbesucher-das-leben-accg-201254136.html",
+        "date": "2026-09-23T05:17:06.000Z",
+        "snippet": "Plötzlich bricht ein Mann auf dem Oktoberfest zusammen. Zwei Kellnerinnen bemerken das und reagieren sofort. Wie ihr Einsatz dem 78-Jährigen das Leben rettete.",
+        "title": "Auf Oktoberfest: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher"
+      }
+    ],
+    "title": "Notfall: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher",
+    "summary": "Notfall: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher \nAuf Oktoberfest: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher Plötzlich bricht ein Mann auf dem Oktoberfest zusammen. Zwei Kellnerinnen bemerken das und reagieren sofort. Wie ihr Einsatz dem 78-Jährigen das Leben rettete."
+  },
+  {
+    "id": "story-14",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BW",
+    "date": "2026-09-23T06:22:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-09-23-100.html",
+        "date": "2026-09-23T06:22:02.000Z",
+        "snippet": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker.",
+        "title": "++ STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft ++ Das macht Kretschmann in seinem Ruhestand ++ Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? ++"
+      },
+      {
+        "source": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bw-newsticker-am-morgen-stelp-gruender-serkan-eren-sitzt-im-iran-im-gefaengnis-zehn-jahre-haft-oktoberfest-gebuehr-fuer-influencer-kommt-das-modell-auch-auf-den-wasen-100.html",
+        "date": "2026-09-23T06:14:00.000Z",
+        "snippet": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker.",
+        "title": "BW-Newsticker am Morgen: STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft, Das macht Kretschmann in seinem Ruhestand, Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen?"
+      }
+    ],
+    "title": "++ STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft ++ Das macht Kretschmann in seinem Ruhestand ++ Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? ++",
+    "summary": "++ STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft ++ Das macht Kretschmann in seinem Ruhestand ++ Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? ++ Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker.\nBW-Newsticker am Morgen: STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft, Das macht Kretschmann in seinem Ruhestand, Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+  },
+  {
+    "id": "story-18",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-09-23T06:21:00.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/verdacht-auf-quecksilber-dhl-zentrum-in-leizen-evakuiert,mvregioschwerin-5788.html",
+        "date": "2026-09-23T06:21:00.000Z",
+        "snippet": "Laut Polizei hat sich die verdächtige Substanz in oder an einem Paket befunden. Bereits am Freitag hatte es einen Quecksilber-Fund in Neustadt-Glewe gegeben.",
+        "title": "Verdacht auf Quecksilber: DHL-Zentrum in Leizen evakuiert"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leizen-verdacht-auf-giftiges-quecksilber-dhl-zentrum-evakuiert-a-09a4c753-133f-468b-b797-f2ffb9cbd51e#ref=rss",
+        "date": "2026-09-22T20:24:00.000Z",
+        "snippet": "Eine Paketzustellerin meldete körperliche Beschwerden – dann wurde das Paketzentrum geräumt. In Mecklenburg-Vorpommern ist es zu einer mutmaßlichen Quecksilbervergiftung gekommen. Erst vor Kurzem gab es in dem Bundesland einen ähnlichen Fall.",
+        "title": "Leizen: Verdacht auf giftiges Quecksilber – DHL-Zentrum evakuiert"
+      }
+    ],
+    "title": "Verdacht auf Quecksilber: DHL-Zentrum in Leizen evakuiert",
+    "summary": "Verdacht auf Quecksilber: DHL-Zentrum in Leizen evakuiert Laut Polizei hat sich die verdächtige Substanz in oder an einem Paket befunden. Bereits am Freitag hatte es einen Quecksilber-Fund in Neustadt-Glewe gegeben.\nLeizen: Verdacht auf giftiges Quecksilber – DHL-Zentrum evakuiert Eine Paketzustellerin meldete körperliche Beschwerden – dann wurde das Paketzentrum geräumt. In Mecklenburg-Vorpommern ist es zu einer mutmaßlichen Quecksilbervergiftung gekommen. Erst vor Kurzem gab es in dem Bundesland einen ähnlichen Fall."
+  },
+  {
+    "id": "story-118",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -107,7 +196,32 @@
     "summary": "Länder fürchten Sanktionen: Wirtschaftskrieg der USA gegen Teheran wird an Flughäfen spürbar - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbnl1LVZaUjFCRTVzN0x1MVJfSE1TVGNGTTJMNWFHNzJBNmtKNG05Zzl3MVY5d2Q5VkNkYnJHYXRiSlgyNWlRWGdXNzBYaU1RR0x0Ykx1STB1TjlfOE5EMWgyZ0p1OUxwaTRWNEtvdE14V291WHByWTFmYUVLc2FZVzZ4STRWNEZ3Um1ZVlRReFgzWExTb3FsdlVad1lMeUxPUUVOWldOREhFV1RURV9BQm1Faw?oc=5\" target=\"_blank\">Länder fürchten Sanktionen: Wirtschaftskrieg der USA gegen Teheran wird an Flughäfen spürbar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlpwbjFrdXNJbVFWaDdEOHU3THJ0X3h1Rl9oUzBYOTFrNWpDRW1TQkF0NzB4WThST01Sa0dyQ1VFNV8zSkFOZDhxUk1OTTZxejRTeEwwUWZ1SGh3VzZDU0pueTlXQkE5VjUxOG9YNXd1UU0xSy1GRGNGcmE5Z1ppUG\nLänder fürchten Sanktionen: Wirtschaftskrieg der USA gegen Teheran wird an Flughäfen spürbar Die USA wollen iranische Airlines \"weltweit lahmlegen\". Wer ihnen Kerosin bereitstellt oder die Abfertigung übernimmt, wird mit harten Sanktionen bestraft. Nun zeigt die Drohung der US-Regierung Wirkung - auch ein britisches Unternehmen reagiert."
   },
   {
-    "id": "story-119",
+    "id": "story-126",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T05:36:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5",
+        "date": "2026-09-23T05:36:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5\" target=\"_blank\">Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOMjRDR0VoR1JpNXFtX3VGNVVTZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Mein",
+        "title": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/mit-xxl-tanks-will-qantas-ab-2028-von-sydney-direkt-nach-new-york-fliegen-a-1d61156a-bf02-48ad-b85f-623caedcaf34#ref=rss",
+        "date": "2026-09-23T05:36:00.000Z",
+        "snippet": "Zwölf Airbus-Maschinen der Qantas bekommen zusätzliche Tanks für 20 Tonnen extra Sprit eingebaut. So sollen sie die Strecke von Australien in die USA ohne Zwischenstopp schaffen – in 18 Stunden.",
+        "title": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen"
+      }
+    ],
+    "title": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen - Spiegel",
+    "summary": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen - Spiegel <a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVF80cS1oTTJzYTBOdU01b2tCd2U3Y04tb1FUVVFNUGJSbjFpLXQ2M3RpV1FJeS1KOWQyZFNPQTczQ3oxd2JPWVhlekVGck9rMjlaMF9PM0NUNnRCdjJ2SlFuRU54eTkteWk3UFQ2VTFLd0FkMEdTWDhaa3p5UTRTdXRLeWo4d21ITy1IRFRyVGowV3NfX0NVbEpmcU5BbERKRkd6RkFwa3ZhWmVQWTJUZFpzUnhhNmVtd3YwRE1mT191bk9XN1dGanRGbTNrcDFwb2p1UUJzQkN0bFktRHVn?oc=5\" target=\"_blank\">Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOMjRDR0VoR1JpNXFtX3VGNVVTZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Mein\nMit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen Zwölf Airbus-Maschinen der Qantas bekommen zusätzliche Tanks für 20 Tonnen extra Sprit eingebaut. So sollen sie die Strecke von Australien in die USA ohne Zwischenstopp schaffen – in 18 Stunden."
+  },
+  {
+    "id": "story-140",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -132,32 +246,7 @@
     "summary": "Kein Aufstand gegen Merz - aber großes Grummeln Nach dem Wahldebakel vom Wochenende hatte Kanzler Merz noch einen schwierigen Termin vor sich: die Sitzung der Unionsfraktion im Bundestag. Dort erhielt er schließlich vor allem Z…\nUnionsfraktion: Kein Aufstand gegen Merz - aber großes Grummeln Nach dem Wahldebakel vom Wochenende hatte Kanzler Merz noch einen schwierigen Termin vor sich: die Sitzung der Unionsfraktion im Bundestag. Dort erhielt er schließlich vor allem Zuspruch - er müsse nun aber auch liefern. Von Katrin Aue."
   },
   {
-    "id": "story-139",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:17:06.000Z",
-    "sources": [
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/oktoberfest-kellnerinnen-retten-wiesnbesucher-das-leben-accg-201254136.html",
-        "date": "2026-09-23T05:17:06.000Z",
-        "snippet": "Plötzlich bricht ein Mann auf dem Oktoberfest zusammen. Zwei Kellnerinnen bemerken das und reagieren sofort. Wie ihr Einsatz dem 78-Jährigen das Leben rettete.",
-        "title": "Auf Oktoberfest: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/oktoberfest-herzdruckmassage-kellnerinnen-retten-wiesnbesucher-a-dfee02fe-d74d-4bcd-b9b5-c3227884b65d#ref=rss",
-        "date": "2026-09-23T04:58:00.000Z",
-        "snippet": "Ein 78-Jähriger bricht auf dem Oktoberfest zusammen. Zwei Kellnerinnen sehen es und reagieren sofort. Ihr Einsatz rettet dem Mann das Leben.",
-        "title": "Oktoberfest: Herzdruckmassage – Kellnerinnen retten Wiesnbesucher"
-      }
-    ],
-    "title": "Auf Oktoberfest: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher",
-    "summary": "Auf Oktoberfest: Gelungene Wiederbelebung: Kellnerinnen retten Wiesnbesucher Plötzlich bricht ein Mann auf dem Oktoberfest zusammen. Zwei Kellnerinnen bemerken das und reagieren sofort. Wie ihr Einsatz dem 78-Jährigen das Leben rettete.\nOktoberfest: Herzdruckmassage – Kellnerinnen retten Wiesnbesucher Ein 78-Jähriger bricht auf dem Oktoberfest zusammen. Zwei Kellnerinnen sehen es und reagieren sofort. Ihr Einsatz rettet dem Mann das Leben."
-  },
-  {
-    "id": "story-164",
+    "id": "story-185",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -182,7 +271,7 @@
     "summary": "Warum Regieren immer komplizierter wird Nach den Landtagswahlen ist der Kanzler angezählt, seine Reformen stehen auf der Kippe und der Politikbetrieb wirkt aus dem Tritt. Der Podcast 11KM über eine Demokratie im Dauerst…\n11KM-Podcast: Warum Regieren immer komplizierter wird Nach den Landtagswahlen ist der Kanzler angezählt, seine Reformen stehen auf der Kippe und der Politikbetrieb wirkt aus dem Tritt. Der Podcast 11KM über eine Demokratie im Dauerstress."
   },
   {
-    "id": "story-174",
+    "id": "story-196",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
@@ -207,7 +296,7 @@
     "summary": "Rüttelstreifen und Drohnen? Maßnahmen gegen Motorrad-Raser auf B500 besprochen Auf der Schwarzwaldhochstraße kommt es immer wieder zu tödlichen Motorrad-Unfällen. Nun haben sich Polizei und Behörden aus der Region in Baden-Baden an einen Runden Tisch gesetzt.\nKommen Rüttelstreifen und Drohnen? Maßnahmen gegen Motorrad-Raser auf B500 besprochen Auf der Schwarzwaldhochstraße kommt es immer wieder zu tödlichen Motorrad-Unfällen. Nun haben sich Polizei und Behörden aus der Region in Baden-Baden an einen Runden Tisch gesetzt."
   },
   {
-    "id": "story-193",
+    "id": "story-214",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "RP",
@@ -232,7 +321,7 @@
     "summary": "Ermittlungen nach Absturz von Kampfjet auf Airbase Spangdahlem Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz. Die Unglücksursache ist unklar.\nMilitärjet bei US-Airbase Spangdahlem abgestürzt Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz und wird medizinisch versorgt. Die Ursache ist unklar."
   },
   {
-    "id": "story-231",
+    "id": "story-252",
     "topic": "panorama",
     "country": "INT",
     "stateHint": "",
@@ -257,41 +346,41 @@
     "summary": "Sri Lanka convicts 15 people over 2019 Easter Day bombings Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.\nSri Lanka court convicts 15 men over deadly Easter Sunday bombings Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
   },
   {
-    "id": "story-256",
+    "id": "story-282",
     "topic": "panorama",
     "country": "DE",
-    "stateHint": "MV",
-    "date": "2026-09-23T03:55:00.000Z",
+    "stateHint": "",
+    "date": "2026-09-23T03:46:00.000Z",
     "sources": [
       {
-        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/verdacht-auf-quecksilber-dhl-zentrum-in-leizen-evakuiert,mvregioschwerin-5788.html",
-        "date": "2026-09-23T03:55:00.000Z",
-        "snippet": "Laut Polizei hat sich die verdächtige Substanz in oder an einem Paket befunden. Bereits am Freitag hatte es einen Quecksilber-Fund in Neustadt-Glewe gegeben.",
-        "title": "Verdacht auf Quecksilber: DHL-Zentrum in Leizen evakuiert"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVJMX2ZvbEhEYkRUaG5Cejd3emFVNzJFbUNDVjB0NFVaY1lOdkRuZ1poeV9aWG41MlVRWTVpZV9xTXlyUVAzVlAtT0tJQ0NpX0lKelZoNzJxRnhLYnQwMUw5N0FrWllhTmRtZ01kMm1WZzVSQnJDZmpnWVY1elFyMl9ZWUlPMHl5LXl1bGxsbWtQOS15WmM1SDdUUjZDWVNfR2ozM2IxMHBjZUtwbXgyVW9YTndKS1JBTnFVcGd6TmRSaEtlX2JVZ3J0S1B3bWllbEtMUkJTZHhKa0RIZzh3?oc=5",
+        "date": "2026-09-23T03:46:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVJMX2ZvbEhEYkRUaG5Cejd3emFVNzJFbUNDVjB0NFVaY1lOdkRuZ1poeV9aWG41MlVRWTVpZV9xTXlyUVAzVlAtT0tJQ0NpX0lKelZoNzJxRnhLYnQwMUw5N0FrWllhTmRtZ01kMm1WZzVSQnJDZmpnWVY1elFyMl9ZWUlPMHl5LXl1bGxsbWtQOS15WmM1SDdUUjZDWVNfR2ozM2IxMHBjZUtwbXgyVW9YTndKS1JBTnFVcGd6TmRSaEtlX2JVZ3J0S1B3bWllbEtMUkJTZHhKa0RIZzh3?oc=5\" target=\"_blank\">(S+) »Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font>",
+        "title": "(S+) »Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland? - Spiegel"
       },
       {
         "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leizen-verdacht-auf-giftiges-quecksilber-dhl-zentrum-evakuiert-a-09a4c753-133f-468b-b797-f2ffb9cbd51e#ref=rss",
-        "date": "2026-09-22T20:24:00.000Z",
-        "snippet": "Eine Paketzustellerin meldete körperliche Beschwerden – dann wurde das Paketzentrum geräumt. In Mecklenburg-Vorpommern ist es zu einer mutmaßlichen Quecksilbervergiftung gekommen. Erst vor Kurzem gab es in dem Bundesland einen ähnlichen Fall.",
-        "title": "Leizen: Verdacht auf giftiges Quecksilber – DHL-Zentrum evakuiert"
+        "url": "https://www.spiegel.de/kultur/tv/havellandkrimi-im-zdf-was-lernt-man-bei-der-krimireihe-ueber-das-havelland-a-2962f4ac-cc75-44d3-8900-12211f31bc04#ref=rss",
+        "date": "2026-09-23T03:46:00.000Z",
+        "snippet": "",
+        "title": "»Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland?"
       }
     ],
-    "title": "Verdacht auf Quecksilber: DHL-Zentrum in Leizen evakuiert",
-    "summary": "Verdacht auf Quecksilber: DHL-Zentrum in Leizen evakuiert Laut Polizei hat sich die verdächtige Substanz in oder an einem Paket befunden. Bereits am Freitag hatte es einen Quecksilber-Fund in Neustadt-Glewe gegeben.\nLeizen: Verdacht auf giftiges Quecksilber – DHL-Zentrum evakuiert Eine Paketzustellerin meldete körperliche Beschwerden – dann wurde das Paketzentrum geräumt. In Mecklenburg-Vorpommern ist es zu einer mutmaßlichen Quecksilbervergiftung gekommen. Erst vor Kurzem gab es in dem Bundesland einen ähnlichen Fall."
+    "title": "(S+) »Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland? - Spiegel",
+    "summary": "(S+) »Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland? - Spiegel <a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVJMX2ZvbEhEYkRUaG5Cejd3emFVNzJFbUNDVjB0NFVaY1lOdkRuZ1poeV9aWG41MlVRWTVpZV9xTXlyUVAzVlAtT0tJQ0NpX0lKelZoNzJxRnhLYnQwMUw5N0FrWllhTmRtZ01kMm1WZzVSQnJDZmpnWVY1elFyMl9ZWUlPMHl5LXl1bGxsbWtQOS15WmM1SDdUUjZDWVNfR2ozM2IxMHBjZUtwbXgyVW9YTndKS1JBTnFVcGd6TmRSaEtlX2JVZ3J0S1B3bWllbEtMUkJTZHhKa0RIZzh3?oc=5\" target=\"_blank\">(S+) »Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font>\n»Havellandkrimi« im ZDF: Was lernt man bei der Krimireihe über das Havelland? "
   },
   {
-    "id": "story-303",
+    "id": "story-379",
     "topic": "wirtschaft",
     "country": "PT",
     "stateHint": "",
-    "date": "2026-09-23T03:00:00.000Z",
+    "date": "2026-09-23T00:00:00.000Z",
     "sources": [
       {
         "source": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5",
-        "date": "2026-09-23T03:00:00.000Z",
+        "date": "2026-09-23T00:00:00.000Z",
         "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5\" target=\"_blank\">FMI: Preço das casas é principal vulnerabilidade do setor financeiro português</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal Económico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFNzZkRUTndmZnB0d3BMRG9QTTBGR2lzaW9mRDRVTVVpUWhjYkhSQzFxdXZ0ODhjUkJoZzFzVWtvSHZxeU9yNnNSLU9DSlFiVTdmc09aaEJQRG5sY2dwWUNBTTVJaXhINWF4UTNyVENfc3BDX3dnMzZ5QTl0Q",
         "title": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico"
       },
@@ -307,107 +396,7 @@
     "summary": "FMI: Preço das casas é principal vulnerabilidade do setor financeiro português - Jornal Económico <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenVtd3ZQMkl4a2FucmRZZ1RaYXhibkVxTS0yN28tQ0FxQnhfZkZkd285ckg4NFdOWTB2OUpnWWZaTFl2WU5NOG40ZjJIc1U4NmNHQ0tTbXZYT1NJUXhoVDhfOTc1dEszdy12YjRsWEc3QWk5cFByMkxaa2VmdUxKVUpHZHVGdmxuVFJDTXFtVVdscXhpQnJ0OHM1NnJMY2hBSFVjTHVtTHJLRVVuSWhJWmdjeE1BNktOTUFJ?oc=5\" target=\"_blank\">FMI: Preço das casas é principal vulnerabilidade do setor financeiro português</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal Económico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFNzZkRUTndmZnB0d3BMRG9QTTBGR2lzaW9mRDRVTVVpUWhjYkhSQzFxdXZ0ODhjUkJoZzFzVWtvSHZxeU9yNnNSLU9DSlFiVTdmc09aaEJQRG5sY2dwWUNBTTVJaXhINWF4UTNyVENfc3BDX3dnMzZ5QTl0Q\nPreço das casas é a principal vulnerabilidade do setor financeiro português considera FMI O preço das casas em Portugal é a principal vulnerabilidade com implicações futuras para o setor financeiro, considerou hoje o Fundo Monetário Internacional (FMI)."
   },
   {
-    "id": "story-304",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-23T02:57:00.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-23T02:57:00.000Z",
-        "snippet": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5",
-        "date": "2026-09-23T02:57:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5\" target=\"_blank\">Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQmtMMU0zSHN1anM3M1pXal9JRGc4UnJLY2UtNWEwY2tqdlh6STl0cEgzdEg4STJsMmJuQWZqUXFTNmV5QXhKaVQxTkwxWWRJejNDYV9kaVRCd3RmMzByaVJHUHRmVU5ib3B4bmNjMmMyRlhZN1pRR3NIRG4?oc=5\" target=\"_blank\">Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him | Donald Trump</",
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC"
-      }
-    ],
-    "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-    "summary": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.\nTrump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC <ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5\" target=\"_blank\">Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQmtMMU0zSHN1anM3M1pXal9JRGc4UnJLY2UtNWEwY2tqdlh6STl0cEgzdEg4STJsMmJuQWZqUXFTNmV5QXhKaVQxTkwxWWRJejNDYV9kaVRCd3RmMzByaVJHUHRmVU5ib3B4bmNjMmMyRlhZN1pRR3NIRG4?oc=5\" target=\"_blank\">Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him | Donald Trump</"
-  },
-  {
-    "id": "story-332",
-    "topic": "umwelt",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T01:46:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHZuclgzTVJoZnBhV1VlM1J2T2JncWZ0aFhkbHpWUVJaZ2I5MkdwazBQdDR4RjFKMkRHY0ZiRVVSbElIQ2huYV9td1kyVlh5X3cyVnVhTEpVME44S2MwVHM3cTdfSElHTmRQODBOMWRHcnJfUWhFTDdWVXpJYUk5VktPVlJGc2ZHOEhsZTc0NlFvUGJEUm5XSXl2WDd1VXg0SU90TW1vb1NRQWFPSnV0cDFfQktCZUJ2RFM2N25VZV9BajA?oc=5",
-        "date": "2026-09-23T01:46:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHZuclgzTVJoZnBhV1VlM1J2T2JncWZ0aFhkbHpWUVJaZ2I5MkdwazBQdDR4RjFKMkRHY0ZiRVVSbElIQ2huYV9td1kyVlh5X3cyVnVhTEpVME44S2MwVHM3cTdfSElHTmRQODBOMWRHcnJfUWhFTDdWVXpJYUk5VktPVlJGc2ZHOEhsZTc0NlFvUGJEUm5XSXl2WDd1VXg0SU90TW1vb1NRQWFPSnV0cDFfQktCZUJ2RFM2N25VZV9BajA?oc=5\" target=\"_blank\">»Keine menschenwürdigen Haftbedingungen«: Gefängnisse in Texas müssen Klimaanlagen bekommen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdENZdy14SHliUW9CZF9wYXg2b0tCTmluRjNmX3JXV21RTUtoWWhjWE5BX0hCbjJDTUQ5TEpYZjVOdWFDdVB4OTBKd1JiVnJ6Z2J5cGJFOTYtZXdQUC00OS1HLXFURHVCSEg2aFh2Rk5TRz",
-        "title": "»Keine menschenwürdigen Haftbedingungen«: Gefängnisse in Texas müssen Klimaanlagen bekommen - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/usa-gefaengnisse-in-texas-muessen-klimaanlagen-bekommen-a-cae1569a-1ae4-4662-b889-049284d60392#ref=rss",
-        "date": "2026-09-23T01:46:00.000Z",
-        "snippet": "Im US-Bundesstaat Texas kann es um die 50 Grad heiß werden. Dann leiden auch Zehntausende Häftlinge – ohne Klimaanlagen. Nun sollen die Menschen per Richterbeschluss besser geschützt werden. Billig wird das nicht.",
-        "title": "USA: Gefängnisse in Texas müssen Klimaanlagen bekommen"
-      }
-    ],
-    "title": "»Keine menschenwürdigen Haftbedingungen«: Gefängnisse in Texas müssen Klimaanlagen bekommen - Spiegel",
-    "summary": "»Keine menschenwürdigen Haftbedingungen«: Gefängnisse in Texas müssen Klimaanlagen bekommen - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHZuclgzTVJoZnBhV1VlM1J2T2JncWZ0aFhkbHpWUVJaZ2I5MkdwazBQdDR4RjFKMkRHY0ZiRVVSbElIQ2huYV9td1kyVlh5X3cyVnVhTEpVME44S2MwVHM3cTdfSElHTmRQODBOMWRHcnJfUWhFTDdWVXpJYUk5VktPVlJGc2ZHOEhsZTc0NlFvUGJEUm5XSXl2WDd1VXg0SU90TW1vb1NRQWFPSnV0cDFfQktCZUJ2RFM2N25VZV9BajA?oc=5\" target=\"_blank\">»Keine menschenwürdigen Haftbedingungen«: Gefängnisse in Texas müssen Klimaanlagen bekommen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdENZdy14SHliUW9CZF9wYXg2b0tCTmluRjNmX3JXV21RTUtoWWhjWE5BX0hCbjJDTUQ5TEpYZjVOdWFDdVB4OTBKd1JiVnJ6Z2J5cGJFOTYtZXdQUC00OS1HLXFURHVCSEg2aFh2Rk5TRz\nUSA: Gefängnisse in Texas müssen Klimaanlagen bekommen Im US-Bundesstaat Texas kann es um die 50 Grad heiß werden. Dann leiden auch Zehntausende Häftlinge – ohne Klimaanlagen. Nun sollen die Menschen per Richterbeschluss besser geschützt werden. Billig wird das nicht."
-  },
-  {
-    "id": "story-356",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T00:04:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTVsaEhsSnN1SGpETkRDaGJWMTNxdlllWVE0SmJzWHVOc1lUYkZsZ05EazlOSGtDOTZGOTlrckp1MFNPNTV6TWRveW9OQ0I4SEJWa2FQb0diMWQyMkNqczA1QURXLTRhb0pEdzZkdmNDNUV6Vno5VVI2SlBjdlIyUXBDM05ZSjV6YWszVGZCS1RNLUpzc1VwX3kzdXpGMDZLRVFJZG12WnREMDdtMXZTVzhnNC0zRGZpcDZ0NmZtZEFLYW1rMzdCQXR3bDJ1OExSVUhLZ3lKNExRUQ?oc=5",
-        "date": "2026-09-23T00:04:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTVsaEhsSnN1SGpETkRDaGJWMTNxdlllWVE0SmJzWHVOc1lUYkZsZ05EazlOSGtDOTZGOTlrckp1MFNPNTV6TWRveW9OQ0I4SEJWa2FQb0diMWQyMkNqczA1QURXLTRhb0pEdzZkdmNDNUV6Vno5VVI2SlBjdlIyUXBDM05ZSjV6YWszVGZCS1RNLUpzc1VwX3kzdXpGMDZLRVFJZG12WnREMDdtMXZTVzhnNC0zRGZpcDZ0NmZtZEFLYW1rMzdCQXR3bDJ1OExSVUhLZ3lKNExRUQ?oc=5\" target=\"_blank\">USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHeGZ1Q0VoRUd2Z3lZc3Q0NDdpZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in",
-        "title": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9#ref=rss",
-        "date": "2026-09-23T00:04:00.000Z",
-        "snippet": "Die USA exportieren eine Menge Diesel, gleichzeitig ist der Treibstoff im Land teuer wie nie. Donald Trump erwägt daher, die Ausfuhr zu kappen. Doch das könnte nach hinten losgehen.",
-        "title": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise"
-      }
-    ],
-    "title": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise - Spiegel",
-    "summary": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise - Spiegel <a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTVsaEhsSnN1SGpETkRDaGJWMTNxdlllWVE0SmJzWHVOc1lUYkZsZ05EazlOSGtDOTZGOTlrckp1MFNPNTV6TWRveW9OQ0I4SEJWa2FQb0diMWQyMkNqczA1QURXLTRhb0pEdzZkdmNDNUV6Vno5VVI2SlBjdlIyUXBDM05ZSjV6YWszVGZCS1RNLUpzc1VwX3kzdXpGMDZLRVFJZG12WnREMDdtMXZTVzhnNC0zRGZpcDZ0NmZtZEFLYW1rMzdCQXR3bDJ1OExSVUhLZ3lKNExRUQ?oc=5\" target=\"_blank\">USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHeGZ1Q0VoRUd2Z3lZc3Q0NDdpZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in\nUSA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise Die USA exportieren eine Menge Diesel, gleichzeitig ist der Treibstoff im Land teuer wie nie. Donald Trump erwägt daher, die Ausfuhr zu kappen. Doch das könnte nach hinten losgehen."
-  },
-  {
-    "id": "story-406",
-    "topic": "politik",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-09-22T21:42:32.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
-        "date": "2026-09-22T21:42:32.000Z",
-        "snippet": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.",
-        "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5",
-        "date": "2026-09-22T20:44:01.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5\" target=\"_blank\">Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0VwZm9xQ1Y3VEJLU2ZvZXNlZnVsamMwTUVVcV9zN0xYakJ3ZG1BYlAyc01zWWE4eGhHdE84emw3TEhKcWdXZEktR1RvR0RlNDlTamhxNmpfQWI2VHItNWY0SW91ZzRCLWtucHYwMmhpRHpPUTVUWVB4YzVzcDMtdmRsUEZGVTd2eENWU",
-        "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses - RTP"
-      }
-    ],
-    "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses",
-    "summary": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.\nReunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDZmTTl4R2FHeV9UVnZ2dEFZWEk1d05WMnBMbmpMV1plMGdaLVVOZ3AyUmV4ZTlZNFYxZ1BZMmxOZThhZ2ozRHpoaDVUWW1PRTNCdlAxYVFxR0xZNDZSMXpoMjE5Smx2Y05FekF4cl9xbk1rY0toVTRIbmtrYUdtZ2w4Q3dNNFJpdnJhYlBuTkZ5V3p3MjBGdTMxMnRYM2dnTDhzbmU0QnlsNVVqTXNRNTNXVmh0Y1RY?oc=5\" target=\"_blank\">Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0VwZm9xQ1Y3VEJLU2ZvZXNlZnVsamMwTUVVcV9zN0xYakJ3ZG1BYlAyc01zWWE4eGhHdE84emw3TEhKcWdXZEktR1RvR0RlNDlTamhxNmpfQWI2VHItNWY0SW91ZzRCLWtucHYwMmhpRHpPUTVUWVB4YzVzcDMtdmRsUEZGVTd2eENWU"
-  },
-  {
-    "id": "story-409",
+    "id": "story-429",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -432,7 +421,7 @@
     "summary": "Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQczRKVk5BaGNnVi1LcVJTTGhZZjZXbXJocWpKNnAyc1ZDeEdtVmduQXczTFJ3Y3kzUk1SZUlWZ09zN21RX3EtM1hNa1liRGRZT0tibmJVb3NSRVBlSG5YaWRlUlQwWTl4UDM3ZzJYclZEQXUtYWlFU2xJMlV4U0M0QzVGYjdJc3MxOEpxZVhHMmFhV2NsTXVJR0NjamZ5N2VZbGU4MWN5SFNaVmFGR1JqQXFXNHE5OWpFMTlHSG52TFlhejNIT0dKTHAzV0VTYjA?oc=5\" target=\"_blank\">Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE81UXBqNnM3ZV83T25CSV85MTkyeUVtbFIxb0N5Q29xbjRFY2dqdzhLWGhDWFNGa0ZRTTdpdE5PNE4zaHE2SVVIMXd3eGpQYjdDLVpjR2Y1bllwNzRraXBKNWQtTHFyTUV4VjlJ?oc=5\" target=\"_bla\nTrump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen Im Streit über den Zugang von CNN, MS Now und »Politico« zum Weißen Haus wird wohl ein Richter eine Entscheidung fällen – die Donald Trump nach eigener Aussage »wahrscheinlich« befolgen wird. Derweil sendet aus dem Weißen Haus: Trump TV."
   },
   {
-    "id": "story-425",
+    "id": "story-445",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -457,7 +446,7 @@
     "summary": "Crise migratória em Ceuta. Espanha e Marrocos reúnem-se em Marrocos Espanha e Marrocos voltaram a reforçar a segurança nas fronteiras de Ceuta e Melilla. As autoridades dos dois países admitem que poderá ser tentada uma nova entrada massiva de migrantes.\nEspanha e Marrocos voltam a reforçar a segurança nas fronteiras de Ceuta e Melilla Espanha e Marrocos voltam a reforçar a segurança nas fronteiras de Ceuta e Melilla perante a ameaça de uma nova tentativa de entrada massiva marcada para amanhã, dia de eleições legislativas em Marrocos."
   },
   {
-    "id": "story-429",
+    "id": "story-449",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -482,7 +471,7 @@
     "summary": "Irão apresentou condições para reabertura do Estreito de Ormuz a representantes dos EUA - RTP <a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDJHZ1hqM0s0RERRQzVES1RiQVFRVDdGOTZDQl9RcGtoVmVrYkZLc2l3Z0ZwMXM1RlpOam42bmxxWV96SFQ3bDR3RGJPOXd4R21wbC1XelVjQVM5ZHpXbGNra2poOU52Q0h0b3A1UjA2NGhvbWNLTlN4VXQxRE1ZUXY3SWsxbEJURU9IZVBlc0xlOXAwNXdOMEtnSG1yTzdjbWN5OG5sa29yeFIwbG5JZnc3SE84TnZWd1dUTGNpZ0lmRFNnRnkzOUFR?oc=5\" target=\"_blank\">Irão apresentou condições para reabertura do Estreito de Ormuz a representantes dos EUA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font>\nIrão apresentou condições para reabertura do Estreito de Ormuz a representantes dos EUA Segundo a imprensa estatal iraniana, o ministro dos Negócios Estrangeiros, Abbas Araghchi, esteve reunido esta terça-feira com o enviado especial dos EUA, Steve Witkoff, à margem da Assembleia Geral da ONU."
   },
   {
-    "id": "story-446",
+    "id": "story-466",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -507,7 +496,7 @@
     "summary": "STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt Die Hilfsorganisation berichtet, ein iranisches Gericht habe Eren wegen angeblicher Kontakte zu einem verfeindeten Land verurteilt. Der 42-Jährige wollte im Iran Spenden verteilen.\nStuttgarter STELP-Gründer Serkan Eren im Iran zu zehn Jahren Haft verurteilt Die Hilfsorganisation berichtet, ein iranisches Gericht habe Eren wegen angeblicher Kontakte zu einem verfeindeten Land verurteilt. Der 42-Jährige wollte im Iran Spenden verteilen."
   },
   {
-    "id": "story-574",
+    "id": "story-592",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BE",
@@ -532,7 +521,7 @@
     "summary": "Debatte: Kann die Linke Berlin regieren - und will sie es auch? Das Konfetti auf den Wahlpartys der Linken ist kaum aufgekehrt, da muss sich die Partei ernsthaften Fragen über ihre Regierungsfähigkeit stellen: Hat sie genug Erfahrung in den eigenen Reihen? Und wie geht sie mit dem Vorwurf des Antisemitismus um?\nPodcast: „Auf den Punkt“: Kann die Linke in Berlin regieren? Elif Eralp hat die Wahl in der Hauptstadt gewonnen. Doch ihr Sieg wird von Kontroversen um Antisemitismus und Enteignungen überschattet."
   },
   {
-    "id": "story-597",
+    "id": "story-615",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -557,7 +546,7 @@
     "summary": "Trump bei den UN: „Soll ich sie zur Hölle schicken?“ Einmal mehr legt der US-Präsident einen bizarren Auftritt vor den Vereinten Nationen hin – und kündigt ein mögliches Kriegsverbrechen gegen Iran an.\nTrump zu Iran: \"Soll ich sie in die Hölle schicken?\" Bombardieren oder verhandeln? Vor dieser Entscheidung steht US-Präsident Trump in Sachen Iran gemäß seinen eigenen Worten vor der UN-Generalversammlung in New York."
   },
   {
-    "id": "story-677",
+    "id": "story-694",
     "topic": "sport",
     "country": "UK",
     "stateHint": "",
@@ -582,7 +571,7 @@
     "summary": "Cyclist who dressed as man to avoid Taliban wins silver medal Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.\nAfghan cyclist who disguised herself as a man to evade Taliban wins Asian Games silver <ul><li><p>Fariba Hashimi fled after Taliban returned to power</p></li><li><p>‘This medal can show resilience from Afghan women’</p></li></ul><p>An Afghan cyclist who disguised herself as a man to pursue her sporting dreams won an Asian Games silver medal on Tuesday, hoping it inspires other women in a country where Taliban authorities have sharply curtailed their freedoms.</p><p>Fariba Hashimi, who is based in Italy, powered home second behind China’s Guo Li in the women’s road race near Nagoya in Japan, calling the triumph “something special”.</p> <a href=\"https://www.theguardian.com/sport/2026/sep/22/fariba-hashimi-afghan-cyclist-disguised-as-man-evade-taliban-wins-asian-games-silver\">Con"
   },
   {
-    "id": "story-685",
+    "id": "story-702",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "MV",
@@ -607,7 +596,7 @@
     "summary": "Fall Fabian: Gericht entscheidet über wichtige Beweisanträge Am Mittwoch zeigt die Strafkammer zwei kurze Videos und entscheidet über Beweisanträge. Die Verteidigung will ein neues Gutachten zu Handy-Daten.\nFall Fabian: Gericht entscheidet über wichtige Beweisanträge - NDR.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHh2QmVkTVp4bnA4YkNNSFFDd2t4eDA3alpVelVSYlJCbWotcmQ0bTVxUlNsSlY4V2F4SjJnUnNBV2dsbVFId1VDcTRHbWQyaFlPWGJadUx6QzJYSWNfMkxQYy1XSTI0YXI5LVFZMkgzUXM4Y1FDVXJSQVp3bEM0UWY0V1laRmhHZmRDTmdoQ1MxUmVSa2poQ1RVajZBOWRjM0lqSGJ6dkN3ZGdMcG5JcWZ4V0J2SnZpWGNDdzktYnVPS2Z3WlZiQUVnMA?oc=5\" target=\"_blank\">Fall Fabian: Gericht entscheidet über wichtige Beweisanträge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGV6czN0S09VVHVrQXoxaTNzbUhIMG9faFZiUXRLY2h3V2UzZUtRWHBNR2N6OXd4aTFwV0RsQkFPSktBcEhpalRnZXdXOWg4eTVyLUlhNDAyeG50MXFIWW5XZm5hNWxNZUw2VkxNazhTd2tFRUZmbmNNWFlXdGdKQ2t"
   },
   {
-    "id": "story-762",
+    "id": "story-780",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -636,6 +625,24 @@
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
+    "date": "2026-09-23T07:24:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-de-santo-tirso-em-fase-de-rescaldo_a1_1767160",
+        "date": "2026-09-23T07:24:02.000Z",
+        "snippet": "",
+        "title": "7h Incêndio de Santo Tirso em fase de rescaldo"
+      }
+    ],
+    "title": "7h Incêndio de Santo Tirso em fase de rescaldo",
+    "summary": "7h Incêndio de Santo Tirso em fase de rescaldo "
+  },
+  {
+    "id": "story-2",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
     "date": "2026-09-23T07:12:56.000Z",
     "sources": [
       {
@@ -650,7 +657,7 @@
     "summary": "Outono começou hoje com persistência do verão O outono começou hoje, mas o verão, estação que o precede, teima em persistir, com grande parte do território de Portugal a continuar debaixo de calor atípico."
   },
   {
-    "id": "story-2",
+    "id": "story-3",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -658,7 +665,7 @@
     "sources": [
       {
         "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/lusa/dominado-fogo-em-santo-tirso_n1767150",
+        "url": "https://www.rtp.pt/noticias/pais/dominado-fogo-em-santo-tirso_n1767150",
         "date": "2026-09-23T07:11:44.000Z",
         "snippet": "O incêndio que deflagrou na tarde de terça-feira em Água Longa, concelho de Santo Tirso, no distrito do Porto, encontra-se dominado, disse hoje à Lusa fonte da proteção civil.",
         "title": "Dominado fogo em Santo Tirso"
@@ -668,7 +675,7 @@
     "summary": "Dominado fogo em Santo Tirso O incêndio que deflagrou na tarde de terça-feira em Água Longa, concelho de Santo Tirso, no distrito do Porto, encontra-se dominado, disse hoje à Lusa fonte da proteção civil."
   },
   {
-    "id": "story-3",
+    "id": "story-4",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -686,7 +693,331 @@
     "summary": "\"Lei das burcas\" entra hoje em vigor e prevê coimas até três mil euros por cobrir a cara O diploma que proíbe a ocultação do rosto em espaços públicos, conhecido como \"lei das burcas\", entra hoje em vigor, prevendo multas de até três mil euros para quem cobrir a cara, exceto por motivos de saúde, entre outros."
   },
   {
-    "id": "story-4",
+    "id": "story-5",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:26:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-bietet-begrenzte-waffenruhe-fuer-energieanlagen-an-a-8f7099ae-69f4-4876-9f49-e0f9288cfb4e#ref=rss",
+        "date": "2026-09-23T06:26:00.000Z",
+        "snippet": "Der Vorschlag am Rande der Uno-Generaldebatte soll von den USA an die russische Seite übermittelt werden. Gleichzeitig warnt der ukrainische Präsident vor einem bevorstehenden russischen Großangriff.",
+        "title": "Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an"
+      }
+    ],
+    "title": "Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an",
+    "summary": "Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an Der Vorschlag am Rande der Uno-Generaldebatte soll von den USA an die russische Seite übermittelt werden. Gleichzeitig warnt der ukrainische Präsident vor einem bevorstehenden russischen Großangriff."
+  },
+  {
+    "id": "story-6",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:24:20.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/k-o-tropfen-mit-hoeheren-strafen-moegliche-taeter-abschrecken",
+        "date": "2026-09-23T06:24:20.000Z",
+        "snippet": "",
+        "title": "Kriminalität: K.o.-Tropfen: Mit höheren Strafen mögliche Täter abschrecken"
+      }
+    ],
+    "title": "Kriminalität: K.o.-Tropfen: Mit höheren Strafen mögliche Täter abschrecken",
+    "summary": "Kriminalität: K.o.-Tropfen: Mit höheren Strafen mögliche Täter abschrecken "
+  },
+  {
+    "id": "story-8",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:24:00.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-irans-praesident-zur-un-generaldebatte-in-new-york-faz-200583539.html",
+        "date": "2026-09-23T06:24:00.000Z",
+        "snippet": "Erstmals Staatschef eines mit den USA Krieg führenden Landes vor Ort +++ Vertreter der USA und Irans treffen sich zu Gesprächen +++ Huthis melden mehrere Tote bei saudischem Angriff +++ alle Entwicklungen im Liveblog",
+        "title": "Liveblog Irankrieg: Irans Präsident zu UN-Generaldebatte in New York eingetroffen"
+      }
+    ],
+    "title": "Liveblog Irankrieg: Irans Präsident zu UN-Generaldebatte in New York eingetroffen",
+    "summary": "Liveblog Irankrieg: Irans Präsident zu UN-Generaldebatte in New York eingetroffen Erstmals Staatschef eines mit den USA Krieg führenden Landes vor Ort +++ Vertreter der USA und Irans treffen sich zu Gesprächen +++ Huthis melden mehrere Tote bei saudischem Angriff +++ alle Entwicklungen im Liveblog"
+  },
+  {
+    "id": "story-9",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:23:55.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ermittlungen-nach-absturz-kampfjet-flugzeug-unfall-frau-bei-brand-in-ludwigshafen-verletzt-marode-strassen-kaiserslautern-rlp-newsticker-2026-09-23-100.html",
+        "date": "2026-09-23T06:23:55.000Z",
+        "snippet": "Was ist in der vergangenen Nacht in Rheinland-Pfalz passiert? Was bringt der Tag? Mit unserem RLP-Newsticker seid ihr auf dem Laufenden!",
+        "title": "++ Ermittlungen nach Absturz von Kampfjet ++ Frau verletzt sich bei Brand in Ludwigshafen ++ Marode Straßen in KL ++"
+      }
+    ],
+    "title": "++ Ermittlungen nach Absturz von Kampfjet ++ Frau verletzt sich bei Brand in Ludwigshafen ++ Marode Straßen in KL ++",
+    "summary": "++ Ermittlungen nach Absturz von Kampfjet ++ Frau verletzt sich bei Brand in Ludwigshafen ++ Marode Straßen in KL ++ Was ist in der vergangenen Nacht in Rheinland-Pfalz passiert? Was bringt der Tag? Mit unserem RLP-Newsticker seid ihr auf dem Laufenden!"
+  },
+  {
+    "id": "story-11",
+    "topic": "technik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:23:35.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/kuenstliche-intelligenz-studierende-ueber-ihre-angst-dass-sie-ihnen-die-jobs-wegnimmt-accg-201205667.html",
+        "date": "2026-09-23T06:23:35.000Z",
+        "snippet": "Der rasante KI-Fortschritt lässt junge Menschen an Berufsperspektiven zweifeln. Acht Studenten erzählen, was sie in der Zukunft erwarten.",
+        "title": "Künstliche Intelligenz: Studenten befürchten, dass KI ihre Jobs vernichtet"
+      }
+    ],
+    "title": "Künstliche Intelligenz: Studenten befürchten, dass KI ihre Jobs vernichtet",
+    "summary": "Künstliche Intelligenz: Studenten befürchten, dass KI ihre Jobs vernichtet Der rasante KI-Fortschritt lässt junge Menschen an Berufsperspektiven zweifeln. Acht Studenten erzählen, was sie in der Zukunft erwarten."
+  },
+  {
+    "id": "story-13",
+    "topic": "umwelt",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-09-23T06:22:23.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/frieda-23-grafitti-auf-rostocker-kulturstaette-zum-klimawandel,mvregiorostock-4782.html",
+        "date": "2026-09-23T06:22:23.000Z",
+        "snippet": "An der Außenfassade der \"Frieda 23\" gibt es ein neues Kunstwerk. Es stellt Klima-Erwärmungsstreifen dar.",
+        "title": "Frieda 23: Grafitti auf Rostocker Kulturstätte zum Klimawandel"
+      }
+    ],
+    "title": "Frieda 23: Grafitti auf Rostocker Kulturstätte zum Klimawandel",
+    "summary": "Frieda 23: Grafitti auf Rostocker Kulturstätte zum Klimawandel An der Außenfassade der \"Frieda 23\" gibt es ein neues Kunstwerk. Es stellt Klima-Erwärmungsstreifen dar."
+  },
+  {
+    "id": "story-15",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:22:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-auf-dem-oktoberfest-der-terminator-dirigiert-a-fc9d83d1-d93e-49b9-b153-646478c66c73#ref=rss",
+        "date": "2026-09-23T06:22:00.000Z",
+        "snippet": "Arnold Schwarzenegger ist ein gern gesehener Gast auf der Wiesn: Von der Bühne gab er im Marstall-Zelt zur Musik den Takt an – eine zur Tradition gewordene Aktion des Hollywoodstars.",
+        "title": "Arnold Schwarzenegger auf dem Oktoberfest: Der »Terminator« dirigiert"
+      }
+    ],
+    "title": "Arnold Schwarzenegger auf dem Oktoberfest: Der »Terminator« dirigiert",
+    "summary": "Arnold Schwarzenegger auf dem Oktoberfest: Der »Terminator« dirigiert Arnold Schwarzenegger ist ein gern gesehener Gast auf der Wiesn: Von der Bühne gab er im Marstall-Zelt zur Musik den Takt an – eine zur Tradition gewordene Aktion des Hollywoodstars."
+  },
+  {
+    "id": "story-16",
+    "topic": "wirtschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:21:40.000Z",
+    "sources": [
+      {
+        "source": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/technik/ki/ki-wie-rechts-ki-das-geschaeftsmodell-der-juristen-veraendert/100253216.html",
+        "date": "2026-09-23T06:21:40.000Z",
+        "snippet": "Mit Noxtua sammelt das nächste Legal-AI-Start-up 100 Millionen Euro ein. Weltweit stecken Investoren Milliarden in Legora, Libra und Harvey. Schaffen sich die Juristen damit selbst ab?",
+        "title": "KI: Rechts-KI boomt: Wie sich das Geschäftsmodell der Juristen verändert"
+      }
+    ],
+    "title": "KI: Rechts-KI boomt: Wie sich das Geschäftsmodell der Juristen verändert",
+    "summary": "KI: Rechts-KI boomt: Wie sich das Geschäftsmodell der Juristen verändert Mit Noxtua sammelt das nächste Legal-AI-Start-up 100 Millionen Euro ein. Weltweit stecken Investoren Milliarden in Legora, Libra und Harvey. Schaffen sich die Juristen damit selbst ab?"
+  },
+  {
+    "id": "story-17",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-09-23T06:21:13.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/wissen/grippeimpfung-kinder-gegen-grippe-impfen-lassen-influenza,TtoH62T",
+        "date": "2026-09-23T06:21:13.000Z",
+        "snippet": "Bei einer Influenza fühlt man sich richtig krank. Sie kann sogar tödlich enden. Deshalb sollten sich Risikogruppen impfen lassen. Das gilt auch für vorerkrankte Kinder. Aber wie ist es mit gesunden Kindern? Ist für sie eine Grippeimpfung sinnvoll?",
+        "title": "Grippeimpfung: Soll ich mein Kind gegen Influenza impfen lassen?"
+      }
+    ],
+    "title": "Grippeimpfung: Soll ich mein Kind gegen Influenza impfen lassen?",
+    "summary": "Grippeimpfung: Soll ich mein Kind gegen Influenza impfen lassen? Bei einer Influenza fühlt man sich richtig krank. Sie kann sogar tödlich enden. Deshalb sollten sich Risikogruppen impfen lassen. Das gilt auch für vorerkrankte Kinder. Aber wie ist es mit gesunden Kindern? Ist für sie eine Grippeimpfung sinnvoll?"
+  },
+  {
+    "id": "story-19",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "NW",
+    "date": "2026-09-23T06:21:00.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Nordrhein-Westfalen",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-behoerden-suchen-ursache-woher-kommt-der-extreme-gestank-in-siegen-100.html",
+        "date": "2026-09-23T06:21:00.000Z",
+        "snippet": "In Siegen konnten Anwohner Dienstagnacht vor Gestank kaum schlafen. Inzwischen wurde entwarnt - aber woher kam der Gummi-Geruch?",
+        "title": "Woher kam der extreme Gestank in Siegen?"
+      }
+    ],
+    "title": "Woher kam der extreme Gestank in Siegen?",
+    "summary": "Woher kam der extreme Gestank in Siegen? In Siegen konnten Anwohner Dienstagnacht vor Gestank kaum schlafen. Inzwischen wurde entwarnt - aber woher kam der Gummi-Geruch?"
+  },
+  {
+    "id": "story-20",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BB",
+    "date": "2026-09-23T06:20:41.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Brandenburg",
+        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-mehr-badetote-in-berlin-gezaehlt-weniger-in-brandenburg-102.html",
+        "date": "2026-09-23T06:20:41.000Z",
+        "snippet": "Mehr Badetote in Berlin gezählt - weniger in Brandenburg",
+        "title": "Mehr Badetote in Berlin gezählt - weniger in Brandenburg"
+      }
+    ],
+    "title": "Mehr Badetote in Berlin gezählt - weniger in Brandenburg",
+    "summary": "Mehr Badetote in Berlin gezählt - weniger in Brandenburg Mehr Badetote in Berlin gezählt - weniger in Brandenburg"
+  },
+  {
+    "id": "story-21",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BW",
+    "date": "2026-09-23T06:20:28.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/wettbewerbszentrale-klagt-gegen-dm-wegen-medikamenten-online-verkauf-100.html",
+        "date": "2026-09-23T06:20:28.000Z",
+        "snippet": "Darf die Karlsruher Drogeriemarktkette dm auf ihrer Internetseite apothekenpflichtige Arzneimittel zum Verkauf anbieten? Darüber muss das Landgericht Karlsruhe entscheiden.",
+        "title": "Verhandlung in Karlsruhe: Darf dm online Medikamente verkaufen?"
+      }
+    ],
+    "title": "Verhandlung in Karlsruhe: Darf dm online Medikamente verkaufen?",
+    "summary": "Verhandlung in Karlsruhe: Darf dm online Medikamente verkaufen? Darf die Karlsruher Drogeriemarktkette dm auf ihrer Internetseite apothekenpflichtige Arzneimittel zum Verkauf anbieten? Darüber muss das Landgericht Karlsruhe entscheiden."
+  },
+  {
+    "id": "story-22",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-09-23T06:20:02.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/hameln-gefaehrlicher-sabotage-akt-an-s-bahn-staatsschutz,hameln-152.html",
+        "date": "2026-09-23T06:20:02.000Z",
+        "snippet": "Der Staatsschutz ermittelt wegen eines versuchten Tötungsdelikts. Ein Lokführer hat wohl Schlimmeres verhindert.",
+        "title": "Hameln: Gefährlicher Sabotage-Akt an S-Bahn"
+      }
+    ],
+    "title": "Hameln: Gefährlicher Sabotage-Akt an S-Bahn",
+    "summary": "Hameln: Gefährlicher Sabotage-Akt an S-Bahn Der Staatsschutz ermittelt wegen eines versuchten Tötungsdelikts. Ein Lokführer hat wohl Schlimmeres verhindert."
+  },
+  {
+    "id": "story-23",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "SH",
+    "date": "2026-09-23T06:18:42.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/nieblum-auf-foehr-zum-schoensten-dorf-deutschlands-gewaehlt,regionflensburgnews-3426.html",
+        "date": "2026-09-23T06:18:42.000Z",
+        "snippet": "In der letzten Runde des Awards vom Online-Reisemagazin Travelbook hat sich der Ort gegen vier weitere Dörfer durchgesetzt.",
+        "title": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt"
+      }
+    ],
+    "title": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt",
+    "summary": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt In der letzten Runde des Awards vom Online-Reisemagazin Travelbook hat sich der Ort gegen vier weitere Dörfer durchgesetzt."
+  },
+  {
+    "id": "story-24",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:17:06.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/panorama/Polizei-entdeckt-Folterraum-an-der-Costa-del-Sol-id31337535.html",
+        "date": "2026-09-23T06:17:06.000Z",
+        "snippet": "Ein Anruf nach 40 Minuten rettet zwei Männer vermutlich vor dem Tod: In einem Haus an der Costa del Sol entdeckt die Polizei einen mutmaßlichen Folterraum - mit Plastikplanen, Hämmern und Sturmgewehren.",
+        "title": "Hämmer, Zangen, Folie: Polizei entdeckt Folterraum an der Costa del Sol"
+      }
+    ],
+    "title": "Hämmer, Zangen, Folie: Polizei entdeckt Folterraum an der Costa del Sol",
+    "summary": "Hämmer, Zangen, Folie: Polizei entdeckt Folterraum an der Costa del Sol Ein Anruf nach 40 Minuten rettet zwei Männer vermutlich vor dem Tod: In einem Haus an der Costa del Sol entdeckt die Polizei einen mutmaßlichen Folterraum - mit Plastikplanen, Hämmern und Sturmgewehren."
+  },
+  {
+    "id": "story-25",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:16:35.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/album/reinhard-mey-im-interview-was-soll-mir-noch-passieren-accg-201247105.html",
+        "date": "2026-09-23T06:16:35.000Z",
+        "snippet": "Der Liedermacher bringt sein dreißigstes Album heraus – ganz allein mit Gitarre. Im Gespräch spricht er über späte Entschuldigungen, die Angst vor der Nacht und einen emotionalen Moment mit dem Rapper Haftbefehl.",
+        "title": "Reinhard Mey im Gespräch: „Das Leben hat mich mit allem beschenkt, auch mit abgrundtiefem Schmerz“"
+      }
+    ],
+    "title": "Reinhard Mey im Gespräch: „Das Leben hat mich mit allem beschenkt, auch mit abgrundtiefem Schmerz“",
+    "summary": "Reinhard Mey im Gespräch: „Das Leben hat mich mit allem beschenkt, auch mit abgrundtiefem Schmerz“ Der Liedermacher bringt sein dreißigstes Album heraus – ganz allein mit Gitarre. Im Gespräch spricht er über späte Entschuldigungen, die Angst vor der Nacht und einen emotionalen Moment mit dem Rapper Haftbefehl."
+  },
+  {
+    "id": "story-26",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:16:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/service/temu-shein-billigpakete-lassen-sich-durch-aktuelle-zoelle-nicht-stoppen-a-5f59766d-1413-4191-89fd-c27eeb8f7ab2#ref=rss",
+        "date": "2026-09-23T06:16:00.000Z",
+        "snippet": "Mit einer Zollgebühr von drei Euro möchte die EU die Zahl der Billigpakete aus China eindämmen. Zu wenig, sagt der Handelsverband HDE und warnt: Temu & Co. werden sich anpassen.",
+        "title": "Temu, Shein: Billigpakete lassen sich durch aktuelle Zölle nicht stoppen"
+      }
+    ],
+    "title": "Temu, Shein: Billigpakete lassen sich durch aktuelle Zölle nicht stoppen",
+    "summary": "Temu, Shein: Billigpakete lassen sich durch aktuelle Zölle nicht stoppen Mit einer Zollgebühr von drei Euro möchte die EU die Zahl der Billigpakete aus China eindämmen. Zu wenig, sagt der Handelsverband HDE und warnt: Temu & Co. werden sich anpassen."
+  },
+  {
+    "id": "story-27",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:15:12.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ab36797a15a9fecb668c574/fora-umfrage-binnen-eines-jahres-verliert-die-cdu-fast-zehn-prozent-in-nrw-afd-legt-deutlich-zu.html",
+        "date": "2026-09-23T06:15:12.000Z",
+        "snippet": "Vor rund einem Jahr führte die CDU in NRW noch mit 22 Prozentpunkten vor der AfD. Einer neuen Umfrage zufolge beträgt der Abstand mittlerweile nur noch sieben Prozentpunkte.",
+        "title": "Binnen eines Jahres verliert die CDU fast zehn Prozent in NRW – AfD legt deutlich zu"
+      }
+    ],
+    "title": "Binnen eines Jahres verliert die CDU fast zehn Prozent in NRW – AfD legt deutlich zu",
+    "summary": "Binnen eines Jahres verliert die CDU fast zehn Prozent in NRW – AfD legt deutlich zu Vor rund einem Jahr führte die CDU in NRW noch mit 22 Prozentpunkten vor der AfD. Einer neuen Umfrage zufolge beträgt der Abstand mittlerweile nur noch sieben Prozentpunkte."
+  },
+  {
+    "id": "story-28",
     "topic": "politik",
     "country": "DE",
     "stateHint": "NI",
@@ -704,7 +1035,7 @@
     "summary": "Großer Brand im Hafen von Brake: Mitarbeiter schwer verletzt Der Mann zog sich bei Löschversuchen schwere Brandverletzungen zu. Über der Fettraffinerie war eine große Rauchsäule zu sehen."
   },
   {
-    "id": "story-5",
+    "id": "story-29",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -722,7 +1053,7 @@
     "summary": "\"Es gibt keine Absage an diese Reformen\" Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitio…"
   },
   {
-    "id": "story-6",
+    "id": "story-30",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -740,25 +1071,7 @@
     "summary": "6h Montenegro encontra-se hoje com António Guterres "
   },
   {
-    "id": "story-8",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "SH",
-    "date": "2026-09-23T06:14:11.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/nieblum-auf-foehr-zum-schoensten-dorf-deutschlands-gewaehlt,regionflensburgnews-3426.html",
-        "date": "2026-09-23T06:14:11.000Z",
-        "snippet": "In der letzten Runde des Awards vom Online-Reisemagazin Travelbook hat sich der Ort gegen vier weitere Dörfer durchgesetzt.",
-        "title": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt"
-      }
-    ],
-    "title": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt",
-    "summary": "Nieblum auf Föhr zum schönsten Dorf Deutschlands gewählt In der letzten Runde des Awards vom Online-Reisemagazin Travelbook hat sich der Ort gegen vier weitere Dörfer durchgesetzt."
-  },
-  {
-    "id": "story-9",
+    "id": "story-31",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -768,33 +1081,51 @@
         "source": "DER SPIEGEL",
         "url": "https://www.spiegel.de/sport/fussball/juergen-klopp-kylian-mbappe-schwaermt-vom-neuen-bundestrainer-vor-dessen-debuet-a-f7b33b3d-15c7-4c93-a8c9-afcb3ef27dcc#ref=rss",
         "date": "2026-09-23T06:14:00.000Z",
-        "snippet": "Am Donnerstag steht das erste Länderspiel für den neuen Bundestrainer Jürgen Klopp an. Vorschusslorbeeren bekommt der Trainer von Frankreichs Superstar Kylian Mbappé, der gerne selbst mal unter Klopp gespielt hätte.",
+        "snippet": "Am Donnerstag steht das erste Länderspiel für den neuen Bundestrainer Jürgen Klopp an. Vorschusslorbeeren bekommt der Trainer von Frankreichs Superstar Kylian Mbappé, der gern selbst mal unter Klopp gespielt hätte.",
         "title": "Jürgen Klopp: Kylian Mbappé schwärmt vom neuen Bundestrainer vor dessen Debüt"
       }
     ],
     "title": "Jürgen Klopp: Kylian Mbappé schwärmt vom neuen Bundestrainer vor dessen Debüt",
-    "summary": "Jürgen Klopp: Kylian Mbappé schwärmt vom neuen Bundestrainer vor dessen Debüt Am Donnerstag steht das erste Länderspiel für den neuen Bundestrainer Jürgen Klopp an. Vorschusslorbeeren bekommt der Trainer von Frankreichs Superstar Kylian Mbappé, der gerne selbst mal unter Klopp gespielt hätte."
+    "summary": "Jürgen Klopp: Kylian Mbappé schwärmt vom neuen Bundestrainer vor dessen Debüt Am Donnerstag steht das erste Länderspiel für den neuen Bundestrainer Jürgen Klopp an. Vorschusslorbeeren bekommt der Trainer von Frankreichs Superstar Kylian Mbappé, der gern selbst mal unter Klopp gespielt hätte."
   },
   {
-    "id": "story-10",
+    "id": "story-32",
+    "topic": "wissenschaft",
+    "country": "US",
+    "stateHint": "",
+    "date": "2026-09-23T06:13:35.000Z",
+    "sources": [
+      {
+        "source": "NPR Science",
+        "url": "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo",
+        "date": "2026-09-23T06:13:35.000Z",
+        "snippet": "Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico&apos;s southwestern coast as a Category 5 storm.",
+        "title": "Category 5 Hurricane Polo is &apos;one of the strongest storms ever&apos;"
+      }
+    ],
+    "title": "Category 5 Hurricane Polo is &apos;one of the strongest storms ever&apos;",
+    "summary": "Category 5 Hurricane Polo is &apos;one of the strongest storms ever&apos; Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico&apos;s southwestern coast as a Category 5 storm."
+  },
+  {
+    "id": "story-33",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-23T06:13:52.000Z",
+    "date": "2026-09-23T06:13:17.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ermittlungen-nach-absturz-kampfjet-flugzeug-unfall-frau-bei-brand-in-ludwigshafen-verletzt-marode-strassen-kaiserslautern-rlp-newsticker-2026-09-23-100.html",
-        "date": "2026-09-23T06:13:52.000Z",
-        "snippet": "Was ist in der vergangenen Nacht in Rheinland-Pfalz passiert? Was bringt der Tag? Mit unserem RLP-Newsticker seid ihr auf dem Laufenden!",
-        "title": "++ Ermittlungen nach Absturz von Kampfjet ++ Frau verletzt sich bei Brand in Ludwigshafen ++ Marode Straßen in KL ++"
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/50-000-euro-schaden-bei-hausbrand-in-hennigsdorf",
+        "date": "2026-09-23T06:13:17.000Z",
+        "snippet": "",
+        "title": "Brände: 50.000 Euro Schaden bei Hausbrand in Hennigsdorf"
       }
     ],
-    "title": "++ Ermittlungen nach Absturz von Kampfjet ++ Frau verletzt sich bei Brand in Ludwigshafen ++ Marode Straßen in KL ++",
-    "summary": "++ Ermittlungen nach Absturz von Kampfjet ++ Frau verletzt sich bei Brand in Ludwigshafen ++ Marode Straßen in KL ++ Was ist in der vergangenen Nacht in Rheinland-Pfalz passiert? Was bringt der Tag? Mit unserem RLP-Newsticker seid ihr auf dem Laufenden!"
+    "title": "Brände: 50.000 Euro Schaden bei Hausbrand in Hennigsdorf",
+    "summary": "Brände: 50.000 Euro Schaden bei Hausbrand in Hennigsdorf "
   },
   {
-    "id": "story-11",
+    "id": "story-34",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "NI",
@@ -812,7 +1143,61 @@
     "summary": "Entgelte für Hunderttausende: IG Metall formuliert Forderung Neben mehr Geld soll es in den kommenden Tarifverhandlungen auch um die Sicherung von Arbeitsplätzen gehen."
   },
   {
-    "id": "story-12",
+    "id": "story-35",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:13:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/f-35-kampfflugzeug-usa-ruestung-geschaeft-bundeswehr-100.html",
+        "date": "2026-09-23T06:13:00.000Z",
+        "snippet": "Deutschland kauft neue Kampfjets in den USA. Sie werden dringend benötigt. Die vertraulichen Kaufverträge zeigen: Deutschland liefert sich noch mehr der Trump-Administration aus.",
+        "title": "US-Rüstungsdeals: Teure Knebelverträge für die Bundeswehr"
+      }
+    ],
+    "title": "US-Rüstungsdeals: Teure Knebelverträge für die Bundeswehr",
+    "summary": "US-Rüstungsdeals: Teure Knebelverträge für die Bundeswehr Deutschland kauft neue Kampfjets in den USA. Sie werden dringend benötigt. Die vertraulichen Kaufverträge zeigen: Deutschland liefert sich noch mehr der Trump-Administration aus."
+  },
+  {
+    "id": "story-36",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-23T06:12:59.000Z",
+    "sources": [
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQno5djBqZGRZcDNvN3gtZnZSSGdPQktGenMwMUo2WThYR2RNaEc1UnpJYkxvWkU3TERhdVMtZXpNWG1uRXdET3EzdEpXQkJxVFdSRnRpX3NpOURseC1qeEhIZDdlM3pxQUhhZENGajhBVjRmTUViVDZmYUctTFQxWi1Ud1o?oc=5",
+        "date": "2026-09-23T06:12:59.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQno5djBqZGRZcDNvN3gtZnZSSGdPQktGenMwMUo2WThYR2RNaEc1UnpJYkxvWkU3TERhdVMtZXpNWG1uRXdET3EzdEpXQkJxVFdSRnRpX3NpOURseC1qeEhIZDdlM3pxQUhhZENGajhBVjRmTUViVDZmYUctTFQxWi1Ud1o?oc=5\" target=\"_blank\">Albufeira recebe o 1.º APSL Longevity Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthNews</font>",
+        "title": "Albufeira recebe o 1.º APSL Longevity Summit - HealthNews"
+      }
+    ],
+    "title": "Albufeira recebe o 1.º APSL Longevity Summit - HealthNews",
+    "summary": "Albufeira recebe o 1.º APSL Longevity Summit - HealthNews <a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQno5djBqZGRZcDNvN3gtZnZSSGdPQktGenMwMUo2WThYR2RNaEc1UnpJYkxvWkU3TERhdVMtZXpNWG1uRXdET3EzdEpXQkJxVFdSRnRpX3NpOURseC1qeEhIZDdlM3pxQUhhZENGajhBVjRmTUViVDZmYUctTFQxWi1Ud1o?oc=5\" target=\"_blank\">Albufeira recebe o 1.º APSL Longevity Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthNews</font>"
+  },
+  {
+    "id": "story-37",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-23T06:12:56.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-23T06:12:56.000Z",
+        "snippet": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+        "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat"
+      }
+    ],
+    "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+    "summary": "US and Iran hold first talks since June after Trump's 'annihilation' threat The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently."
+  },
+  {
+    "id": "story-38",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
@@ -830,7 +1215,43 @@
     "summary": "Polit-Rentner Kretschmann verputzt Wände und verliert Pfunde Über 15 Jahre lang war der Grüne Kretschmann Ministerpräsident in BW, so lange wie niemand vor ihm. Seit Mitte Mai ist er im Ruhestand. Und hat endlich Zeit zum Werkeln."
   },
   {
-    "id": "story-13",
+    "id": "story-39",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:12:34.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/elf-tote-nach-schusswaffenangriff-auf-feier-in-suedafrika",
+        "date": "2026-09-23T06:12:34.000Z",
+        "snippet": "",
+        "title": "Kriminalität: Elf Tote nach Schusswaffenangriff auf Feier in Südafrika"
+      }
+    ],
+    "title": "Kriminalität: Elf Tote nach Schusswaffenangriff auf Feier in Südafrika",
+    "summary": "Kriminalität: Elf Tote nach Schusswaffenangriff auf Feier in Südafrika "
+  },
+  {
+    "id": "story-40",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:12:21.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/badesaison-2026-dlrg-meldet-248-ertrunkene-in-deutschland-accg-201254288.html",
+        "date": "2026-09-23T06:12:21.000Z",
+        "snippet": "Hitzewelle, volle Strände – und plötzlich in Lebensgefahr: Zwischen Mai und dem Ende der Sommerferien sind wieder viele Menschen ertrunken. Warum vor allem junge Männer gefährdet sind.",
+        "title": "DLRG-Sommerbilanz: Mehr Menschen in Badesaison ertrunken"
+      }
+    ],
+    "title": "DLRG-Sommerbilanz: Mehr Menschen in Badesaison ertrunken",
+    "summary": "DLRG-Sommerbilanz: Mehr Menschen in Badesaison ertrunken Hitzewelle, volle Strände – und plötzlich in Lebensgefahr: Zwischen Mai und dem Ende der Sommerferien sind wieder viele Menschen ertrunken. Warum vor allem junge Männer gefährdet sind."
+  },
+  {
+    "id": "story-41",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "HH",
@@ -848,7 +1269,7 @@
     "summary": "Köhlbrandbrücke: Hamburger Senat lehnt provisorische Ersatzbrücke ab Der geplante Neubau der Köhlbrandbrücke wird voraussichtlich erst Anfang der 2040er-Jahre fertig. CDU und Handelskammer wollen deshalb einen provisorischen Ersatz."
   },
   {
-    "id": "story-14",
+    "id": "story-42",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -866,7 +1287,7 @@
     "summary": "Vereinte Nationen - Wadephul: \"UNO-Sicherheitsrat muss handlungsfähiger werden\" Bundesaußenminister Wadephul hat sich am Rande der Generaldebatte der Vereinten Nationen in New York für Reformen des UNO-Sicherheitsrates ausgesprochen. Blockaden müssten aufgehoben und der Sicherheitsrat wieder handlungsfähiger werden, sagte der CDU-Politiker im Deutschlandfunk."
   },
   {
-    "id": "story-15",
+    "id": "story-43",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -884,7 +1305,7 @@
     "summary": "Washington - Chinas Staats- und Parteichef Xi zu Gast in den USA US-Präsident Trump empfängt heute Chinas Staats- und Parteichef Xi in Washington. Als Zeichen der besonderen Ehrerbietung will Trump ihn persönlich auf dem Militärflughafen Joint Base Andrews empfangen. Zudem will er zu Xis Ehren ein Staatsbankett geben. Xi reist zu einem dreitägigen Staatsbesuch in die Vereinigten Staaten von Amerika."
   },
   {
-    "id": "story-16",
+    "id": "story-44",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -902,7 +1323,7 @@
     "summary": "UNICEF - Mangel an Hilfsgütern im Sudan weiterhin groß Im Sudan ist die humanitäre Lage nach Angaben der UNO-Kinderhilfsorganisation UNICEF weiterhin katastrophal. Der Geschäftsführer von UNICEF Deutschland, Schneider, sagte im Deutschlandfunk, allein geschätzt 17 Millionen Kinder seien auf humanitäre Hilfe angewiesen."
   },
   {
-    "id": "story-17",
+    "id": "story-45",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -920,7 +1341,7 @@
     "summary": "Meere - Deutschland ratifiziert UNO-Hochseeschutzabkommen Deutschland ist dem UNO-Hochseeschutzabkommen offiziell beigetreten. Bundesumweltminister Schneider hinterlegte die Ratifikationsurkunde bei den Vereinten Nationen in New York. Damit gehört die Bundesrepublik zu 94 Staaten, die das Abkommen ratifiziert haben."
   },
   {
-    "id": "story-18",
+    "id": "story-46",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -938,7 +1359,7 @@
     "summary": "Kriminalität - Bundestag berät Gesetz gegen K.O.-Tropfen - Hubig: \"Starkes Signal\" Wer Menschen mit K.O.-Tropfen betäubt, um sie zu vergewaltigen oder auszurauben, soll künftig härter bestraft werden können."
   },
   {
-    "id": "story-19",
+    "id": "story-47",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -956,7 +1377,7 @@
     "summary": "Bundestag - Pistorius und Linnemann stellen sich den Fragen der Abgeordneten Im Bundestag stellt sich heute der neue Gesundheitsminister Linnemann den Fragen der Abgeordneten."
   },
   {
-    "id": "story-20",
+    "id": "story-48",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -974,7 +1395,7 @@
     "summary": "Nach Wahlniederlagen - Junge Gruppe in der Union hält an Rentenreform fest Die Junge Gruppe in der CDU/CSU-Bundestagsfraktion wendet sich gegen Forderungen aus der SPD, den Kompromiss zur sogenannten Rente mit 63 wieder aufzuschnüren."
   },
   {
-    "id": "story-21",
+    "id": "story-49",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -992,7 +1413,7 @@
     "summary": "Nach Wahlniederlagen - Warken bekräftigt Reformwillen Kanzleramtschefin Warken hat den Reformwillen der Bundesregierung bekräftigt."
   },
   {
-    "id": "story-22",
+    "id": "story-50",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1010,7 +1431,7 @@
     "summary": "\"Nicht mit der CDU\" - Hoppermann erteilt Bürgerversicherung Absage CDU-Generalsekretärin Hoppermann hat Spekulationen über eine mögliche Annäherung der Union an eine Bürgerversicherung zurückgewiesen."
   },
   {
-    "id": "story-23",
+    "id": "story-51",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1028,7 +1449,7 @@
     "summary": "New York - USA und Iran nehmen Gespräche wieder auf Vertreter der USA und des Iran haben am Rande der Generaldebatte der UNO-Vollversammlung in New York Gespräche geführt."
   },
   {
-    "id": "story-24",
+    "id": "story-52",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1046,7 +1467,7 @@
     "summary": "Naher Osten - Macron bezeichnet Lage in Gaza vor der UNO als beschämend Frankreichs Staatschef Macron hat bei der Generaldebatte der Vereinten Nationen in New York die Lage im palästinensischen Gazastreifen deutlich kritisiert."
   },
   {
-    "id": "story-25",
+    "id": "story-53",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1064,25 +1485,7 @@
     "summary": "Verkehr - Weiter Kritik an Tankrabatt Die Diskussion über den Tankrabatt geht weiter."
   },
   {
-    "id": "story-27",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T06:11:32.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
-        "date": "2026-09-23T06:11:32.000Z",
-        "snippet": "Angesichts steigender Preise vor allem für Diesel prüfen die USA einen Exportstopp des Kraftstoffs.",
-        "title": "Folgen des Irankriegs - USA prüfen wegen hoher Spritpreise Exportstopp für Diesel - Maßnahme zuletzt während Ölkrise in den 70ern angewandt"
-      }
-    ],
-    "title": "Folgen des Irankriegs - USA prüfen wegen hoher Spritpreise Exportstopp für Diesel - Maßnahme zuletzt während Ölkrise in den 70ern angewandt",
-    "summary": "Folgen des Irankriegs - USA prüfen wegen hoher Spritpreise Exportstopp für Diesel - Maßnahme zuletzt während Ölkrise in den 70ern angewandt Angesichts steigender Preise vor allem für Diesel prüfen die USA einen Exportstopp des Kraftstoffs."
-  },
-  {
-    "id": "story-28",
+    "id": "story-54",
     "topic": "umwelt",
     "country": "DE",
     "stateHint": "",
@@ -1100,7 +1503,7 @@
     "summary": "Hamburg - Extremwetterkongress berät über Umgang mit Folgen des Klimawandels In Hamburg diskutieren ab heute Experten auf einem Extremwetterkongress über die Auswirkungen des Klimawandels."
   },
   {
-    "id": "story-29",
+    "id": "story-55",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1118,7 +1521,7 @@
     "summary": "Fachmesse \"Innotrans\" - Eine Reise, ein Ticket: Grenzüberschreitende Bahnfahrten in Europa sollen einfacher werden EU-Verkehrskommissar Tzitzikostas hat zum Auftakt der Mobilitätsmesse Innotrans in Berlin das Ziel bekräftigt, Bahnreisen über Landesgrenzen zu vereinfachen. Es gehe darum, ein Ticket für mehrere Zugunternehmen einzuführen, um quer durch Europa zu fahren, erklärte er bei der Eröffnungsfeier."
   },
   {
-    "id": "story-30",
+    "id": "story-56",
     "topic": "umwelt",
     "country": "DE",
     "stateHint": "",
@@ -1136,7 +1539,7 @@
     "summary": "Greenpeace - Weiter Umweltverschmutzung durch Öl in der Straße von Hormus In der zwischen den USA und dem Iran umkämpften Straße von Hormus bleibt die Bedrohung für die Umwelt groß."
   },
   {
-    "id": "story-31",
+    "id": "story-57",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1154,7 +1557,7 @@
     "summary": "Parlament - Bundestagsvize Lindholz (CSU) warnt Abgeordnete vor rein KI-generierten Reden Bundestagsvizepräsidentin Lindholz, CSU, hat Parlamentariern davon abgeraten, Reden zu halten, die allein von Künstlicher Intelligenz erzeugt wurden."
   },
   {
-    "id": "story-32",
+    "id": "story-58",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1172,7 +1575,7 @@
     "summary": "Nach der Wahl - Langjähriger Berliner SPD-Fraktionschef Saleh gibt seinen Posten auf Nach den Verlusten der SPD bei der Landtagswahl in Berlin gibt der langjährige Fraktionsvorsitzende Saleh sein Amt auf."
   },
   {
-    "id": "story-33",
+    "id": "story-59",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1190,7 +1593,7 @@
     "summary": "Mecklenburg-Vorpommern - Erneuter Verdacht auf Quecksilber: Diesmal DHL-Zentrum evakuiert Im mecklenburgischen Leizen ist das Paketzustellzentrum des DHL-Konzerns wegen eines Gefahrstoffverdachts evakuiert worden."
   },
   {
-    "id": "story-34",
+    "id": "story-60",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1208,7 +1611,7 @@
     "summary": "Luftverkehr - Rauch in Eurowings-Flieger: Sicherheitslandung in Düsseldorf Die Piloten eines Eurowings-Flugzeugs sind kurz nach dem Start in Düsseldorf umgekehrt und aus Sicherheitsgründen wieder gelandet."
   },
   {
-    "id": "story-35",
+    "id": "story-61",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1226,7 +1629,7 @@
     "summary": "Nordafrika - Marokkaner wählen neues Parlament In Marokko wird heute ein neues Parlament gewählt."
   },
   {
-    "id": "story-36",
+    "id": "story-62",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1244,7 +1647,7 @@
     "summary": "Nach Hausverboten im Weißen Haus - Deutsche Welle solidarisiert sich mit CNN, Politico und MS NOW Die Deutsche Welle (DW) hat sich mit den von US-Präsident Trump aus dem Weißen Haus ausgeschlossenen Medien CNN, Politico und MS NOW solidarisch erklärt. In einer Mitteilung bezeichnete die deutsche Auslandsrundfunkanstalt den Ausschluss von Medien aufgrund ihrer Berichterstattung als \"beunruhigendes Signal für die Pressefreiheit\"."
   },
   {
-    "id": "story-37",
+    "id": "story-63",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1262,7 +1665,7 @@
     "summary": "DOSB-Evaluierungskommission - Olympia-Bewerbungen von München und Köln/Rhein-Ruhr am besten bewertet - Berlin liegt klar zurück München geht als Favorit in die Entscheidung um die deutsche Olympia-Bewerbung."
   },
   {
-    "id": "story-38",
+    "id": "story-64",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1280,25 +1683,7 @@
     "summary": "Wetter - Heiter bis sonnig, im Nordwesten bedeckt, abends Schauer, 17 bis 24 Grad Das Wetter: Meist heiter bis sonnig. Im Nordwesten bedeckt, an der Nordsee abends Schauer. 17 bis 24 Grad. Morgen vom Südwesten bis zum Niederrhein heiter. Sonst vielfach bewölkt, teils Schauer und Gewitter. 15 bis 24 Grad."
   },
   {
-    "id": "story-39",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-09-23T06:11:30.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/trump-verteidigt-iran-krieg-und-droht-teheran-mit-hoelle,VVy7nMl",
-        "date": "2026-09-23T06:11:30.000Z",
-        "snippet": "US-Präsident Trump hat vor der UN-Vollversammlung dem Iran erneut mit Vernichtung gedroht und zugleich ein Abkommen in Aussicht gestellt. Zudem rief er Staaten zum Austritt aus dem Internationalen Strafgerichtshof auf.",
-        "title": "Trump verteidigt Iran-Krieg und droht Teheran mit \"Hölle\""
-      }
-    ],
-    "title": "Trump verteidigt Iran-Krieg und droht Teheran mit \"Hölle\"",
-    "summary": "Trump verteidigt Iran-Krieg und droht Teheran mit \"Hölle\" US-Präsident Trump hat vor der UN-Vollversammlung dem Iran erneut mit Vernichtung gedroht und zugleich ein Abkommen in Aussicht gestellt. Zudem rief er Staaten zum Austritt aus dem Internationalen Strafgerichtshof auf."
-  },
-  {
-    "id": "story-40",
+    "id": "story-65",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -1316,7 +1701,25 @@
     "summary": "Vermögen: Erbschaftsteuer: Diese Abzüge sollten Sie nutzen Nicht nur Erben, sondern auch Vermächtnisnehmer können mit der Erbfallkostenpauschale ihre Erbschaftsteuer senken. Das hat der BFH klargestellt. Ein weiterer Freibetrag wird oft übersehen."
   },
   {
-    "id": "story-41",
+    "id": "story-66",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-23T06:07:20.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/sportpolitik/berlins-olympia-planer-sauer-auf-linken-politikerin-elif-eralp-respektlos-accg-201254241.html",
+        "date": "2026-09-23T06:07:20.000Z",
+        "snippet": "Die Wahlsiegerin spricht sich gegen die Berliner Olympia-Bewerbung aus. Dafür gibt es scharfe Kritik. Frau Eralp habe „innerhalb von 45 Sekunden die Bewerbung vom Tisch gewischt“, klagt der Olympia-Beauftragte.",
+        "title": "Wut auf Eralp: „Respektlos gegenüber anderen Menschen“"
+      }
+    ],
+    "title": "Wut auf Eralp: „Respektlos gegenüber anderen Menschen“",
+    "summary": "Wut auf Eralp: „Respektlos gegenüber anderen Menschen“ Die Wahlsiegerin spricht sich gegen die Berliner Olympia-Bewerbung aus. Dafür gibt es scharfe Kritik. Frau Eralp habe „innerhalb von 45 Sekunden die Bewerbung vom Tisch gewischt“, klagt der Olympia-Beauftragte."
+  },
+  {
+    "id": "story-67",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -1334,7 +1737,7 @@
     "summary": "Vermögen: So bleiben Familienheim und Gartengrundstück von der Erbschaftsteuer verschont Wer ins geerbte Familienheim einzieht, zahlt keine Erbschaftsteuer. Diese Begünstigung legt der BFH großzügig aus und bezieht auch einen weitläufigen Garten mit ein – unter einer Bedingung."
   },
   {
-    "id": "story-42",
+    "id": "story-68",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "MV",
@@ -1352,7 +1755,7 @@
     "summary": "NDR 1 Radio MV Nachrichten Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV."
   },
   {
-    "id": "story-43",
+    "id": "story-69",
     "topic": "wissenschaft",
     "country": "DE",
     "stateHint": "",
@@ -1370,7 +1773,7 @@
     "summary": "Rätsel um fehlenden Trabanten: Hat die Venus ihren eigenen Mond verschluckt? Der Erdmond entstand vor Milliarden Jahren, vermutlich durch eine gewaltige Kollision. Doch der Schwesterplanet Venus besitzt keinen Trabanten, was Astronomen seit Langem rätseln lässt. Eine neue Studie findet nun eine mögliche Erklärung dafür."
   },
   {
-    "id": "story-44",
+    "id": "story-70",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -1388,7 +1791,7 @@
     "summary": "Vermögen: Depot vererben – so machen Sie es Ihren Kindern einfach Wer ein Depot vererben möchte, sollte einige Vorkehrungen treffen. Ansonsten kann es für die Erben nicht nur mühsam, sondern auch teuer werden."
   },
   {
-    "id": "story-45",
+    "id": "story-71",
     "topic": "technik",
     "country": "DE",
     "stateHint": "",
@@ -1406,7 +1809,7 @@
     "summary": "Kriminelle sind \"beleidigt\": Hacker wollen Daten Tausender FBI-Agenten erbeutet haben Die Hackergruppe \"Shiny Hunters\" greift offenbar erfolgreich das FBI an. Die Cyberkriminellen stehlen bei dem digitalen Beutezug nach eigenen Angaben die Daten von rund 5000 Mitarbeitern der US-Bundespolizei."
   },
   {
-    "id": "story-46",
+    "id": "story-72",
     "topic": "wissenschaft",
     "country": "DE",
     "stateHint": "BW",
@@ -1424,7 +1827,7 @@
     "summary": "Wetter im Herbst 2026: Das bringt der Altweibersommer Vom Spätsommer in den Herbst: Am 23. September 2026 ist die Tag-und-Nacht-Gleiche, der kalendarische oder auch astronomische Herbstanfang. Ein Meteorologe hat die Wetterprognose."
   },
   {
-    "id": "story-47",
+    "id": "story-73",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1442,7 +1845,7 @@
     "summary": "Politische Mitte: Der Kanzler darf weitermachen – unter kaum zumutbaren Bedingungen Die CDU hat kein Glück mit Friedrich Merz. Aber er hat auch kein Glück mit ihr. Denn die Partei gibt ihm eine unlösbare Aufgabe. Und unterschätzt, was ihr 2029 droht."
   },
   {
-    "id": "story-48",
+    "id": "story-74",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -1460,7 +1863,7 @@
     "summary": "+++ Ukraine-Krieg +++: EU hebt Sanktionen gegen zwei russische Milliardäre auf Lawrow und Rubio treffen sich heute in New York +++ Polen sperrt zwei Flughäfen nach Angriffen auf die Ukraine +++ Selenskyj: Stopp russischer Ölkäufe würde Krieg beenden +++ Der Newsblog."
   },
   {
-    "id": "story-49",
+    "id": "story-75",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -1478,7 +1881,7 @@
     "summary": "Australia news live: Albanese meets with Japan’s PM for first time since melon-gate; police offer $1m for Gus Lamont information <p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Andrew Bragg</strong>, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.</p><p>The policy hasn’t been adopted by the opposition, and leader <strong>Angus Taylor </strong>said yesterday it wasn’t Coalition policy.</p><p>W"
   },
   {
-    "id": "story-50",
+    "id": "story-76",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -1496,7 +1899,7 @@
     "summary": "+++ Geschäftszahlen +++: KWS verdient operativ weniger – Aktie rutscht vorbörslich ab Tui erwartet leichten Gewinnrückgang und bremst das Angebot +++ Leica erstmals seit Jahren mit Umsatzrückgang +++ Zara-Mutter Inditex steigert Umsatz um 9 Prozent +++ Der Newsblog."
   },
   {
-    "id": "story-51",
+    "id": "story-77",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1514,7 +1917,7 @@
     "summary": "Schlagzeilen Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
   },
   {
-    "id": "story-52",
+    "id": "story-78",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1532,7 +1935,7 @@
     "summary": "Aktuelles zum Krieg in der Ukraine Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker."
   },
   {
-    "id": "story-53",
+    "id": "story-79",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1550,7 +1953,7 @@
     "summary": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Konflikt zwischen Iran und USA gibt es noch keine Lösung. Alle Entwicklungen im Liveblog."
   },
   {
-    "id": "story-54",
+    "id": "story-80",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1568,7 +1971,7 @@
     "summary": "Kann man mit \"nur\" 666 PS leben? : SUV Porsche Cayenne Electric heißt \"S\" - und S fährt gut Elektromobilität ist nicht nur ein Thema in der EU, sondern weltweit. Also auch in der Türkei, wo Porsche nun das mittlere Cayenne-Electric-Modell \"S\" noch einmal auf Herz und Nieren hat prüfen lassen. ntv.de war dabei."
   },
   {
-    "id": "story-55",
+    "id": "story-81",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1586,7 +1989,7 @@
     "summary": "Märkte: Eine Blase weniger Krisen überall, aber die Immobilienmärkte zeigen sich derzeit robust. Endlich mal eine gute Nachricht."
   },
   {
-    "id": "story-56",
+    "id": "story-82",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1604,7 +2007,7 @@
     "summary": "Tiere verendet: Dutzende Schweine sterben nach Belüftungsausfall im Stall "
   },
   {
-    "id": "story-57",
+    "id": "story-83",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1622,7 +2025,7 @@
     "summary": "FDP: Da fehlt etwas Fünf Wahlen, fünf Pleiten: Für die FDP war das ein Wahljahr zum Vergessen. Die Partei, die stets Avantgarde war, kämpft ums Überleben."
   },
   {
-    "id": "story-58",
+    "id": "story-84",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -1640,7 +2043,25 @@
     "summary": "Glimpses into lives of Roman surburbanites in Bath revealed in rare finds <p>Exclusive: Restoration work at Bath Assembly Rooms unearths Roman ditches containing pottery, coins and fragments of a military helmet</p><p>The restoration of a Georgian building in Bath once frequented by Jane Austen has unexpectedly provided a tantalising glimpse into the life of the city’s Roman suburbanites.</p><p>A network of Roman ditches containing pottery, coins, glassware and a fragment of a military helmet has been found beneath <a href=\"https://www.nationaltrust.org.uk/visit/bath-bristol/bath-assembly-rooms\">Bath Assembly Rooms</a> in the north of the city.</p> <a href=\"https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath\">Continu"
   },
   {
-    "id": "story-59",
+    "id": "story-85",
+    "topic": "umwelt",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-23T06:00:17.000Z",
+    "sources": [
+      {
+        "source": "Guardian Environment",
+        "url": "https://www.theguardian.com/world/2026/sep/23/fears-mount-that-next-un-chief-will-downgrade-climate-action",
+        "date": "2026-09-23T06:00:17.000Z",
+        "snippet": "<p>Experts say some of António Guterres’s possible successors could be ‘disastrous’ for efforts to tackle crisis</p><p>Fears are mounting that the next UN secretary general will downgrade the priority of the climate crisis, according to climate and civil society experts.</p><p>The current secretary general, António Guterres, has been the <a href=\"https://www.theguardian.com/science/2023/jul/27/scientists-july-world-hottest-month-record-climate-temperatures\">most forthright on the subject</a>, calling fossil fuel companies <a href=\"https://www.theguardian.com/environment/article/2024/jun/05/antonio-guterres-un-chief-fossil-fuels-advertising\">“the godfathers of climate chaos”</a> and warning g",
+        "title": "Fears mount that next UN chief will downgrade climate action"
+      }
+    ],
+    "title": "Fears mount that next UN chief will downgrade climate action",
+    "summary": "Fears mount that next UN chief will downgrade climate action <p>Experts say some of António Guterres’s possible successors could be ‘disastrous’ for efforts to tackle crisis</p><p>Fears are mounting that the next UN secretary general will downgrade the priority of the climate crisis, according to climate and civil society experts.</p><p>The current secretary general, António Guterres, has been the <a href=\"https://www.theguardian.com/science/2023/jul/27/scientists-july-world-hottest-month-record-climate-temperatures\">most forthright on the subject</a>, calling fossil fuel companies <a href=\"https://www.theguardian.com/environment/article/2024/jun/05/antonio-guterres-un-chief-fossil-fuels-advertising\">“the godfathers of climate chaos”</a> and warning g"
+  },
+  {
+    "id": "story-86",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1658,7 +2079,7 @@
     "summary": "Soziales: Beratungsangebote von Diakonie und Caritas unter Druck "
   },
   {
-    "id": "story-60",
+    "id": "story-87",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "SH",
@@ -1676,7 +2097,7 @@
     "summary": "Haspa-Prozesse nach Einbruch: Ruhende Verfahren gehen weiter Nachdem das OLG in Hamburg im Mai der Bank in einem der Prozesse recht gegeben hatte, werden nun die anderen Verfahren fortgesetzt."
   },
   {
-    "id": "story-61",
+    "id": "story-88",
     "topic": "politik",
     "country": "DE",
     "stateHint": "HH",
@@ -1694,7 +2115,7 @@
     "summary": "Hamburg: Fachleute beraten über die Folgen des Hitzesommers Der DWD warnt in Hamburg: Der Rekordsommer 2026 könnte in 30 Jahren als ganz normaler Sommer gelten."
   },
   {
-    "id": "story-62",
+    "id": "story-89",
     "topic": "panorama",
     "country": "INT",
     "stateHint": "",
@@ -1712,7 +2133,7 @@
     "summary": "Villanova Ranked No. 42 Among U.S. News & World Report’s National Universities - The Villanovan <a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmtqYlFvNjZYUE5zcE9zLXJpaElqUUR6eW1tUmw1a2lESHpmRWxBVXl5WGItbmpEZTB3clktcGFkMERTTTd3VW92NzhUa3hvNzRKcjdudV9hVFpGcGVsMDZ5OTlNUDZiSW41aHAzd214dnpyTmFLOHg2TFJvQ0xKMzYtTUstRG9CcENzbzNrcXQ1bEoxVWl4RXVsYjBVNk5uNFNnNEQ2cEpEMzdX?oc=5\" target=\"_blank\">Villanova Ranked No. 42 Among U.S. News & World Report’s National Universities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Villanovan</font>"
   },
   {
-    "id": "story-63",
+    "id": "story-90",
     "topic": "politik",
     "country": "INT",
     "stateHint": "",
@@ -1730,7 +2151,7 @@
     "summary": "China's US Ambassador Warns On 'Red Lines' Ahead Of Trump, Xi Meeting - NDTV <a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSGtXWDZIYllFNnZXcmdYQ1RwMHFRSFZOTWEzanZhQWZnTFpyTkhxVVNvcXZtaGk2b0xrMy1QMW05enZJYU04S0xYWG4yTm1oeWY1bFh5QzQ0WVRGMGR5SUVJN2pic3ctVE9UMFlwWF9Tei1MaVNHRmh1UUNQdjZDblotN05aYkwzNHFjVnBMZUFGN0NGWF9QYUdXaDhsVXlRYm83TWpEM2F0QdIBsgFBVV95cUxOUWZna05WdDJNTjE3LUZDcU5pWUdmQlQ3Q3BjVjRyaFYtTExzVEl6YzBOcUxFU2dtaFZQNmJjMGktaUd3LXJWWjRqQnFrTzdLMERMa05DTnlGNXoxanFLQS0taWppZ3pOR2gwemJGSVN5a3BQVFFXd3pUTWQzVFFOQ1d0LWFuZ25DdmgyS2VmclJMUGkzWXd5ZnVBMzM3amllWVQzRmZLMTFzLVFQODFfSEp3?oc=5\" target=\"_blank\">China's US Ambassador Warns On 'Red Lines' Ahead Of Trump, Xi Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>"
   },
   {
-    "id": "story-64",
+    "id": "story-91",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1748,7 +2169,7 @@
     "summary": "Hubschrauber im Einsatz: Großeinsatz am Bundesgerichtshof – Mann klettert über Zaun "
   },
   {
-    "id": "story-65",
+    "id": "story-92",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1766,7 +2187,7 @@
     "summary": "Kanzleramtschefin Warken verspricht Tempo bei Reformen Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen."
   },
   {
-    "id": "story-66",
+    "id": "story-93",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1784,7 +2205,7 @@
     "summary": "Freude über Grönland-Abkommen - doch etwas Skepsis bleibt Lange wussten die Grönländer nicht, wie der Streit mit den USA um die Arktisinsel ausgehen wird. Jetzt gibt es ein Abkommen und die Erleichterung ist groß. Doch gibt US-Präsident Trump wirklich Ruhe? Von Mats Nickelsen."
   },
   {
-    "id": "story-67",
+    "id": "story-94",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1802,7 +2223,7 @@
     "summary": "Sachsen-Anhalt: BSW sieht AfD bei Regierungsbildung noch unentschlossen Das BSW will in Sachsen-Anhalt mit der AfD über Inhalte verhandeln, eine Koalition aber ausschließen. Den AfD-Kandidaten für das Landtagspräsidium will die Partei unterstützen."
   },
   {
-    "id": "story-68",
+    "id": "story-95",
     "topic": "panorama",
     "country": "INT",
     "stateHint": "",
@@ -1820,7 +2241,7 @@
     "summary": "This year, with shifting political winds, Canada gets more of the spotlight on the UN's stage - ABC News - Breaking News, Latest News and Videos <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEMydy1HSmY2Y1lnREtxWlE0SllwZkd5WGZpY2o3bjRoUl9IQTVVRWtUdnR2cS1veGF3WHd5MHpqcXRtMWJCdTFIZ2dIUGZJYnNRcmltcFlCSnZWeHBnX3ZSWVVZaHFZRGdHOVFSMi1uem9LWThvcjdNSlYtZ3pHMmlfY2h6MmRpRzNGMjZfTDRfZkc1ZVo1YVNCaFJCMU3SAaQBQVVfeXFMUFdKSTktUmQyaWJpbmdWamUwS3RRRmhfc2U4ZFd2b1M1a1FfSXM4anN2ZndaUUdMaTQxbmNKTGk2NVQzNHQ3SjFRakhlZkZqV2ZicHY5Tk1zVkJIM3hQTG0wbm5oN0l5Y0xXZHdSdzAwYl9aaG9sMTJ5c0lUeHJTRUQyam5hQWNzZFgydkY4cmdVODZRd1d6NkdldEY2ejcxWklxMXQ?oc=5\" target=\"_blank\">This year, with shifting political winds, Canada gets more of the spotlight on the UN's stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>"
   },
   {
-    "id": "story-69",
+    "id": "story-96",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -1838,7 +2259,7 @@
     "summary": "Medienanstalt in Ludwigshafen: Schüler zeigen Erzählkunst - ganz ohne Worte Zum Internationalen Tag der Gebärdensprache zeigen Schüler eine besonderen Erzählkunst aus der Gehörlosenkultur - auch eine Deaf Performerin ist in Ludwigshafen vor Ort."
   },
   {
-    "id": "story-70",
+    "id": "story-97",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -1856,7 +2277,7 @@
     "summary": "Technologie: Deutschland und Niederlande fördern Entwicklung von KI-Chips Die Entwicklung von KI-Prozessoren soll in Europa schneller vorangehen. Dafür kooperieren jetzt Deutschland und die Niederlande. Besonders in einem Gebiet gibt es Potenzial."
   },
   {
-    "id": "story-71",
+    "id": "story-98",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1874,7 +2295,7 @@
     "summary": "Merz warnt SPD vor der „Hölle“ – Bas und Klingbeil machen deutliche Ansage Die SPD-Parteichefs Lars Klingbeil und Bärbel Bas schalten sich in die Debatte um die Berliner Linkspartei ein. Bundeskanzler Merz zog vor der CDU-Fraktion einen brisanten Vergleich."
   },
   {
-    "id": "story-72",
+    "id": "story-99",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -1892,7 +2313,7 @@
     "summary": "USA und Iran sprechen wieder - erstmals seit Monaten Die USA und Iran haben wieder miteinander gesprochen. Kurz davor hatte Trump Teheran bei der UN-Generaldebatte mit Vernichtung gedroht, sollte es nicht bald ein Abkommen geben."
   },
   {
-    "id": "story-73",
+    "id": "story-100",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -1910,435 +2331,21 @@
     "summary": "Bikies, ‘moral compass malfunctions’ and corruption cost: Victoria’s Big Build royal commission holds first public hearing <p>Inquiry investigating allegations of corruption and criminal conduct on state’s $150bn pipeline of infrastructure projects to leave ‘no stone unturned’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The opening public h"
   },
   {
-    "id": "story-74",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "NI",
-    "date": "2026-09-23T05:51:03.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/bundesgericht-befasst-sich-mit-verbot-von-muslimischen-verein,radikalisierung-102.html",
-        "date": "2026-09-23T05:51:03.000Z",
-        "snippet": "Es geht um die \"Deutschsprachige Muslimische Gemeinschaft\" aus Braunschweig. Der Verein soll Muslime radikalisiert haben.",
-        "title": "Bundesgericht befasst sich mit Verbot von muslimischem Verein"
-      }
-    ],
-    "title": "Bundesgericht befasst sich mit Verbot von muslimischem Verein",
-    "summary": "Bundesgericht befasst sich mit Verbot von muslimischem Verein Es geht um die \"Deutschsprachige Muslimische Gemeinschaft\" aus Braunschweig. Der Verein soll Muslime radikalisiert haben."
-  },
-  {
-    "id": "story-75",
+    "id": "story-101",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-23T05:49:51.000Z",
+    "date": "2026-09-23T05:52:00.000Z",
     "sources": [
       {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/politik/inland/enteignungen-in-berlin-schaden-sie-den-berlinern-accg-201251004.html",
-        "date": "2026-09-23T05:49:51.000Z",
-        "snippet": "Enteignungen sind möglich – aber sie schaden den Berlinern. Das gilt auch für den Umgang der Linken mit Menschenverachtung. Jeder schmückt sich, wie er kann.",
-        "title": "Die Linke in Berlin: Erfolgreich enteignen und hetzen?"
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/spd-linke-antisemitismus-organisierte-kriminalitaet-berlin-regierungsbildung-100.html",
+        "date": "2026-09-23T05:52:00.000Z",
+        "snippet": "Die SPD-Bundesspitze hat sich zur Debatte um Antisemitismus in Teilen der Berliner Linken geäußert. Sie nimmt die Partei beim Umgang mit dem Thema in die Pflicht.",
+        "title": "SPD-Spitze schaltet sich in Debatte um Antisemitismus ein"
       }
     ],
-    "title": "Die Linke in Berlin: Erfolgreich enteignen und hetzen?",
-    "summary": "Die Linke in Berlin: Erfolgreich enteignen und hetzen? Enteignungen sind möglich – aber sie schaden den Berlinern. Das gilt auch für den Umgang der Linken mit Menschenverachtung. Jeder schmückt sich, wie er kann."
-  },
-  {
-    "id": "story-76",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:49:32.000Z",
-    "sources": [
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/politik/inland/berlin-ist-vergesellschaftung-von-wohnraum-moeglich-accg-201251909.html",
-        "date": "2026-09-23T05:49:32.000Z",
-        "snippet": "Darf Berlin das Eigentum von Immobilienkonzernen vergesellschaften? Und darf der Bund das durch ein Gesetz verhindern? Wir betreten verfassungsrechtliches Neuland.",
-        "title": "Vergesellschaftung: Der Kampf um die Berliner Wohnungen"
-      }
-    ],
-    "title": "Vergesellschaftung: Der Kampf um die Berliner Wohnungen",
-    "summary": "Vergesellschaftung: Der Kampf um die Berliner Wohnungen Darf Berlin das Eigentum von Immobilienkonzernen vergesellschaften? Und darf der Bund das durch ein Gesetz verhindern? Wir betreten verfassungsrechtliches Neuland."
-  },
-  {
-    "id": "story-77",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "SH",
-    "date": "2026-09-23T05:49:28.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/mehr-gruen-in-buesum-platz-an-heider-strasse-wird-entsiegelt,regionheidenews-3792.html",
-        "date": "2026-09-23T05:49:28.000Z",
-        "snippet": "Der Bauausschuss hat beschlossen: Vor den Supermärkten an der Heider Straße entsteht eine Grünfläche für 10.000 Euro.",
-        "title": "Mehr Grün in Büsum: Platz an Heider Straße wird entsiegelt"
-      }
-    ],
-    "title": "Mehr Grün in Büsum: Platz an Heider Straße wird entsiegelt",
-    "summary": "Mehr Grün in Büsum: Platz an Heider Straße wird entsiegelt Der Bauausschuss hat beschlossen: Vor den Supermärkten an der Heider Straße entsteht eine Grünfläche für 10.000 Euro."
-  },
-  {
-    "id": "story-78",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-09-23T05:49:23.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/die-invasive-quagga-muschel-stirbt-in-teilen-des-bodensees-ab-100.html",
-        "date": "2026-09-23T05:49:23.000Z",
-        "snippet": "Im Bodensee zwischen Allensbach und der Insel Reichenau scheint die Quagga-Muschel weniger zu werden. Konstanzer Mikrobiologen gehen der Ursache auf den Grund.",
-        "title": "Warum stirbt die Quagga-Muschel in Teilen des Bodensees ab?"
-      }
-    ],
-    "title": "Warum stirbt die Quagga-Muschel in Teilen des Bodensees ab?",
-    "summary": "Warum stirbt die Quagga-Muschel in Teilen des Bodensees ab? Im Bodensee zwischen Allensbach und der Insel Reichenau scheint die Quagga-Muschel weniger zu werden. Konstanzer Mikrobiologen gehen der Ursache auf den Grund."
-  },
-  {
-    "id": "story-79",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-09-23T05:49:15.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/spritpreise-adac-fordert-das-aus-fuer-die-12-uhr-regel,VW15lRd",
-        "date": "2026-09-23T05:49:15.000Z",
-        "snippet": "Der ADAC spricht sich dafür aus, die 12-Uhr-Regel an deutschen Tankstellen wieder abzuschaffen. Sie habe zwar Preisschwankungen reduziert, Autofahrer aber nicht entlastet. Wer nach 12 Uhr tanken muss, zahlt laut ADAC oft deutlich mehr.",
-        "title": "Spritpreise: ADAC fordert das Aus für die 12-Uhr-Regel"
-      }
-    ],
-    "title": "Spritpreise: ADAC fordert das Aus für die 12-Uhr-Regel",
-    "summary": "Spritpreise: ADAC fordert das Aus für die 12-Uhr-Regel Der ADAC spricht sich dafür aus, die 12-Uhr-Regel an deutschen Tankstellen wieder abzuschaffen. Sie habe zwar Preisschwankungen reduziert, Autofahrer aber nicht entlastet. Wer nach 12 Uhr tanken muss, zahlt laut ADAC oft deutlich mehr."
-  },
-  {
-    "id": "story-80",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:49:01.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/albertinum-gerolstein-soll-kriegsverbrecher-versteckt-haben-100.html",
-        "date": "2026-09-23T05:49:01.000Z",
-        "snippet": "Als Aufseher im Internat Albertinum hatte Johannes Arendt Kinder gequält und verprügelt. So steht es in einer Studie. Hat er sich dort versteckt, weil er Kriegsverbrecher war?",
-        "title": "Versteckte sich im Albertinum ein Kriegsverbrecher?"
-      }
-    ],
-    "title": "Versteckte sich im Albertinum ein Kriegsverbrecher?",
-    "summary": "Versteckte sich im Albertinum ein Kriegsverbrecher? Als Aufseher im Internat Albertinum hatte Johannes Arendt Kinder gequält und verprügelt. So steht es in einer Studie. Hat er sich dort versteckt, weil er Kriegsverbrecher war?"
-  },
-  {
-    "id": "story-81",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "SL",
-    "date": "2026-09-23T05:49:00.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Saarland",
-        "url": "https://www.tagesschau.de/inland/regional/saarland/sr-fuenf-jva-beamte-aus-dem-saarland-sollen-in-zweibruecker-frauengefaengnis-arbeiten-102.html",
-        "date": "2026-09-23T05:49:00.000Z",
-        "snippet": "Das Saarland will fünf Justizvollzugsbedienstete nach Rheinland-Pfalz versetzen. Sie sollen bei der Betreuung weiblicher Insassen aus dem Saarland in der JVA Zweibrücken unterstützen. Das rheinland-pfälzische Justizministerium hatte zuvor erheblichen Druck auf das Saarland ausgeübt, weil es zu viele weibliche Gefangene überstellt habe.",
-        "title": "Fünf JVA-Beamte aus dem Saarland sollen in Zweibrücker Frauengefängnis arbeiten"
-      }
-    ],
-    "title": "Fünf JVA-Beamte aus dem Saarland sollen in Zweibrücker Frauengefängnis arbeiten",
-    "summary": "Fünf JVA-Beamte aus dem Saarland sollen in Zweibrücker Frauengefängnis arbeiten Das Saarland will fünf Justizvollzugsbedienstete nach Rheinland-Pfalz versetzen. Sie sollen bei der Betreuung weiblicher Insassen aus dem Saarland in der JVA Zweibrücken unterstützen. Das rheinland-pfälzische Justizministerium hatte zuvor erheblichen Druck auf das Saarland ausgeübt, weil es zu viele weibliche Gefangene überstellt habe."
-  },
-  {
-    "id": "story-82",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "SL",
-    "date": "2026-09-23T05:49:00.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Saarland",
-        "url": "https://www.tagesschau.de/inland/regional/saarland/sr-investitionen-in-bus-und-bahn-lohnen-sich-fuer-das-saarland-100.html",
-        "date": "2026-09-23T05:49:00.000Z",
-        "snippet": "Investitionen in den ÖPNV lohnen sich für die saarländische Volkswirtschaft. Das besagt zumindest eine Studie im Auftrag des saarländischen Verkehrsministeriums. Dieses Argument will Verkehrsministerin Berg (SPD) nutzen, um in Berlin für weitere Investitionen zu werben.",
-        "title": "Investitionen in Bus und Bahn lohnen sich für das Saarland"
-      }
-    ],
-    "title": "Investitionen in Bus und Bahn lohnen sich für das Saarland",
-    "summary": "Investitionen in Bus und Bahn lohnen sich für das Saarland Investitionen in den ÖPNV lohnen sich für die saarländische Volkswirtschaft. Das besagt zumindest eine Studie im Auftrag des saarländischen Verkehrsministeriums. Dieses Argument will Verkehrsministerin Berg (SPD) nutzen, um in Berlin für weitere Investitionen zu werben."
-  },
-  {
-    "id": "story-83",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "SH",
-    "date": "2026-09-23T05:48:46.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/zugausfaelle-im-herbst-welche-strecken-in-schleswig-holstein-betroffen-sind,bahn3528.html",
-        "date": "2026-09-23T05:48:46.000Z",
-        "snippet": "In Schleswig-Holstein kommt es weiterhin zu Zugausfällen und Ersatzverkehr. Diese Strecken sind zum Ende der Urlaubszeit aktuell betroffen.",
-        "title": "Zugausfälle im Herbst: Welche Strecken in SH betroffen sind"
-      }
-    ],
-    "title": "Zugausfälle im Herbst: Welche Strecken in SH betroffen sind",
-    "summary": "Zugausfälle im Herbst: Welche Strecken in SH betroffen sind In Schleswig-Holstein kommt es weiterhin zu Zugausfällen und Ersatzverkehr. Diese Strecken sind zum Ende der Urlaubszeit aktuell betroffen."
-  },
-  {
-    "id": "story-84",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:47:56.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-09/23/warum-guenther-jetzt-ein-kurbelradio-hat",
-        "date": "2026-09-23T05:47:56.000Z",
-        "snippet": "",
-        "title": "Krisenvorsorge: Warum Günther jetzt ein Kurbelradio hat"
-      }
-    ],
-    "title": "Krisenvorsorge: Warum Günther jetzt ein Kurbelradio hat",
-    "summary": "Krisenvorsorge: Warum Günther jetzt ein Kurbelradio hat "
-  },
-  {
-    "id": "story-85",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:46:00.000Z",
-    "sources": [
-      {
-        "source": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-in-diesen-faellen-schaut-das-finanzamt-besonders-kritisch-hin/100105886.html",
-        "date": "2026-09-23T05:46:00.000Z",
-        "snippet": "Viele Steuererklärungen werden automatisch bearbeitet. Doch in einigen Fällen ist das Finanzamt besonders kritisch. Wann Steuerzahler unangenehmen Nachfragen zuvorkommen sollten.",
-        "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin"
-      }
-    ],
-    "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
-    "summary": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin Viele Steuererklärungen werden automatisch bearbeitet. Doch in einigen Fällen ist das Finanzamt besonders kritisch. Wann Steuerzahler unangenehmen Nachfragen zuvorkommen sollten."
-  },
-  {
-    "id": "story-86",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-23T05:45:26.000Z",
-    "sources": [
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/23/wednesday-briefing-can-burnham-seek-a-different-path-to-trumps-world-order",
-        "date": "2026-09-23T05:45:26.000Z",
-        "snippet": "<p>In today’s newsletter: The PM’s first face‑to‑face with​ the US president marks a fragile reset</p><p>Good morning. In the early hours of Tuesday a plane carrying Andy Burnham, a handful of UK ministers, an excited group of British political journalists, and Burnham’s wife, Marie France, landed at a New York airport for one of Burnham’s first major outings as prime minister: a face-to-face meeting with Donald Trump.</p><p>Considering the president once described Burnham as the mayor of “a town,” and the prime minister once said Trump wouldn’t be welcome in said town (Manchester), the meeting yesterday afternoon went remarkably well.</p><p><em><strong>UN general assembly </strong></em>| Do",
-        "title": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?"
-      }
-    ],
-    "title": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?",
-    "summary": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order? <p>In today’s newsletter: The PM’s first face‑to‑face with​ the US president marks a fragile reset</p><p>Good morning. In the early hours of Tuesday a plane carrying Andy Burnham, a handful of UK ministers, an excited group of British political journalists, and Burnham’s wife, Marie France, landed at a New York airport for one of Burnham’s first major outings as prime minister: a face-to-face meeting with Donald Trump.</p><p>Considering the president once described Burnham as the mayor of “a town,” and the prime minister once said Trump wouldn’t be welcome in said town (Manchester), the meeting yesterday afternoon went remarkably well.</p><p><em><strong>UN general assembly </strong></em>| Do"
-  },
-  {
-    "id": "story-87",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "MV",
-    "date": "2026-09-23T05:44:10.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/suedring-in-rostock-wird-stadteinwaerts-erneuert,mvregiorostock-4780.html",
-        "date": "2026-09-23T05:44:10.000Z",
-        "snippet": "Voraussichtlich bis 10. Oktober kommt es zu Einschränkungen. Der Verkehr wird auf einer Straßenseite in beide Richtungen geführt.",
-        "title": "Südring in Rostock wird stadteinwärts erneuert"
-      }
-    ],
-    "title": "Südring in Rostock wird stadteinwärts erneuert",
-    "summary": "Südring in Rostock wird stadteinwärts erneuert Voraussichtlich bis 10. Oktober kommt es zu Einschränkungen. Der Verkehr wird auf einer Straßenseite in beide Richtungen geführt."
-  },
-  {
-    "id": "story-88",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:44:05.000Z",
-    "sources": [
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-dienstag-bedienungen-mann-wiederbelebt-li.3549371",
-        "date": "2026-09-23T05:44:05.000Z",
-        "snippet": "Der 78-Jährige kollabiert in einem Biergarten, die Bedienungen retten ihm das Leben. Ein Mann wird nach Upskirting im Festzelt festgenommen.",
-        "title": "Oktoberfest: Kellnerinnen beleben Wiesnbesucher wieder"
-      }
-    ],
-    "title": "Oktoberfest: Kellnerinnen beleben Wiesnbesucher wieder",
-    "summary": "Oktoberfest: Kellnerinnen beleben Wiesnbesucher wieder Der 78-Jährige kollabiert in einem Biergarten, die Bedienungen retten ihm das Leben. Ein Mann wird nach Upskirting im Festzelt festgenommen."
-  },
-  {
-    "id": "story-89",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:43:18.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-09/23/september-sonne-temperaturkurve-zeigt-deutlich-nach-oben",
-        "date": "2026-09-23T05:43:18.000Z",
-        "snippet": "",
-        "title": "Warmes Wochenende: September-Sonne: Temperaturkurve zeigt deutlich nach oben"
-      }
-    ],
-    "title": "Warmes Wochenende: September-Sonne: Temperaturkurve zeigt deutlich nach oben",
-    "summary": "Warmes Wochenende: September-Sonne: Temperaturkurve zeigt deutlich nach oben "
-  },
-  {
-    "id": "story-90",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:43:10.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/sport/fussball/sc-freiburg-starker-saisonstart-100.html",
-        "date": "2026-09-23T05:43:10.000Z",
-        "snippet": "Mit sechs Siegen aus sieben Pflichtspielen hat der SC Freiburg einen tollen Start hingelegt. Der Erfolg ist kein Zufall, sondern Resultat kontinuierlicher Aufbauarbeit.",
-        "title": "Im Sport-Club-Style: Der Freiburger Weg in die Spitze"
-      }
-    ],
-    "title": "Im Sport-Club-Style: Der Freiburger Weg in die Spitze",
-    "summary": "Im Sport-Club-Style: Der Freiburger Weg in die Spitze Mit sechs Siegen aus sieben Pflichtspielen hat der SC Freiburg einen tollen Start hingelegt. Der Erfolg ist kein Zufall, sondern Resultat kontinuierlicher Aufbauarbeit."
-  },
-  {
-    "id": "story-92",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:42:38.000Z",
-    "sources": [
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/ein-nobody-gegen-putin-im-kino-201251635.html",
-        "date": "2026-09-23T05:42:38.000Z",
-        "snippet": "Der mit einem Oscar prämierte Dokumentarfilm „Ein Nobody gegen Putin“ zeigt, wie eine Schule am Ural mit Russlandstolz indoktriniert wird, gefilmt von einem Lehrer, der dadurch zum Spion wurde und fliehen musste.",
-        "title": "„Ein Nobody gegen russland“ im Kino: Die Schule als patriotische Anstalt"
-      }
-    ],
-    "title": "„Ein Nobody gegen russland“ im Kino: Die Schule als patriotische Anstalt",
-    "summary": "„Ein Nobody gegen russland“ im Kino: Die Schule als patriotische Anstalt Der mit einem Oscar prämierte Dokumentarfilm „Ein Nobody gegen Putin“ zeigt, wie eine Schule am Ural mit Russlandstolz indoktriniert wird, gefilmt von einem Lehrer, der dadurch zum Spion wurde und fliehen musste."
-  },
-  {
-    "id": "story-93",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:41:08.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-        "date": "2026-09-23T05:41:08.000Z",
-        "snippet": "Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten.",
-        "title": "Marktbericht: DAX leicht höher erwartet"
-      }
-    ],
-    "title": "Marktbericht: DAX leicht höher erwartet",
-    "summary": "Marktbericht: DAX leicht höher erwartet Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten."
-  },
-  {
-    "id": "story-94",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "NI",
-    "date": "2026-09-23T05:40:17.000Z",
-    "sources": [
-      {
-        "source": "NDR Niedersachsen",
-        "url": "https://www.ndr.de/ndr1niedersachsen/nachrichten-aus-studios-braunschweig-und-goettingen,audio-3493408.html",
-        "date": "2026-09-23T05:40:17.000Z",
-        "snippet": "Was in Ihrer Region wichtig ist, hören Sie in den Regional-Nachrichten auf NDR 1 Niedersachsen.",
-        "title": "Nachrichten aus den Studios Braunschweig und Göttingen"
-      }
-    ],
-    "title": "Nachrichten aus den Studios Braunschweig und Göttingen",
-    "summary": "Nachrichten aus den Studios Braunschweig und Göttingen Was in Ihrer Region wichtig ist, hören Sie in den Regional-Nachrichten auf NDR 1 Niedersachsen."
-  },
-  {
-    "id": "story-95",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "MV",
-    "date": "2026-09-23T05:40:08.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/neue-wohnungen-und-seniorencampus-fuer-dummerstorf-geplant,mvregiorostock-4778.html",
-        "date": "2026-09-23T05:40:08.000Z",
-        "snippet": "Die Gemeindevertreter haben den Bebauungsplan auf den Weg gebracht. Auch zahlreiche Mietwohnungen sollen entstehen.",
-        "title": "Neue Wohnungen und Seniorencampus für Dummerstorf geplant"
-      }
-    ],
-    "title": "Neue Wohnungen und Seniorencampus für Dummerstorf geplant",
-    "summary": "Neue Wohnungen und Seniorencampus für Dummerstorf geplant Die Gemeindevertreter haben den Bebauungsplan auf den Weg gebracht. Auch zahlreiche Mietwohnungen sollen entstehen."
-  },
-  {
-    "id": "story-96",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "NI",
-    "date": "2026-09-23T05:39:46.000Z",
-    "sources": [
-      {
-        "source": "NDR Niedersachsen",
-        "url": "https://www.ndr.de/ndr1niedersachsen/nachrichten-aus-dem-studio-osnabrueck,audio-3493416.html",
-        "date": "2026-09-23T05:39:46.000Z",
-        "snippet": "Was in Ihrer Region wichtig ist, hören Sie in den Regional-Nachrichten auf NDR 1 Niedersachsen.",
-        "title": "Nachrichten aus dem Studio Osnabrück"
-      }
-    ],
-    "title": "Nachrichten aus dem Studio Osnabrück",
-    "summary": "Nachrichten aus dem Studio Osnabrück Was in Ihrer Region wichtig ist, hören Sie in den Regional-Nachrichten auf NDR 1 Niedersachsen."
-  },
-  {
-    "id": "story-97",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:39:28.000Z",
-    "sources": [
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/debatte/plus6ab26491a15a9fecb668b6bf/statistik-sechs-unangenehme-wahrheiten-fuer-alle-parteien.html",
-        "date": "2026-09-23T05:39:28.000Z",
-        "snippet": "Die Statistik zu den Wahlen in Berlin und Mecklenburg-Vorpommern hält negative Botschaften bereit – für CDU, FDP, Linke, Grüne, SPD und AfD.",
-        "title": "Sechs unangenehme Wahrheiten – für alle Parteien"
-      }
-    ],
-    "title": "Sechs unangenehme Wahrheiten – für alle Parteien",
-    "summary": "Sechs unangenehme Wahrheiten – für alle Parteien Die Statistik zu den Wahlen in Berlin und Mecklenburg-Vorpommern hält negative Botschaften bereit – für CDU, FDP, Linke, Grüne, SPD und AfD."
-  },
-  {
-    "id": "story-98",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T05:38:49.000Z",
-    "sources": [
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/geschichte/article6aa98dcd9cfc210a32c4aa02/usa-missbraucht-trump-sein-amt-ein-mythos-dass-die-praesidentschaft-schwach-sein-sollte.html",
-        "date": "2026-09-23T05:38:49.000Z",
-        "snippet": "Um die tiefe Polarisierung der US-Gesellschaft im 250. Jahr ihres Bestehens zu verstehen, gibt es kaum einen besseren Ort als Philadelphia, die Wiege der amerikanischen Republik. Wer sich hier umhört, versteht, warum Donald Trump so selten von den Gerichten ausgebremst wird.",
-        "title": "Missbraucht Trump sein Amt? „Ein Mythos, dass die Präsidentschaft schwach sein sollte“"
-      }
-    ],
-    "title": "Missbraucht Trump sein Amt? „Ein Mythos, dass die Präsidentschaft schwach sein sollte“",
-    "summary": "Missbraucht Trump sein Amt? „Ein Mythos, dass die Präsidentschaft schwach sein sollte“ Um die tiefe Polarisierung der US-Gesellschaft im 250. Jahr ihres Bestehens zu verstehen, gibt es kaum einen besseren Ort als Philadelphia, die Wiege der amerikanischen Republik. Wer sich hier umhört, versteht, warum Donald Trump so selten von den Gerichten ausgebremst wird."
+    "title": "SPD-Spitze schaltet sich in Debatte um Antisemitismus ein",
+    "summary": "SPD-Spitze schaltet sich in Debatte um Antisemitismus ein Die SPD-Bundesspitze hat sich zur Debatte um Antisemitismus in Teilen der Berliner Linken geäußert. Sie nimmt die Partei beim Umgang mit dem Thema in die Pflicht."
   }
 ]
