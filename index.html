@@ -443,12 +443,14 @@ let drag=null;
 document.addEventListener('touchstart',e=>{if(!e.target.closest('.grip'))return;drag={y:e.touches[0].clientY,dy:0}},{passive:true});
 document.addEventListener('touchmove',e=>{if(!drag)return;drag.dy=Math.max(0,e.touches[0].clientY-drag.y);const s=$('.sheet');if(s){s.style.transition='none';s.style.transform='translateY('+drag.dy+'px)'}},{passive:true});
 document.addEventListener('touchend',()=>{if(!drag)return;const s=$('.sheet');if(s){s.style.transition='';s.style.transform=''}const far=drag.dy>90;drag=null;if(far)closeSheet()});
-window.addEventListener('scroll',()=>{$('#navbar').classList.toggle('scrolled',window.scrollY>44)},{passive:true});
+function syncNavbar(){ $('#navbar').classList.toggle('scrolled',window.scrollY>44); }
+window.addEventListener('scroll',syncNavbar,{passive:true});
+syncNavbar();
 
 function updateDateTime(){
   const now=new Date();
   const date=new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long'}).format(now);
-  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(now);
+  const time=new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit',second:'2-digit'}).format(now);
   $('#dateSub').textContent=date+' · '+time+' Uhr';
 }
 updateDateTime();
