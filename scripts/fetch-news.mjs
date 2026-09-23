@@ -225,6 +225,100 @@ const feeds=[
     "DE"
   ],
   [
+    "ZDF heute",
+    "https://www.zdf.de/rss/zdf/nachrichten",
+    "DE"
+  ],
+  [
+    "DER SPIEGEL",
+    "https://www.spiegel.de/schlagzeilen/index.rss",
+    "DE"
+  ],
+  [
+    "ZEIT ONLINE",
+    "https://newsfeed.zeit.de/index",
+    "DE"
+  ],
+  [
+    "Frankfurter Allgemeine",
+    "https://www.faz.net/rss/aktuell/",
+    "DE"
+  ],
+  [
+    "Süddeutsche Zeitung",
+    "https://rss.sueddeutsche.de/rss/Topthemen",
+    "DE"
+  ],
+  [
+    "WELT",
+    "https://www.welt.de/feeds/latest.rss",
+    "DE"
+  ],
+  [
+    "ntv",
+    "https://www.n-tv.de/rss",
+    "DE"
+  ],
+  [
+    "FOCUS online",
+    "https://rss.focus.de/fol/XML/rss_folnews.xml",
+    "DE"
+  ],
+  [
+    "Handelsblatt",
+    "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+    "DE",
+    "wirtschaft"
+  ],
+  [
+    "heise online",
+    "https://www.heise.de/rss/heise-atom.xml",
+    "DE",
+    "technik"
+  ],
+  [
+    "kicker",
+    "https://rss.kicker.de/news/aktuell",
+    "DE",
+    "sport"
+  ],
+  [
+    "SWR Aktuell",
+    "https://www.swr.de/~rss/swraktuell/swraktuell-100.xml",
+    "DE"
+  ],
+  [
+    "SWR Aktuell Baden-Württemberg",
+    "https://www.swr.de/~rss/swraktuell/swraktuell-bw-100.xml",
+    "DE",
+    null,
+    "BW"
+  ],
+  [
+    "SWR Aktuell Rheinland-Pfalz",
+    "https://www.swr.de/~rss/swraktuell/swraktuell-rp-100.xml",
+    "DE",
+    null,
+    "RP"
+  ],
+  [
+    "MDR",
+    "https://www.mdr.de/nachrichten/mdr-homepage-146-rss.xml",
+    "DE"
+  ],
+  [
+    "Bundesregierung",
+    "https://www.bundesregierung.de/breg-de/service/rss",
+    "DE",
+    "politik"
+  ],
+  [
+    "Presseportal Politik",
+    "https://www.presseportal.de/rss/pm",
+    "DE",
+    "politik"
+  ],
+  [
     "BBC World",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "UK"
