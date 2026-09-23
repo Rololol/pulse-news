@@ -13,12 +13,13 @@ main{max-width:760px;margin:0 auto;padding:0 18px 60px}.nav{height:58px;display:
 h1{margin:0 0 8px;font-size:32px}h2{margin:28px 0 8px;font-size:20px}p{margin:8px 0}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}.back{display:inline-block;margin-bottom:16px;font-weight:600}
 html[data-theme=dark]{--bg:#000;--card:#1c1c1e;--text:#fff;--muted:rgba(235,235,245,.62);--link:#0A84FF;--fill:rgba(118,118,128,.24)}
 </style>
+<link rel="stylesheet" href="./assets/settings.css">
 </head>
 <body><main>
 <header class="nav">
 <a class="back" href="./index.html" aria-label="Zurück zu Pulse">← Pulse</a>
 <img src="assets/pulse-logo.svg" alt="Pulse">
-<button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button>
+<button class="theme" id="settingsToggle" type="button" aria-label="Einstellungen"></button>
 </header>
 <article>
 <h1>Datenschutzerklärung</h1>
@@ -48,4 +49,5 @@ html[data-theme=dark]{--bg:#000;--card:#1c1c1e;--text:#fff;--muted:rgba(235,235,
 <h2>9. Änderungen</h2>
 <p>Diese Erklärung kann angepasst werden, wenn sich die technische oder rechtliche Ausgestaltung von Pulse ändert. Maßgeblich ist jeweils die aktuell auf dieser Webseite veröffentlichte Fassung.</p>
 <p><a href="./index.html">Pulse Startseite</a> · <a href="./impressum.html">Impressum</a></p>
-</article></main><script>const key='pulse-theme',root=document.documentElement,b=document.getElementById('theme');function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply()</script></body></html>
+</article></main><script src="./assets/settings.js"></script>
+</body></html>
