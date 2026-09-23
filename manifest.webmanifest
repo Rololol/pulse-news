@@ -1,0 +1,12 @@
+{
+  "name": "Pulse News",
+  "short_name": "Pulse",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#007AFF",
+  "lang": "de",
+  "icons": [
+    {"src":"./assets/pulse-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
