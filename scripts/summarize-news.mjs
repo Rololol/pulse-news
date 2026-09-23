@@ -56,8 +56,7 @@ const schema={
     p:{type:"integer",minimum:1,maximum:5},
     agree:{type:"string"},
     chg:{type:"string"},
-    diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}},
-    chg:{type:"string"}
+    diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}}
   },
   required:["t","s","m","r","k","p","agree","diff","c"]
 };
@@ -80,7 +79,7 @@ ${sourceText}`;
       contents:[{role:"user",parts:[{text:prompt}]}],
       generationConfig:{
         temperature:0.15,
-        maxOutputTokens:500,
+        maxOutputTokens:700,
         response_mime_type:"application/json",
         response_schema:schema
       }
@@ -118,7 +117,7 @@ ${sourceText}`;
   parsed.agree=clean(parsed.agree||"").slice(0,260);
   parsed.chg=clean(parsed.chg||"").slice(0,420);
   // Zahlen müssen in den gelieferten Quellen vorkommen.
-  const sourceNumbers=new Set((sourceText.match(/\\b\\d[\\d.,%/-]*\\b/g)||[]).map(x=>x.replace(/[^\\d]/g,"")));
+  const sourceNumbers=new Set((sourceText.match(/\b\d[\d.,%/-]*\b/g)||[]).map(x=>x.replace(/[^\\d]/g,"")));
   const outputNumbers=(parsed.s+" "+parsed.m+" "+parsed.r).match(/\\b\\d[\\d.,%/-]*\\b/g)||[];
   for(const n of outputNumbers){const key=n.replace(/[^\\d]/g,"");if(key.length>=2&&!sourceNumbers.has(key))throw new Error("Qualitätsprüfung: Zahl nicht in Quelle belegt")};
   parsed.diff=Array.isArray(parsed.diff)?parsed.diff.filter(x=>x&&x.name&&x.note).slice(0,6).map(x=>({name:clean(x.name),note:clean(x.note).slice(0,280)})):[];
