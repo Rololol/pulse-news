@@ -9,6 +9,8 @@ const outputFile="data.json";
 const archiveDir="data/archive";
 const archiveIndexFile=`${archiveDir}/index.json`;
 const cacheFile="data/ai-cache.json";
+let previousCurrent=[];
+try{previousCurrent=JSON.parse(await fs.readFile(outputFile,"utf8"))}catch{}
 
 const raw=JSON.parse(await fs.readFile(inputFile,"utf8"));
 let cache={};
@@ -52,17 +54,20 @@ const schema={
     c:{type:"string",enum:["DE","INT"]},
     p:{type:"integer",minimum:1,maximum:5},
     agree:{type:"string"},
-    diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}}
+    chg:{type:"string"},
+    diff:{type:"array",items:{type:"object",properties:{name:{type:"string"},note:{type:"string"}},required:["name","note"]}},
+    chg:{type:"string"}
   },
   required:["t","s","m","r","k","p","agree","diff","c"]
 };
 
-async function ask(item){
+async function ask(item,previous){
   const sourceText=(item.sources||[]).slice(0,8).map((src,i)=>
     "["+(src.source||"Quelle "+(i+1))+"]\n"+clean(src.title||"")+"\n"+clean(src.snippet||"")
   ).join("\n\n");
+  const previousText=previous?`Vorheriger Pulse-Stand:\nKurzfassung: ${clean(previous.s||"")}\nWas bisher bekannt ist: ${clean(previous.m||"")}`:"";
   const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m und agree auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
-{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"Kurzfassung: Was ist passiert? 3-4 informative Sätze, max. 500 Zeichen. Nenne die wichtigsten Fakten und den aktuellen Stand, ohne Inhalte aus m unnötig vorwegzunehmen.","m":"Was ist bisher bekannt? 6-8 informative Sätze, max. 1200 Zeichen. Liefere deutlich mehr Kontext als s: zeitlicher Ablauf, konkrete Zahlen, beteiligte Akteure, Hintergründe, Folgen und offene Punkte, soweit die Quellen dies hergeben. Wiederhole s nicht einfach, sondern ergänze neue Informationen.","r":"Warum ist die Meldung relevant? 2-3 nüchterne Sätze, max. 400 Zeichen, nur aus den gelieferten Informationen ableiten","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
+{"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"Kurzfassung: Was ist passiert? 3-4 informative Sätze, max. 500 Zeichen. Nenne die wichtigsten Fakten und den aktuellen Stand, ohne Inhalte aus m unnötig vorwegzunehmen.","m":"Was ist bisher bekannt? 6-8 informative Sätze, max. 1200 Zeichen. Liefere deutlich mehr Kontext als s: zeitlicher Ablauf, konkrete Zahlen, beteiligte Akteure, Hintergründe, Folgen und offene Punkte, soweit die Quellen dies hergeben. Wiederhole s nicht einfach, sondern ergänze neue Informationen.","r":"Warum ist die Meldung relevant? 2-3 nüchterne Sätze, max. 400 Zeichen, nur aus den gelieferten Informationen ableiten","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","chg":"Wenn ein Vorheriger Pulse-Stand vorhanden ist: 1-3 Sätze nur zu neuen oder geänderten bestätigten Informationen. Wenn nichts Wesentliches neu ist oder kein Vorheriger Pulse-Stand vorhanden ist: leerer String.","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
 Wenn es keine Abweichungen gibt, gib diff als leeres Array zurück. Erfinde nichts, das nicht in den gelieferten Texten steht. Bei nur einer Quelle bleiben agree und diff leer.
 Quellen:
 ${sourceText}`;
@@ -110,6 +115,11 @@ ${sourceText}`;
   parsed.c=parsed.c==="DE"?"DE":"INT";
   parsed.p=Math.min(5,Math.max(1,Math.round(Number(parsed.p)||1)));
   parsed.agree=clean(parsed.agree||"").slice(0,260);
+  parsed.chg=clean(parsed.chg||"").slice(0,420);
+  // Zahlen müssen in den gelieferten Quellen vorkommen.
+  const sourceNumbers=new Set((sourceText.match(/\\b\\d[\\d.,%/-]*\\b/g)||[]).map(x=>x.replace(/[^\\d]/g,"")));
+  const outputNumbers=(parsed.s+" "+parsed.m+" "+parsed.r).match(/\\b\\d[\\d.,%/-]*\\b/g)||[];
+  for(const n of outputNumbers){const key=n.replace(/[^\\d]/g,"");if(key.length>=2&&!sourceNumbers.has(key))throw new Error("Qualitätsprüfung: Zahl nicht in Quelle belegt")};
   parsed.diff=Array.isArray(parsed.diff)?parsed.diff.filter(x=>x&&x.name&&x.note).slice(0,6).map(x=>({name:clean(x.name),note:clean(x.note).slice(0,280)})):[];
   // Qualitätsprüfung: Kurzfassung und Kontext dürfen nicht nahezu identisch sein.
   const sWords=new Set(parsed.s.toLowerCase().split(/\s+/).filter(w=>w.length>=5));
@@ -163,14 +173,14 @@ let generated=0,fallbacks=0,failures=0;
 for(const item of ranked){
   const srcs=(item.sources||[]).slice(0,8).map(s=>({name:s.source,url:s.url,date:s.date}));
   const signature=(item.sources||[]).map(s=>s.url).join("|");
-  const key=hashKey("v5-de-detail|"+item.id+"|"+signature+"|"+(item.stateHint||""));
+  const key=hashKey("v6-quality-changes|"+item.id+"|"+signature+"|"+(item.stateHint||""));
   let ai=cache[key];
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey){
       // Kosten-Schutz: höchstens ein Gemini-Aufruf pro neuer Meldung; 429/Quota wird nicht erneut versucht.
       for(let attempt=0;attempt<3;attempt++){
-        try{ai=await ask(item);generated++;usedGemini=true;break}
+        try{ai=await ask(item,previousCurrent.find(x=>x.id===stableId(signature+"|"+(item.stateHint||"")))||previousCurrent.find(x=>jaccard(x.t||"",item.title)>=0.55));generated++;usedGemini=true;break}
         catch(e){
           if(e.status===429||!e.retryable||attempt===2){failures++;break}
           const retry=Number(e.retryAfter);
@@ -185,7 +195,7 @@ for(const item of ranked){
   output.push({
     id:stableId(signature+"|"+(item.stateHint||"")),c:ai.c||countryMap[item.country]||"INT",k:ai.k||categoryMap[item.topic]||"panorama",
     lang:"de",d:item.date,p:ai.p||1,st:item.stateHint||"",city:"",t:ai.t,s:ai.s,m:ai.m,r:ai.r||"",
-    srcs,url:srcs[0]?.url||"",agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[]
+    srcs,url:srcs[0]?.url||"",agree:srcs.length>1?(ai.agree||""):"",diff:srcs.length>1?(ai.diff||[]):[],chg:ai.chg||"",independent:[...new Set(srcs.map(s=>{try{return new URL(s.url).hostname.replace(/^www\\./,"")}catch{return s.name||""}}).filter(Boolean))].length
   });
   await sleep(apiKey?6000:0);
 }
