@@ -1,5 +1,59 @@
 [
   {
+    "id": "story-c1ea40bc5fdd3905",
+    "c": "INT",
+    "o": "PT",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T10:52:21.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "OECD: Künstliche Intelligenz hilft in der Energiekrise, verbraucht aber viel",
+    "s": "Ein am Mittwoch veröffentlichter Bericht der OECD beleuchtet die Rolle der Künstlichen Intelligenz (KI) in der globalen Energiekrise. Einerseits bietet die Technologie Lösungen zur Steigerung der Energieeffizienz. Andererseits erweist sie sich selbst als massiver Energieverbraucher.",
+    "m": "Die Dualität der Künstlichen Intelligenz im Kontext der globalen Energiekrise steht im Fokus eines neuen OECD-Berichts, der am Mittwoch vorgestellt wurde. Laut den Untersuchungsergebnissen entwickelt sich KI zu einem zentralen Instrument, um die wirtschaftlichen Folgen der Energiekrise zu dämpfen. Gleichzeitig wirft der Bericht die Frage auf, wie nachhaltig diese Entwicklung ist, da die Systeme selbst enorme Energiemengen beanspruchen. Die Veröffentlichung beleuchtet damit sowohl das Potenzial zur Optimierung als auch den eigenen Ressourcenhunger der Technologie.",
+    "r": "Die Untersuchung zeigt das Spannungsfeld zwischen dem Nutzen von KI zur Bewältigung der Energiekrise und ihrem eigenen hohen Energiebedarf auf. Dies ist relevant für die künftige wirtschaftliche und ökologische Bewertung von Zukunftstechnologien.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/inteligencia-artificial-oferece-solucoes-na-eficiencia-energetica-mas-e-ela-mesmo-um-super-consumidor_n1767197",
+        "date": "2026-09-23T10:52:21.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/inteligencia-artificial-oferece-solucoes-na-eficiencia-energetica-mas-e-ela-mesmo-um-super-consumidor_n1767197",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-614d47ccff7a3e75",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T10:50:46.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Polizei in Portugal nimmt fünf Verdächtige nach Operation fest",
+    "s": "Die portugiesische Kriminalpolizei hat im Rahmen der Operation „Rodízio“ fünf Personen festgenommen. Die Verdächtigen werden beschuldigt, in Verbrechen wie Entführung und Drogenhandel verwickelt zu sein. Die Festnahmen erfolgten in den Regionen Lissabon und Alto Minho.",
+    "m": "Die Kriminalpolizei PJ führte die Operation „Rodízio“ durch und nahm dabei insgesamt fünf mutmaßliche Täter fest. Zu den Vorwürfen gegen die Festgenommenen gehören neben Entführung auch schwere Körperverletzung, schwere Nötigung und Drogenhandel. Die Polizeiaktion erstreckte sich über die geografischen Gebiete Lissabon sowie Alto Minho. Nähere Details zu den Hintergründen der Taten oder den Identitäten der Verdächtigen wurden zunächst nicht genannt. Die Ermittlungen dauern an, um das genaue Ausmaß der kriminellen Aktivitäten zu klären.",
+    "r": "Die Festnahme von fünf Personen durch die Kriminalpolizei wegen schwerer Delikte wie Entführung und Drogenhandel ist von Bedeutung für die Sicherheitslage in den betroffenen Regionen. Sie zeigt das Vorgehen der Behörden gegen organisierte Kriminalität in Portugal.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/operacao-rodizio-pj-faz-cinco-detidos-por-crimes-de-rapto_n1767196",
+        "date": "2026-09-23T10:50:46.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/operacao-rodizio-pj-faz-cinco-detidos-por-crimes-de-rapto_n1767196",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-8ee5e6c010d29f79",
     "c": "INT",
     "k": "panorama",
@@ -28,16 +82,17 @@
   {
     "id": "story-1d2a409b831d3922",
     "c": "INT",
+    "o": "PT",
     "k": "politik",
     "lang": "de",
     "d": "2026-09-23T10:25:18.000Z",
-    "p": 2,
+    "p": 1,
     "st": "",
     "city": "",
-    "t": "EU-Kommission schlägt Freigabe von EU-Kohäsionsfonds für Ungarn vor",
-    "s": "Die Europäische Kommission unter Ursula von der Leyen schlägt vor, Kohäsionsmittel für Ungarn in Höhe von 4,2 Milliarden Euro freizugeben. Hintergrund sind wichtige Maßnahmen, die Budapest ergriffen hat. Die formelle Annahme dieses Vorschlags steht im Rahmen des Europäischen Rates noch durch die Mitgliedstaaten aus.",
-    "m": "Die Europäische Kommission hat einen Vorschlag zur Wiederfreigabe von EU-Kohäsionsfonds für Ungarn vorgelegt, nachdem wichtige Maßnahmen umgesetzt wurden. Das finanzielle Volumen dieses Vorhabens beläuft sich auf 4,2 Milliarden Euro. Damit die Freigabe der Gelder endgültig wirksam wird, ist eine formelle Annahme durch die Mitgliedstaaten im Europäischen Rat erforderlich. Derzeit ist dieser Schritt noch nicht erfolgt, sondern der Vorschlag muss von den EU-Staaten im Rat noch beschlossen werden. Die Initiative geht von der Kommission unter der Leitung von Ursula von der Leyen aus. Bislang wurden keine weiteren Details zu den konkreten ungarischen Reformschritten oder dem genauen Zeitplan für die Abstimmung im Rat genannt. Es bleibt somit abzuwarten, wie die Mitgliedstaaten auf den Kommissionsvorschlag reagieren werden.",
-    "r": "Die Freigabe von EU-Milliardenhilfen betrifft die finanzielle und politische Zusammenarbeit zwischen der Europäischen Union und Ungarn. Die Entscheidung der Mitgliedstaaten im Europäischen Rat wird zeigen, ob der Kurs der Kommission breite Unterstützung findet.",
+    "t": "\"Medidas importantes\" levam Bruxelas a reabrir torneira de fundos de coesão à Hungria",
+    "s": "A proposta da Comissão de Ursula von der Leyen, que envolve 4,2 mil milhões de euros, terá ainda de ser formalmente adotada pelos Estados-membros, no âmbito do Conselho Europeu.",
+    "m": "A proposta da Comissão de Ursula von der Leyen, que envolve 4,2 mil milhões de euros, terá ainda de ser formalmente adotada pelos Estados-membros, no âmbito do Conselho Europeu.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
     "srcs": [
       {
         "name": "RTP Notícias",
@@ -46,6 +101,894 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/medidas-importantes-levam-bruxelas-a-reabrir-torneira-de-fundos-de-coesao-a-hungria_n1767190",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-5005c53fce32bc86",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:55:44.000Z",
+    "p": 1,
+    "st": "MV",
+    "city": "",
+    "t": "Motorradfahrer bei Verkehrsunfall in Kemnitz leicht verletzt",
+    "s": "Bei einem Verkehrsunfall in Kemnitz wurde ein Motorradfahrer leicht verletzt. Ein Autofahrer hatte ihn beim Abbiegen übersehen. Die Straße war infolgedessen für rund eine Stunde voll gesperrt.",
+    "m": "Der Unfall ereignete sich, als ein Autofahrer nach links abbiegen wollte und dabei den entgegenkommenden oder überholten Motorradfahrer übersah. Infolge der Kollision erlitt der Kradfahrer leichte Verletzungen. Die Einsatzkräfte mussten die betroffene Strecke für etwa eine Stunde komplett sperren, um die Unfallstelle zu sichern und die Fahrzeuge zu bergen. Nähere Angaben zum genauen Hergang, zum Sachschaden oder zur Identität der Beteiligten liegen derzeit nicht vor.",
+    "r": "Die Meldung ist relevant für die Verkehrssicherheit und lokale Berichterstattung über Verkehrsbehinderungen in Mecklenburg-Vorpommern.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/l26-motorradfahrer-in-kemnitz-leicht-verletzt,mvregiogreifswald-5602.html",
+        "date": "2026-09-23T09:55:44.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/l26-motorradfahrer-in-kemnitz-leicht-verletzt,mvregiogreifswald-5602.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-e9dbb28277eccb3b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:55:43.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "Badetote im Norden: Männer ertrinken dreimal häufiger als Frauen",
+    "s": "Die Deutsche Lebens-Rettungs-Gesellschaft (DLRG) hat alarmierende Zahlen zu Badetoten im Norden veröffentlicht. Demnach sind auffällig viele Männer unter den verunglückten Schwimmern zu beklagen. Statistisch gesehen ertrinken Männer im Norden dreimal häufiger als Frauen.",
+    "m": "Nach aktuellen Angaben der DLRG für den Norden zeigt sich ein deutliches Ungleichgewicht bei Badetoten zwischen den Geschlechtern. Männer sind in diesem Bereich massiv überrepräsentiert und ertrinken rund dreimal so häufig wie Frauen. Diese Statistik wirft Fragen nach dem Risikoverhalten und der Selbsteinschätzung von Männern im Wasser auf. Die DLRG nutzt solche Daten regelmäßig, um gezielte Präventions- und Aufklärungsmaßnahmen zu entwickeln. Bislang wurden keine weiteren Details zu den genauen Umständen der einzelnen Vorfälle oder den Altersstrukturen der Betroffenen in dieser Meldung genannt.",
+    "r": "Die Auswertung der DLRG liefert wichtige Erkenntnisse über Risikogruppen im Wassersport und an Badestellen. Solche Statistiken sind entscheidend für die Ausrichtung künftiger Präventions- und Rettungskampagnen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/20-badetote-in-schleswig-holstein-dlrg-zieht-sommerbilanz,dlrg-234.html",
+        "date": "2026-09-23T09:55:43.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/20-badetote-in-schleswig-holstein-dlrg-zieht-sommerbilanz,dlrg-234.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-9f9d485e01aa31e7",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:54:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wie Deutschlands größter Pharmakonzern Führungskräfte nach Ingelheim lockt",
+    "s": "Deutschlands größter Pharmakonzern in Ingelheim ist erfolgreich bei der Gewinnung von Führungskräften. Durch spezielle Programme gelingt es dem Unternehmen, Spitzenkräfte anzuziehen und langfristig an sich zu binden. Ein Test soll veranschaulichen, welche Qualifikationen dafür erforderlich sind.",
+    "m": "Das Unternehmen positioniert sich als Weltspitze in der Provinz und setzt auf gezielte Maßnahmen zur Personalentwicklung. Die Programme zur Führungskräfteentwicklung sorgen dafür, dass das Personal dem Konzern überdurchschnittlich lange treu bleibt. Ingelheim hat sich dadurch zu einem stark nachgefragten Standort für internationale Talente der Pharmabranche entwickelt. Der genaue Inhalt oder Ablauf des erwähnten Tests wird im Detail nicht weiter beschrieben. Auch finanzielle Anreize oder konkrete Kennzahlen zu den Abwanderungs- und Verbleibraten werden in der Quelle nicht genannt. Die langfristige Bindung der Mitarbeiter steht im Zentrum der geschilderten Strategie.",
+    "r": "Die erfolgreiche Mitarbeitergewinnung und -bindung eines der größten deutschen Pharmakonzerne zeigt auf, wie ländliche Standorte im globalen Wettbewerb um Führungskräfte bestehen können. Dies ist ein wichtiger Faktor für die wirtschaftliche Stabilität und Innovationskraft der Pharmabranche in Deutschland.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-wie-gewinnt-boehringer-ingelheim-die-talente-der-konkurrenz/100251886.html",
+        "date": "2026-09-23T09:54:00.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-wie-gewinnt-boehringer-ingelheim-die-talente-der-konkurrenz/100251886.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-307f17daae486e63",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:53:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Oli.P kehrt nach 27 Jahren zu GZSZ zurück",
+    "s": "Der Musiker und Schauspieler Oliver Petszokat kehrt für einen kurzen Auftritt zu der RTL-Daily-Soap Gute Zeiten, schlechte Zeiten zurück. Er schlüpft noch einmal in seine Rolle als Ricky Marquart, die ihn in den späten Neunzigerjahren bekannt machte. Die Rückkehr ist für zwei Folgen geplant.",
+    "m": "Oliver Petszokat, bekannt als Oli.P, übernimmt erneut seine frühere Rolle des Ricky Marquart in der Serie Gute Zeiten, schlechte Zeiten. Diese Rolle hatte ihn Ende der Neunzigerjahre zu einem gefeierten Teenie-Liebling gemacht und den Grundstein für seine Karriere als Schlagerstar gelegt. Nach 27 Jahren Pause ist der Schauspieler nun wieder in der Daily-Soap zu sehen. Sein Comeback beschränkt sich allerdings auf einen kurzen Auftritt von zwei Folgen. Ob weitere Einsätze in der Zukunft geplant sind, geht aus den vorliegenden Informationen nicht hervor.",
+    "r": "Die Rückkehr bekannter Fernsehfiguren nach langer Zeit hat einen hohen Nostalgiewert für Fans langlebiger Serienformate wie GZSZ. Solche Comebacks von Prominenten aus den Neunzigerjahren generieren regelmäßig mediale Aufmerksamkeit.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/tv/oli-p-kehrt-nach-27-jahren-zu-gzsz-zurueck-als-ricky-marquart-a-a073b190-de9a-4459-bc3f-5c8e000cfb22#ref=rss",
+        "date": "2026-09-23T09:53:00.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/kultur/tv/oli-p-kehrt-nach-27-jahren-zu-gzsz-zurueck-als-ricky-marquart-a-a073b190-de9a-4459-bc3f-5c8e000cfb22#ref=rss",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-3f66d1fda151a844",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:51:50.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj reist zur UN-Generalversammlung in New York",
+    "s": "Der ukrainische Präsident Wolodymyr Selenskyj wird bei der UN-Generalversammlung in New York sprechen. Am zweiten Tag der UNGA werden zudem Reden weiterer europäischer Staats- und Regierungschefs erwartet. Währenddessen kam es in Kiew in den vergangenen Tagen zu massiven Angriffen mit neuen, schnelleren Shahed-Drohnen.",
+    "m": "Die UN-Generalversammlung in New York geht in ihren zweiten Tag, an dem europäische Führer ihre Reden halten werden. Der ukrainische Präsident Wolodymyr Selenskyj wird dort den Fall der Ukraine präsentieren. Gleichzeitig geriet die ukrainische Hauptstadt Kiew in den letzten zwei Tagen unter besonders schwere Angriffe. Dabei wurden strahlgetriebene Shahed-Drohnen eingesetzt, die schneller und schwieriger abzufangen sind als frühere Modelle. Berichten zufolge sollen in Kiew später auch Trump und Xi zusammentreffen. Offene Punkte betreffen den genauen Verlauf und die diplomatischen Folgen dieser Treffen sowie die Abwehr der neuen Luftangriffe.",
+    "r": "Die Entwicklungen bei der UN-Generalversammlung und die militärische Lage in Kiew sind für die internationale Politik und Sicherheit von hoher Bedeutung. Die Angriffe mit neuen Drohnentypen verdeutlichen die Eskalation der Luftangriffe im Konflikt.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+        "date": "2026-09-23T09:51:50.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f8101b79662762c0",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T09:51:37.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "SC Magdeburg empfängt Wetzlar im DHB-Pokal",
+    "s": "Der SC Magdeburg trifft im DHB-Pokal auf die HSG Wetzlar. Dies geht aus den aktuellen Magdeburg-News vom 23. September 2026 hervor. Weitere Details zum genauen Ablauf oder Spieltermin wurden in der Kurzmeldung nicht genannt.",
+    "m": "Am 23. September 2026 wurde bekannt, dass der SC Magdeburg im DHB-Pokal die Mannschaft von Wetzlar empfängt. Die Meldung stammt aus den Magdeburg-News als Teil eines täglichen News-Updates für die Landeshauptstadt. Konkrete Angaben zum Datum der Partie, zum Austragungsort oder zu bisherigen Begegnungen beider Teams enthält der Text nicht. Auch über den weiteren Turnierverlauf oder mögliche Kaderveränderungen ist in der Quelle nichts vermerkt. Es handelt sich um eine Vorankündigung der Pokalpaarung im Rahmen der lokalen Berichterstattung.",
+    "r": "Die Begegnung im DHB-Pokal ist für Fans und Beobachter des SC Magdeburg sowie der HSG Wetzlar von sportlichem Interesse. Solche Vorankündigungen informieren über kommende sportliche Ereignisse in der Region.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/regionales/sachsen-anhalt/article6ab39e2da15a9fecb668ca42/sc-magdeburg-empfaengt-wetzlar-im-dhb-pokal-magdeburg-news.html",
+        "date": "2026-09-23T09:51:37.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/regionales/sachsen-anhalt/article6ab39e2da15a9fecb668ca42/sc-magdeburg-empfaengt-wetzlar-im-dhb-pokal-magdeburg-news.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-b29af6ea2cad8f53",
+    "c": "DE",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-23T09:51:30.000Z",
+    "p": 2,
+    "st": "ST",
+    "city": "",
+    "t": "Magdeburg-Harz: Signal gestört, Züge fallen aus",
+    "s": "Auf der Bahnstrecke zwischen Magdeburg und dem Harz kommt es zu Zugausfällen. Grund für die Beeinträchtigungen ist eine Störung der Signaltechnik. Eigentlich sollte der reguläre Zugverkehr auf der Verbindung zu diesem Zeitpunkt wieder reibungslos rollen.",
+    "m": "Die Bahnstrecke zwischen Magdeburg und dem Harz ist von aktuellen Zugausfällen betroffen, obwohl der Verkehr eigentlich wieder aufgenommen werden sollte. Auslöser für die Unterbrechung ist ein technischer Defekt an den Signalbauten. Reisende müssen sich auf Einschränkungen einstellen. Die zuständige Bahn arbeitet derzeit mit Hochdruck an einer technischen Lösung des Problems, um den Betrieb schnellstmöglich wiederherzustellen. Wann die Signaltechnik wieder voll funktionsfähig sein wird, ist gegenwärtig noch nicht genau bekannt. Weitere Details zu den betroffenen Zügen oder konkreten Verspätungszeiten wurden zunächst nicht genannt.",
+    "r": "Die Störung beeinträchtigt den regionalen Bahnverkehr und führt zu unerwarteten Zugausfällen auf einer wichtigen Pendlerstrecke zwischen Magdeburg und dem Harz. Pendler und Reisende sind von den Transportausfällen unmittelbar betroffen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Sachsen-Anhalt",
+        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/verspaetete-zuege-100,probleme-nach-bahnsperrung-100.html",
+        "date": "2026-09-23T09:51:30.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/verspaetete-zuege-100,probleme-nach-bahnsperrung-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-67a87aa3f99f031a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:50:29.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Kabinett beschließt Aktionsplan gegen Sozialbetrug und Ausbeutung",
+    "s": "Die Bundesregierung hat einen Aktionsplan zur Bekämpfung von Sozialbetrug und Ausbeutung beschlossen. Ziel der Maßnahmen ist es, Schlupflöcher im deutschen Sozialstaat zu schließen. Konkret soll unter anderem Personen der Bezug von Sozialleistungen verwehrt werden, wenn gegen sie ein Haftbefehl vorliegt.",
+    "m": "Das Bundeskabinett hat einen neuen Aktionsplan auf den Weg gebracht, der gezielt gegen Sozialbetrug und Ausbeutung vorgehen soll. Nach Angaben von Innenminister Dobrindt ist es das erklärte Ziel der Bundesregierung, bestehende Schlupflöcher im Sozialstaat zu schließen. Ein zentraler Punkt der geplanten Maßnahmen betrifft Personen, die mit einem Haftbefehl gesucht werden; diesen soll künftig der Empfang von Sozialleistungen untersagt werden. Damit will die Regierung verhindern, dass Straftäter auf der Flucht oder Personen, die sich dem Verfahren entziehen, staatliche Unterstützungen in Anspruch nehmen können. Die Umsetzung des Aktionsplans erfordert voraussichtlich verschiedene gesetzliche Anpassungen. Weitere Details zu den beteiligten Ministerien, Zeitplänen und Kontrollmechanismen gehen aus dem Bericht nicht hervor. Offen bleibt zudem, wie die praktische Durchsetzung bei den zuständigen Behörden konkret ablaufen soll.",
+    "r": "Die Entscheidung der Bundesregierung betrifft die Vergabe von Sozialleistungen an Personen mit Haftbefehl und schließt rechtliche Schlupflöcher. Dies hat direkte Auswirkungen auf die Verwaltungspraxis der Sozialträger und die Sicherheitsbehörden.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-09/sozialleistungsmissbrauch-ausbeutung-migranten-schrottimmobilien-bundesregierung",
+        "date": "2026-09-23T09:50:29.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-09/sozialleistungsmissbrauch-ausbeutung-migranten-schrottimmobilien-bundesregierung",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-e4a838b87a9f4101",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:50:26.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "EZB plant Einführung neuer Euro-Banknoten für Anfang der 2030er Jahre",
+    "s": "Die Europäische Zentralbank hat angekündigt, voraussichtlich ab Anfang der 2030er Jahre neue Euro-Banknoten einzuführen. Konkrete Entwürfe für das neue Bargeld existieren zum jetzigen Zeitpunkt noch nicht. Mit diesem Schritt soll die Gestaltung der Gemeinschaftswährung modernisiert und an aktuelle Sicherheitsstandards angepasst werden.",
+    "m": "Die Europäische Zentralbank arbeitet langfristig an der Erneuerung der Euro-Banknoten und plant die Einführung für die frühen 2030er Jahre. Der Prozess bis zur finalen Ausgabe umfasst mehrere Phasen, darunter Designwettbewerbe und umfangreiche Sicherheitsprüfungen. Bislang stehen noch keine konkreten Motive oder Designs fest, die Öffentlichkeit soll jedoch in den Findungsprozess einbezogen werden. Die Maßnahme soll sicherstellen, dass Euro-Scheine auch in Zukunft vor Fälschungen geschützt bleiben und den Bedürfnissen der Bürger entsprechen. Ähnliche Modernisierungsschritte gab es in der Vergangenheit bereits bei der Europa-Serie. Wann genau die ersten neuen Scheine im Portemonnaie landen werden, hängt vom weiteren Fortgang der Planungen des EZB-Rats ab.",
+    "r": "Die Ankündigung neuer Banknoten durch die EZB betrifft alle Verbraucher und die Wirtschaft im Euroraum direkt, da Bargeld ein zentrales Zahlungsmittel bleibt. Die langfristige Planung ist für die Anpassung von Sicherheits- und Produktionsstandards von Bedeutung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/ezb-neue-euro-banknoten-ab-anfang-der-2030er-jahre",
+        "date": "2026-09-23T09:50:26.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/ezb-neue-euro-banknoten-ab-anfang-der-2030er-jahre",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-21ee0262bfd97bdb",
+    "c": "DE",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:50:04.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "UK-Verteidigungsminister betont: Neue Anti-Desinformations-Einheit bekämpft keine Opposition",
+    "s": "Der britische Verteidigungsminister hat klargestellt, dass eine neue Anti-Desinformations-Einheit der Regierung nicht auf die Bekämpfung inländischer politischer Opposition ausgerichtet sein wird. Die Äußerung fiel im Sender GB News. Gleichzeitig gibt es positive Nachrichten zur britischen Wirtschaft und Aussagen von Andy Burnham vor der UN.",
+    "m": "Die britische Regierung plant eine neue Anti-Desinformations-Einheit, deren Ausrichtung und Zweck Gegenstand politischer Aufmerksamkeit sind. Verteidigungsminister Wes Streeting betonte im Sender GB News, dass die Einheit nicht daran interessiert sei, inländische politische Dissidenz zu polizeilich zu überwachen. Neben diesem innenpolitischen Thema zeigen Berichte der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD), dass sich die Aussichten für die britische Wirtschaft aufgehellt haben. Die Inflation liegt demnach unter den Erwartungen, und neue staatliche Unterstützungsmaßnahmen dürften das Wachstum ankurbeln. Zudem hielt Andy Burnham eine Rede vor der Generalversammlung der Vereinten Nationen, in der er betonte, dass es keine nationale Sicherheit ohne eine starke und kohärente Gesellschaft gebe.",
+    "r": "Die Entwicklungen betreffen zentrale Fragen der britischen Innenpolitik, der nationalen Sicherheitsarchitektur sowie aktuelle Konjunkturprognosen. Die Klarstellungen der Regierung zur Arbeit der Anti-Desinformations-Einheit sind für das Verhältnis von Staat und Opposition von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+        "date": "2026-09-23T09:50:04.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-947359590a4420e0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:49:48.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Israels Verteidigungsminister droht mit vollständiger Zerstörung von Gaza-Stadt",
+    "s": "Israels Verteidigungsminister Israel Katz hat nach Geheimdienstberichten drastische Konsequenzen für den Fall einer Geiselnahme angekündigt. Sollte auch nur ein Israeli von der Hamas entführt werden, werde Israel Gaza-Stadt evakuieren und vollständig zerstören. Dies geht aus aktuellen Meldungen hervor.",
+    "m": "Israels Verteidigungsminister Israel Katz hat im Zusammenhang mit möglichen Entführungen durch die Hamas scharfe Drohungen ausgesprochen. Gestützt auf entsprechende Geheimdienstberichte erklärte er, dass bei einer Entführung auch nur eines Israelis die Stadt Gaza evakuiert und komplett zerstört werden soll. Bislang handelt es sich um eine Ankündigung im Rahmen eines Nahost-Tickers. Weitere Details zum zeitlichen Ablauf oder Reaktionen anderer Akteure liegen aus der vorliegenden Quelle nicht vor. Offen bleibt, wie die Hamas auf diese Drohung reagiert und welche internationalen Reaktionen folgen könnten.",
+    "r": "Die Drohung eines israelischen Regierungsmitglieds mit der Zerstörung einer Großstadt stellt eine drastische Verschärfung der Rhetorik im Nahostkonflikt dar und hat direkte Auswirkungen auf die Sicherheitslage vor Ort.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
+        "date": "2026-09-23T09:49:48.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-3499758aaaae0c33",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:49:23.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Meze Trio: Gemeinsam isst es sich besser",
+    "s": "Essen wird oft sozialer, wenn Gerichte miteinander geteilt werden. Ein Rezeptvorschlag stellt drei verschiedene Meze vor. Die Auswahl bietet für jeden Geschmack etwas Passendes.",
+    "m": "Der Beitrag empfiehlt das gemeinsame Essen und das Teilen von Speisen im Kreis von Freunden. Konkret werden drei verschiedene Meze-Variationen präsentiert, die zusammen serviert werden können. Das Ziel ist es, den Gästen eine abwechslungsreiche Auswahl zu bieten, sodass für jeden etwas dabei ist. Weitere Details zu den Rezepten, Zutaten oder der Zubereitung werden in der kurzen Notiz nicht genannt.",
+    "r": "Gemeinsames Essen und das Teilen von Speisen können soziale Anlässe bereichern. Solche Rezeptideen bieten Anregungen für die Bewirtung von Gästen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/meze-trio-hummus-atom-muecver-rezept-wochenmarkt",
+        "date": "2026-09-23T09:49:23.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/meze-trio-hummus-atom-muecver-rezept-wochenmarkt",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-f29363096ca41ab0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:49:22.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Weißes Haus wirft ausgesperrten Medien Gefährdung der Sicherheit vor",
+    "s": "Nach dem Ausschluss von Sendern wie CNN aus dem Weißen Haus hat sich der Streit zwischen der Regierung und den Medien verschärft. Die Regierung begründet den Rauswurf damit, dass die betroffenen Medien vertrauliches Material veröffentlicht hätten. Dieser Vorwurf führt zu einer Eskalation der Situation rund um den Zugang von Journalisten.",
+    "m": "Der Konflikt zwischen der US-Regierung und bestimmten Medienhäusern hat eine neue Stufe erreicht, nachdem unter anderem der Sender CNN aus dem Weißen Haus ausgeschlossen wurde. Die Regierungsseite wirft den betroffenen Medien vor, durch ihre Berichterstattung vertrauliches Material publik gemacht und damit die Sicherheit gefährdet zu haben. Bislang gibt es keine weiteren Details darüber, welche konkreten Inhalte zu dieser Maßnahme geführt haben oder welche weiteren Sender neben CNN von dem Ausschluss betroffen sind. Die Maßnahme wirft Fragen zur Pressefreiheit und zum künftigen Umgang der Regierung mit akkreditierten Journalisten auf. Weitere offene Punkte betreffen die genauen Kriterien für den Entzug der Akkreditierungen und ob es Gespräche zur Beendigung des Streits geben wird.",
+    "r": "Der Streit zwischen der US-Regierung und wichtigen Medien betrifft grundlegende Fragen des Zugangs von Journalisten und der Pressefreiheit. Die Vorwürfe der Sicherheitsgefährdung durch die Veröffentlichung vertraulichen Materials könnten weitreichende Folgen für die Berichterstattung aus dem Weißen Haus haben.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-09/cnn-ausschluss-weisses-haus-medien-zugang-klage",
+        "date": "2026-09-23T09:49:22.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-09/cnn-ausschluss-weisses-haus-medien-zugang-klage",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-96bc8418088bfda1",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:49:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+    "s": "Unternehmen setzen zunehmend auf Künstliche Intelligenz für Vorstellungsgespräche. Diese sogenannten KI-Recruiter sollen den Bewerbungsprozess sowohl beschleunigen als auch gerechter gestalten. Gleichzeitig stellt sich die Frage, wie Bewerber diese Form der digitalen Interaktion am Bildschirm erleben.",
+    "m": "Die Jobsuche verändert sich durch den Einsatz von KI-Technologien im Personalwesen. Interviews mit KI-Recruitern sollen die Prozesse für Firmen effizienter und fairer machen. Für Unternehmer erweist sich diese Methode als durchaus hilfreich im Recruiting-Alltag. Bisher bleibt jedoch offen, wie die genaue Ausgestaltung dieser virtuellen Gespräche erfolgt und welche langfristigen Konsequenzen sich daraus für den Arbeitsmarkt ergeben. Die Diskussion dreht sich vor allem um das Nutzererlebnis und die Akzeptanz solcher automatisierten Systeme bei den Arbeitssuchenden. Dabei stehen Fragen zur Transparenz und zum menschlichen Faktor im Vordergrund. Unternehmen versprechen sich von der Automatisierung eine Entlastung der Personalabteilungen. Bislang ist unklar, in welchem Umfang solche Technologien bereits flächendeckend im Einsatz sind.",
+    "r": "Die Integration von Künstlicher Intelligenz in den Rekrutierungsprozess betrifft die moderne Arbeitswelt und verändert die Interaktion zwischen Arbeitgebern und Bewerbern. Solche technologischen Neuerungen sind relevant für die Zukunft der Unternehmensführung und des Personalwesens.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/karriere/job-wie-fuehlt-sich-ein-job-interview-mit-ki-avatar-fuer-bewerber-an/100248546.html",
+        "date": "2026-09-23T09:49:00.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/karriere/job-wie-fuehlt-sich-ein-job-interview-mit-ki-avatar-fuer-bewerber-an/100248546.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-8cca13f712fd6a4e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:48:15.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Shamonda-Virus bei Rind in Brandenburg nachgewiesen",
+    "s": "In Brandenburg ist erstmals das Shamonda-Virus bei einem Rind nachgewiesen worden. Die Tierseuche wurde durch entsprechende Laboruntersuchungen bestätigt. Bisher liegen wenige Details zu den genauen Umständen oder weiteren Verdachtsfällen vor. Behörden und Landwirte beobachten die Situation.",
+    "m": "Das Shamonda-Virus ist bei einem Rind in Brandenburg nachgewiesen worden. Es handelt sich um einen bisher ungewöhnlichen Fall in der Region, da das Virus normalerweise in anderen geografischen Breiten vorkommt. Das betroffene Tier wurde untersucht und der Erreger eindeutig identifiziert. Experten prüfen nun, wie sich das Virus verbreiten konnte und ob weitere Bestände gefährdet sind. Solche Infektionen können wirtschaftliche Schäden für die Landwirtschaft nach sich ziehen. Gesundheits- und Veterinäramt stehen im engen Austausch, um Gegenmaßnahmen zu koordinieren. Bisher gibt es keine Informationen über flächendeckende Ausbrüche in Deutschland.",
+    "r": "Der Nachweis des Shamonda-Virus bei einem Rind in Brandenburg ist für die Landwirtschaft und den Tierschutz relevant, da das Auftreten neuer Erreger die Gesundheit von Nutztieren gefährden und Handelsbeschränkungen nach sich ziehen kann.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/23/shamonda-virus-bei-rind-in-brandenburg-nachgewiesen",
+        "date": "2026-09-23T09:48:15.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-09/23/shamonda-virus-bei-rind-in-brandenburg-nachgewiesen",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-46bcbab2d88bc30b",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:48:13.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Berufliche Ausgaben als Werbungskosten in der Steuererklärung geltend machen",
+    "s": "Ausgaben für den Beruf wie Sprachkurse, Bewerbungsmappen oder eine doppelte Haushaltsführung können die persönliche Steuerlast mindern. Experten geben Tipps, welche Kosten als Werbungskosten abgesetzt werden können und wann sich dies auszahlt. Die richtige Angabe bei der nächsten Steuererklärung hilft Arbeitnehmern, Geld vom Finanzamt zurückzubekommen.",
+    "m": "Werbungskosten sind Aufwendungen, die durch den Beruf veranlasst sind und die Einkünfte sichern oder erhalten sollen. Zu den klassischen Posten gehören neben den Fahrtkosten zur Arbeit und Fortbildungen auch Ausgaben für Arbeitsmittel, Bewerbungsunterlagen oder beruflich veranlasste Sprachkurse. Auch eine doppelte Miete bei einem berufsbedingten Umzug oder einer Zweitwohnung kann unter bestimmten Voraussetzungen geltend gemacht werden. Experten raten dazu, alle Belege sorgfältig zu sammeln, um sie dem Finanzamt bei Bedarf nachweisen zu können. Dabei lohnt sich oft auch der Blick auf Pauschalen, wenn die tatsächlichen Kosten diese nicht übersteigen. Viele Steuerzahler verschenken Geld, weil sie berechtigte Ausgaben in ihrer Erklärung vergessen oder falsch zuordnen.",
+    "r": "Die korrekte Geltendmachung von Werbungskosten ist für Arbeitnehmer ein zentrales Mittel, um ihre individuelle Steuerlast zu senken. Das Wissen um absetzbare Posten entscheidet maßgeblich darüber, ob steuerliche Vorteile voll ausgeschöpft werden.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/ratgeber/Welche-beruflichen-Ausgaben-die-Steuerlast-senken-koennen-id31337774.html",
+        "date": "2026-09-23T09:48:13.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/ratgeber/Welche-beruflichen-Ausgaben-die-Steuerlast-senken-koennen-id31337774.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-55c6740acbf10db3",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:47:52.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Und dann legt eine Schülerin Deutschlands oberstem Soldaten noch „ein richtiges Brett“",
+    "s": "Der Generalinspekteur der Bundeswehr, Carsten Breuer, hat an einem Bürgerforum in einer Potsdamer Kirche teilgenommen. Dabei wurde er von anwesenden Schülerinnen und Schülern kritisch befragt. Die Veranstaltung bot Raum für den Dialog zwischen der Bundeswehr und der jungen Generation.",
+    "m": "Generalinspekteur Carsten Breuer hat im Rahmen eines Bürgerforums in einer Kirche in Potsdam Fragen von Bürgern beantwortet. Unter den Teilnehmern befand sich auch eine Schulklasse. Die Jugendlichen nutzten die Gelegenheit, den obersten Soldaten Deutschlands intensiv zu befragen. Die Fragen der Schüler gingen dabei sprichwörtlich tief und setzten den Generalinspekteur vor eine Herausforderung. Das Format unterstreicht das Bemühen der Bundeswehr um den Austausch mit der Öffentlichkeit und jungen Menschen. Nähere Details zu den konkreten Inhalten der Fragen oder Antworten nennt der Bericht nicht.",
+    "r": "Das Treffen verdeutlicht den Dialogbedarf zwischen der Bundeswehr und der Zivilbevölkerung, insbesondere der Jugend. Solche Formate dienen der Vermittlung sicherheitspolitischer Themen an Schulen.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/plus6ab304a6a15a9fecb668c2fe/bundeswehr-und-dann-legt-eine-schuelerin-dem-oberstem-soldaten-noch-ein-richtiges-brett-vor.html",
+        "date": "2026-09-23T09:47:52.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/deutschland/plus6ab304a6a15a9fecb668c2fe/bundeswehr-und-dann-legt-eine-schuelerin-dem-oberstem-soldaten-noch-ein-richtiges-brett-vor.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-c0e354145ed42dad",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-23T09:47:24.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Isack Hadjar verlängert Vertrag als Red-Bull-Teamkollege von Verstappen",
+    "s": "Das Fahrerduo des Red-Bull-Teams für die kommende Saison ist komplett. Neben dem bereits seit längerem gesetzten Max Verstappen steht nun auch der Verbleib von Isack Hadjar fest. Der Vertrag des Fahrers wurde entsprechend verlängert. Damit gehen die Vorbereitungen für das Team in eine geordnete Phase.",
+    "m": "Die Personalplanungen beim Formel-1-Team Red Bull für die kommende Saison sind abgeschlossen. Nachdem der langfristige Verbleib des mehrfachen Weltmeisters Max Verstappen bereits seit mehreren Wochen feststand, herrscht nun auch bei der Besetzung des zweiten Cockpits absolute Klarheit. Isack Hadjar hat seinen Vertrag verlängert und wird in der neuen Saison als Teamkollege von Verstappen an den Start gehen. Das Team setzt damit auf Kontinuität im Cockpit. Über genaue Laufzeiten oder Vertragsdetails wurden in der Meldung keine Angaben gemacht. Offen bleibt zudem, welche konkreten internen Zielsetzungen mit dieser Fahrerpaarung für die Weltmeisterschaft verbunden sind.",
+    "r": "Die Bestätigung des vollständigen Fahrerduos eines Top-Teams wie Red Bull ist ein zentraler Baustein für die kommende Formel-1-Saison. Sie schafft sportliche Planungssicherheit für den Rennstall und prägt das kommende Teilnehmerfeld.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/formel-1/f1-isack-hadjar-bleibt-teamkollege-von-max-verstappen-accg-201255109.html",
+        "date": "2026-09-23T09:47:24.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/sport/formel-1/f1-isack-hadjar-bleibt-teamkollege-von-max-verstappen-accg-201255109.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1810588a86272133",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:46:30.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "„Merz hat eigentlich kaum noch etwas zu verlieren. Er kann aber gewinnen“",
+    "s": "Der frühere hessische Ministerpräsident Volker Bouffier hat der CDU und Friedrich Merz empfohlen, sich auf wenige konkrete Großvorhaben zu konzentrieren. Dabei solle die SPD nach Ansicht der CDU-Eminenz nicht mehr geschont werden. Hinsichtlich der Partei Die Linke äußerte Bouffier eine gewisse Offenheit.",
+    "m": "In einer aktuellen Einschätzung betont der hessische Ex-Ministerpräsident Volker Bouffier, dass Friedrich Merz kaum noch etwas zu verlieren habe, aber durchaus gewinnen könne. Konkret rät er dazu, die politische Energie auf wenige zentrale Großvorhaben zu bündeln. Ein weiterer Kernaspekt seiner Empfehlung ist ein härterer Kurs gegenüber dem Koalitionspartner SPD, der bisher oft geschont worden sei. Bemerkenswert ist zudem Bouffiers Haltung gegenüber der Partei Die Linke, bei der er eine gewisse Offenheit erkennen lässt. Diese strategischen Ratschläge werfen ein Schlaglicht auf die innerparteiliche Debatte um die künftige Ausrichtung und Durchsetzungskraft der Union. Offen bleibt bislang, wie die Parteiführung auf diese konkreten Vorschläge reagieren wird und ob sich dies unmittelbar auf das parlamentarische Handeln auswirkt.",
+    "r": "Die strategischen Ratschläge einer prominenten Partei-Eminenz geben Einblick in die internen Beratungen und möglichen Kursanpassungen der CDU. Sie zeigen auf, wie die Union künftig profilierter agieren und mit potenziellen politischen Konstellationen umgehen könnte.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/plus6ab12c3bb1857e86757a9afb/volker-bouffier-merz-hat-eigentlich-kaum-noch-etwas-zu-verlieren-er-kann-aber-gewinnen.html",
+        "date": "2026-09-23T09:46:30.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/deutschland/plus6ab12c3bb1857e86757a9afb/volker-bouffier-merz-hat-eigentlich-kaum-noch-etwas-zu-verlieren-er-kann-aber-gewinnen.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-dda5d76c4392aed5",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:45:14.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Verdacht auf Kriegsverbrecher als Aufseher im Internat Albertinum",
+    "s": "Laut einer Studie soll Johannes Arendt als Aufseher im Internat Albertinum Kinder gequält und verprügelt haben. Nun steht die Frage im Raum, ob er sich dort versteckt hielt, weil er ein Kriegsverbrecher war. Die Vorwürfe beleuchten dunkle Kapitel der Vergangenheit der Einrichtung.",
+    "m": "Eine kürzlich veröffentlichte Studie bringt schwere Anschuldigungen gegen Johannes Arendt zutage. Demnach soll er während seiner Zeit als Aufseher im Internat Albertinum Kinder systematisch gequält und verprügelt haben. Bislang ist unklar, wie lange diese Misshandlungen andauerten und wer Vorgesetzter oder Mitwissender in der Einrichtung war. Im Zentrum der Untersuchung steht zudem die Frage, ob Arendt sich im Internat versteckt hatte, weil er als Kriegsverbrecher gesucht wurde oder untertauchen musste. Die Studie wirft ein Schlaglicht auf den Umgang mit Gewalt in historischen Erziehungseinrichtungen. Betroffene und Historiker fordern nun eine lückenlose Aufklärung der Vorfälle und der institutionellen Verantwortlichkeiten. Weitere Details zum genauen zeitlichen Ablauf und möglichen juristischen Konsequenzen für den Täter stehen noch aus.",
+    "r": "Die Aufarbeitung historischer Missstände und möglicher Kriegsverbrechen in Erziehungseinrichtungen ist gesellschaftlich und rechtlich von großer Bedeutung. Die Vorwürfe gegen einen ehemaligen Aufseher werfen Fragen zur damaligen institutionellen Kontrolle auf.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/albertinum-gerolstein-soll-kriegsverbrecher-versteckt-haben-100.html",
+        "date": "2026-09-23T09:45:14.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/albertinum-gerolstein-soll-kriegsverbrecher-versteckt-haben-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-59069ac4c731e37d",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:45:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Führung: „Die Anerkennung für meine Arbeit bekommt jemand über mir“ – Das",
+    "s": "In vielen Unternehmen werden laute Mitarbeiter oft eher wahrgenommen und befördert als ruhigere Arbeitskräfte. Dabei sind es häufig die introvertierten Beschäftigten, die im Hintergrund das Unternehmen stabil am Laufen halten. Führungskräfte stehen vor der Herausforderung, diese stillen Schaffer künftig besser zu erkennen und wertzuschätzen.",
+    "m": "Oft profitieren laute Mitarbeiter von ihrer Präsenz, weil sie Führungskräften schneller auffallen und dadurch mehr Anerkennung erhalten. Im Gegensatz dazu leisten introvertierte Arbeitskräfte oft wertvolle Arbeit im Hintergrund, ohne dass dies angemessen honoriert wird. Das Phänomen führt dazu, dass die eigentliche Leistung der stillen Schaffer von Personen in höheren Positionen vereinnahmt wird. Unternehmen müssen Strategien entwickeln, um diese introverten Talente nicht länger zu übersehen und ihre Beiträge sichtbar zu machen. Nur so kann verhindert werden, dass wertvolle Fachkräfte frustriert werden oder unentdeckt bleiben.",
+    "r": "Die Thematik ist relevant für die Unternehmenskultur und das Personalmanagement, da die Übersehung introvertierter Leistungsträger langfristig die Motivation und Bindung von Mitarbeitern gefährden kann.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/karriere/unternehmen-warum-fuehrungskraefte-stille-mitarbeiter-nicht-uebersehen-duerfen/100108181.html",
+        "date": "2026-09-23T09:45:00.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/karriere/unternehmen-warum-fuehrungskraefte-stille-mitarbeiter-nicht-uebersehen-duerfen/100108181.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-51ba4ab0cf8d3309",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-23T09:44:49.000Z",
+    "p": 2,
+    "st": "RP",
+    "city": "",
+    "t": "Straßenzustand in Kaiserslautern schlechter als erwartet",
+    "s": "Die Stadt Kaiserslautern hat Probleme bei der Straßensanierung und hinkt dem Zeitplan hinterher. Eine aktuelle Messung ergab, dass zahlreiche Straßen einen kritischen Schwellenwert überschritten haben. Damit ist der bauliche Zustand der Verkehrswege deutlich schlechter als zunächst angenommen.",
+    "m": "Die Verwaltung in Kaiserslautern kommt mit der notwendigen Sanierung der Straßen nicht hinterher. Eine neue Untersuchung des Straßenzustands hat nun offenbart, dass viele Straßen im Stadtgebiet einen kritischen Schwellenwert überschritten haben. Die Ergebnisse zeigen einen dringenden Handlungsbedarf auf, da die Qualität der Infrastruktur stärker abgenommen hat als erwartet. Konkrete Zahlen zu den betroffenen Kilometern oder den Kosten für die Instandsetzung wurden in den vorliegenden Daten bisher nicht genannt. Auch der Zeitplan für mögliche Gegenmaßnahmen oder Sanierungsprogramme ist noch offen. Die Situation verdeutlicht die generellen Schwierigkeiten der Kommune bei der Bewältigung ihrer Infrastrukturaufgaben.",
+    "r": "Der schlechte Straßenzustand verdeutlicht die Probleme der Kommune bei der Sanierung ihrer Infrastruktur. Das Überschreiten kritischer Schwellenwerte erfordert künftig einen erhöhten Aufwand für Instandsetzungsmaßnahmen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Rheinland-Pfalz",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/strassen-zustand-schlechter-als-erwartet-100.html",
+        "date": "2026-09-23T09:44:49.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/strassen-zustand-schlechter-als-erwartet-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a71da258392adbe1",
+    "c": "DE",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:43:28.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Christoph Möllers über Sparmaßnahmen und Druck auf die Wissenschaft",
+    "s": "Der neue Rektor des Berliner Wissenschaftskollegs, Christoph Möllers, kritisiert eine dramatische finanzielle Vernachlässigung der Universitäten. Im Fokus stehen zudem autoritärer Druck auf die Wissenschaftsfreiheit sowie mögliche Handlungsspielräume einer AfD-Regierung in Sachsen-Anhalt. Das Gespräch beleuchtet die aktuellen Herausforderungen und Gefahren für das akademische System in Deutschland.",
+    "m": "In dem Gespräch äußert sich Christoph Möllers besorgt über die strukturelle Unterfinanzierung der Universitäten, die seiner Ansicht nach auf dramatische Weise kleingespart werden. Neben der wirtschaftlichen Belastung thematisiert er auch den wachsenden autoritären Druck, dem die Wissenschaftsfreiheit ausgesetzt ist. Ein weiterer Schwerpunkt des Austauschs ist die Frage, welche Handlungsspielräume und Konsequenzen eine mögliche Regierungsbeteiligung oder -übernahme durch die AfD in Sachsen-Anhalt für den Wissenschaftsbetrieb haben könnte. Konkrete Zahlen oder ein detaillierter zeitlicher Ablauf der Sparmaßnahmen werden in der angebotenen Beschreibung nicht genannt. Auch die Reaktionen anderer Akteure oder konkrete politische Gegenmaßnahmen bleiben in dieser Vorschau offen.",
+    "r": "Die Aussagen eines prominenten Wissenschaftlers zur Finanzierung und Freiheit der Forschung berühren zentrale Fragen des deutschen Bildungs- und Politiksystems. Die Debatte um den Einfluss politischer Ränder auf Institutionen ist von hoher gesellschaftlicher Relevanz.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/christoph-moellers-ueber-autoritaeren-druck-auf-wissenschaftsfreiheit-accg-201247046.html",
+        "date": "2026-09-23T09:43:28.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/christoph-moellers-ueber-autoritaeren-druck-auf-wissenschaftsfreiheit-accg-201247046.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-27b5bb10b982c2a9",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "OECD hebt Konjunkturprognose für deutsche Wirtschaft an",
+    "s": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung hat ihre Wachstumserwartung für die deutsche Wirtschaft angehoben. Demnach rechnet die in Paris ansässige Behörde nun mit einem BIP-Wachstum von 1,1 Prozent für das laufende Jahr. Dies entspricht einer Aufwärtskorrektur von 0,4 Prozentpunkten im Vergleich zur vorherigen Schätzung vom Juni. Gleichzeitig äußerte die OECD Kritik an der politischen Maßnahme des sogenannten Tankrabatts.",
+    "m": "Die Industriestaatenorganisation OECD zeigt sich in ihrer aktualisierten Konjunkturprognose für Deutschland optimistischer als noch im Sommer. Laut der aktuellen Schätzung wird für das laufende Jahr nun ein Wirtschaftswachstum von 1,1 Prozent erwartet. Gegenüber der vorherigen Prognose aus dem Monat Juni bedeutet dies ein Plus von 0,4 Prozentpunkten. Die in Paris beheimatete Organisation korrigierte in diesem Zuge auch ihre Aussichten für den gesamten Euroraum sowie für die Weltwirtschaft nach oben. Neben den rein konjunkturellen Daten übte die OECD jedoch auch Kritik und nahm dabei unter anderem den in Deutschland umgesetzten Tankrabatt ins Visier. Konkrete Details zu dieser Kritik oder den globalen Prognosewerten gehen aus den vorliegenden Berichtsdaten im Detail nicht hervor.",
+    "r": "Die Konjunkturprognose der OECD ist ein wichtiger Indikator für die wirtschaftliche Entwicklung in Deutschland und weltweit. Sie bietet eine offizielle Einschätzung zur Einschätzung der aktuellen wirtschaftlichen Lage und beeinflusst politische sowie wirtschaftliche Entscheidungen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-285c0d89b66b7430",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "USA prüfen Exportstopp für Diesel wegen hoher Spritpreise",
+    "s": "Angesichts stark gestiegener Treibstoffpreise prüfen die USA einen Exportstopp für Diesel.US-Präsident Trump hat sich für diese Maßnahme ausgesprochen. Ein solcher Schritt wurde zuletzt während der Ölkrise in den 1970er-Jahren angewandt.",
+    "m": "Die US-Regierung reagiert damit auf die Folgen des Irankriegs, die zu drastisch höheren Spritpreisen geführt haben. Ein möglicher Exportstopp soll dazu dienen, das Angebot im Inland zu sichern und die Preise für Verbraucher zu dämpfen. Bislang handelt es sich um eine Prüfung der Maßnahme, wobei US-Präsident Trump bereits seine Unterstützung geäußert hat. Historisch gesehen gab es eine vergleichbare Intervention zuletzt in den 1970er-Jahren während der globalen Ölkrise. Offen ist derzeit noch, wann genau eine endgültige Entscheidung getroffen wird und wie hart der genaue Zeitpunkt des Eingriffs ausfallen könnte.",
+    "r": "Die Erwägung eines US-Exportstopps für Diesel ist ein drastischer Eingriff in den globalen Kraftstoffmarkt und hat direkte Auswirkungen auf die internationalen Spritpreise. Die Maßnahme verdeutlicht die wirtschaftlichen und politischen Druckpunkte, die durch den Konflikt im Iran und die Energiekrise entstehen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
+        "date": "2026-09-23T06:22:27.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
+    "agree": "Die Quellen stimmen darin überein, dass die USA angesichts hoher Spritpreise einen Exportstopp für Diesel prüfen und dies zuletzt in den 1970er-Jahren während der Ölkrise geschah.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt zusätzlich den Irankrieg als Auslöser der Situation."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "erwähnt explizit, dass sich US-Präsident Trump für den Diesel-Exportstopp ausgesprochen hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2df03446b3c74dff",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Extremwetterkongress in Hamburg berät über Klimafolgen",
+    "s": "In Hamburg hat heute ein Extremwetterkongress begonnen. Experten beraten dort über den Umgang mit den Auswirkungen des Klimawandels. Die Veranstaltung bringt Fachleute zusammen, um aktuelle Entwicklungen zu diskutieren.",
+    "m": "Der Extremwetterkongress in Hamburg ist gestartet und widmet sich intensiv den Folgen des Klimawandels. Ab heute diskutieren Experten vor Ort über verschiedene Aspekte und den künftigen Umgang mit extremen Wetterereignissen. Nähere Details zum genauen Programm, beteiligten Akteuren oder konkreten Rednern nennen die vorliegenden Informationen bisher nicht. Auch über die Dauer der Konferenz und spezifische Schwerpunkte des Auftakts gibt es in der Meldung keine Angaben. Die Veranstaltung dient dem fachlichen Austausch über die zunehmenden Herausforderungen durch den Wandel des Klimas.",
+    "r": "Der Kongress ist relevant, da er aktuelle wissenschaftliche und gesellschaftliche Fragen zum Umgang mit extremen Wetterphänomenen und den Konsequenzen des Klimawandels adressiert.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-d3bf77a24d880e1b",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Landgericht Karlsruhe verhandelt über Online-Apotheke von dm",
+    "s": "Vor dem Landgericht Karlsruhe hat eine juristische Auseinandersetzung über die Versandapotheke der Drogeriemarktkette dm begonnen. Im Mittelpunkt des Verfahrens stehen wettbewerbsrechtliche Fragen rund um den Betrieb der Online-Apotheke. Das Gericht prüft die Zulässigkeit des Angebots und wird in der Sache entscheiden. Weitere Details zum genauen Verlauf der Verhandlung sind noch nicht bekannt.",
+    "m": "Das Landgericht Karlsruhe befasst sich mit dem Geschäftsmodell der Versandapotheke von dm, einer der größten deutschen Drogeriemarktketten. Gegenstand der Verhandlung ist die Frage, ob der Betrieb der Online-Apotheke im Einklang mit den geltenden rechtlichen Bestimmungen steht. Konkrete Details zu den Klägern oder den genauen Vorwürfen gehen aus dem Bericht nicht hervor. Das Verfahren könnte grundsätzliche Bedeutung für den Online-Vertrieb von Apothekenprodukten durch fachfremde Handelsketten in Deutschland haben. Ein Urteil oder ein Zeitpunkt dafür wurde bisher nicht genannt. Der Ausgang der Verhandlung bleibt abzuwarten. Es handelt sich um ein laufendes Verfahren in erster Instanz.",
+    "r": "Das Verfahren vor dem Landgericht Karlsruhe berührt den stark regulierten Markt für den Vertrieb von Apothekenprodukten durch große Handelsketten. Eine Entscheidung könnte Signalwirkung für den Online-Handel mit Medikamenten und apothekenpflichtigen Waren in Deutschland haben.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-b3e426ce2dd35f77",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Vereinte Nationen - Wadephul: \"UNO-Sicherheitsrat muss handlungsfähiger werden\"",
+    "s": "Bundesaußenminister Wadephul hat sich am Rande der UN-Generaldebatte in New York für Reformen des UNO-Sicherheitsrates ausgesprochen. In einem Interview forderte der CDU-Politiker, bestehende Blockaden aufzuheben und das Gremium handlungsfähiger zu machen.",
+    "m": "Am Rande der Generaldebatte der Vereinten Nationen in New York hat Bundesaußenminister Wadephul Reformforderungen für den UNO-Sicherheitsrat erhoben. Der CDU-Politiker äußerte sich in einem Interview mit dem Deutschlandfunk zu den strukturellen Problemen des Gremiums. Er betonte, dass Blockaden überwunden werden müssen, um die Handlungsfähigkeit des Sicherheitsrates wiederherzustellen. Konkrete Schritte oder Vorschläge zur Umsetzung der Reformen wurden in dem Bericht nicht genannt. Das Thema der UN-Reformen steht traditionell im Fokus vieler diplomatischer Gespräche auf internationaler Ebene.",
+    "r": "Die Reform des UNO-Sicherheitsrates ist ein zentrales Thema internationaler Diplomatie, um auf globale Krisen effektiver reagieren zu können. Die Äußerungen eines deutschen Bundesministers unterstreichen die diplomatischen Bemühungen Deutschlands um eine Stärkung multilateraler Institutionen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-e4e1a53d7ad6dc84",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+    "s": "Der ADAC spricht sich für die Aufhebung der 12-Uhr-Regel an deutschen Tankstellen aus. Nach Ansicht des Automobilclubs hat die Regelung das Tanken für die Verbraucher nicht günstiger gemacht. Stattdessen werden Autofahrer durch die Vorschrift belastet. Die Forderung nach einem Ende der Regel stößt auch außerhalb des ADAC auf Kritik.",
+    "m": "Die bestehende Regelung an Tankstellen, die als 12-Uhr-Regel bekannt ist, steht in der Kritik des ADAC. Der Automobilclub fordert nun offiziell die Abschaffung dieser Regelung. Entgegen der ursprünglichen Absicht hat die Maßnahme nicht zu günstigeren Preisen für die Verbraucher geführt. Vielmehr hat sie laut ADAC zu zusätzlichen Belastungen für die Autofahrer geführt. Die Kritik an der aktuellen Regelung wird neben dem ADAC auch von weiteren Seiten geäußert. Bislang sind keine konkreten politischen Schritte oder Reaktionen der Tankstellenbetreiber auf die Forderung bekannt.",
+    "r": "Die Forderung eines großen Automobilclubs nach Änderungen bei der Preisregulierung an Tankstellen betrifft Millionen Autofahrer direkt. Eine Abschaffung der Regel könnte spürbare Auswirkungen auf das tägliche Tankverhalten und die Preisgestaltung haben.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
+        "date": "2026-09-23T06:24:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
+    "agree": "Beide Quellen stimmen überein, dass der ADAC die Abschaffung der 12-Uhr-Regel an Tankstellen fordert.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "ergänzt, dass die Regel das Tanken nicht billiger gemacht und Verbraucher belastet habe sowie dass nicht nur der ADAC Kritik übt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-10142b3a8e235283",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kletter-Protest von Robin-Wood-Aktivisten an Berliner CDU-Zentrale",
+    "s": "Aktivisten der Gruppe Robin Wood haben mit einer Kletteraktion an der CDU-Parteizentrale in Berlin protestiert. Hintergrund des Eingreifens ist die Klimapolitik der Regierung. Weitere Details zu dem Ablauf oder möglichen Festnahmen wurden zunächst nicht bekannt. Die Aktion richtete sich direkt gegen politische Beschlüsse der Regierungskoalition.",
+    "m": "Aktivisten der Umwelt- und Aktionsgruppe Robin Wood haben in Berlin eine Kletteraktion an der Bundeszentrale der CDU durchgeführt. Mit diesem symbolischen Protest machten sie auf ihre Kritik an der aktuellen Klimapolitik der Regierung aufmerksam. Die Parteizentrale der Christdemokraten in der Hauptstadt war das gezielte Ziel, um politische Verantwortungsträger direkt zu konfrontieren. Die beteiligten Personen forderten ein Umsteuern im Bereich des Klimaschutzes. Die Polizei war im Einsatz, um die Lage vor Ort zu kontrollieren. Bisher gibt es keine offiziellen Angaben über die genaue Dauer der Kletteraktion, die Anzahl der beteiligten Personen oder eventuelle Ingewahrsamnahmen. Die Hintergründe des Protests knüpfen an anhaltende gesellschaftliche Debatten über die Einhaltung von Klimazielen an.",
+    "r": "Der Protest verdeutlicht die anhaltende gesellschaftliche und politische Unzufriedenheit mit den aktuellen Maßnahmen im Bereich des Klimaschutzes. Solche Aktionen an Parteizentralen erhöhen den öffentlichen Druck auf politische Entscheidungsträger.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/kletter-protest-von-aktivisten-an-cdu-zentrale-102.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/kletter-protest-von-aktivisten-an-cdu-zentrale-102.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-c73902c5590e7b7c",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:43:18.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "SPD-Spitze fordert von Berliner Linken harten Kurs gegen Antisemitismus",
+    "s": "Die Bundes-SPD hat sich in die Diskussion um angebliche Clan-Kontakte und Antisemitismus-Vorwürfe gegen die Berliner Linkspartei eingeschaltet. Die Parteivorsitzenden und der Generalsekretär forderten in einem Statement ein konsequentes Vorgehen. Antisemitismus und Clan-Kriminalität dürften in den Reihen der Partei keinen Raum erhalten.",
+    "m": "Das Statement der SPD-Spitze, bestehend aus den Parteichefs Klingbeil und Bas sowie Generalsekretär Klüssendorf, wurde auf der Plattform Instagram veröffentlicht. Darin wenden sie sich direkt an den Landesverband der Berliner Linken und mahnen an, dass diesen Problemen 'keinen Millimeter Platz' gelassen werden darf. Der Appell erfolgt vor dem Hintergrund aktueller Vorwürfe, die eine Verbindung von Personen aus dem Umfeld der Berliner Linken zu Clankriminalität sowie antisemitischen Vorfällen zum Gegenstand haben. Die Bundes-SPD unterstreicht mit ihrer Intervention die Brisanz der Debatte auf Landesebene. Weitere konkrete Schritte oder personelle Konsequenzen wurden in dem Statement zunächst nicht genannt. Die Partei steht nun intern und extern unter Beobachtung, wie sie mit den Vorwürfen umgeht.",
+    "r": "Die Intervention der Bundes-SPD verdeutlicht die politische Relevanz der Vorwürfe gegen den Berliner Landesverband der Linken. Sie zeigt, dass die innerparteiliche Debatte über den Umgang mit Extremismus und Kriminalität auch auf Bundesebene wahrgenommen wird.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/spd-spitze-linke-darf-antisemitismus-keinen-millimeter-platz-lassen-100.html",
+        "date": "2026-09-23T09:43:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/spd-spitze-linke-darf-antisemitismus-keinen-millimeter-platz-lassen-100.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a3d652483de12bf1",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-23T09:39:59.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "EU hebt Sanktionen gegen zwei Oligarchen auf und Baku lässt Franzosen frei",
+    "s": "Die Europäische Union hat die Sanktionen gegen zwei russische Oligarchen aufgehoben. Kurz darauf hat Aserbaidschan zwei französische Staatsbürger freigelassen. Zudem ist ein Treffen zwischen dem russischen Außenminister Sergei Lawrow und dem US-Politiker Marco Rubio in New York angesetzt. Der Kreml sieht derzeit keine Grundlage für Friedensgespräche im Ukraine-Krieg.",
+    "m": "Im Zuge des Ukraine-Krieges gibt es diplomatische Bewegungen und Reaktionen. Die EU hat beschlossen, die Sanktionen gegen zwei bisher nicht namentlich genannte russische Oligarchen aufzuheben. Im direkten zeitlichen Zusammenhang hat Baku zwei inhaftierte französische Staatsbürger freigelassen. Auf internationaler Ebene treffen sich der russische Außenminister Sergei Lawrow und Marco Rubio in New York zu Gesprächen. Parallel dazu hat der Kreml erklärt, dass es gegenwärtig keine tragfähige Grundlage für ernsthafte Friedensgespräche gibt. Der Newsblog fasst diese Entwicklungen rund um den Konflikt zusammen.",
+    "r": "Die Entwicklungen zeigen diplomatische Verflechtungen zwischen Sanktionsentscheidungen der EU, Freilassungen in Aserbaidschan sowie internationalen Kontakten zwischen Russland und den USA. Sie verdeutlichen die anhaltende Komplexität und den aktuellen Stillstand bei Friedensbemühungen im Ukraine-Krieg.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+        "date": "2026-09-23T09:39:59.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -80,16 +1023,17 @@
   {
     "id": "story-c249bb3f5c7ec286",
     "c": "INT",
+    "o": "DE",
     "k": "politik",
     "lang": "de",
     "d": "2026-09-23T09:38:00.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Aserbaidschan begnadigt Franzosen nach EU-Sanktionsaufhebung",
-    "s": "Nachdem die EU Sanktionen gegen russische Oligarchen aufgehoben hat, zeigt sich Aserbaidschan kompromissbereit. Die Regierung hat einen inhaftierten französischen Staatsbürger begnadigt. Dieser Schritt steht im direkten Zusammenhang mit den Entscheidungen auf europäischer Ebene.",
-    "m": "Die Europäische Union hat beschlossen, die gegen die russischen Oligarchen Alischer Usmanow und Michail Fridman verhängten Sanktionen aufzuheben. Als Reaktion auf diesen Schritt hat Aserbaidschan einen französischen Staatsbürger begnadigt und freigelassen. Bisher sind keine weiteren Details zu den genauen Umständen der Inhaftierung des Franzosen oder zum Zeitpunkt seiner Ausreise bekannt. Der Vorgang beleuchtet die diplomatischen Verflechtungen und Verhandlungen zwischen europäischen Staaten und Aserbaidschan im Kontext internationaler Sanktionsregime. Offen bleibt, ob weitere Freilassungen folgen oder welche konkreten Vereinbarungen im Hintergrund getroffen wurden.",
-    "r": "Die Freilassung eines EU-Bürgers als Reaktion auf europäische Sanktionsentscheidungen verdeutlicht die Verknüpfung diplomatischer und wirtschaftlicher Maßnahmen auf internationaler Ebene. Solche Vorgänge sind relevant für das Verhältnis zwischen der EU und Aserbaidschan.",
+    "t": "Aserbaidschan begnadigt Franzosen nach Aufhebung von EU-Sanktionen",
+    "s": "Aserbaidschan hat einen inhaftierten französischen Staatsbürger begnadigt und freigelassen. Die Entscheidung folgt direkt auf die Aufhebung bestimmter EU-Sanktionen.",
+    "m": "Nachdem die Europäische Union Sanktionen gegen die russischen Oligarchen Alischer Usmanow und Michail Fridman aufgehoben hat, zeigt sich Aserbaidschan kompromissbereit. Die Regierung in Baku reagierte auf diesen Schritt der EU mit der Begnadigung und Freilassung eines französischen Staatsbürgers. Konkrete Details zur Identität des Franzosen oder den genauen Hintergründen seiner Inhaftierung wurden in diesem Zusammenhang nicht genannt. Der Vorfall verdeutlicht die diplomatischen Verflechtungen zwischen europäischen Entscheidungen und der aserbaidschanischen Justizpolitik. Bislang ist unklar, ob weitere Freilassungen folgen werden oder welche diplomatischen Gespräche im Vorfeld geführt wurden.",
+    "r": "Die Meldung ist relevant, da sie einen Zusammenhang zwischen der europäischen Sanktionspolitik gegenüber russischen Oligarchen und diplomatischen Schritten Aserbaidschans aufzeigt. Solche Entwicklungen werfen ein Licht auf geopolitische Verflechtungen und Verhandlungsprozesse.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -164,6 +1108,33 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/verkehrswachten-in-schleswig-holstein-am-limit-immer-mehr-ehrenamtliche-fehlen,verkehrswacht-122.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-97ce877209f9fecb",
+    "c": "DE",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:37:15.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Vom Arbeiterkind mit schlechten Deutsch-Kenntnissen zum Neurowissenschaftler",
+    "s": "Mahmut Martin Yüksel hat einen ungewöhnlichen Bildungsweg absolviert. Der Sohn jesidisch-kurdischer Eltern startete als Arbeiterkind mit unzureichenden Deutschkenntnissen auf der Hauptschule. Mittlerweile forscht er als Neurowissenschaftler an der Elite-Universität Harvard.",
+    "m": "Der Werdegang von Mahmut Martin Yüksel ist von großen Hürden geprägt. Zu Beginn seiner Schulzeit in Deutschland hatte er erhebliche Defizite in der deutschen Sprache. Trotz der Herkunft aus einer jesidisch-kurdischen Arbeiterfamilie und den damit verbundenen Herausforderungen gelang ihm der Aufstieg über das Schulsystem. Im Interview berichtet er über die entscheidenden Stationen seines Lebenswegs, die ihn schließlich bis in die Vereinigten Staaten an die US-Elite-Universität Harvard führten. Dort ist er heute als Neurowissenschaftler tätig.",
+    "r": "Die Biografie zeigt am Beispiel von Mahmut Martin Yüksel, wie Durchlässigkeit im Bildungssystem und akademischer Aufstieg trotz schwieriger Ausgangsbedingungen gelingen können. Sie beleuchtet die persönlichen und gesellschaftlichen Faktoren eines solchen Werdegangs.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/plus6ab11a32708e760b5e0666b6/bildungsaufsteiger-vom-arbeiterkind-mit-schlechten-deutsch-kenntnissen-zum-neurowissenschaftler.html",
+        "date": "2026-09-23T09:37:15.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/deutschland/plus6ab11a32708e760b5e0666b6/bildungsaufsteiger-vom-arbeiterkind-mit-schlechten-deutsch-kenntnissen-zum-neurowissenschaftler.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -302,6 +1273,7 @@
   {
     "id": "story-0faa2923919d509a",
     "c": "DE",
+    "o": "DE",
     "k": "panorama",
     "lang": "de",
     "d": "2026-09-23T09:35:22.000Z",
@@ -309,9 +1281,9 @@
     "st": "NI",
     "city": "",
     "t": "Erneuter Brand im Iduna-Zentrum in Göttingen gelöscht",
-    "s": "Am Mittwochmorgen musste die Feuerwehr in Göttingen erneut zu einem Einsatz im Iduna-Zentrum ausrücken. In einer unbewohnten Wohnung brannten Einrichtungsgegenstände. Nach ersten Erkenntnissen wurde bei dem Vorfall niemand verletzt.",
-    "m": "Die Einsatzkräfte wurden am Mittwochmorgen zu einem Brand im Iduna-Zentrum in Göttingen alarmiert. Betroffen war diesmal eine unbewohnte Wohnung, in der Einrichtungsgegenstände in Flammen standen. Die Feuerwehr konnte das Feuer erfolgreich löschen, um ein Übergreifen auf andere Bereiche zu verhindern. Personen kamen bei dem Vorfall nach bisherigen Angaben nicht zu Schaden. Es ist bereits der zweite beziehungsweise wiederholte Einsatz der Feuerwehr in dem bekannten Gebäudekomplex innerhalb eines bestimmten Zeitraums. Die genaue Brandursache und die Höhe des Sachschadens sind derzeit noch Gegenstand der polizeilichen Ermittlungen. Weitere Details zu den Hintergründen des Feuers liegen im Moment noch nicht vor.",
-    "r": "Der erneute Brandeinsatz in einer unbewohnten Wohnung eines großen Wohnkomplexes ist für die lokale Sicherheit und den Brandschutz von Bedeutung. Solche Vorfälle werfen Fragen zum Zustand und zur Sicherheitslage des betroffenen Gebäudekomplexes auf.",
+    "s": "Am Mittwochmorgen musste die Feuerwehr in Göttingen erneut zu einem Brand im Iduna-Zentrum ausrücken. In einer unbewohnten Wohnung standen Einrichtungsgegenstände in Flammen. Verletzt wurde bei dem Vorfall nach ersten Erkenntnissen niemand.",
+    "m": "Die Einsatzkräfte wurden am Mittwochmorgen alarmiert, um den Brand in dem bekannten Gebäudekomplex zu bekämpfen. Vor Ort stellte sich heraus, dass in einer derzeit unbewohnten Wohnung Einrichtungsgegenstände Feuer gefangen hatten. Die Feuerwehr konnte den Brand zügig löschen und eine Ausbreitung der Flammen verhindern. Es gab glücklicherweise keine Verletzten zu beklagen. Die genaue Ursache für das Feuer ist derzeit noch unklar und Bestandteil der weiteren Ermittlungen. Das Iduna-Zentrum war in der Vergangenheit bereits mehrfach Schauplatz von Feuerwehreinsätzen.",
+    "r": "Der erneute Feuerwehreinsatz in einem bekannten Göttinger Gebäudekomplex ist für die lokale Sicherheit und die Bewohner von Bedeutung. Brände in leerstehenden Wohnungen bergen stets Risiken für die Bausubstanz und erfordern behördliche Aufmerksamkeit.",
     "srcs": [
       {
         "name": "Tagesschau Regional Niedersachsen",
@@ -326,8 +1298,36 @@
     "independent": 1
   },
   {
+    "id": "story-e993c80977a4b1b0",
+    "c": "DE",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:35:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk",
+    "s": "Der Philosoph Manuel Scheidegger hat in einem Interview über Themen wie Künstliche Intelligenz, die Unterschätzung von Dummheit und den Umgang mit dem Scheitern gesprochen. Dabei ging es auch um Aussagen von Elon Musk und den Sinn von Meinungsfasten. Das Gespräch beleuchtet philosophische Perspektiven auf moderne technologische und gesellschaftliche Entwicklungen.",
+    "m": "Das Handelsblatt hat ein Gespräch mit dem Philosophen Manuel Scheidegger geführt, in dem zentrale gesellschaftliche und technologische Fragen erörtert wurden. Im Mittelpunkt stehen die Rolle von Künstlicher Intelligenz, die oft unterschätzte Bedeutung von Dummheit sowie falsch verstandene Kulturen des Scheiterns. Ein Zitat im Raum betrifft Aussagen von Elon Musk über das Sterben aus Sicht von Intellektuellen. Zudem wurde der Sinn von sogenanntem Meinungsfasten thematisiert. Das Interview verknüpft technologische Zukunftshoffnungen mit philosophischen Reflexionen über das menschliche Denken und Handeln. Konkrete Zahlen oder offene Punkte werden in dem Textabschnitt nicht genannt. Der genaue zeitliche Ablauf des Interviews bleibt offen.",
+    "r": "Das Gespräch bietet philosophische Einordnungen zu aktuellen Debatten über Künstliche Intelligenz und gesellschaftliche Trends. Es beleuchtet Denkmuster von Führungspersönlichkeiten und den Umgang mit Fehlern in der modernen Kultur.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/karriere/manuel-scheidegger-warum-man-ki-als-keine-intelligenz-lesen-sollte/100252820.html",
+        "date": "2026-09-23T09:35:00.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/karriere/manuel-scheidegger-warum-man-ki-als-keine-intelligenz-lesen-sollte/100252820.html",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-f46486446a53fffd",
     "c": "INT",
+    "o": "INT",
     "k": "technik",
     "lang": "de",
     "d": "2026-09-23T09:34:11.000Z",
@@ -335,9 +1335,9 @@
     "st": "",
     "city": "",
     "t": "Künstliche Intelligenz im Fokus der UN-Generalversammlung",
-    "s": "Künstliche Intelligenz steht im Zentrum der Aufmerksamkeit bei der UN-Generalversammlung in New York. Verschiedene internationale Führungspersönlichkeiten befassen sich mit diesem Thema. Darunter befindet sich auch der neue britische Premierminister Andy Burnham. Die Berichterstattung erfolgt vor Ort durch die Korrespondentin Jessica Le Massurier.",
-    "m": "Die diesjährige UN-Generalversammlung widmet der Künstlichen Intelligenz (KI) große Aufmerksamkeit. Das Thema bildet einen zentralen Schwerpunkt bei den Reden und Diskussionen der Staats- und Regierungschefs. Zu den prominenten Rednern, die sich zu dieser Thematik äußern, gehört der britische Premierminister Andy Burnham. Die Veranstaltung findet in New York statt. Vor Ort begleitet die Korrespondentin Jessica Le Massurier das Geschehen für den Sender France24. Weitere Details zu spezifischen Beschlüssen, Initiativen oder anderen beteiligten Politikern gehen aus dem Bericht nicht hervor. Auch Zeitpläne oder konkrete Regulierungsabsichten werden in der kurzen Meldung nicht genannt.",
-    "r": "Die Thematisierung von Künstlicher Intelligenz auf internationaler Ebene bei den Vereinten Nationen ist für die globale Technologiepolitik und zukünftige Regulierung von Bedeutung. Das Treffen bietet eine Plattform für führende Politiker, um gemeinsame Standpunkte zu erarbeiten.",
+    "s": "Künstliche Intelligenz steht im Mittelpunkt der UN-Generalversammlung in New York. Zahlreiche Staats- und Regierungschefs befassen sich mit dem Thema. Darunter ist auch der britische Premierminister Andy Burnham.",
+    "m": "Die Künstliche Intelligenz nimmt eine zentrale Rolle bei der diesjährigen UN-Generalversammlung ein. Auf dem Treffen in New York diskutieren internationale Führungspersönlichkeiten über die Zukunft und Regulierung der Technologie. Zu den Rednern, die sich mit dem Thema befassen, gehört der britische Premierminister Andy Burnham. Die Korrespondentin Jessica Le Massurier berichtet direkt aus New York über die Entwicklungen und Debatten vor Ort. Das Treffen bietet eine globale Bühne für die Debatte über Chancen und Risiken von Künstlicher Intelligenz. Weitere Details zu spezifischen Abkommen oder Resolutionen wurden in dieser Berichterstattung noch nicht genannt.",
+    "r": "Die Debatte auf hoher politischer Ebene zeigt, dass Künstliche Intelligenz zunehmend als globales Thema behandelt wird. Die UN-Generalversammlung dient dabei als wichtiges Forum für internationale Positionierungen.",
     "srcs": [
       {
         "name": "France24 English",
@@ -346,32 +1346,6 @@
       }
     ],
     "url": "https://www.france24.com/en/ai-takes-centre-stage-at-un-general-assembly",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-3f66d1fda151a844",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T09:33:41.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Seltene Notizen zur UN-Generalversammlung und US-Präsidenten",
-    "s": "Anlässlich der UN-Generalversammlung in New York treffen europäische und internationale Staats- und Regierungschefs zusammen. Der britische Politiker Andy Burnham führte in diesem Rahmen ein erstes persönliches Gespräch mit US-Präsident Donald Trump. Trump lobte Burnham dabei und betonte ein positives Verhältnis zur britischen Seite unter ihm im Vergleich zum Premierminister Keir Starmer. Themen wie KI-Regulierung, Chagos-Inseln und der Iran-Konflikt sorgen jedoch weiterhin für Spannungen zwisch",
-    "m": "Die UN-Generalversammlung in New York geht in ihren zweiten Tag, an dem zahlreiche europäische Führungspersönlichkeiten Reden halten und ukrainische Anliegen vorgetragen werden sollen. Ein beachtenswertes Treffen fand zudem zwischen dem britischen Politiker Andy Burnham und US-Präsident Donald Trump statt. Trotz bestehender politischer Differenzen und Reibungspunkte in Fragen der Regulierung künstlicher Intelligenz, der Chagos-Inseln sowie des Iran-Krieges, verlief das erste persönliche Aufeinandertreffen für Burnham erfolgreich. US-Präsident Trump bezeichnete Burnham, der nervös neben ihm saß, als 'natürlichen Geschäftsmann' und hob hervor, dass die Beziehungen derzeit besser seien als unter Keir Starmer. Später am Tag ist zudem ein Zusammentreffen von Donald Trump mit dem chinesischen Staatschef Xi Jinping geplant.",
-    "r": "Das Treffen zwischen US-Präsident Trump und dem britischen Politiker Andy Burnham während der UN-Generalversammlung wirft Schlaglichter auf transatlantische Beziehungen und bestehende Differenzen bei globalen sowie regulatorischen Themen.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-        "date": "2026-09-23T09:33:41.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -406,16 +1380,17 @@
   {
     "id": "story-9c460c12027175ab",
     "c": "DE",
+    "o": "DE",
     "k": "panorama",
     "lang": "de",
     "d": "2026-09-23T09:33:00.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Mutmaßliche Rinderdiebe nach Diebstählen in Brandenburg und Polen gefasst",
-    "s": "In Brandenburg sind im Frühjahr mehr als 200 Rinder gestohlen worden. Nun hat die Polizei zwei mutmaßliche Tatverdächtige festgenommen. Die Verdächtigen sitzen inzwischen in Untersuchungshaft.",
-    "m": "Im Verlauf des Frühjahrs kam es in Brandenburg zum Verschwinden von mehr als 200 Rindern, was bei den betroffenen Landwirten für großen Schaden sorgte. Nach intensiven Ermittlungen ist es den Behörden nun gelungen, zwei Tatverdächtige zu fassen. Den bisherigen Erkenntnissen zufolge sollen die Männer die Tiere gewaltsam in Transporter verladen haben. Anschließend transportierten sie die Rinder illegal über die Grenze nach Polen ab. Die festgenommenen Personen wurden einem Haftrichter vorgeführt und befinden sich nun in Untersuchungshaft. Weitere Ermittlungen zu möglichen Komplizen und dem Verbleib der Tiere dauern an.",
-    "r": "Die Festnahme von Tatverdächtigen nach einer Serie von Viehdiebstählen in Brandenburg ist für die betroffene Landwirtschaft von großer Bedeutung. Der Vorfall verdeutlicht grenzüberschreitende Kriminalität im Bereich der Agrarwirtschaft und die Zusammenarbeit der Behörden.",
+    "t": "Mutmaßliche Viehdiebe nach Diebstahl von über 200 Rindern gefasst",
+    "s": "Im Frühjahr sind in Brandenburg mehr als 200 Rinder spurlos verschwunden. Nun hat die Polizei zwei mutmaßliche Täter festgenommen, die sich inzwischen in Untersuchungshaft befinden. Den Ermittlungen zufolge sollen die Verdächtigen die Tiere in Transporter verladen und nach Polen abtransportiert haben.",
+    "m": "Die Serie von Viehdiebstählen im Frühjahr in Brandenburg sorgte für erheblichen Schaden bei den betroffenen Landwirten, da insgesamt über 200 Rinder entwendet wurden. Nach intensiven Ermittlungen gelang den Behörden nun der Zugriff auf zwei Tatverdächtige. Gegen die Männer wurde Untersuchungshaft angeordnet. Nach dem derzeitigen Stand der Ermittlungen gingen die Beschuldigten arbeitsteilig vor, indem sie die Tiere auf Fahrzeuge verluden. Anschließend sollen die Rinder über die nahe Grenze nach Polen gebracht worden sein. Die Polizei prüft nun mögliche Absatzwege der Tiere und ob es weitere Komplizen gibt. Offen ist bislang, wo genau sich die gestohlenen Rinder gegenwärtig befinden und ob Teile der Herde sichergestellt werden konnten.",
+    "r": "Der Fund und die Festnahme von Tatverdächtigen nach dem Diebstahl einer großen Anzahl von Nutztieren verdeutlichen den Ermittlungserfolg länderübergreifender Polizeiarbeit. Der Fall zeigt zudem die Sicherheitsrisiken für landwirtschaftliche Betriebe in grenznahen Regionen auf.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -424,6 +1399,33 @@
       }
     ],
     "url": "https://www.spiegel.de/panorama/justiz/polizei-fasst-mutmassliche-viehdiebe-in-brandenburg-und-polen-a-d6c5540c-89a9-4cbf-9ec7-52cf2a70040b#ref=rss",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-1002af048e35d6bd",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:32:33.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "KfW-Studie: Deutscher Mittelstand zögert bei Beschäftigung ausländischer Fachkräfte",
+    "s": "Laut einer aktuellen Studie der KfW beschäftigt rund jedes zehnte Unternehmen aus dem Mittelstand ausländische Mitarbeiter. Insbesondere kleine Firmen halten sich bei der Rekrutierung von Fachkräften aus dem Ausland zurück. Der Bericht beleuchtet die verschiedenen Gründe für diese Zurückhaltung.",
+    "m": "Die KfW hat eine Untersuchung zum Thema ausländische Fachkräfte im deutschen Mittelstand veröffentlicht. Demnach greift derzeit nur etwa jedes zehnte Unternehmen auf Mitarbeiter aus dem Ausland zurück. Vor allem kleinere Betriebe zeigen eine ausgeprägte Zurückhaltung bei diesem Thema. Die Studie geht den genauen Ursachen und Hürden nach, die diese Firmen von der Beschäftigung ausländischer Arbeitskräfte abhalten. Konkrete Zahlen und Details zu den Barrieren nennt die Meldung jedoch nicht. Die Untersuchung wirft damit ein Schlaglicht auf ungenutzte Potenziale zur Linderung des Fachkräftemangels in Deutschland. Weitere Analysen und offene Punkte bezüglich politischer oder administrativer Hürden werden in dem Bericht angedeutet.",
+    "r": "Die Untersuchung ist relevant, weil der Mangel an Fachkräften eine der größten Herausforderungen für die deutsche Wirtschaft darstellt. Die Erkenntnisse über das Zögern des Mittelstands zeigen auf, in welchen Bereichen Aufklärungs- oder Unterstützungsbedarf besteht.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/kfw-studie-mittelstand-zoegert-bei-auslaendischen-fachkraeften/100256837.html",
+        "date": "2026-09-23T09:32:33.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/politik/deutschland/kfw-studie-mittelstand-zoegert-bei-auslaendischen-fachkraeften/100256837.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -484,16 +1486,17 @@
   {
     "id": "story-00356ea99e021710",
     "c": "DE",
+    "o": "DE",
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-09-23T09:31:10.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Ranking 2026: Die besten privaten Unfallversicherungen im Test",
-    "s": "Das Handelsblatt hat ein Ranking der besten privaten Unfallversicherungen für das Jahr 2026 veröffentlicht. Eine solche Versicherung bietet finanzielle Unterstützung, wenn ein Unfall zu dauerhaften gesundheitlichen Beeinträchtigungen führt. Das Ranking soll Verbrauchern bei der Auswahl des passenden Schutzes für den Ernstfall Orientierung bieten.",
-    "m": "Ein schwerer Unfall kann das Leben eines Menschen komplett und dauerhaft verändern. Um die finanziellen Folgen bei bleibenden gesundheitlichen Schäden abzufedern, ist eine private Unfallversicherung ein wichtiges Absicherungsinstrument. Das Handelsblatt hat nun ein spezielles Ranking für das Jahr 2026 herausgegeben, das die verschiedenen Angebote auf dem Markt bewertet. Die Auswertung soll als fundierte Entscheidungshilfe und Orientierung dienen, um aus der Vielzahl der Tarife den optimalen Schutz auszuwählen. Bislang wurden in dem kurzen Bericht keine konkreten Details zu den Testsiegern oder den genauen Prüfkriterien genannt. Auch die Frage, wie sich die Prämien im Vergleich zum Vorjahr entwickelt haben, bleibt in dieser Phase offen.",
-    "r": "Die Veröffentlichung bietet Orientierung bei der Auswahl einer privaten Unfallversicherung, die bei dauerhaften gesundheitlichen Folgen nach einem Unfall finanzielle Sicherheit schaffen soll.",
+    "t": "Ranking 2026: Die besten privaten Unfallversicherungen für den Ernstfall",
+    "s": "Eine private Unfallversicherung bietet finanzielle Absicherung, wenn dauerhafte gesundheitliche Beeinträchtigungen nach einem Unfall zurückbleiben. Solche Ereignisse können das Leben der Betroffenen massiv verändern. Ein aktuelles Ranking für das Jahr 2026 soll bei der Auswahl der passenden Versicherung Orientierung bieten.",
+    "m": "Ein schwerer Unfall hat oft nicht nur gesundheitliche, sondern auch weitreichende finanzielle Folgen, wenn Folgeschäden das Leben dauerhaft verändern. Um in diesem Bereich eine fundierte Entscheidung zu treffen, hilft ein aktuelles Ranking der besten privaten Unfallversicherungen für das Jahr 2026. Dieses soll Verbrauchern als Orientierung dienen, um den passenden Schutz für den Ernstfall zu finden. Bislang wurden im Rahmen dieses Rankings jedoch keine konkreten Anbieter, Tarife oder Prüfkriterien öffentlich genannt. Die Auswahl soll den Versicherten helfen, sich im unübersichtlichen Tarifdschungel zurechtzufinden und finanzielle Risiken im Schadensfall zu minimieren. Offen bleibt bislang, welche Institute an der Untersuchung beteiligt waren und welche Punktzahlen die jeweiligen Testsieger erzielt haben.",
+    "r": "Die Meldung bietet Verbrauchern eine Orientierungshilfe zur Absicherung gegen dauerhafte Unfallfolgen. Ein privater Unfallschutz kann helfen, finanzielle Belastungen im Ernstfall abzufedern.",
     "srcs": [
       {
         "name": "Handelsblatt",
@@ -560,6 +1563,33 @@
     "independent": 1
   },
   {
+    "id": "story-6a26597ef41120c7",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-23T09:30:12.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Innenstädte gewinnen erstmals seit Pandemie an Attraktivität",
+    "s": "Deutsche Innenstädte verzeichnen erstmals seit der Pandemie eine steigende Attraktivität. Dies geht aus einer aktuellen Studie des deutschen Einzelhandels hervor. Nach jahrelanger Leerung zeichnet sich damit eine spürbare Trendwende ab. Weitere Details zur Studie und den genauen Ursachen sind noch nicht umfassend bekannt.",
+    "m": "Die Innenstadt-Studie 2026 des deutschen Einzelhandels zeigt eine positive Entwicklung für die Stadtzentren in Deutschland auf. Nach mehrjährigen Phasen des Leerstands und sinkender Attraktivität seit Beginn der Pandemie kommt es nun zu einer Trendwende. Die Untersuchung dokumentiert diesen Wandel und belegt ein neues Interesse an den urbanen Zentren. Es bleibt abzuwarten, welche konkreten Faktoren zu dieser Entwicklung beigetragen haben und ob sich der Trend langfristig fortsetzt. Auch die Auswirkungen auf den lokalen Handel und die Gastronomie werden in künftigen Analysen zu betrachten sein. Genauere Zahlen und Regionalvergleiche wurden in der Meldung zunächst nicht genannt.",
+    "r": "Die Entwicklung zeigt eine Trendwende für deutsche Innenstädte nach der Pandemie auf. Dies ist für den Einzelhandel und die urbane Stadtentwicklung von großer Bedeutung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/innenstaedte-umfrage-cima-handelsverband-deutschland-shopping-gxe",
+        "date": "2026-09-23T09:30:12.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/innenstaedte-umfrage-cima-handelsverband-deutschland-shopping-gxe",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-708e4525eeb93c9c",
     "c": "DE",
     "k": "politik",
@@ -614,6 +1644,7 @@
   {
     "id": "story-8842039716757a2e",
     "c": "DE",
+    "o": "DE",
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-09-23T09:28:45.000Z",
@@ -621,9 +1652,9 @@
     "st": "",
     "city": "",
     "t": "IG Metall fordert fünf Prozent mehr Geld für Beschäftigte",
-    "s": "Die IG Metall fordert für rund 3,7 Millionen Beschäftigte fünf Prozent mehr Geld in der anstehenden Tarifrunde. Grund für die Forderung sind die steigenden Preise. Neben der Lohnerhöhung gibt es weitere Forderungen der Gewerkschaft.",
-    "m": "Die Gewerkschaft IG Metall geht mit konkreten Forderungen in die anstehende Tarifrunde und verlangt fünf Prozent mehr Geld. Von dieser Forderung sind etwa 3,7 Millionen Beschäftigte betroffen. Angesichts steigender Preise soll dieser Schritt die Einkommen der Arbeitnehmer sichern. Neben dem Entgeltplus stehen noch weitere gewerkschaftliche Forderungen im Raum, die im Zuge der Verhandlungen durchgesetzt werden sollen. Derzeit steht die Tarifrunde noch am Anfang, und es bleibt abzuwarten, wie die Arbeitgeberseite auf das Forderungspaket reagieren wird.",
-    "r": "Die Tarifrunde der IG Metall betrifft Millionen von Arbeitnehmern und hat durch die Forderung nach Entgelterhöhungen angesichts steigender Preise große wirtschaftliche Bedeutung.",
+    "s": "Die IG Metall fordert in der neuen Tarifrunde fünf Prozent mehr Geld für die Beschäftigten. Grund für die Forderung sind die steigenden Preise. Von der Initiative sind 3,7 Millionen Beschäftigte betroffen. Neben der Entgelterhöhung gibt es weitere Forderungen der Gewerkschaft.",
+    "m": "Angesichts steigender Preise fordert die IG Metall in der anstehenden Tarifrunde fünf Prozent mehr Geld für die Beschäftigten. Die Forderung zielt auf insgesamt 3,7 Millionen Beschäftigte ab. Die Gewerkschaft will damit den Kaufkraftverlust durch die Teuerung ausgleichen. Neben der Lohnerhöhung beinhaltet das Forderungspaket der IG Metall noch weitere Punkte, die jedoch im Detail noch nicht näher beziffert wurden. Es handelt sich um den Auftakt zu einer richtungsweisenden Tarifrunde für einen großen Teil der Arbeitnehmerschaft in Deutschland.",
+    "r": "Die Tarifrunde der IG Metall betrifft Millionen von Arbeitnehmern und hat durch die Forderung nach deutlichen Lohnsteigerungen weitreichende Bedeutung für die wirtschaftliche Entwicklung und den Umgang mit steigenden Preisen in Deutschland.",
     "srcs": [
       {
         "name": "Handelsblatt",
@@ -632,32 +1663,6 @@
       }
     ],
     "url": "https://www.handelsblatt.com/politik/deutschland/tarifrunde-ig-metall-fordert-fuenf-prozent-mehr-geld-fuer-beschaeftigte/100256830.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-f29363096ca41ab0",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T09:28:20.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Weißes Haus rechtfertigt Ausschluss von CNN mit Sicherheitsrisiken",
-    "s": "Nach dem Ausschluss von CNN und weiteren Sendern aus dem Weißen Haus hat sich der Streit zwischen der US-Regierung und den Medien verschärft. Die Regierung begründet die Maßnahme damit, dass die betroffenen Medien vertrauliches Material veröffentlicht und damit die Sicherheit gefährdet hätten. Die betroffenen Sender wurden von entsprechenden Terminen ausgeschlossen.",
-    "m": "Der Konflikt zwischen der US-Regierung und bestimmten Medien wie dem Sender CNN ist nach einem medialen Rauswurf aus dem Weißen Haus weiter eskaliert. Auslöser für die harten Maßnahmen der Regierung ist der Vorwurf, dass die betroffenen Medien vertrauliches Material an die Öffentlichkeit gebracht haben sollen. Von Regierungsseite wird argumentiert, dass dieses Verhalten eine konkrete Gefährdung der Sicherheit darstelle. Der Vorgang markiert einen neuen Höhepunkt in den angespannten Beziehungen zwischen Teilen der US-Medienlandschaft und der politischen Führung. Bislang ist unklar, ob die betroffenen Sender in Zukunft wieder zu allen Terminen zugelassen werden oder ob der Ausschluss dauerhaften Charakter haben wird. Auch die Reaktionen der betroffenen Medienanstalten auf diese Anschuldigungen stehen im Detail noch aus.",
-    "r": "Der direkte Konflikt zwischen der US-Regierung und großen Medienhäusern wie CNN betrifft die Pressefreiheit und den Informationszugang. Solche Auseinandersetzungen verdeutlichen das angespannte Verhältnis zwischen politischer Führung und Medienvertretern.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-09/cnn-ausschluss-weisses-haus-medien-zugang-klage",
-        "date": "2026-09-23T09:28:20.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/ausland/2026-09/cnn-ausschluss-weisses-haus-medien-zugang-klage",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -710,32 +1715,6 @@
       }
     ],
     "url": "https://www.welt.de/regionales/niedersachsen/article6ab362c0274d1bab27b619bb/drogenfahrt-in-leer-33-jaehrige-bei-verkehrskontrolle-erwischt.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-e9dbb28277eccb3b",
-    "c": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T09:28:03.000Z",
-    "p": 2,
-    "st": "SH",
-    "city": "",
-    "t": "DLRG zieht Bilanz der Badesaison im Norden",
-    "s": "Die Deutsche Lebens-Rettungs-Gesellschaft hat Bilanz für die Sommermonate im Norden gezogen. Laut den Angaben gab es eine auffällige Häufung von Männern unter den Badetoten. Das teilte die DLRG in ihrer Auswertung mit.",
-    "m": "Die Deutsche Lebens-Rettungs-Gesellschaft (DLRG) hat eine vorläufige oder abschließende Bilanz zu den Badetoten der Sommermonate im Norden veröffentlicht. Nach den offiziellen Angaben der Organisation waren dabei auffällig viele Männer unter den verunglückten Personen. Weitere Details zum genauen zeitlichen Ablauf, konkreten Gesamtzahlen der Badetoten, beteiligten Akteuren vor Ort oder den genauen Hintergründen der Unglücke gehen aus dem Bericht nicht hervor. Auch über mögliche Folgen oder offene Punkte im Zusammenhang mit der Rettungsarbeit an den Küsten und Gewässern enthält der vorliegende Text keine weiteren Informationen.",
-    "r": "Die Bilanz der DLRG gibt Aufschluss über das Sicherheitsrisiko und die Demografie von Verunglückten an Gewässern während der Sommermonate im Norden. Solche Auswertungen sind wichtig für die präventive Aufklärung und die künftige Ausrichtung der Wasserrettung.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/20-badetote-in-schleswig-holstein-dlrg-zieht-sommerbilanz,dlrg-234.html",
-        "date": "2026-09-23T09:28:03.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/20-badetote-in-schleswig-holstein-dlrg-zieht-sommerbilanz,dlrg-234.html",
     "agree": "",
     "diff": [],
     "chg": "",
@@ -844,195 +1823,6 @@
     "diff": [],
     "chg": "",
     "independent": 1
-  },
-  {
-    "id": "story-27b5bb10b982c2a9",
-    "c": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:26:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "OECD hebt Konjunkturprognose für deutsche Wirtschaft an",
-    "s": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung hat ihre Wachstumsprognose für die deutsche Wirtschaft angehoben. Demnach rechnet die in Paris ansässige Organisation für das laufende Jahr mit einem Wachstum von 1,1 Prozent. Dies entspricht einer Steigerung um 0,4 Prozentpunkte im Vergleich zur vorherigen Schätzung vom Juni.",
-    "m": "Die Industriestaatenorganisation OECD zeigt sich in ihrer neuesten Prognose zuversichtlicher für die deutsche Wirtschaft und hat ihre Erwartungen nach oben korrigiert. Für das laufende Jahr wird nun ein BIP-Wachstum von 1,1 Prozent prognostiziert, was einem Zuwachs von 0,4 Prozentpunkten gegenüber der Juni-Schätzung entspricht. Neben Deutschland hat die OECD auch ihre Konjunkturerwartungen für den gesamten Euroraum sowie für die Weltwirtschaft angehoben. Gleichzeitig äußerte die Organisation Kritik an wirtschaftspolitischen Maßnahmen wie dem sogenannten Tankrabatt. Die Daten unterstreichen die aktuelle Anpassung der globalen und nationalen Wirtschaftsaussichten durch internationale Institutionen, während offene Punkte bezüglich der langfristigen Stabilisierung bestehen bleiben.",
-    "r": "Die Anpassung der Konjunkturprognosen durch eine international bedeutende Organisation wie die OECD liefert wichtige Indikatoren für die wirtschaftliche Entwicklung in Deutschland, im Euroraum und weltweit. Zudem wirft die Kritik an politischen Instrumenten wie dem Tankrabatt Fragen zur Wirksamkeit staatlicher Eingriffe auf.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
-        "date": "2026-09-23T09:26:54.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/konjunkturprognose-fuer-deutsche-wirtschaft-euroraum-und-weltwirtschaft-angehoben-kritik-am-tankraba-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-285c0d89b66b7430",
-    "c": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:26:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-    "s": "Angesichts drastisch gestiegener Treibstoffpreise in den USA prüfen die Behörden einen Exportstopp für Diesel. Ein solcher Schritt wurde historisch zuletzt während der Ölkrise in den 1970er-Jahren angewandt. Die Maßnahme soll dazu beitragen, die Versorgung im eigenen Land zu sichern und die Preise zu dämpfen. Konkrete Entscheidungen stehen derzeit noch aus.",
-    "m": "Die US-Regierung sieht sich wegen der Folgen des Irankriegs mit stark steigenden Preisen vor allem für Diesel konfrontiert. US-Präsident Trump hat sich in diesem Zusammenhang öffentlich für einen Exportstopp des Kraftstoffs ausgesprochen. Eine Ausfuhrsperre für Erdölprodukte gab es in den USA zuletzt in den 1970er-Jahren während der globalen Ölkrise. Bislang handelt es sich um eine Prüfung der Maßnahme, ob und wann sie offiziell umgesetzt wird, ist noch nicht bekannt. Kritiker oder genaue wirtschaftliche Auswirkungen auf den Weltmarkt wurden in den Berichten noch nicht näher beziffert. Offen ist ebenfalls, wie internationale Handelspartner auf einen solchen Schritt reagieren würden.",
-    "r": "Die Prüfung eines US-Exportstopps für Diesel ist eine direkte Reaktion auf die stark gestiegenen Treibstoffpreise infolge des Irankriegs. Solche protektionistischen Maßnahmen wurden historisch nur in schweren Versorgungskrisen wie den 1970er-Jahren eingesetzt.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
-        "date": "2026-09-23T09:26:54.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
-        "date": "2026-09-23T06:22:27.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
-    "agree": "Die Quellen sind sich einig, dass die USA angesichts hoher Spritpreise einen Exportstopp für Diesel prüfen, welcher zuletzt in den 1970er-Jahren während der Ölkrise angewandt wurde.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet allgemein, dass die USA wegen der Folgen des Irankriegs und hoher Spritpreise einen Exportstopp für Diesel prüfen."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Ergänzt, dass sich konkret US-Präsident Trump für den Diesel-Exportstopp ausgesprochen hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b3e426ce2dd35f77",
-    "c": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T09:26:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Vereinte Nationen - Wadephul: \"UNO-Sicherheitsrat muss handlungsfähiger werden\"",
-    "s": "Bundesaußenminister Wadephul hat sich am Rande der UN-Generaldebatte in New York für Reformen des Sicherheitsrates ausgesprochen. Im Deutschlandfunk betonte er die Notwendigkeit, Blockaden aufzuheben und die Handlungsfähigkeit des Gremiums zu verbessern. Diese Äußerungen machte der CDU-Politiker während seines Aufenthalts bei der internationalen Versammlung.",
-    "m": "Am Rande der Generaldebatte der Vereinten Nationen in New York hat Bundesaußenminister Wadephul Reformen des UNO-Sicherheitsrates gefordert. In einem Interview mit dem Deutschlandfunk erklärte der CDU-Politiker, dass bestehende Blockaden innerhalb des Rates überwunden werden müssen. Ziel dieser Reformbestrebungen sei es, das wichtigste UN-Gremium wieder handlungsfähiger zu machen. Weitere Details zu konkreten Reformvorschlägen oder beteiligten Staaten wurden in dem Bericht nicht genannt. Der Minister hob hervor, dass die aktuelle Situation Reformen unumgänglich mache, um auf globale Krisen effektiver reagieren zu können. Offen bleibt bislang, wie die anderen Mitgliedstaaten auf diese Forderungen reagieren und ob konkrete Verhandlungen geplant sind.",
-    "r": "Die Forderung nach einer Reform des UNO-Sicherheitsrates durch einen deutschen Regierungsvertreter ist für die internationale Diplomatie und die deutsche Außenpolitik von Bedeutung. Sie berührt die Effizienz und Glaubwürdigkeit der Vereinten Nationen bei der Bewältigung globaler Krisen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
-        "date": "2026-09-23T09:26:54.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/wadephul-uno-sicherheitsrat-muss-handlungsfaehiger-werden-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-2df03446b3c74dff",
-    "c": "DE",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-09-23T09:26:54.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Extremwetterkongress in Hamburg berät über Klimawandelfolgen",
-    "s": "In Hamburg hat ein Extremwetterkongress begonnen, bei dem Experten über die Auswirkungen des Klimawandels beraten. Im Fokus der Tagung steht der künftige Umgang mit den Folgen extremer Wetterereignisse. Die Veranstaltung bringt Fachleute zusammen, um aktuelle Entwicklungen und Schutzmaßnahmen zu diskutieren. Weitere Details zur Dauer oder konkreten Programmpunkten wurden zunächst nicht genannt.",
-    "m": "Der Extremwetterkongress in Hamburg ist gestartet, um sich mit den wachsenden Herausforderungen des Klimawandels auseinanderzusetzen. Expertinnen und Experten aus verschiedenen Bereichen nehmen an der Tagung teil, die ab heute in der Hansestadt stattfindet. Im Mittelpunkt stehen dabei die spürbaren Auswirkungen extremer Wetterphänomene auf die Gesellschaft und die Infrastruktur. Diskutiert werden unter anderem Strategien zur Anpassung an diese veränderten klimatischen Bedingungen sowie mögliche Präventivmaßnahmen. Die Veranstaltung bietet eine Plattform für den fachlichen Austausch über aktuelle wissenschaftliche Erkenntnisse und praktische Erfahrungen. Bisher liegen keine Informationen über die genaue Anzahl der Teilnehmer oder spezifische Beschlüsse vor.",
-    "r": "Die Veranstaltung ist relevant, da sie aktuelle wissenschaftliche Debatten und politische wie gesellschaftliche Handlungsansätze im Umgang mit zunehmenden Extremwetterereignissen und dem Klimawandel aufgreift.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
-        "date": "2026-09-23T09:26:54.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/extremwetterkongress-beraet-ueber-umgang-mit-folgen-des-klimawandels-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-d3bf77a24d880e1b",
-    "c": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:26:54.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Landgericht Karlsruhe verhandelt über dm-Versandapotheke",
-    "s": "Vor dem Landgericht Karlsruhe hat eine Verhandlung über die Online-Apotheke der Drogeriemarktkette dm begonnen. Im Zentrum des Verfahrens stehen rechtliche Fragen rund um den Betrieb der Versandapotheke. Das Gericht prüft die Zulässigkeit des Angebots.",
-    "m": "Das Landgericht Karlsruhe verhandelt aktuell über den Betrieb der Online-Apotheke der Drogeriemarktkette dm. Gegenstand des Verfahrens ist die Frage, ob das digitale Angebot der Drogeriemarktkette rechtlich zulässig ist. Konkrete Details zum Kläger oder den genauen Vorwürfen gehen aus dem Bericht nicht hervor. Auch ein Urteil oder ein Termin für eine Entscheidung wurden bisher nicht bekannt gegeben. Der Ausgang des Verfahrens könnte weitreichende Folgen für den Online-Vertrieb von Arzneimitteln durch Drogeriemärkte haben.",
-    "r": "Das Verfahren ist relevant, da es Grundsatzfragen zum Vertrieb von Medikamenten über das Internet durch Drogeriemärkte klären kann und Auswirkungen auf den Apothekenmarkt hat.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
-        "date": "2026-09-23T09:26:54.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/gericht-verhandelt-ueber-dm-versandapotheke-100.html",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-e4e1a53d7ad6dc84",
-    "c": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:26:54.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-    "s": "Der ADAC spricht sich für die Aufhebung der Tankstellen-Regelung aus. Bislang dürfen die Preise dort zu bestimmten Zeiten steigen. Die Regelung steht nun in der Kritik, da sie den erhofften Effekt nicht erzielt habe.",
-    "m": "Der Allgemeine Deutsche Automobil-Club (ADAC) fordert offiziell die Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen. Nach Ansicht des Automobilclubs hat diese Regelung das Tanken für die Verbraucher nicht günstiger gemacht, sondern diese stattdessen zusätzlich belastet. Neben dem ADAC wird die Regel auch von anderen Seiten kritisiert. Die Vorschrift sollte ursprünglich für mehr Transparenz und Stabilität bei den Spritpreisen sorgen, steht jedoch seit längerem auf dem Prüfstand. Konkrete Reaktionen der Politik oder der Bundesregierung auf die Forderung sind in den vorliegenden Berichten noch nicht genannt.",
-    "r": "Die Diskussion um die Preisgestaltung an Tankstellen betrifft Millionen Autofahrer in Deutschland. Eine Abschaffung der Regel könnte die Preisdynamik auf dem Kraftstoffmarkt verändern.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
-        "date": "2026-09-23T09:26:54.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
-        "date": "2026-09-23T06:24:00.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjB2MGxHcjZ6NHBGTmE2cGtoLWhlUV92anZRbXljN1RoclZVeDllb2VER0tzSEtvbDNiRGlDbERFMHVjLTJqRHdQQmtFS3doTThvTTI5YTVNOW1FODlSNDhMeEM1M0N3OEZfTEpHdVozN05Td0VXeDFJd2w4RVYxMW9UaTh5dUVLaTlLbTZYbHhnUWFiNW9vdg?oc=5",
-        "date": "2026-09-23T05:33:45.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
-    "agree": "Alle Quellen stimmen darin überein, dass der ADAC die Abschaffung der 12-Uhr-Regel an Tankstellen fordert.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt zusätzlich, dass die Regel das Tanken nicht billiger gemacht, sondern Verbraucher belastet habe und nicht nur der ADAC Kritik übe."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist zusätzlich auf die Wochenzeitung DIE ZEIT als berichtendes Medium."
-      }
-    ],
-    "chg": "",
-    "independent": 3
   },
   {
     "id": "story-582f5964c61820dd",
