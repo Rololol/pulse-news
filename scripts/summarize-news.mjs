@@ -23,6 +23,7 @@ const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const clean=s=>String(s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g," ").replace(/&nbsp;/gi," ").replace(/&amp;/gi,"&").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&#39;/g,"'").replace(/&#x27;/g,"'").replace(/&quot;/gi,'"').replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/\s+/g," ").trim();
 const hashKey=s=>Buffer.from(String(s)).toString("base64url").slice(0,120);
 const stableId=s=>{let h=2166136261;for(let i=0;i<String(s).length;i++){h^=String(s).charCodeAt(i);h=Math.imul(h,16777619)}return "story-"+(h>>>0).toString(16).padStart(8,"0")+(((h>>>0)^0x9e3779b9)>>>0).toString(16).padStart(8,"0")};
+const titleSimilarity=(a,b)=>{const A=new Set(clean(a).toLowerCase().split(/\s+/).filter(w=>w.length>=5)),B=new Set(clean(b).toLowerCase().split(/\s+/).filter(w=>w.length>=5));let n=0;for(const w of A)if(B.has(w))n++;return n/Math.max(1,new Set([...A,...B]).size)};
 const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
 const countryMap={DE:"DE",UK:"INT",PT:"INT",INT:"INT",US:"INT",EU:"INT"};
 
@@ -66,7 +67,7 @@ async function ask(item,previous){
     "["+(src.source||"Quelle "+(i+1))+"]\n"+clean(src.title||"")+"\n"+clean(src.snippet||"")
   ).join("\n\n");
   const previousText=previous?`Vorheriger Pulse-Stand:\nKurzfassung: ${clean(previous.s||"")}\nWas bisher bekannt ist: ${clean(previous.m||"")}`:"";
-  const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m und agree auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
+  const prompt=`Hier sind mehrere Redaktionsmeldungen zum selben Ereignis. Vergleiche sie und antworte NUR mit einem JSON-Objekt in genau diesem Format. Formuliere alle Felder t, s, m, r und chg auf Deutsch; diff.note ebenfalls auf Deutsch. Die Quellennamen in diff.name bleiben exakt unverändert:
 {"t":"neutraler, prägnanter Titel (max. 12 Wörter)","s":"Kurzfassung: Was ist passiert? 3-4 informative Sätze, max. 500 Zeichen. Nenne die wichtigsten Fakten und den aktuellen Stand, ohne Inhalte aus m unnötig vorwegzunehmen.","m":"Was ist bisher bekannt? 6-8 informative Sätze, max. 1200 Zeichen. Liefere deutlich mehr Kontext als s: zeitlicher Ablauf, konkrete Zahlen, beteiligte Akteure, Hintergründe, Folgen und offene Punkte, soweit die Quellen dies hergeben. Wiederhole s nicht einfach, sondern ergänze neue Informationen.","r":"Warum ist die Meldung relevant? 2-3 nüchterne Sätze, max. 400 Zeichen, nur aus den gelieferten Informationen ableiten","k":"eine von: politik, wirtschaft, sport, wissenschaft, technik, panorama, umwelt","c":"DE wenn das Ereignis hauptsächlich Deutschland betrifft, sonst INT","p":Wichtigkeit 1-5,"agree":"ein Satz: worin sich die Quellen einig sind","chg":"Wenn ein Vorheriger Pulse-Stand vorhanden ist: 1-3 Sätze nur zu neuen oder geänderten bestätigten Informationen. Wenn nichts Wesentliches neu ist oder kein Vorheriger Pulse-Stand vorhanden ist: leerer String.","diff":[{"name":"Quellenname exakt wie angegeben","note":"was diese Quelle abweichend/zusätzlich berichtet"}]}
 Wenn es keine Abweichungen gibt, gib diff als leeres Array zurück. Erfinde nichts, das nicht in den gelieferten Texten steht. Bei nur einer Quelle bleiben agree und diff leer.
 Quellen:
@@ -180,7 +181,7 @@ for(const item of ranked){
     if(apiKey){
       // Kosten-Schutz: höchstens ein Gemini-Aufruf pro neuer Meldung; 429/Quota wird nicht erneut versucht.
       for(let attempt=0;attempt<3;attempt++){
-        try{ai=await ask(item,previousCurrent.find(x=>x.id===stableId(signature+"|"+(item.stateHint||"")))||previousCurrent.find(x=>jaccard(x.t||"",item.title)>=0.55));generated++;usedGemini=true;break}
+        try{ai=await ask(item,previousCurrent.find(x=>x.id===stableId(signature+"|"+(item.stateHint||"")))||previousCurrent.find(x=>titleSimilarity(x.t||"",item.title)>=0.55));generated++;usedGemini=true;break}
         catch(e){
           if(e.status===429||!e.retryable||attempt===2){failures++;break}
           const retry=Number(e.retryAfter);
