@@ -539,7 +539,7 @@ for(const [source,url,country,feedTopic,stateHint] of feeds){
       const title=get("title"),link=get("link"),desc=get("description"),rawDate=get("pubDate")||get("dc:date");
       const time=Date.parse(rawDate||"");
       if(!title||!link||!Number.isFinite(time)||time<cutoff||time>now+6*60*60*1000)continue;
-      const tickerLike=/newsticker|liveticker|live-ticker|kurz und informativ|morgen-ticker|abend-ticker/i.test(title);
+      const tickerLike=/newsticker|liveticker|live-ticker|kurz und informativ|morgen-ticker|abend-ticker/i.test(title+" "+link);
       if(tickerLike)continue;
       fresh.push({title,url:link,summary:desc.slice(0,700),source,date:new Date(time).toISOString(),topic:feedTopic||topicOf(title,desc),country,stateHint:stateHint||""});
     }
