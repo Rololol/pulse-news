@@ -11,13 +11,14 @@ html[data-theme="dark"]{color-scheme:dark;--bg:#000;--card:#1C1C1E;--label:#FFF;
 @media(prefers-color-scheme:dark){:root:not([data-theme]){--bg:#000;--card:#1C1C1E;--label:#FFF;--label2:rgba(235,235,245,.62);--sep:rgba(84,84,88,.65);--fill:rgba(118,118,128,.24);--tint:#0A84FF;--bar:rgba(22,22,24,.82)}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--label);font:16px/1.55 var(--font);-webkit-font-smoothing:antialiased}.wrap{max-width:680px;margin:auto;padding:0 16px 48px}.nav{height:58px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:2;background:var(--bar);backdrop-filter:saturate(180%) blur(20px);border-bottom:.5px solid var(--sep)}.nav img{width:88px}.back{color:var(--tint);text-decoration:none;font-weight:600;font-size:14px}.theme{border:0;border-radius:50%;width:32px;height:32px;background:var(--fill);color:var(--label2);font-size:16px}.head{padding:34px 4px 22px}.head h1{font-size:34px;line-height:1.1;letter-spacing:-.03em;margin:0 0 9px;font-weight:800}.head p{margin:0;color:var(--label2);font-size:15px}.card{background:var(--card);border-radius:20px;padding:20px;margin:12px 0;box-shadow:0 1px 2px rgba(0,0,0,.04),0 6px 18px -10px rgba(0,0,0,.18)}.num{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:linear-gradient(145deg,#0A84FF,#5E5CE6);color:#fff;font-weight:800;font-size:13px;margin-bottom:10px}.card h2{font-size:20px;line-height:1.2;margin:0 0 7px;letter-spacing:-.015em}.card p{margin:0;color:var(--label2)}.card p+p{margin-top:9px}.note{margin:18px 4px 0;padding:14px;border-radius:14px;background:var(--fill);color:var(--label2);font-size:13px}.foot{text-align:center;color:var(--label2);font-size:12.5px;margin-top:28px}.foot a{color:var(--tint);text-decoration:none;font-weight:600}
 </style>
+<link rel="stylesheet" href="./assets/settings.css">
 </head>
 <body>
 <div class="wrap">
 <header class="nav">
 <a class="back" href="./index.html">← Pulse</a>
 <img src="assets/pulse-logo.svg" alt="Pulse">
-<button class="theme" id="theme" aria-label="Darstellung wechseln">☾</button>
+<button class="theme" id="settingsToggle" type="button" aria-label="Einstellungen"></button>
 </header>
 <main>
 <section class="head">
@@ -43,5 +44,6 @@ const key='pulse-theme',root=document.documentElement,b=document.getElementById(
 function apply(){const s=localStorage.getItem(key);if(s)root.dataset.theme=s;b.textContent=root.dataset.theme==='dark'?'☀':'☾';b.setAttribute('aria-label',root.dataset.theme==='dark'?'Helles Design':'Dunkles Design')}
 b.onclick=()=>{const n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;localStorage.setItem(key,n);apply()};apply();
 </script>
+<script src="./assets/settings.js"></script>
 </body>
 </html>
