@@ -266,7 +266,7 @@ function renderControls(){
   $('#countryStates').innerHTML=S.scope==='all'?availableCountries.map(([k,v])=>`<button class="mini-chip" data-country="${k}" aria-pressed="${(S.country||'INT')===k}">${v.flag} ${v.n}</button>`).join(''):'';
   $('#seg').innerHTML=scopes.map(s=>`<button data-scope="${s[0]}" aria-pressed="${S.scope===s[0]}">${s[1]}</button>`).join('');
   $('#chips').innerHTML=`<button class="chip all" data-cat="all" aria-pressed="${S.cat==='all'}">Alle Themen</button>`+Object.keys(CATS).map(k=>`<button class="chip" data-cat="${k}" aria-pressed="${S.cat===k}" style="${cv(CATS[k])}"><span class="ci">${ic(k)}</span>${CATS[k].n}</button>`).join('');
-  $('#searchMeta').innerHTML=q?`<span class="search-meta-left"><span class="filter-chip">Suche: ${esc(q)} <button type="button" data-clear-search aria-label="Suche löschen">×</button></span><span>${list.length} Meldungen gefunden</span></span><button class="filter-clear" type="button" data-clear-search>Filter löschen</button>`:`<span class="search-meta-left"><span>${list.length} Meldungen</span></span>`;
+  $('#searchMeta').innerHTML=q?`<span class="search-meta-left"><span class="filter-chip">Suche: ${esc(q)} <button type="button" data-clear-search aria-label="Suche löschen">×</button></span></span><button class="filter-clear" type="button" data-clear-search>Filter löschen</button>`:``;
 }
 function heroHTML(it){
   const cat=CATS[it.k];
