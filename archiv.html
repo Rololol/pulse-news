@@ -67,7 +67,7 @@ try{
   const sources=Array.isArray(it.srcs)?it.srcs.filter(x=>x&&x.url):[];
   const original=it.url||(sources[0]&&sources[0].url)||'';
   root.innerHTML='<div class="archive-overlay" data-close></div><section class="archive-sheet" role="dialog" aria-modal="true" aria-label="'+esc(it.t)+'"><div class="archive-grip"></div><button class="archive-close" type="button" data-close aria-label="Schließen">×</button><h2>'+esc(it.t)+'</h2><div class="archive-meta">'+fmt(it.d)+'</div><h4>Kurzfassung</h4><p>'+esc(it.s)+'</p>'+(it.m?'<h4>Was bisher bekannt ist</h4><p>'+esc(it.m)+'</p>':'')+(it.r?'<h4>Warum relevant</h4><p>'+esc(it.r)+'</p>':'')+(it.chg?'<h4>Was hat sich geändert?</h4><p>'+esc(it.chg)+'</p>':'')+'<h4>Quellen</h4><div class="archive-sources">'+(sources.length?sources.map(src=>'<p><a href="'+esc(src.url)+'" target="_blank" rel="noopener noreferrer">'+esc(src.name||'Quelle öffnen')+'</a></p>').join(''):'<p>Keine Quellenlinks verfügbar.</p>')+'</div>'+(it.agree?'<h4>Quellenvergleich</h4><p>'+esc(it.agree)+'</p>':'')+(original?'<div class="archive-actions"><a href="'+esc(original)+'" target="_blank" rel="noopener noreferrer">Originalbericht lesen</a></div>':'')+'</section>';
-  requestAnimationFrame(()=>requestAnimationFrame(()=>root.querySelectorAll('.archive-overlay,.archive-sheet').forEach(x=>x.classList.add('open')));
+  requestAnimationFrame(()=>requestAnimationFrame(()=>root.querySelectorAll('.archive-overlay,.archive-sheet').forEach(x=>x.classList.add('open'))));
   document.body.style.overflow='hidden';
 }
 function closeEntry(){
