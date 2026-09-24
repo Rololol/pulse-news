@@ -210,6 +210,7 @@ for(const item of ranked){
     }catch{}
   }
   const srcs=[...srcMap.values()];
+  if(srcs.length<2)continue;
   const signature=(item.sources||[]).map(s=>s.url).join("|");
   const previous=previousFor(item);
   const key=hashKey("v9-translation-cache-reset|"+item.id+"|"+signature+"|"+(item.stateHint||""));
