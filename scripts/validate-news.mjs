@@ -31,7 +31,7 @@ for(const x of data){
   if(!Number.isFinite(time))throw new Error("Ungültiges Datum: "+x.id);
   if(time>now+6*60*60*1000)throw new Error("Meldung liegt zu weit in der Zukunft: "+x.id);
   if(x.t.length>180||x.s.length>700||x.m.length>1600||x.r.length>500||String(x.chg||"").length>500)throw new Error("Textfeld zu lang: "+x.id);
-  if(!Array.isArray(x.srcs)||x.srcs.length<1||x.srcs.length>8)throw new Error("Ungültige Quellenanzahl: "+x.id);
+  if(!Array.isArray(x.srcs)||x.srcs.length<2||x.srcs.length>8)throw new Error("Meldung braucht mindestens zwei Quellen: "+x.id);
   const sourceUrls=new Set();
   for(const src of x.srcs){
     if(!text(src?.name)||!httpUrl(src?.url))throw new Error("Ungültige Quelle: "+x.id);
