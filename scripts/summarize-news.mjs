@@ -40,7 +40,7 @@ const germanStopwords=new Set("der die das den dem des ein eine einer eines eine
 const looksGerman=text=>{
   const s=clean(text||"").toLowerCase();
   if(!s)return false;
-  const foreign=/\\b(the|and|with|from|this|that|will|world|news|economy|government|deve|para|com|uma|que|dos|não|nao|situação|presidente|reage|buscas|clarificada|espero)\\b/i;
+  const foreign=/\\b(the|and|with|from|this|that|world|economy|government|deve|para|com|uma|que|dos|não|nao|situação|presidente|reage|buscas|clarificada|espero)\\b/i;
   const words=s.split(/\\s+/).filter(Boolean);
   const germanHits=words.filter(w=>germanStopwords.has(w)).length;
   const foreignHits=(s.match(foreign)||[]).length;
