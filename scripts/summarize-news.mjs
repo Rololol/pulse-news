@@ -229,7 +229,8 @@ for(const item of ranked){
       }
     }
     if(!ai?.t){
-      if(previous&&validGerman(previous)){ai={t:previous.t,s:previous.s,m:previous.m,r:previous.r||"",k:previous.k||categoryMap[item.topic]||"panorama",c:previous.c||countryMap[item.country]||"INT",p:previous.p||1,agree:previous.agree||"",diff:previous.diff||[],chg:""};}\n      else if(item.country==="DE"){ai=localFallback(item);fallbacks++;}\n    }
+      if(previous&&validGerman(previous)){ai={t:previous.t,s:previous.s,m:previous.m,r:previous.r||"",k:previous.k||categoryMap[item.topic]||"panorama",c:previous.c||countryMap[item.country]||"INT",p:previous.p||1,agree:previous.agree||"",diff:previous.diff||[],chg:""};}
+      else if(item.country==="DE"){ai=localFallback(item);fallbacks++;}\n    }
     cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:usedGemini?"gemini":"fallback"};
   }
 
