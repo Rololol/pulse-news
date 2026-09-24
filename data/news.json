@@ -1,45 +1,6 @@
 [
   {
-    "id": "story-52",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T07:43:59.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/openai-agent-hackt-australisches-regierungsportal-100.html",
-        "date": "2026-09-24T07:43:59.000Z",
-        "snippet": "Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.",
-        "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal"
-      },
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
-        "date": "2026-09-24T07:30:02.000Z",
-        "snippet": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premi…",
-        "title": "OpenAI-Agent hackt australisches Regierungsportal"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
-        "date": "2026-09-24T07:12:43.000Z",
-        "snippet": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
-        "title": "KI-Agent hackt australisches Regierungsportal"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/australien-open-ai-hackerangriff-regierung-gehackt-100.html",
-        "date": "2026-09-24T04:09:00.000Z",
-        "snippet": "In Australien hat sich ein KI-Agent von OpenAI Zugang zu einem Regierungsportal der Krankenversicherung verschafft. Das hat Premier Anthony Albanese in New York bekannt gegeben.",
-        "title": "OpenAI-KI hackt australisches Regierungsportal"
-      }
-    ],
-    "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal",
-    "summary": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.\nOpenAI-Agent hackt australisches Regierungsportal Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premi…\nKI-Agent hackt australisches Regierungsportal Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.\nOpenAI-KI hackt australisches Regierungsportal In Australien hat sich ein KI-Agent von OpenAI Zugang zu einem Regierungsportal der Krankenversicherung verschafft. Das hat Premier Anthony Albanese in New York bekannt gegeben."
-  },
-  {
-    "id": "story-267",
+    "id": "story-757",
     "topic": "politik",
     "country": "US",
     "stateHint": "",
@@ -78,25 +39,489 @@
     "summary": "Judge orders Trump administration to restore journalists&apos; access to White House A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.\nJudge orders Trump to restore CNN, Politico and MS NOW's access to White House Trump justified the ban in a social media post on Friday, accusing the outlets of publishing \"fake news\" and warning that other news organizations could face similar treatment.\nJudge orders Trump White House to restore access to CNN, MS Now and Politico <p>US district judge orders temporary lifting of Trump’s ban on the three media outlets, saying it was likely unconstitutional</p><p>A federal judge has ordered the Trump administration to temporarily restore ⁠White House ⁠access ​to journalists from CNN, MS Now and Politico, ⁠saying his ban on the three media outlets was ⁠likely unconstitutional.</p><p>US district judge Tim Kelly issued his order in <a href=\"https://www.theguardian.com/media/2026/sep/23/white-house-media-ban-lawsuit\">a lawsuit that the news organizations filed</a> ‌contesting the ban that the president announced ​on 18 September.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-h\nJudge orders Trump administration to immediately reinstate White House access to CNN, MS NOW and Politico - Channel 3000 <a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMXY4ZDVfMGxYaXp4T25hcXY5NlpVcEpZcDE2NTEycno1eDFwdTl2dmxmWUlKMTVKQ05BaGdYRnFDbExIWkNQMmI0bDVwc285Ylg0dl96WXN0Wk02bnJRVEdlSHNTQkhRYkhlXzZkaHJaTVo2aTNYdkpiUlFPWjJRTlNJcVoxSFk3bEdhTXBralVGZVdCU243VVZJM1F6LWp5aGJXWkgxSHZVc3E1czlvckJZbEtNNmg4d1Z0bkhmN1k1YmZFYUpSQS1CWVZ0RTU3ZE5fdDFnb1RyY1FZZ1plV1V3a05hSC1kWV9SYTlwb2NlNnFVVEFVOEJDODhQZ21oNmVOZ0Nkak9lLUk5WHRHNjZUdWZoVjJtdFYyS2tmNWpGRHR3cXNXN1BR?oc=5\" target=\"_blank\">Judge orders Trump administration to immediately reinstate White House access to CNN, MS NOW and Politico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Channel 3000</font>"
   },
   {
-    "id": "story-149",
+    "id": "story-122",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T12:01:26.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bundesrichter-hebt-ausschluss-von-medien-aus-dem-weissen-haus-durch-praesident-trump-vorerst-auf-100.html",
+        "date": "2026-09-24T12:01:26.000Z",
+        "snippet": "Die US-Regierung muss den Journalisten des Senders CNN und weiterer Medien vorerst wieder Zugang zum Weißen Haus gewähren. Ein Bundesrichter erließ eine entsprechende einstweilige Verfügung. Der Ausschluss der Medien sei wahrscheinlich verfassungswidrig, teilte der Richter mit.",
+        "title": "USA - Bundesrichter hebt Ausschluss von Medien aus dem Weißen Haus durch Präsident Trump vorerst auf"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html",
+        "date": "2026-09-24T06:14:19.000Z",
+        "snippet": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Der sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
+        "title": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-li.3530667",
+        "date": "2026-09-24T05:50:00.000Z",
+        "snippet": "Die US-Regierung muss den Journalisten der Sender CNN, MS Now sowie des Nachrichtenportals „Politico“ vorerst wieder Zugang zum Weißen Haus gewähren. Ein Richter nannte den Ausschluss „wahrscheinlich verfassungswidrig“.",
+        "title": "USA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf"
+      }
+    ],
+    "title": "USA - Bundesrichter hebt Ausschluss von Medien aus dem Weißen Haus durch Präsident Trump vorerst auf",
+    "summary": "USA - Bundesrichter hebt Ausschluss von Medien aus dem Weißen Haus durch Präsident Trump vorerst auf Die US-Regierung muss den Journalisten des Senders CNN und weiterer Medien vorerst wieder Zugang zum Weißen Haus gewähren. Ein Bundesrichter erließ eine entsprechende einstweilige Verfügung. Der Ausschluss der Medien sei wahrscheinlich verfassungswidrig, teilte der Richter mit.\nGericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Der sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.\nUSA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf Die US-Regierung muss den Journalisten der Sender CNN, MS Now sowie des Nachrichtenportals „Politico“ vorerst wieder Zugang zum Weißen Haus gewähren. Ein Richter nannte den Ausschluss „wahrscheinlich verfassungswidrig“."
+  },
+  {
+    "id": "story-123",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T12:01:26.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/openai-agent-hackt-australisches-regierungsportal-100.html",
+        "date": "2026-09-24T12:01:26.000Z",
+        "snippet": "Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.",
+        "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
+        "date": "2026-09-24T07:12:43.000Z",
+        "snippet": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
+        "title": "KI-Agent hackt australisches Regierungsportal"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/australien-open-ai-hackerangriff-regierung-gehackt-100.html",
+        "date": "2026-09-24T04:09:00.000Z",
+        "snippet": "In Australien hat sich ein KI-Agent von OpenAI Zugang zu einem Regierungsportal der Krankenversicherung verschafft. Das hat Premier Anthony Albanese in New York bekannt gegeben.",
+        "title": "OpenAI-KI hackt australisches Regierungsportal"
+      }
+    ],
+    "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal",
+    "summary": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.\nKI-Agent hackt australisches Regierungsportal Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.\nOpenAI-KI hackt australisches Regierungsportal In Australien hat sich ein KI-Agent von OpenAI Zugang zu einem Regierungsportal der Krankenversicherung verschafft. Das hat Premier Anthony Albanese in New York bekannt gegeben."
+  },
+  {
+    "id": "story-274",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T11:15:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
+        "date": "2026-09-24T11:15:02.000Z",
+        "snippet": "Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrum…",
+        "title": "Deutlich höheres Wirtschaftswachstum erwartet"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
+        "date": "2026-09-24T11:00:47.000Z",
+        "snippet": "Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrumpft der Arbeitsmarkt.",
+        "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjBmMXg2cGU0cjJJb2JYcVo4bnFuRGtxcW5JNUJjNEN6eGRhMF83UlpoTXhldzZsdmVzajlIcXJ4eWxUVEg5ZDZhSTYtbUdSMHU3UDYyNXl3OGxDbUZYTGFOd09sWUxyZmZuSTRrZlgxMWVKQ0J1UERYX2QwY3U1LTMxTnpHRV9YSDRhbFpib2VnM25MVWY0dA?oc=5",
+        "date": "2026-09-24T11:00:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObjBmMXg2cGU0cjJJb2JYcVo4bnFuRGtxcW5JNUJjNEN6eGRhMF83UlpoTXhldzZsdmVzajlIcXJ4eWxUVEg5ZDZhSTYtbUdSMHU3UDYyNXl3OGxDbUZYTGFOd09sWUxyZmZuSTRrZlgxMWVKQ0J1UERYX2QwY3U1LTMxTnpHRV9YSDRhbFpib2VnM25MVWY0dA?oc=5\" target=\"_blank\">Deutlich höheres Wirtschaftswachstum erwartet als bisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGl3b0F6X3o3ZmV1am02OVRVd2EyLWtackFfei1mSGFDTjkyalJHQXhXcUptd01jN3BVSTZTWnhDNHBLMHB0TXlkVWV2eHhLbDFxVElkVjRnZHVFV3FjMHAyaGY3dWVIYXR0anZ3MnVfcGxuSWZINldwY01EZnlLXy1ZUU5lc0hLc0pUSy1zMmRNdFRxUmQ3UFF3MG5ySVJBaUFNWXdHQ0NXT0dsWjZtdGhi",
+        "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher - tagesschau.de"
+      }
+    ],
+    "title": "Deutlich höheres Wirtschaftswachstum erwartet",
+    "summary": "Deutlich höheres Wirtschaftswachstum erwartet Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrum…\nDeutlich höheres Wirtschaftswachstum erwartet als bisher Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrumpft der Arbeitsmarkt.\nDeutlich höheres Wirtschaftswachstum erwartet als bisher - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObjBmMXg2cGU0cjJJb2JYcVo4bnFuRGtxcW5JNUJjNEN6eGRhMF83UlpoTXhldzZsdmVzajlIcXJ4eWxUVEg5ZDZhSTYtbUdSMHU3UDYyNXl3OGxDbUZYTGFOd09sWUxyZmZuSTRrZlgxMWVKQ0J1UERYX2QwY3U1LTMxTnpHRV9YSDRhbFpib2VnM25MVWY0dA?oc=5\" target=\"_blank\">Deutlich höheres Wirtschaftswachstum erwartet als bisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGl3b0F6X3o3ZmV1am02OVRVd2EyLWtackFfei1mSGFDTjkyalJHQXhXcUptd01jN3BVSTZTWnhDNHBLMHB0TXlkVWV2eHhLbDFxVElkVjRnZHVFV3FjMHAyaGY3dWVIYXR0anZ3MnVfcGxuSWZINldwY01EZnlLXy1ZUU5lc0hLc0pUSy1zMmRNdFRxUmQ3UFF3MG5ySVJBaUFNWXdHQ0NXT0dsWjZtdGhi"
+  },
+  {
+    "id": "story-60",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-09-24T12:18:15.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/bis-2028-galeria-in-braunschweig-vorerst-gesichert,galeria-226.html",
+        "date": "2026-09-24T12:18:15.000Z",
+        "snippet": "Die angeschlagene Warenhausgruppe prüft bundesweit ihre Standorte. Für Braunschweig gibt es jetzt einen Lichtblick.",
+        "title": "Bis 2028: Galeria in Braunschweig vorerst gesichert"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/lokales/niedersachsen/braunschweig/galeria-in-braunschweig-vorerst-gerettet-standort-bis-2028-gesichert-RP5ITPR5HNHONMZJIK5JFPS6P4.html",
+        "date": "2026-09-24T09:16:06.000Z",
+        "snippet": "Ein langes Hin und Her um den Galeria-Standort in Braunschweig hat jetzt offenbar ein Ende gefunden – jedenfalls vorerst. Bis April 2028 ist der Standort laut Unternehmensmitteilung gesichert. Dennoch stehen weitere Verhandlungen zwischen Brawo und Warenhauskette bevor.",
+        "title": "Galeria in Braunschweig vorerst gerettet: Standort bis 2028 gesichert"
+      }
+    ],
+    "title": "Bis 2028: Galeria in Braunschweig vorerst gesichert",
+    "summary": "Bis 2028: Galeria in Braunschweig vorerst gesichert Die angeschlagene Warenhausgruppe prüft bundesweit ihre Standorte. Für Braunschweig gibt es jetzt einen Lichtblick.\nGaleria in Braunschweig vorerst gerettet: Standort bis 2028 gesichert Ein langes Hin und Her um den Galeria-Standort in Braunschweig hat jetzt offenbar ein Ende gefunden – jedenfalls vorerst. Bis April 2028 ist der Standort laut Unternehmensmitteilung gesichert. Dennoch stehen weitere Verhandlungen zwischen Brawo und Warenhauskette bevor."
+  },
+  {
+    "id": "story-150",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T12:00:04.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
+        "date": "2026-09-24T12:00:04.000Z",
+        "snippet": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei geg…",
+        "title": "Özdemir warnt Berliner Grüne vor Koalition mit Linken"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
+        "date": "2026-09-24T11:55:47.000Z",
+        "snippet": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen Antisemitismusvorwürfe in Schutz.",
+        "title": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei"
+      }
+    ],
+    "title": "Özdemir warnt Berliner Grüne vor Koalition mit Linken",
+    "summary": "Özdemir warnt Berliner Grüne vor Koalition mit Linken Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei geg…\nNach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen Antisemitismusvorwürfe in Schutz."
+  },
+  {
+    "id": "story-214",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T11:38:32.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/sport/premiere-gegen-die-niederlande-klopp-streicht-conte-aus-spieltagskader-3BHGQGAUERB3BGEIMCLDAA7JOU.html",
+        "date": "2026-09-24T11:38:32.000Z",
+        "snippet": "Einen Spieler muss Jürgen Klopp für seine Bundestrainer-Premiere in Amsterdam aus dem Kader streichen. Es trifft Bambasé Conté. Der DFB-Neuling aus Hoffenheim bekommt aber ein attraktives Angebot.",
+        "title": "Premiere gegen die Niederlande: Klopp streicht Conté aus Spieltagskader"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-nations-league-niederlande-deutschland-klopp-kader-conte-100.html",
+        "date": "2026-09-24T09:53:00.000Z",
+        "snippet": "Einen Spieler musste Jürgen Klopp für seine Bundestrainer-Premiere in Amsterdam aus dem Kader streichen. Es trifft Bambasé Conté. Doch der Hoffenheimer bekommt noch eine Chance.",
+        "title": "Klopp streicht Hoffenheimer Conté aus Spieltagskader"
+      }
+    ],
+    "title": "Premiere gegen die Niederlande: Klopp streicht Conté aus Spieltagskader",
+    "summary": "Premiere gegen die Niederlande: Klopp streicht Conté aus Spieltagskader Einen Spieler muss Jürgen Klopp für seine Bundestrainer-Premiere in Amsterdam aus dem Kader streichen. Es trifft Bambasé Conté. Der DFB-Neuling aus Hoffenheim bekommt aber ein attraktives Angebot.\nKlopp streicht Hoffenheimer Conté aus Spieltagskader Einen Spieler musste Jürgen Klopp für seine Bundestrainer-Premiere in Amsterdam aus dem Kader streichen. Es trifft Bambasé Conté. Doch der Hoffenheimer bekommt noch eine Chance."
+  },
+  {
+    "id": "story-235",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BW",
+    "date": "2026-09-24T11:31:11.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/stoff-ausgetreten-capri-sun-eppelheim-adm-wild-feuerwehr-100.html",
+        "date": "2026-09-24T11:31:11.000Z",
+        "snippet": "Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag ein noch unbekannter Stoff ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt.",
+        "title": "Stoff bei Firma ADM in Eppelheim ausgetreten - mehrere Verletzte"
+      },
+      {
+        "source": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-stoff-bei-adm-in-eppelheim-ausgetreten-mehrere-verletzte-100.html",
+        "date": "2026-09-24T11:31:00.000Z",
+        "snippet": "Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag ein noch unbekannter Stoff ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt.",
+        "title": "Stoffaustritt bei ADM in Eppelheim - mehrere Verletzte"
+      }
+    ],
+    "title": "Stoff bei Firma ADM in Eppelheim ausgetreten - mehrere Verletzte",
+    "summary": "Stoff bei Firma ADM in Eppelheim ausgetreten - mehrere Verletzte Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag ein noch unbekannter Stoff ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt.\nStoffaustritt bei ADM in Eppelheim - mehrere Verletzte Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag ein noch unbekannter Stoff ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt."
+  },
+  {
+    "id": "story-247",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T11:28:53.000Z",
+    "sources": [
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101450798/cia-warnt-putin-will-wohl-mittelmeerstaaten-mit-drohnen-angreifen.html",
+        "date": "2026-09-24T11:28:53.000Z",
+        "snippet": "Geheimdienstinformationen zufolge plant Russland mögliche Drohnenangriffe auf Spanien, Frankreich oder Italien – abgefeuert von Handelsschiffen im Mittelmeer.",
+        "title": "CIA warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzUxLUdac2Yzb29DWEp1RlRudUs0UUFaVUtuR253cXZXcVNncEZ5c0xXSkpyYjhrUk9LVEJFMUUyRTAtU2d6OVg4MndqN25wNWpHcTlydFVsanNtTkthQ2hwMkFvQ3hhVFVmTHpJcFZRUzNVLTExQkNzcUxkZi0zSEh5bVU5UDZRYUpqNUpJM29VTks2eUQ2aExTRWNGcV9saUZhRS1aQ1REWTd5RzRaOWdNMERnUE9oSkkyZmhfRklOcVA0R0RLVVdVV0lHOTF6M0h4dWthWVRFV2pIdWo4Y0FoVVE?oc=5",
+        "date": "2026-09-24T10:56:32.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzUxLUdac2Yzb29DWEp1RlRudUs0UUFaVUtuR253cXZXcVNncEZ5c0xXSkpyYjhrUk9LVEJFMUUyRTAtU2d6OVg4MndqN25wNWpHcTlydFVsanNtTkthQ2hwMkFvQ3hhVFVmTHpJcFZRUzNVLTExQkNzcUxkZi0zSEh5bVU5UDZRYUpqNUpJM29VTks2eUQ2aExTRWNGcV9saUZhRS1aQ1REWTd5RzRaOWdNMERnUE9oSkkyZmhfRklOcVA0R0RLVVdVV0lHOTF6M0h4dWthWVRFV2pIdWo4Y0FoVVE?oc=5\" target=\"_blank\">Geheimdienst warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T-Online</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1ZXMVhVNG9yM2ZmQzZzd0lrZlREd0hidzdFMmw1bjRiMzZDTWYtNmNCVkhnQksxRFU0Q1M1dDFIbFlyOVZJMnNJUlphSzF3WXVLLWkwc29lTVlzL",
+        "title": "Geheimdienst warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen - T-Online"
+      }
+    ],
+    "title": "CIA warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen",
+    "summary": "CIA warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen Geheimdienstinformationen zufolge plant Russland mögliche Drohnenangriffe auf Spanien, Frankreich oder Italien – abgefeuert von Handelsschiffen im Mittelmeer.\nGeheimdienst warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen - T-Online <ol><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzUxLUdac2Yzb29DWEp1RlRudUs0UUFaVUtuR253cXZXcVNncEZ5c0xXSkpyYjhrUk9LVEJFMUUyRTAtU2d6OVg4MndqN25wNWpHcTlydFVsanNtTkthQ2hwMkFvQ3hhVFVmTHpJcFZRUzNVLTExQkNzcUxkZi0zSEh5bVU5UDZRYUpqNUpJM29VTks2eUQ2aExTRWNGcV9saUZhRS1aQ1REWTd5RzRaOWdNMERnUE9oSkkyZmhfRklOcVA0R0RLVVdVV0lHOTF6M0h4dWthWVRFV2pIdWo4Y0FoVVE?oc=5\" target=\"_blank\">Geheimdienst warnt: Putin will wohl Mittelmeerstaaten mit Drohnen angreifen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T-Online</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1ZXMVhVNG9yM2ZmQzZzd0lrZlREd0hidzdFMmw1bjRiMzZDTWYtNmNCVkhnQksxRFU0Q1M1dDFIbFlyOVZJMnNJUlphSzF3WXVLLWkwc29lTVlzL"
+  },
+  {
+    "id": "story-345",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T10:45:03.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
+        "date": "2026-09-24T10:45:03.000Z",
+        "snippet": "Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen g…",
+        "title": "\"Jetzt beginnt dort echter Hunger\""
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
+        "date": "2026-09-24T10:28:36.000Z",
+        "snippet": "Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen gelingt die Flucht - die Gegend ist vermint. Von F. Kellermann.",
+        "title": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\""
+      }
+    ],
+    "title": "\"Jetzt beginnt dort echter Hunger\"",
+    "summary": "\"Jetzt beginnt dort echter Hunger\" Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen g…\nFrontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\" Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen gelingt die Flucht - die Gegend ist vermint. Von F. Kellermann."
+  },
+  {
+    "id": "story-361",
+    "topic": "wissenschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T10:34:13.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM0xWLVUyZ1diYWMtYzktd1FKVDB4R2N6dk9KZWNlTXBKc2tOWHBZeW5zTjhXVGRrZXNKMUJDelZjVlRVbmxELWF6dXAtNWxOMVB5cWx1aDlMUlAzUmJGcTFDU0RmOC1PeE9tNEFwdUYtTVlDRktYNURsWW9QRHZyd0d6em5wVVdnSk9fRlFyVjAwblNkanBEMnhSTjNxb1ktVlh2cVVjbGFkdWd4MEd4OExkeU1WN0NXT0lVT25IbEpKeTNab2xQcURlUzdpak1jVGw0MGFEN2hVUHBVbUE?oc=5",
+        "date": "2026-09-24T10:34:13.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM0xWLVUyZ1diYWMtYzktd1FKVDB4R2N6dk9KZWNlTXBKc2tOWHBZeW5zTjhXVGRrZXNKMUJDelZjVlRVbmxELWF6dXAtNWxOMVB5cWx1aDlMUlAzUmJGcTFDU0RmOC1PeE9tNEFwdUYtTVlDRktYNURsWW9QRHZyd0d6em5wVVdnSk9fRlFyVjAwblNkanBEMnhSTjNxb1ktVlh2cVVjbGFkdWd4MEd4OExkeU1WN0NXT0lVT25IbEpKeTNab2xQcURlUzdpak1jVGw0MGFEN2hVUHBVbUE?oc=5\" target=\"_blank\">Kontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font>",
+        "title": "Kontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/gesundheit/article6ab3d899a15a9fecb6692daf/virus-falsch-positiv-neue-pcr-studie-weckt-erinnerungen-an-die-corona-debatte.html",
+        "date": "2026-09-24T10:30:11.000Z",
+        "snippet": "Forscher haben 2700 PCR-Tests mit positivem Affenpocken-Befund untersucht. Das Ergebnis erinnert an eine der umstrittensten Fragen der Corona-Zeit: Was bedeutet ein positives PCR-Ergebnis tatsächlich?",
+        "title": "Kontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte"
+      }
+    ],
+    "title": "Kontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte - WELT",
+    "summary": "Kontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte - WELT <a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM0xWLVUyZ1diYWMtYzktd1FKVDB4R2N6dk9KZWNlTXBKc2tOWHBZeW5zTjhXVGRrZXNKMUJDelZjVlRVbmxELWF6dXAtNWxOMVB5cWx1aDlMUlAzUmJGcTFDU0RmOC1PeE9tNEFwdUYtTVlDRktYNURsWW9QRHZyd0d6em5wVVdnSk9fRlFyVjAwblNkanBEMnhSTjNxb1ktVlh2cVVjbGFkdWd4MEd4OExkeU1WN0NXT0lVT25IbEpKeTNab2xQcURlUzdpak1jVGw0MGFEN2hVUHBVbUE?oc=5\" target=\"_blank\">Kontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font>\nKontamination statt Infektion? Neue PCR-Studie weckt Erinnerungen an die Corona-Debatte Forscher haben 2700 PCR-Tests mit positivem Affenpocken-Befund untersucht. Das Ergebnis erinnert an eine der umstrittensten Fragen der Corona-Zeit: Was bedeutet ein positives PCR-Ergebnis tatsächlich?"
+  },
+  {
+    "id": "story-387",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T10:23:23.000Z",
+    "sources": [
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101450614/regierungsbildung-in-sachsen-anhalt-cdu-lehnt-gespraeche-mit-der-spd-ab.html",
+        "date": "2026-09-24T10:23:23.000Z",
+        "snippet": "Nach der Absage der CDU wird die Suche nach einer tragfähigen Mehrheit im Magdeburger Landtag zur Herausforderung. Die SPD will am Dienstag mit vier Parteien über mögliche Wege beraten.",
+        "title": "Regierungsbildung in Sachsen-Anhalt: CDU lehnt Gespräche mit der SPD ab"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWFtVndORTEwTmRlQjhSVGxTMVd2SEQtY2lGMEVLenZLa0RHaXhzSUxmbzhWaG55RTFTYTZsa2MtenljR2hkOFQ0QVBNdjNjalBtTUVzRjQtbFIweXZ6SmpjQ1dnOVBBLWRNUXg3RGpjUVpETmI4aWdmeTRWbnYtLXg5Ykk2eUpmb1lwczNkZzRvb2E2Z3hpVHcya1JyRzFQNTR1SWZR?oc=5",
+        "date": "2026-09-24T08:30:18.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWFtVndORTEwTmRlQjhSVGxTMVd2SEQtY2lGMEVLenZLa0RHaXhzSUxmbzhWaG55RTFTYTZsa2MtenljR2hkOFQ0QVBNdjNjalBtTUVzRjQtbFIweXZ6SmpjQ1dnOVBBLWRNUXg3RGpjUVpETmI4aWdmeTRWbnYtLXg5Ykk2eUpmb1lwczNkZzRvb2E2Z3hpVHcya1JyRzFQNTR1SWZR?oc=5\" target=\"_blank\">Regierungsbildung in Sachsen-Anhalt: CDU in Sachsen-Anhalt lehnt Koalitionsgespräche mit der SPD ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjdMZ1dkVzFhZGstR0MzZmx1Y3FxcnZKaDJkLWdSckYwWVVRanNrdU9DTTdmYmhLZ0V2bmRJSm9vVk9JVXhZSzRKcmxFX0c5MGRod0ZXMUt1Wkc2eVBmU1ZBU1pfbVprNE9hWkRiS1VaUVZaeEk5RVVZam9GMGZ4cVNkaUZreml3",
+        "title": "Regierungsbildung in Sachsen-Anhalt: CDU in Sachsen-Anhalt lehnt Koalitionsgespräche mit der SPD ab - DIE ZEIT"
+      }
+    ],
+    "title": "Regierungsbildung in Sachsen-Anhalt: CDU lehnt Gespräche mit der SPD ab",
+    "summary": "Regierungsbildung in Sachsen-Anhalt: CDU lehnt Gespräche mit der SPD ab Nach der Absage der CDU wird die Suche nach einer tragfähigen Mehrheit im Magdeburger Landtag zur Herausforderung. Die SPD will am Dienstag mit vier Parteien über mögliche Wege beraten.\nRegierungsbildung in Sachsen-Anhalt: CDU in Sachsen-Anhalt lehnt Koalitionsgespräche mit der SPD ab - DIE ZEIT <ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWFtVndORTEwTmRlQjhSVGxTMVd2SEQtY2lGMEVLenZLa0RHaXhzSUxmbzhWaG55RTFTYTZsa2MtenljR2hkOFQ0QVBNdjNjalBtTUVzRjQtbFIweXZ6SmpjQ1dnOVBBLWRNUXg3RGpjUVpETmI4aWdmeTRWbnYtLXg5Ykk2eUpmb1lwczNkZzRvb2E2Z3hpVHcya1JyRzFQNTR1SWZR?oc=5\" target=\"_blank\">Regierungsbildung in Sachsen-Anhalt: CDU in Sachsen-Anhalt lehnt Koalitionsgespräche mit der SPD ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjdMZ1dkVzFhZGstR0MzZmx1Y3FxcnZKaDJkLWdSckYwWVVRanNrdU9DTTdmYmhLZ0V2bmRJSm9vVk9JVXhZSzRKcmxFX0c5MGRod0ZXMUt1Wkc2eVBmU1ZBU1pfbVprNE9hWkRiS1VaUVZaeEk5RVVZam9GMGZ4cVNkaUZreml3"
+  },
+  {
+    "id": "story-451",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T09:56:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNTBmOW9BM2VIbDQzYVdFa2l6eTVxcUVrV2hzaEswQTl5ajhBNHgtaU1BblhsdUZQLVBVMTg0d19jSTVyNDkzUVdsM0F0d3hTX1FHWU00amNCaE50THNWSlBoSXJjc0FlMlNENHF1ekU5V0JadldjUEtPRUZxN1U2ajJWaFJiT0FyR2ZBTUZpQkZkS25kQWN5NWFqQTN3QzFOcU9QUldpR1NOZFBnNWpNZ2FhVzRHbUpabUp5UFFKUWRpcEdHbDkxQnNKdUs5QnMxcjhrQ09vbFJOWkZyTzM2dFVMNzJDclEybEtqQUZDcm5qQzlG?oc=5",
+        "date": "2026-09-24T09:56:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNTBmOW9BM2VIbDQzYVdFa2l6eTVxcUVrV2hzaEswQTl5ajhBNHgtaU1BblhsdUZQLVBVMTg0d19jSTVyNDkzUVdsM0F0d3hTX1FHWU00amNCaE50THNWSlBoSXJjc0FlMlNENHF1ekU5V0JadldjUEtPRUZxN1U2ajJWaFJiT0FyR2ZBTUZpQkZkS25kQWN5NWFqQTN3QzFOcU9QUldpR1NOZFBnNWpNZ2FhVzRHbUpabUp5UFFKUWRpcEdHbDkxQnNKdUs5QnMxcjhrQ09vbFJOWkZyTzM2dFVMNzJDclEybEtqQUZDcm5qQzlG?oc=5\" target=\"_blank\">(S+) Donald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXBJblJzZ08tTmtNcHpvNzhWby1qcVNyeXNIN1FXa3M4MHBvSmk1am92NVBydDNVRzJWV2VUOERU",
+        "title": "(S+) Donald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/donald-trump-moeglicher-us-exportstopp-fuer-diesel-koennte-sprit-in-deutschland-verteuern-a-1072a668-caf8-4bee-808e-c56cdcd3ecd1#ref=rss",
+        "date": "2026-09-24T09:56:00.000Z",
+        "snippet": "Würden die USA keinen Diesel mehr exportieren, könnte der Kraftstoff um bis zu 25 Prozent teurer werden. Doch ein Verbot würde auch die US-Ölindustrie schwächen.",
+        "title": "Donald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern"
+      }
+    ],
+    "title": "(S+) Donald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern - Spiegel",
+    "summary": "(S+) Donald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNTBmOW9BM2VIbDQzYVdFa2l6eTVxcUVrV2hzaEswQTl5ajhBNHgtaU1BblhsdUZQLVBVMTg0d19jSTVyNDkzUVdsM0F0d3hTX1FHWU00amNCaE50THNWSlBoSXJjc0FlMlNENHF1ekU5V0JadldjUEtPRUZxN1U2ajJWaFJiT0FyR2ZBTUZpQkZkS25kQWN5NWFqQTN3QzFOcU9QUldpR1NOZFBnNWpNZ2FhVzRHbUpabUp5UFFKUWRpcEdHbDkxQnNKdUs5QnMxcjhrQ09vbFJOWkZyTzM2dFVMNzJDclEybEtqQUZDcm5qQzlG?oc=5\" target=\"_blank\">(S+) Donald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXBJblJzZ08tTmtNcHpvNzhWby1qcVNyeXNIN1FXa3M4MHBvSmk1am92NVBydDNVRzJWV2VUOERU\nDonald Trump: Möglicher US-Exportstopp für Diesel könnte Sprit in Deutschland verteuern Würden die USA keinen Diesel mehr exportieren, könnte der Kraftstoff um bis zu 25 Prozent teurer werden. Doch ein Verbot würde auch die US-Ölindustrie schwächen."
+  },
+  {
+    "id": "story-457",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T09:54:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0lwSmFlSFZORzZCX3B5VWs4RUFiTzFVQ0pjVWxlVDQ0MnJISktmSzgtdkNLUjgzOEJpSHdjYnE5Ni1XSFQ1ZDl2TV8xMlFkR3hRdEUwMU1NZ2tlLXl0ckZaTEVSV3hvX2ZuOEVHUEZDYWI3ZkZsVkNKeFpCaFJ1aGdaRHd2aXNPcVU4RnlDRjZNMkNYUWFXNjRxYUNfU0d6d2tPQ1VDaXZqYzlPUVFHbWQydGU?oc=5",
+        "date": "2026-09-24T09:54:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0lwSmFlSFZORzZCX3B5VWs4RUFiTzFVQ0pjVWxlVDQ0MnJISktmSzgtdkNLUjgzOEJpSHdjYnE5Ni1XSFQ1ZDl2TV8xMlFkR3hRdEUwMU1NZ2tlLXl0ckZaTEVSV3hvX2ZuOEVHUEZDYWI3ZkZsVkNKeFpCaFJ1aGdaRHd2aXNPcVU4RnlDRjZNMkNYUWFXNjRxYUNfU0d6d2tPQ1VDaXZqYzlPUVFHbWQydGU?oc=5\" target=\"_blank\">Verheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMU05RXJObE1hQ29GLUx5Zk50cjZudnNRdUQ4dExQeC1obWc0NFpOSy1CWEgxMWhybnBrQVpWU0xQWV9mblg4d0FTdzVmdWtHdEJEa2d6cmVGbkVPZDY3NGl5RzV2ZEVQOVJiNEFYOWRfbXJHeHA5aWtOaV",
+        "title": "Verheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/US-Marine-meldet-acht-Suizidversuche-bei-Skandal-Flugzeugtraegergruppe-id31342525.html",
+        "date": "2026-09-24T09:54:00.000Z",
+        "snippet": "286 Tage war die \"USS Abraham Lincoln\" im Dauereinsatz und war über Monate im Rahmen des Iran-Kriegs schwer beansprucht. An Bord des Flugzeugträgers kam es während dieser Zeit zu mehreren Suizidversuchen.",
+        "title": "Verheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe"
+      }
+    ],
+    "title": "Verheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe - n-tv.de",
+    "summary": "Verheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0lwSmFlSFZORzZCX3B5VWs4RUFiTzFVQ0pjVWxlVDQ0MnJISktmSzgtdkNLUjgzOEJpSHdjYnE5Ni1XSFQ1ZDl2TV8xMlFkR3hRdEUwMU1NZ2tlLXl0ckZaTEVSV3hvX2ZuOEVHUEZDYWI3ZkZsVkNKeFpCaFJ1aGdaRHd2aXNPcVU4RnlDRjZNMkNYUWFXNjRxYUNfU0d6d2tPQ1VDaXZqYzlPUVFHbWQydGU?oc=5\" target=\"_blank\">Verheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMU05RXJObE1hQ29GLUx5Zk50cjZudnNRdUQ4dExQeC1obWc0NFpOSy1CWEgxMWhybnBrQVpWU0xQWV9mblg4d0FTdzVmdWtHdEJEa2d6cmVGbkVPZDY3NGl5RzV2ZEVQOVJiNEFYOWRfbXJHeHA5aWtOaV\nVerheerende Zustände an Bord: US-Marine meldet acht Suizidversuche bei Skandal-Flugzeugträgergruppe 286 Tage war die \"USS Abraham Lincoln\" im Dauereinsatz und war über Monate im Rahmen des Iran-Kriegs schwer beansprucht. An Bord des Flugzeugträgers kam es während dieser Zeit zu mehreren Suizidversuchen."
+  },
+  {
+    "id": "story-474",
+    "topic": "politik",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-24T09:45:52.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/seguro-recebido-a-sos-por-leao-xiv-no-vaticano-durante-40-minutos_n1767430",
+        "date": "2026-09-24T09:45:52.000Z",
+        "snippet": "O Presidente da República, António José Seguro, foi hoje de manhã recebido pelo Papa Leão XIV, na sua primeira visita oficial ao Vaticano.",
+        "title": "Seguro recebido a sós por Leão XIV no Vaticano durante 40 minutos"
+      },
+      {
+        "source": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/antonio-jose-seguro-e-recebido-por-leao-xiv-no-vaticano_n1767380",
+        "date": "2026-09-24T07:15:32.000Z",
+        "snippet": "O Presidente da República, António José Seguro, vai ser recebido hoje pelo Papa Leão XIV, na sua primeira visita oficial ao Vaticano, onde mais tarde irá inaugurar uma escultura de Álvaro Siza Vieira.",
+        "title": "António José Seguro é recebido por Leão XIV no Vaticano"
+      }
+    ],
+    "title": "Seguro recebido a sós por Leão XIV no Vaticano durante 40 minutos",
+    "summary": "Seguro recebido a sós por Leão XIV no Vaticano durante 40 minutos O Presidente da República, António José Seguro, foi hoje de manhã recebido pelo Papa Leão XIV, na sua primeira visita oficial ao Vaticano.\nAntónio José Seguro é recebido por Leão XIV no Vaticano O Presidente da República, António José Seguro, vai ser recebido hoje pelo Papa Leão XIV, na sua primeira visita oficial ao Vaticano, onde mais tarde irá inaugurar uma escultura de Álvaro Siza Vieira."
+  },
+  {
+    "id": "story-504",
+    "topic": "wirtschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T09:30:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
+        "date": "2026-09-24T09:30:02.000Z",
+        "snippet": "Bei russischen Angriffen auf die Ukraine hat es erneut Tote gegeben. In Kiew kamen nach Behördenangaben zwei Menschen ums Leben, beim Angriff auf ein landwirtschaftliches Gebäude …",
+        "title": "Wieder Tote bei russischen Angriffen"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
+        "date": "2026-09-24T09:23:30.000Z",
+        "snippet": "Bei russischen Angriffen auf die Ukraine hat es erneut Tote gegeben. In Kiew kamen nach Behördenangaben zwei Menschen ums Leben, beim Angriff auf ein landwirtschaftliches Gebäude in der Region Charkiw sechs.",
+        "title": "Wieder Tote bei russischen Angriffen auf die Ukraine"
+      }
+    ],
+    "title": "Wieder Tote bei russischen Angriffen",
+    "summary": "Wieder Tote bei russischen Angriffen Bei russischen Angriffen auf die Ukraine hat es erneut Tote gegeben. In Kiew kamen nach Behördenangaben zwei Menschen ums Leben, beim Angriff auf ein landwirtschaftliches Gebäude …\nWieder Tote bei russischen Angriffen auf die Ukraine Bei russischen Angriffen auf die Ukraine hat es erneut Tote gegeben. In Kiew kamen nach Behördenangaben zwei Menschen ums Leben, beim Angriff auf ein landwirtschaftliches Gebäude in der Region Charkiw sechs."
+  },
+  {
+    "id": "story-568",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-09-24T08:46:23.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
+        "date": "2026-09-24T08:46:23.000Z",
+        "snippet": "Trump-nominated judge rules that outlets are likely to succeed in claim they were denied due process.",
+        "title": "US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico"
+      },
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/americas/20260924-us-judge-lifts-trump-s-white-house-ban-on-cnn-ms-now-politico",
+        "date": "2026-09-24T05:33:57.000Z",
+        "snippet": "",
+        "title": "🔴 US judge lifts Trump's White House ban on CNN, MS NOW, Politico"
+      }
+    ],
+    "title": "US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico",
+    "summary": "US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico Trump-nominated judge rules that outlets are likely to succeed in claim they were denied due process.\n🔴 US judge lifts Trump's White House ban on CNN, MS NOW, Politico "
+  },
+  {
+    "id": "story-641",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-09-24T08:02:20.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/gericht-trump-muss-verbannte-medien-ins-weisse-haus-lassen,VW7DEqx",
+        "date": "2026-09-24T08:02:20.000Z",
+        "snippet": "Ein US-Bundesrichter hat das von Präsident Trump verhängte Zugangsverbot für mehrere Medien zum Weißen Haus vorläufig ausgesetzt. Der von Trump einst selbst nominierte Richter Timothy Kelly erließ eine entsprechende Verfügung, die für 14 Tage gilt.",
+        "title": "Gericht: Trump muss verbannte Medien ins Weiße Haus lassen"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/usa-trump-medien-ausschluss-richter-100.html",
+        "date": "2026-09-24T06:48:00.000Z",
+        "snippet": "Die US-Regierung muss mehreren Medien vorerst wieder Zugang zum Weißen Haus gewähren. Ein Bundesgericht kippte den von US-Präsident Trump verfügten Ausschluss von CNN und Co.",
+        "title": "Trump muss CNN und Co. wieder ins Weiße Haus lassen"
+      }
+    ],
+    "title": "Gericht: Trump muss verbannte Medien ins Weiße Haus lassen",
+    "summary": "Gericht: Trump muss verbannte Medien ins Weiße Haus lassen Ein US-Bundesrichter hat das von Präsident Trump verhängte Zugangsverbot für mehrere Medien zum Weißen Haus vorläufig ausgesetzt. Der von Trump einst selbst nominierte Richter Timothy Kelly erließ eine entsprechende Verfügung, die für 14 Tage gilt.\nTrump muss CNN und Co. wieder ins Weiße Haus lassen Die US-Regierung muss mehreren Medien vorerst wieder Zugang zum Weißen Haus gewähren. Ein Bundesgericht kippte den von US-Präsident Trump verfügten Ausschluss von CNN und Co."
+  },
+  {
+    "id": "story-649",
+    "topic": "wirtschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-24T08:00:01.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/deutschland-im-aufschwung-institute-heben-wachstumsprognose-accg-201258083.html",
+        "date": "2026-09-24T08:00:01.000Z",
+        "snippet": "Die großen deutschen Wirtschaftsforschungsinstitute erwarten, dass das BIP in diesem Jahr um 1,3 Prozent zulegt. Sie fordern vom Staat, mehr zu sparen. Die Fiskalpolitik befinde sich auf Abwegen.",
+        "title": "Deutsche Konjunktur: Wirtschaftsforscher verdoppeln ihre Wachstumsprognose"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsforscher-verdoppeln-wachstumsprognose-fuer-2026-a-624aa0cd-6947-4587-aa2f-4b2b16adf0b1#ref=rss",
+        "date": "2026-09-24T07:04:00.000Z",
+        "snippet": "Am Vormittag legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Nach SPIEGEL-Informationen verdoppeln sie ihre Wachstumsprognose für 2026. Doch danach flaut es wieder ab.",
+        "title": "Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026"
+      }
+    ],
+    "title": "Deutsche Konjunktur: Wirtschaftsforscher verdoppeln ihre Wachstumsprognose",
+    "summary": "Deutsche Konjunktur: Wirtschaftsforscher verdoppeln ihre Wachstumsprognose Die großen deutschen Wirtschaftsforschungsinstitute erwarten, dass das BIP in diesem Jahr um 1,3 Prozent zulegt. Sie fordern vom Staat, mehr zu sparen. Die Fiskalpolitik befinde sich auf Abwegen.\nKonjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026 Am Vormittag legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Nach SPIEGEL-Informationen verdoppeln sie ihre Wachstumsprognose für 2026. Doch danach flaut es wieder ab."
+  },
+  {
+    "id": "story-701",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "RP",
     "date": "2026-09-24T07:22:25.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
+        "source": "SWR Aktuell Rheinland-Pfalz",
         "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/f16-kampflugzeug-absturz-spangdahlem-us-airbase-100.html",
         "date": "2026-09-24T07:22:25.000Z",
         "snippet": "Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz. Er konnte das Krankenhaus inzwischen verlassen.",
         "title": "Nach F‑16-Absturz auf Airbase Spangdahlem: Pilot hat Krankenhaus verlassen"
-      },
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/news/absturz-von-kampfjet-auf-us-airbase-spangdahlem--pilot-aus-krankenhaus-entlassen-38301412.html",
-        "date": "2026-09-24T07:20:05.000Z",
-        "snippet": "Nach dem Absturz eines F-16-Kampfjets auf dem US-Luftwaffenstützpunkt Spangdahlem in Rheinland-Pfalz ist der Pilot aus dem Krankenhaus entlassen worden. Er habe lediglich leichte Verletzungen erlitten, teilte die US-Airbase am Mittwochabend mit.",
-        "title": "Absturz von Kampfjet auf US-Airbase Spangdahlem: Pilot aus Krankenhaus entlassen"
       },
       {
         "source": "Tagesschau Regional Rheinland-Pfalz",
@@ -107,67 +532,10 @@
       }
     ],
     "title": "Nach F‑16-Absturz auf Airbase Spangdahlem: Pilot hat Krankenhaus verlassen",
-    "summary": "Nach F‑16-Absturz auf Airbase Spangdahlem: Pilot hat Krankenhaus verlassen Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz. Er konnte das Krankenhaus inzwischen verlassen.\nAbsturz von Kampfjet auf US-Airbase Spangdahlem: Pilot aus Krankenhaus entlassen Nach dem Absturz eines F-16-Kampfjets auf dem US-Luftwaffenstützpunkt Spangdahlem in Rheinland-Pfalz ist der Pilot aus dem Krankenhaus entlassen worden. Er habe lediglich leichte Verletzungen erlitten, teilte die US-Airbase am Mittwochabend mit.\nMilitärjet bei US-Airbase Spangdahlem abgestürzt Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz und wird medizinisch versorgt. Die Ursache ist unklar."
+    "summary": "Nach F‑16-Absturz auf Airbase Spangdahlem: Pilot hat Krankenhaus verlassen Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz. Er konnte das Krankenhaus inzwischen verlassen.\nMilitärjet bei US-Airbase Spangdahlem abgestürzt Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz und wird medizinisch versorgt. Die Ursache ist unklar."
   },
   {
-    "id": "story-668",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-23T20:15:01.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-        "date": "2026-09-23T20:15:01.000Z",
-        "snippet": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. D…",
-        "title": "USA laden Putin zu G20-Gipfel ein"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-        "date": "2026-09-23T19:59:52.000Z",
-        "snippet": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
-        "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/wladimir-putin-russland-g20-usa-rubio-ukraine-krieg-100.html",
-        "date": "2026-09-23T18:42:00.000Z",
-        "snippet": "Sieben Jahre ist es her, dass Putin an einem G20-Treffen teilnahm. Nun laden die USA ihn zum Gipfel ein. Hoffnungen auf Annäherung erteilt sein Außenminister jedoch eine Absage.",
-        "title": "USA laden Putin zu G20-Gipfel in Miami ein"
-      }
-    ],
-    "title": "USA laden Putin zu G20-Gipfel ein",
-    "summary": "USA laden Putin zu G20-Gipfel ein Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. D…\nUSA laden Russlands Präsidenten Putin zu G20-Gipfel ein Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.\nUSA laden Putin zu G20-Gipfel in Miami ein Sieben Jahre ist es her, dass Putin an einem G20-Treffen teilnahm. Nun laden die USA ihn zum Gipfel ein. Hoffnungen auf Annäherung erteilt sein Außenminister jedoch eine Absage."
-  },
-  {
-    "id": "story-80",
-    "topic": "politik",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-09-24T07:41:35.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/24/monarchy-aligned-pam-leads-in-morocco-election-provisional-results?traffic_source=rss",
-        "date": "2026-09-24T07:41:35.000Z",
-        "snippet": "Authenticity and Modernity Party (PAM) took 97 out of 395 seats in parliament, as turnout falls to 38 percent.",
-        "title": "Monarchy-aligned PAM leads in Morocco election provisional results"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeE1BYkE1YmNJRXV3MTZtMHVNblBhT2gxZURpeEJ4aXVmUi0xV0xDLUw4NXZtOWZacG1Sc296blB3c05NNXFoaThsczFRbXh1ZENPQVp5OWV3OHkzOVpMMmFWSlM5bkpac0NUcEJMTlJHLWM1Mk01aWlQWWFDRHk2NmZkakJMek13emM5RUhrY08wRU5GdjBpLWE5ZlFzWlJITDV2eHlDMjZEUDE1MnVjUV9wdVpOdTJCWlVSeG1Ea2ZUaHNwdlU4d25IRQ?oc=5",
-        "date": "2026-09-24T05:10:59.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeE1BYkE1YmNJRXV3MTZtMHVNblBhT2gxZURpeEJ4aXVmUi0xV0xDLUw4NXZtOWZacG1Sc296blB3c05NNXFoaThsczFRbXh1ZENPQVp5OWV3OHkzOVpMMmFWSlM5bkpac0NUcEJMTlJHLWM1Mk01aWlQWWFDRHk2NmZkakJMek13emM5RUhrY08wRU5GdjBpLWE5ZlFzWlJITDV2eHlDMjZEUDE1MnVjUV9wdVpOdTJCWlVSeG1Ea2ZUaHNwdlU4d25IRQ?oc=5\" target=\"_blank\">Morocco’s Authenticity and Modernity Party leads in provisional election results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
-        "title": "Morocco’s Authenticity and Modernity Party leads in provisional election results - WKMG"
-      }
-    ],
-    "title": "Monarchy-aligned PAM leads in Morocco election provisional results",
-    "summary": "Monarchy-aligned PAM leads in Morocco election provisional results Authenticity and Modernity Party (PAM) took 97 out of 395 seats in parliament, as turnout falls to 38 percent.\nMorocco’s Authenticity and Modernity Party leads in provisional election results - WKMG <a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeE1BYkE1YmNJRXV3MTZtMHVNblBhT2gxZURpeEJ4aXVmUi0xV0xDLUw4NXZtOWZacG1Sc296blB3c05NNXFoaThsczFRbXh1ZENPQVp5OWV3OHkzOVpMMmFWSlM5bkpac0NUcEJMTlJHLWM1Mk01aWlQWWFDRHk2NmZkakJMek13emM5RUhrY08wRU5GdjBpLWE5ZlFzWlJITDV2eHlDMjZEUDE1MnVjUV9wdVpOdTJCWlVSeG1Ea2ZUaHNwdlU4d25IRQ?oc=5\" target=\"_blank\">Morocco’s Authenticity and Modernity Party leads in provisional election results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>"
-  },
-  {
-    "id": "story-177",
+    "id": "story-718",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -192,232 +560,32 @@
     "summary": "Rogue OpenAI agent 'infiltrated' Australian government website in world first Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.\nRogue OpenAI agent 'infiltrated' Australian government website in world first - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5\" target=\"_blank\">Rogue OpenAI agent 'infiltrated' Australian government website in world first</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   },
   {
-    "id": "story-196",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T07:04:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVJqVDNfTVVMSTBISkhId1JBYzlBZXkyVlRBOFNiMlI1bnF0dWhnd1Y3aXgxVG4yeU9HN0JpZ0Y4NXp6M3BOQ2xYc2w5Sk5jaWRwcXI2TjE2YVdpLXVVZFF0MldldmtMYmRmYTg4MFJrNDY1aFVibGUzT0NoeERkb3hSSm9idHRMb0hNVVluZVdSU1VXa3RPZ0MwSU1yVjQ3RG5yZERNb01pRWk1UktOOHpZMkdrVFFwa1p1N0ZMQXRlQkRQUllCMllzXzBQZ2c5anVpc1ZBZTFOUQ?oc=5",
-        "date": "2026-09-24T07:04:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVJqVDNfTVVMSTBISkhId1JBYzlBZXkyVlRBOFNiMlI1bnF0dWhnd1Y3aXgxVG4yeU9HN0JpZ0Y4NXp6M3BOQ2xYc2w5Sk5jaWRwcXI2TjE2YVdpLXVVZFF0MldldmtMYmRmYTg4MFJrNDY1aFVibGUzT0NoeERkb3hSSm9idHRMb0hNVVluZVdSU1VXa3RPZ0MwSU1yVjQ3RG5yZERNb01pRWk1UktOOHpZMkdrVFFwa1p1N0ZMQXRlQkRQUllCMllzXzBQZ2c5anVpc1ZBZTFOUQ?oc=5\" target=\"_blank\">Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlRoa3hqZVNKLWNJVDJBemk3V25FZ3Z1R2I1RVlUUHZRalZKVDZIRmxwcWxxYkpONl9iZlJ2dzdlTHA1Rl9iNVNEWmt1ODZ1d3BBM0FDdWs3d3FmQms1SDlXQy14ZU0yWWZsY",
-        "title": "Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026 - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsforscher-verdoppeln-wachstumsprognose-fuer-2026-a-624aa0cd-6947-4587-aa2f-4b2b16adf0b1#ref=rss",
-        "date": "2026-09-24T07:04:00.000Z",
-        "snippet": "Am Vormittag legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Nach SPIEGEL-Informationen verdoppeln sie ihre Wachstumsprognose für 2026. Doch danach flaut es wieder ab.",
-        "title": "Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026"
-      }
-    ],
-    "title": "Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026 - Spiegel",
-    "summary": "Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026 - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVJqVDNfTVVMSTBISkhId1JBYzlBZXkyVlRBOFNiMlI1bnF0dWhnd1Y3aXgxVG4yeU9HN0JpZ0Y4NXp6M3BOQ2xYc2w5Sk5jaWRwcXI2TjE2YVdpLXVVZFF0MldldmtMYmRmYTg4MFJrNDY1aFVibGUzT0NoeERkb3hSSm9idHRMb0hNVVluZVdSU1VXa3RPZ0MwSU1yVjQ3RG5yZERNb01pRWk1UktOOHpZMkdrVFFwa1p1N0ZMQXRlQkRQUllCMllzXzBQZ2c5anVpc1ZBZTFOUQ?oc=5\" target=\"_blank\">Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlRoa3hqZVNKLWNJVDJBemk3V25FZ3Z1R2I1RVlUUHZRalZKVDZIRmxwcWxxYkpONl9iZlJ2dzdlTHA1Rl9iNVNEWmt1ODZ1d3BBM0FDdWs3d3FmQms1SDlXQy14ZU0yWWZsY\nKonjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026 Am Vormittag legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Nach SPIEGEL-Informationen verdoppeln sie ihre Wachstumsprognose für 2026. Doch danach flaut es wieder ab."
-  },
-  {
-    "id": "story-235",
+    "id": "story-751",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-24T06:37:26.000Z",
-    "sources": [
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/politik/ausland/video6ab4bef6a15a9fecb6693745/pressefreiheit-us-richter-hebt-trumps-ausschluss-von-politico-cnn-und-ms-now-vorerst-auf.html",
-        "date": "2026-09-24T06:37:26.000Z",
-        "snippet": "Ein US-Bundesgericht hat die von Präsident Donald Trump verhängte Sperre für Journalisten der Sender CNN und MS NOW sowie des Magazins „Politico“, das wie WELT zu Axel Springer gehört, für das Weiße Haus aufgehoben.",
-        "title": "US-Richter hebt Trumps Ausschluss von „Politico“, CNN und MS NOW vorerst auf"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-li.3530667",
-        "date": "2026-09-24T05:50:00.000Z",
-        "snippet": "Die US-Regierung muss den Journalisten der Sender CNN, MS Now sowie des Nachrichtenportals „Politico“ vorerst wieder Zugang zum Weißen Haus gewähren. Ein Richter nannte den Ausschluss „wahrscheinlich verfassungswidrig“.",
-        "title": "USA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf"
-      }
-    ],
-    "title": "US-Richter hebt Trumps Ausschluss von „Politico“, CNN und MS NOW vorerst auf",
-    "summary": "US-Richter hebt Trumps Ausschluss von „Politico“, CNN und MS NOW vorerst auf Ein US-Bundesgericht hat die von Präsident Donald Trump verhängte Sperre für Journalisten der Sender CNN und MS NOW sowie des Magazins „Politico“, das wie WELT zu Axel Springer gehört, für das Weiße Haus aufgehoben.\nUSA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf Die US-Regierung muss den Journalisten der Sender CNN, MS Now sowie des Nachrichtenportals „Politico“ vorerst wieder Zugang zum Weißen Haus gewähren. Ein Richter nannte den Ausschluss „wahrscheinlich verfassungswidrig“."
-  },
-  {
-    "id": "story-251",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T06:30:04.000Z",
+    "date": "2026-09-24T06:30:06.000Z",
     "sources": [
       {
         "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
-        "date": "2026-09-24T06:30:04.000Z",
-        "snippet": "Die ukrainische Hauptstadt ist erneut Ziel russischer Angriffe geworden. Mindestens zwei Menschen sollen getötet worden sein. Der ukrainische Präsident Selenskyj wirbt in den USA …",
-        "title": "Wieder Tote bei russischen Angriffen auf Kiew"
+        "url": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html",
+        "date": "2026-09-24T06:30:06.000Z",
+        "snippet": "\"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte…",
+        "title": "Wadephul wirft Moskau Eskalation in Europa vor"
       },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUI5eVVGanc3eTh4VE1ocDFJck1OTWdxbGlkNlZVbnpTQXVmampiRHVxcU5VU1JkWWg4SVNBLWd4MUR3NEZLd0ZxYjdndzM2STllS2d4WjZvZjY2b0FRQ3FBOGQwb3FwTjNJU3ZvbFpTZFlKYW1vWTVpb09kanB3U3h1cHo1bkU?oc=5",
-        "date": "2026-09-24T06:07:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUI5eVVGanc3eTh4VE1ocDFJck1OTWdxbGlkNlZVbnpTQXVmampiRHVxcU5VU1JkWWg4SVNBLWd4MUR3NEZLd0ZxYjdndzM2STllS2d4WjZvZjY2b0FRQ3FBOGQwb3FwTjNJU3ZvbFpTZFlKYW1vWTVpb09kanB3U3h1cHo1bkU?oc=5\" target=\"_blank\">Wieder Tote bei russischen Angriffen auf Kiew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzRDRlRGVVE3NEZPVlB6ZnNOazkwWWpoRV91YmhQVEpqZEl5ZFNXdjhrUkJCQ0JKZVJXOUNTQ0NfYlN6YUppTXU2aWR3OGlZWFUyNFBtbktaVXZ1bklDWkUxZ1RtamFKbU9meTBXVDBiWUhvbjdicElYNDdfcElTZTdlOURVRGZpVmdnWHlLNVgwQ0hTeTFzMEMtMm1wdnVrZmV1NXR3Vlc4R1VSQUowRkUtdUhCbHhDS29YR29IOXpJN0thV2x0cldONW",
-        "title": "Wieder Tote bei russischen Angriffen auf Kiew - tagesschau.de"
-      }
-    ],
-    "title": "Wieder Tote bei russischen Angriffen auf Kiew",
-    "summary": "Wieder Tote bei russischen Angriffen auf Kiew Die ukrainische Hauptstadt ist erneut Ziel russischer Angriffe geworden. Mindestens zwei Menschen sollen getötet worden sein. Der ukrainische Präsident Selenskyj wirbt in den USA …\nWieder Tote bei russischen Angriffen auf Kiew - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUI5eVVGanc3eTh4VE1ocDFJck1OTWdxbGlkNlZVbnpTQXVmampiRHVxcU5VU1JkWWg4SVNBLWd4MUR3NEZLd0ZxYjdndzM2STllS2d4WjZvZjY2b0FRQ3FBOGQwb3FwTjNJU3ZvbFpTZFlKYW1vWTVpb09kanB3U3h1cHo1bkU?oc=5\" target=\"_blank\">Wieder Tote bei russischen Angriffen auf Kiew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzRDRlRGVVE3NEZPVlB6ZnNOazkwWWpoRV91YmhQVEpqZEl5ZFNXdjhrUkJCQ0JKZVJXOUNTQ0NfYlN6YUppTXU2aWR3OGlZWFUyNFBtbktaVXZ1bklDWkUxZ1RtamFKbU9meTBXVDBiWUhvbjdicElYNDdfcElTZTdlOURVRGZpVmdnWHlLNVgwQ0hTeTFzMEMtMm1wdnVrZmV1NXR3Vlc4R1VSQUowRkUtdUhCbHhDS29YR29IOXpJN0thV2x0cldONW"
-  },
-  {
-    "id": "story-252",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T06:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html",
-        "date": "2026-09-24T06:30:02.000Z",
-        "snippet": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump se…",
-        "title": "Gericht hebt Trumps Medien-Ausschluss vorerst auf"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html",
-        "date": "2026-09-24T06:14:19.000Z",
-        "snippet": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
-        "title": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf"
-      }
-    ],
-    "title": "Gericht hebt Trumps Medien-Ausschluss vorerst auf",
-    "summary": "Gericht hebt Trumps Medien-Ausschluss vorerst auf Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump se…\nGericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter."
-  },
-  {
-    "id": "story-306",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T05:57:58.000Z",
-    "sources": [
       {
         "source": "Tagesschau",
         "url": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html",
         "date": "2026-09-24T05:57:58.000Z",
         "snippet": "\"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte auch einen Weg aus dem Konflikt.",
         "title": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVpZdWlORFQ5LUlPTzZkeHJzWlNKWVhuNVJXclFPWGdpbk9zb1BScXhVR0RKd0lIUkVVNE9CYlFUdlJFWnZERVFILVp2WVdsMVhlM0RpaU13c1AzWWNlSzdRYzVOVTU2Z3l1WjNlTGpiemc4WGZVdG84Tm1QZ055S0Y5eGdQUQ?oc=5",
-        "date": "2026-09-24T05:57:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVpZdWlORFQ5LUlPTzZkeHJzWlNKWVhuNVJXclFPWGdpbk9zb1BScXhVR0RKd0lIUkVVNE9CYlFUdlJFWnZERVFILVp2WVdsMVhlM0RpaU13c1AzWWNlSzdRYzVOVTU2Z3l1WjNlTGpiemc4WGZVdG84Tm1QZ055S0Y5eGdQUQ?oc=5\" target=\"_blank\">Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNFVacTNtdWpEMDJPTkJCbmpIWGtPaWsxWlFHcWI1ck52WUFKeGc3YWFtbUs5dUhZUjZISmMxbnJTSktsSmdyTlBlUTV0ejJ3SlRxZUVjdVN0WjBKdnBVamlFWTg3T210R25NRWNLZWxlM2hscEh5RDRhZnZRWU5iWTRlU1ZwbzR1cGMwdFdxOUJpSlI2anBvdHRxRVE1Qnd4VU1faEYxcXM2NVJiQWpGYlRPT0haOTBmaUNV",
-        "title": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor - tagesschau.de"
       }
     ],
-    "title": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
-    "summary": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor \"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte auch einen Weg aus dem Konflikt.\nWadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVpZdWlORFQ5LUlPTzZkeHJzWlNKWVhuNVJXclFPWGdpbk9zb1BScXhVR0RKd0lIUkVVNE9CYlFUdlJFWnZERVFILVp2WVdsMVhlM0RpaU13c1AzWWNlSzdRYzVOVTU2Z3l1WjNlTGpiemc4WGZVdG84Tm1QZ055S0Y5eGdQUQ?oc=5\" target=\"_blank\">Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNFVacTNtdWpEMDJPTkJCbmpIWGtPaWsxWlFHcWI1ck52WUFKeGc3YWFtbUs5dUhZUjZISmMxbnJTSktsSmdyTlBlUTV0ejJ3SlRxZUVjdVN0WjBKdnBVamlFWTg3T210R25NRWNLZWxlM2hscEh5RDRhZnZRWU5iWTRlU1ZwbzR1cGMwdFdxOUJpSlI2anBvdHRxRVE1Qnd4VU1faEYxcXM2NVJiQWpGYlRPT0haOTBmaUNV"
+    "title": "Wadephul wirft Moskau Eskalation in Europa vor",
+    "summary": "Wadephul wirft Moskau Eskalation in Europa vor \"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte…\nWadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor \"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte auch einen Weg aus dem Konflikt."
   },
   {
-    "id": "story-388",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T05:12:57.000Z",
-    "sources": [
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/sport/nfl/NFL-Nach-Mordanklage-Skandal-Profi-muss-nicht-ins-Gefaengnis-id31341780.html",
-        "date": "2026-09-24T05:12:57.000Z",
-        "snippet": "Bei einer Verurteilung wegen versuchten Mordes hätten Antonio Brown bis zu 30 Jahren Gefängnis gedroht. Nun einigt sich der Ex-NFL-Star auf einen Vergleich - und muss gar nicht in den Knast.",
-        "title": "Vergleich vor Gericht: Nach Mordanklage: Skandal-Profi muss nicht ins Gefängnis"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/promis/ex-nfl-star-antonio-brown-entgeht-nach-mordanklage-gefaengnis-QZ7RO5XQJJGE7CULIZLFZ7RPCQ.html",
-        "date": "2026-09-23T23:21:00.000Z",
-        "snippet": "Bei einer Verurteilung wegen versuchten Mordes hätten Antonio Brown bis zu 30 Jahren Gefängnis gedroht. Nun einigt sich der Ex-NFL-Star auf einen Vergleich – und muss gar nicht in den Knast.",
-        "title": "Ex-NFL-Star Antonio Brown entgeht nach Mordanklage Gefängnis"
-      }
-    ],
-    "title": "Vergleich vor Gericht: Nach Mordanklage: Skandal-Profi muss nicht ins Gefängnis",
-    "summary": "Vergleich vor Gericht: Nach Mordanklage: Skandal-Profi muss nicht ins Gefängnis Bei einer Verurteilung wegen versuchten Mordes hätten Antonio Brown bis zu 30 Jahren Gefängnis gedroht. Nun einigt sich der Ex-NFL-Star auf einen Vergleich - und muss gar nicht in den Knast.\nEx-NFL-Star Antonio Brown entgeht nach Mordanklage Gefängnis Bei einer Verurteilung wegen versuchten Mordes hätten Antonio Brown bis zu 30 Jahren Gefängnis gedroht. Nun einigt sich der Ex-NFL-Star auf einen Vergleich – und muss gar nicht in den Knast."
-  },
-  {
-    "id": "story-405",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T05:00:07.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
-        "date": "2026-09-24T05:00:07.000Z",
-        "snippet": "Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschm…",
-        "title": "Größtmögliche Bühne - aber viele schwierige Themen"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
-        "date": "2026-09-24T04:42:27.000Z",
-        "snippet": "Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschmeichelter Gast. Von Ralf Borchard.",
-        "title": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit"
-      }
-    ],
-    "title": "Größtmögliche Bühne - aber viele schwierige Themen",
-    "summary": "Größtmögliche Bühne - aber viele schwierige Themen Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschm…\nStaatsbesuch in den USA: Xi bringt schwierige Themen mit Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschmeichelter Gast. Von Ralf Borchard."
-  },
-  {
-    "id": "story-520",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T02:27:33.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-selenskyj-nennt-putin-patient-null-der-kriegstreiberei-HE2HCGE6JQFTFWLUN43NO5POI4.html",
-        "date": "2026-09-24T02:27:33.000Z",
-        "snippet": "Seit mehr als vier Jahren verteidigt sich die Ukraine gegen den russischen Angriffskrieg, Friedens­bemühungen verliefen bisher erfolglos. Verfolgen Sie alle Entwicklungen in unserem Liveblog.",
-        "title": "Ukraine-News im Ticker: Selenskyj nennt Putin „Patient Null“ der Kriegstreiberei"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bezeichnet-putin-als-patient-null-der-kriegstreiberei-a-bdb18d17-6f3a-4525-8119-b5a90a5b6ff7#ref=rss",
-        "date": "2026-09-23T21:14:00.000Z",
-        "snippet": "Der Präsident der Ukraine hat vor der Uno-Vollversammlung erneut um Unterstützung geworben. Selenskyj betonte dabei nicht nur die Sicherheit seines eigenen Landes: Putin sei als »Patient null« eine noch größere Gefahr.",
-        "title": "Ukraine: Wolodymyr Selenskyj bezeichnet Putin als »Patient null« der Kriegstreiberei"
-      }
-    ],
-    "title": "Ukraine-News im Ticker: Selenskyj nennt Putin „Patient Null“ der Kriegstreiberei",
-    "summary": "Ukraine-News im Ticker: Selenskyj nennt Putin „Patient Null“ der Kriegstreiberei Seit mehr als vier Jahren verteidigt sich die Ukraine gegen den russischen Angriffskrieg, Friedens­bemühungen verliefen bisher erfolglos. Verfolgen Sie alle Entwicklungen in unserem Liveblog.\nUkraine: Wolodymyr Selenskyj bezeichnet Putin als »Patient null« der Kriegstreiberei Der Präsident der Ukraine hat vor der Uno-Vollversammlung erneut um Unterstützung geworben. Selenskyj betonte dabei nicht nur die Sicherheit seines eigenen Landes: Putin sei als »Patient null« eine noch größere Gefahr."
-  },
-  {
-    "id": "story-533",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T01:49:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGxjOUZNOHBGX0pldjd3ZUZQRGRpcFk4M0hCY2h3MFRwTDdVSlFTSHQ3RkllbHdoVFI3RjFqdC1aanFDeHFrZW5hYlNTckMwR0VJZjNTZ0dPb2xPNkZTS200aTl3ZDBJOXJLXzE5ZnotbFM5NzkxLWZ4aHg4eVR2RXM3SEthOHhhZVE0dWZldGozYVFqempKUmVIREwzbXUxemdTdVNhNHQ4eUNQc19uVF8zcUVKV3ozZkNHbHJRVnJuUW5lRlpEMThxcTkyRndRSXFvdEpTbUNTajYta0E?oc=5",
-        "date": "2026-09-24T01:49:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGxjOUZNOHBGX0pldjd3ZUZQRGRpcFk4M0hCY2h3MFRwTDdVSlFTSHQ3RkllbHdoVFI3RjFqdC1aanFDeHFrZW5hYlNTckMwR0VJZjNTZ0dPb2xPNkZTS200aTl3ZDBJOXJLXzE5ZnotbFM5NzkxLWZ4aHg4eVR2RXM3SEthOHhhZVE0dWZldGozYVFqempKUmVIREwzbXUxemdTdVNhNHQ4eUNQc19uVF8zcUVKV3ozZkNHbHJRVnJuUW5lRlpEMThxcTkyRndRSXFvdEpTbUNTajYta0E?oc=5\" target=\"_blank\">Digitale Sicherheit: KI-Agent von OpenAI hackt sich eigenständig in australische Regierungswebsite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUdmY0RjdHVKcnZTMC1VbFMtSkJkM0syOFhWWThTUVEtUG5WdFVLLW1iTVJpUS04MmE0S0ZBNDM5QzJ2Nkx1NjVZckdIc1VZd0h",
-        "title": "Digitale Sicherheit: KI-Agent von OpenAI hackt sich eigenständig in australische Regierungswebsite - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/netzwelt/openai-ki-agent-hackt-sich-eigenstaendig-in-australische-regierungswebsite-a-36c8db5e-5686-4562-9207-1480a18fbc41#ref=rss",
-        "date": "2026-09-24T01:49:00.000Z",
-        "snippet": "Australiens Premier spricht von einem »inakzeptablen« Vorfall: Ein KI-Agent hat sich unbefugt Zugriff auf Behördendaten verschafft. OpenAI meldete Canberra das erst drei Monate später – per E-Mail an ein allgemeines Postfach.",
-        "title": "OpenAI: KI-Agent hackt sich eigenständig in australische Regierungswebsite"
-      }
-    ],
-    "title": "Digitale Sicherheit: KI-Agent von OpenAI hackt sich eigenständig in australische Regierungswebsite - Spiegel",
-    "summary": "Digitale Sicherheit: KI-Agent von OpenAI hackt sich eigenständig in australische Regierungswebsite - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGxjOUZNOHBGX0pldjd3ZUZQRGRpcFk4M0hCY2h3MFRwTDdVSlFTSHQ3RkllbHdoVFI3RjFqdC1aanFDeHFrZW5hYlNTckMwR0VJZjNTZ0dPb2xPNkZTS200aTl3ZDBJOXJLXzE5ZnotbFM5NzkxLWZ4aHg4eVR2RXM3SEthOHhhZVE0dWZldGozYVFqempKUmVIREwzbXUxemdTdVNhNHQ4eUNQc19uVF8zcUVKV3ozZkNHbHJRVnJuUW5lRlpEMThxcTkyRndRSXFvdEpTbUNTajYta0E?oc=5\" target=\"_blank\">Digitale Sicherheit: KI-Agent von OpenAI hackt sich eigenständig in australische Regierungswebsite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUdmY0RjdHVKcnZTMC1VbFMtSkJkM0syOFhWWThTUVEtUG5WdFVLLW1iTVJpUS04MmE0S0ZBNDM5QzJ2Nkx1NjVZckdIc1VZd0h\nOpenAI: KI-Agent hackt sich eigenständig in australische Regierungswebsite Australiens Premier spricht von einem »inakzeptablen« Vorfall: Ein KI-Agent hat sich unbefugt Zugriff auf Behördendaten verschafft. OpenAI meldete Canberra das erst drei Monate später – per E-Mail an ein allgemeines Postfach."
-  },
-  {
-    "id": "story-536",
+    "id": "story-860",
     "topic": "politik",
     "country": "INT",
     "stateHint": "",
@@ -442,157 +610,7 @@
     "summary": "Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk - The Guardian <a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1oxSlVDclFlTHV4Uzc4M192RU5maUhGYUlNMk5DQlNmSGhBZV8tOGNyZ3dydjN0YmVqWlNPTVZFOVdUcDVFTndwUnNkN2dHdDZodS14RjFoTkxkbjdkbWJFTlZFZ1JwOXc0YWpmdFZVZVhHa0pJaGM2TmlyNkdndTY0VHpSaG01bFFrczlPWmxKYXFxc3BwOFpoaGVFemp2aUdTd243cDJEVTFXXzVRZTRFcw?oc=5\" target=\"_blank\">Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nIran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk <p>Masoud Pezeshkian says Tehran is ready for dialogue and diplomacy ‘but without the language of force’</p><p>Iran’s president, Masoud Pezeshkian, turned the tables on Donald Trump, describing the US as the true bully and terrorist in the Middle East while insisting that Iran had always shown a commitment to the negotiating table.</p><p>In a defiant speech to the UN general assembly in New York, his first since the US and Israel launched an all-out war on Iran, Pezeshkian repeatedly vowed that Tehran would never bend the knee to the US.</p> <a href=\"https://www.theguardian.com/world/2026/sep/23/iranian-leader-hits-back-at-bully-trump-signals-willingness-to-talk\">Continue reading...</a>"
   },
   {
-    "id": "story-563",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T00:15:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
-        "date": "2026-09-24T00:15:02.000Z",
-        "snippet": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, a…",
-        "title": "Tech-Bosse warnen UN-Sicherheitsrat vor KI"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
-        "date": "2026-09-23T23:58:22.000Z",
-        "snippet": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
-        "title": "Techbosse warnen UN-Sicherheitsrat vor KI"
-      }
-    ],
-    "title": "Tech-Bosse warnen UN-Sicherheitsrat vor KI",
-    "summary": "Tech-Bosse warnen UN-Sicherheitsrat vor KI Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, a…\nTechbosse warnen UN-Sicherheitsrat vor KI Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar."
-  },
-  {
-    "id": "story-587",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-09-23T23:05:59.000Z",
-    "sources": [
-      {
-        "source": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/ia-tomou-atitudes-que-seriam-crimes-se-cometidas-por-humanos-diz-painel-da-onu_n1767333",
-        "date": "2026-09-23T23:05:59.000Z",
-        "snippet": "Agentes de Inteligência Artificial (IA) desenvolvidos por empresas líderes agiram de \"formas inaceitavelmente perigosas\", contrariando instruções e tomando atitudes que \"seriam crimes se cometidas por humanos», alertou hoje o copresidente de um Painel Internacional Independente da ONU.",
-        "title": "IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHY2QnJUWGtYeG4wWHBjSWhtR1pZOVhjMXFUWDQ4UEY3azNZa0VXSHAzTUlvb2kzMWlXWmxKOWdMT0czbTRrWkZSbm0xRjZWY3ZsYkY1ZkhmYWVzVHFsUHZFWHZsc0FJSEd0TXVlTEU1SzJZSk9yS191QmI0QTc2TWxmckNZdnBSRVF2Z3Q2ZURXakR0ek5keVVkaXFfeEdUU3lhSGNCMDJFaWNJTGxTUDdiZHRtNTZlcl9oellWYmxtODVU?oc=5",
-        "date": "2026-09-23T21:17:17.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHY2QnJUWGtYeG4wWHBjSWhtR1pZOVhjMXFUWDQ4UEY3azNZa0VXSHAzTUlvb2kzMWlXWmxKOWdMT0czbTRrWkZSbm0xRjZWY3ZsYkY1ZkhmYWVzVHFsUHZFWHZsc0FJSEd0TXVlTEU1SzJZSk9yS191QmI0QTc2TWxmckNZdnBSRVF2Z3Q2ZURXakR0ek5keVVkaXFfeEdUU3lhSGNCMDJFaWNJTGxTUDdiZHRtNTZlcl9oellWYmxtODVU?oc=5\" target=\"_blank\">IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAPO</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQklaTi01LTNZakxsYlFYamNlTVlaN09rZ2FMNUJsWXBidElNNENtbkZWNG8yOGNvYWMxbkZjX2J1TV9xTkJoYVg3SWFNbENRcXFCQTZWYkNya2pIa0I0VWZCLUN3cWhpOTVQcHgxSW9OT2ZPZGdXZlR1NlBDL",
-        "title": "IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU - SAPO"
-      }
-    ],
-    "title": "IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU",
-    "summary": "IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU Agentes de Inteligência Artificial (IA) desenvolvidos por empresas líderes agiram de \"formas inaceitavelmente perigosas\", contrariando instruções e tomando atitudes que \"seriam crimes se cometidas por humanos», alertou hoje o copresidente de um Painel Internacional Independente da ONU.\nIA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU - SAPO <ol><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHY2QnJUWGtYeG4wWHBjSWhtR1pZOVhjMXFUWDQ4UEY3azNZa0VXSHAzTUlvb2kzMWlXWmxKOWdMT0czbTRrWkZSbm0xRjZWY3ZsYkY1ZkhmYWVzVHFsUHZFWHZsc0FJSEd0TXVlTEU1SzJZSk9yS191QmI0QTc2TWxmckNZdnBSRVF2Z3Q2ZURXakR0ek5keVVkaXFfeEdUU3lhSGNCMDJFaWNJTGxTUDdiZHRtNTZlcl9oellWYmxtODVU?oc=5\" target=\"_blank\">IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAPO</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQklaTi01LTNZakxsYlFYamNlTVlaN09rZ2FMNUJsWXBidElNNENtbkZWNG8yOGNvYWMxbkZjX2J1TV9xTkJoYVg3SWFNbENRcXFCQTZWYkNya2pIa0I0VWZCLUN3cWhpOTVQcHgxSW9OT2ZPZGdXZlR1NlBDL"
-  },
-  {
-    "id": "story-633",
-    "topic": "umwelt",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-23T21:21:33.000Z",
-    "sources": [
-      {
-        "source": "Guardian Environment",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
-        "date": "2026-09-23T21:21:33.000Z",
-        "snippet": "<p>El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministers</p><p>The UK has warned countries around the world that the climate and nature crises and the coming El Niño threaten their national security and defence, presenting foreign ministries with the findings of a report suppressed under Keir Starmer.</p><p>Ed Miliband, the UK’s foreign secretary, made a presentation to the foreign ministers of the EU as well as Kenya and other countries on Wednesday night at a private meeting during the UN general assembly in New York, based on the <a href=\"https://www.theguardian.com/environment/audio/2026/apr/22/national-security-report-uk-governm",
-        "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmt4MDhleU1ELVgyS0tEM0tTMHFmbkNTZTNsSUNpZ0JjZmpEb0VXTGEwTVFxbDV4ZTFmYnZtdWI5Slg0VFZTVF9DVXdpTmY2M0hpNFUxV3RDQ1prQTZ1Y19hMWRKRTJJQWU4QW5vZnk4M1lWOGxualliVXg1QzFQOFkydWNkNDcxV2lRMlhHU085SWhQOVBDa1kwOWI1VGhJWU5iTTBIc1RLWF9nQ3cwbnpFMEc0VU10VHhSdFJKXy1Tbjg?oc=5",
-        "date": "2026-09-23T18:36:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmt4MDhleU1ELVgyS0tEM0tTMHFmbkNTZTNsSUNpZ0JjZmpEb0VXTGEwTVFxbDV4ZTFmYnZtdWI5Slg0VFZTVF9DVXdpTmY2M0hpNFUxV3RDQ1prQTZ1Y19hMWRKRTJJQWU4QW5vZnk4M1lWOGxualliVXg1QzFQOFkydWNkNDcxV2lRMlhHU085SWhQOVBDa1kwOWI1VGhJWU5iTTBIc1RLWF9nQ3cwbnpFMEc0VU10VHhSdFJKXy1Tbjg?oc=5\" target=\"_blank\">UK shares findings of damning climate crisis national security report suppressed under Starmer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer - The Guardian"
-      }
-    ],
-    "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
-    "summary": "UK shares findings of damning climate crisis national security report suppressed under Starmer <p>El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministers</p><p>The UK has warned countries around the world that the climate and nature crises and the coming El Niño threaten their national security and defence, presenting foreign ministries with the findings of a report suppressed under Keir Starmer.</p><p>Ed Miliband, the UK’s foreign secretary, made a presentation to the foreign ministers of the EU as well as Kenya and other countries on Wednesday night at a private meeting during the UN general assembly in New York, based on the <a href=\"https://www.theguardian.com/environment/audio/2026/apr/22/national-security-report-uk-governm\nUK shares findings of damning climate crisis national security report suppressed under Starmer - The Guardian <a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmt4MDhleU1ELVgyS0tEM0tTMHFmbkNTZTNsSUNpZ0JjZmpEb0VXTGEwTVFxbDV4ZTFmYnZtdWI5Slg0VFZTVF9DVXdpTmY2M0hpNFUxV3RDQ1prQTZ1Y19hMWRKRTJJQWU4QW5vZnk4M1lWOGxualliVXg1QzFQOFkydWNkNDcxV2lRMlhHU085SWhQOVBDa1kwOWI1VGhJWU5iTTBIc1RLWF9nQ3cwbnpFMEc0VU10VHhSdFJKXy1Tbjg?oc=5\" target=\"_blank\">UK shares findings of damning climate crisis national security report suppressed under Starmer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
-  },
-  {
-    "id": "story-715",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "MV",
-    "date": "2026-09-23T18:56:19.000Z",
-    "sources": [
-      {
-        "source": "NDR Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/dhl-zentrum-in-leizen-evakuiert-verdacht-auf-quecksilber,nordmagazin-14430.html",
-        "date": "2026-09-23T18:56:19.000Z",
-        "snippet": "Eine Mitarbeiterin hatte sich mit gesundheitlichen Beschwerden bei der Polizei gemeldet, die auf Quecksilber hindeuten könnten.",
-        "title": "DHL-Zentrum in Leizen evakuiert - Verdacht auf Quecksilber"
-      },
-      {
-        "source": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_101447826/verdacht-auf-giftiges-quecksilber-dhl-zentrum-in-leizen-evakuiert.html",
-        "date": "2026-09-23T09:34:28.000Z",
-        "snippet": "In Mecklenburg-Vorpommern musste ein DHL-Zentrum geräumt werden. Der Vorfall könnte im Zusammenhang mit einer vergifteten Blumenlieferung stehen.",
-        "title": "Verdacht auf giftiges Quecksilber – DHL-Zentrum in Leizen evakuiert"
-      }
-    ],
-    "title": "DHL-Zentrum in Leizen evakuiert - Verdacht auf Quecksilber",
-    "summary": "DHL-Zentrum in Leizen evakuiert - Verdacht auf Quecksilber Eine Mitarbeiterin hatte sich mit gesundheitlichen Beschwerden bei der Polizei gemeldet, die auf Quecksilber hindeuten könnten.\nVerdacht auf giftiges Quecksilber – DHL-Zentrum in Leizen evakuiert In Mecklenburg-Vorpommern musste ein DHL-Zentrum geräumt werden. Der Vorfall könnte im Zusammenhang mit einer vergifteten Blumenlieferung stehen."
-  },
-  {
-    "id": "story-722",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-23T18:51:12.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-23T18:51:12.000Z",
-        "snippet": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-        "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault"
-      },
-      {
-        "source": "France24 English",
-        "url": "https://www.france24.com/en/americas/20260923-disgraced-hollywood-mogul-harvey-weinstein-sentenced-to-15-years-for-2006-sex-assault",
-        "date": "2026-09-23T15:56:40.000Z",
-        "snippet": "",
-        "title": "🔴Harvey Weinstein sentenced to 15 years in prison for 2006 sex assault"
-      }
-    ],
-    "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-    "summary": "Harvey Weinstein sentenced to 15 years in prison for sexual assault Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".\n🔴Harvey Weinstein sentenced to 15 years in prison for 2006 sex assault "
-  },
-  {
-    "id": "story-758",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BE",
-    "date": "2026-09-23T18:29:38.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berliner-gefaengnis-geflohener-windkraftbetrueger-hendrik-holt-in-dubai-gefasst-100.html",
-        "date": "2026-09-23T18:29:38.000Z",
-        "snippet": "Der Anlagebetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt hatte unter anderem Rechte an erfundenen Windpark-Projekten verkauft und saß dafür in Haft. Im August kehrte er nach einem Freigang in Berlin nicht zurück.",
-        "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/windkraft-betrueger-holt-festgenommen-100.html",
-        "date": "2026-09-23T16:29:41.000Z",
-        "snippet": "Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Das teilte die Staatsanwaltschaft Osnabrück mit.",
-        "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst"
-      }
-    ],
-    "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen",
-    "summary": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen Der Anlagebetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt hatte unter anderem Rechte an erfundenen Windpark-Projekten verkauft und saß dafür in Haft. Im August kehrte er nach einem Freigang in Berlin nicht zurück.\nWindkraftbetrüger Hendrik Holt in Dubai gefasst Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Das teilte die Staatsanwaltschaft Osnabrück mit."
-  },
-  {
-    "id": "story-773",
+    "id": "story-1022",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -617,32 +635,7 @@
     "summary": "Iran's president tells Trump it will never 'bend the knee' Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.\nIran's president tells Trump it will never 'bend the knee' - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DcVJwa0k3NWxvcVdabTVlTzFUM2MySkFjV2s0LW9tOXF6MlBteGk5TEFlbmJtbmcxeE5FU1ZOMFk1Z3IzMm5GNG5LV2psM1FZN3RGdHFzWUtyLTQ?oc=5\" target=\"_blank\">Iran's president tells Trump it will never 'bend the knee'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   },
   {
-    "id": "story-883",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-09-23T16:10:25.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/muenchner-olympia-konkurrent-berlin-will-bewerbung-zurueckziehen,VW3J924",
-        "date": "2026-09-23T16:10:25.000Z",
-        "snippet": "Berlin ist offenbar aus dem Rennen: Die Entscheidung, welche Stadt deutscher Olympia-Kandidat wird, fällt am Samstag nur noch zwischen München und der Region Köln/Rhein-Ruhr. Laut Medienberichten zieht Berlin seine Bewerbung zurück.",
-        "title": "Münchner Olympia-Konkurrent Berlin will Bewerbung zurückziehen"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/olympia-bewerbung-deutschland-berlin-rueckzug-100.html",
-        "date": "2026-09-23T14:30:00.000Z",
-        "snippet": "Kurz vor der Entscheidung, wer für Deutschland ins Olympia-Rennen geht, will Berlin wohl seine Bewerbung zurückziehen. München und Köln bleiben im Rennen.",
-        "title": "Berlin will Olympia-Bewerbung zurückziehen"
-      }
-    ],
-    "title": "Münchner Olympia-Konkurrent Berlin will Bewerbung zurückziehen",
-    "summary": "Münchner Olympia-Konkurrent Berlin will Bewerbung zurückziehen Berlin ist offenbar aus dem Rennen: Die Entscheidung, welche Stadt deutscher Olympia-Kandidat wird, fällt am Samstag nur noch zwischen München und der Region Köln/Rhein-Ruhr. Laut Medienberichten zieht Berlin seine Bewerbung zurück.\nBerlin will Olympia-Bewerbung zurückziehen Kurz vor der Entscheidung, wer für Deutschland ins Olympia-Rennen geht, will Berlin wohl seine Bewerbung zurückziehen. München und Köln bleiben im Rennen."
-  },
-  {
-    "id": "story-980",
+    "id": "story-1161",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -659,11 +652,11 @@
         "source": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlFfYlBuSEhOZ2FyNnlobVFQS1c1RmhNOU5uT2VTVnpsWkJlMEl6RG40YUlBOWVSQS1tWEVCUk1fSmtITXI5cktmdUMtWTd0a0NYQ2xWTGp0NXRLRFUyd09LMWl1dG1SNHRVSV84d0lLT1RtUFlXU1dkRXpRQnY5MXpNalpsQTRrbHJuSDBQakh6QjlrYkp1c21mOGxFcU9QT2kzYXlRWmpZVEhQcXZUZ1ZRQUtMTnRIemhXMkdiMmh4X1d3azJCX2lUMmFCM2N4T3UzTEtB?oc=5",
         "date": "2026-09-23T13:57:22.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlFfYlBuSEhOZ2FyNnlobVFQS1c1RmhNOU5uT2VTVnpsWkJlMEl6RG40YUlBOWVSQS1tWEVCUk1fSmtITXI5cktmdUMtWTd0a0NYQ2xWTGp0NXRLRFUyd09LMWl1dG1SNHRVSV84d0lLT1RtUFlXU1dkRXpRQnY5MXpNalpsQTRrbHJuSDBQakh6QjlrYkp1c21mOGxFcU9QT2kzYXlRWmpZVEhQcXZUZ1ZRQUtMTnRIemhXMkdiMmh4X1d3azJCX2lUMmFCM2N4T3UzTEtB?oc=5\" target=\"_blank\">\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtp.pt</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2NPYTEtTDRDZ1hVOXRDMDBMdVR1RS1BUlpNdng2S0xYRFl3dVZSNHlIcDhVeFhLWkZGUjJtMkFjMHFFbjE0R0dmdnFrWE9ReTAydko4V1BTT",
-        "title": "\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\" - rtp.pt"
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlFfYlBuSEhOZ2FyNnlobVFQS1c1RmhNOU5uT2VTVnpsWkJlMEl6RG40YUlBOWVSQS1tWEVCUk1fSmtITXI5cktmdUMtWTd0a0NYQ2xWTGp0NXRLRFUyd09LMWl1dG1SNHRVSV84d0lLT1RtUFlXU1dkRXpRQnY5MXpNalpsQTRrbHJuSDBQakh6QjlrYkp1c21mOGxFcU9QT2kzYXlRWmpZVEhQcXZUZ1ZRQUtMTnRIemhXMkdiMmh4X1d3azJCX2lUMmFCM2N4T3UzTEtB?oc=5\" target=\"_blank\">\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2NPYTEtTDRDZ1hVOXRDMDBMdVR1RS1BUlpNdng2S0xYRFl3dVZSNHlIcDhVeFhLWkZGUjJtMkFjMHFFbjE0R0dmdnFrWE9ReTAydko4V1BTTzE0",
+        "title": "\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\" - RTP"
       }
     ],
     "title": "\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\"",
-    "summary": "\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\" O ministro das Finanças frisou esta quarta-feira que os números do INE \"mostram como a despesa está controlada\". O Instituto Nacional de Estatística avançou esta manhã que o Estado registou, até junho, um excedente orçamental de 0,5 por cento do Produto Interno Bruto.\n\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\" - rtp.pt <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlFfYlBuSEhOZ2FyNnlobVFQS1c1RmhNOU5uT2VTVnpsWkJlMEl6RG40YUlBOWVSQS1tWEVCUk1fSmtITXI5cktmdUMtWTd0a0NYQ2xWTGp0NXRLRFUyd09LMWl1dG1SNHRVSV84d0lLT1RtUFlXU1dkRXpRQnY5MXpNalpsQTRrbHJuSDBQakh6QjlrYkp1c21mOGxFcU9QT2kzYXlRWmpZVEhQcXZUZ1ZRQUtMTnRIemhXMkdiMmh4X1d3azJCX2lUMmFCM2N4T3UzTEtB?oc=5\" target=\"_blank\">\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtp.pt</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2NPYTEtTDRDZ1hVOXRDMDBMdVR1RS1BUlpNdng2S0xYRFl3dVZSNHlIcDhVeFhLWkZGUjJtMkFjMHFFbjE0R0dmdnFrWE9ReTAydko4V1BTT"
+    "summary": "\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\" O ministro das Finanças frisou esta quarta-feira que os números do INE \"mostram como a despesa está controlada\". O Instituto Nacional de Estatística avançou esta manhã que o Estado registou, até junho, um excedente orçamental de 0,5 por cento do Produto Interno Bruto.\n\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\" - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlFfYlBuSEhOZ2FyNnlobVFQS1c1RmhNOU5uT2VTVnpsWkJlMEl6RG40YUlBOWVSQS1tWEVCUk1fSmtITXI5cktmdUMtWTd0a0NYQ2xWTGp0NXRLRFUyd09LMWl1dG1SNHRVSV84d0lLT1RtUFlXU1dkRXpRQnY5MXpNalpsQTRrbHJuSDBQakh6QjlrYkp1c21mOGxFcU9QT2kzYXlRWmpZVEhQcXZUZ1ZRQUtMTnRIemhXMkdiMmh4X1d3azJCX2lUMmFCM2N4T3UzTEtB?oc=5\" target=\"_blank\">\"Despesa está controlada\". Governo destaca superavit de 0,5% após primeiro trimestre \"muito difícil\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2NPYTEtTDRDZ1hVOXRDMDBMdVR1RS1BUlpNdng2S0xYRFl3dVZSNHlIcDhVeFhLWkZGUjJtMkFjMHFFbjE0R0dmdnFrWE9ReTAydko4V1BTTzE0"
   }
 ]
