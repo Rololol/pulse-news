@@ -577,7 +577,7 @@ for(const item of unique){
 }
 
 const result=clusters
-  .filter(c=>c.items.length)
+  .filter(c=>c.items.length>=2)
   .sort((a,b)=>(b.items.length-a.items.length)||Date.parse(b.date)-Date.parse(a.date))
   .slice(0,120)
   .map(c=>({
