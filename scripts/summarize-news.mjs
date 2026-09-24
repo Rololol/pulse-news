@@ -198,6 +198,7 @@ const output=[];
 let generated=0,fallbacks=0,failures=0;
 const freshIds=new Set();
 for(const item of ranked){
+  if(!Array.isArray(item.sources)||item.sources.length<2)continue;
   const srcMap=new Map();
   for(const s of (item.sources||[]).slice(0,8)){
     try{
@@ -249,7 +250,7 @@ const retained=previousCurrent.filter(x=>{
   const t=Date.parse(x.d);
   return Number.isFinite(t)&&t>=cutoff7d;
 });
-const combined=[...output,...retained];
+const combined=[...output,...retained.filter(x=>Array.isArray(x.srcs)&&x.srcs.length>=2)];
 const byId=new Map();
 for(const item of combined)if(!byId.has(item.id))byId.set(item.id,item);
 const final=[...byId.values()].sort((a,b)=>(b.d.localeCompare(a.d))||(b.p-a.p)).slice(0,400);
