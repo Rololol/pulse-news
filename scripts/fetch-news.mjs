@@ -260,11 +260,6 @@ const feeds=[
     "DE"
   ],
   [
-    "FOCUS online",
-    "https://rss.focus.de/fol/XML/rss_folnews.xml",
-    "DE"
-  ],
-  [
     "Handelsblatt",
     "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
     "DE",
@@ -275,12 +270,6 @@ const feeds=[
     "https://www.heise.de/rss/heise-atom.xml",
     "DE",
     "technik"
-  ],
-  [
-    "kicker",
-    "https://rss.kicker.de/news/aktuell",
-    "DE",
-    "sport"
   ],
   [
     "SWR Aktuell",
@@ -300,23 +289,6 @@ const feeds=[
     "DE",
     null,
     "RP"
-  ],
-  [
-    "MDR",
-    "https://www.mdr.de/nachrichten/mdr-homepage-146-rss.xml",
-    "DE"
-  ],
-  [
-    "Bundesregierung",
-    "https://www.bundesregierung.de/breg-de/service/rss",
-    "DE",
-    "politik"
-  ],
-  [
-    "Presseportal Politik",
-    "https://www.presseportal.de/rss/pm",
-    "DE",
-    "politik"
   ],
   [
     "RND",
@@ -415,11 +387,6 @@ const feeds=[
   [
     "RTP Notícias",
     "https://www.rtp.pt/noticias/rss",
-    "PT"
-  ],
-  [
-    "RTP Portugal",
-    "https://www.rtp.pt/noticias/rss/portugal",
     "PT"
   ],
   [
