@@ -2,7 +2,7 @@
 Mobile-first news dashboard. News is generated into `data/news.json` by GitHub Actions from RSS sources. The site is static and can be hosted on GitHub Pages.
 
 ## Current sources
-German: Tagesschau, Deutschlandfunk, NDR, WDR, BR24, DW Deutsch, ZDF heute, DER SPIEGEL, ZEIT ONLINE, FAZ, Süddeutsche Zeitung, WELT, ntv, FOCUS online, Handelsblatt, heise online, kicker, SWR, MDR, Bundesregierung, Presseportal, RND, t-online, stern und Rheinische Post.
+German: Tagesschau, Deutschlandfunk, NDR, WDR, BR24, DW Deutsch, ZDF heute, DER SPIEGEL, ZEIT ONLINE, FAZ, Süddeutsche Zeitung, WELT, ntv, Handelsblatt, heise online, SWR, RND, t-online, stern und Rheinische Post.
 
 International: BBC, Guardian, RTP, Google News, NPR, NASA, France24, Euronews, Al Jazeera, The Verge, Ars Technica, New Scientist, ESA, NOAA und WHO.
 
