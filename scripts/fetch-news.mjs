@@ -319,6 +319,50 @@ const feeds=[
     "politik"
   ],
   [
+    "RND",
+    "https://www.rnd.de/arc/outboundfeeds/rss/",
+    "DE"
+  ],
+  [
+    "t-online Nachrichten",
+    "https://www.t-online.de/nachrichten/feed.rss",
+    "DE"
+  ],
+  [
+    "t-online Wirtschaft",
+    "https://www.t-online.de/finanzen/feed.rss",
+    "DE",
+    "wirtschaft"
+  ],
+  [
+    "t-online Sport",
+    "https://www.t-online.de/sport/feed.rss",
+    "DE",
+    "sport"
+  ],
+  [
+    "t-online Digital",
+    "https://www.t-online.de/digital/feed.rss",
+    "DE",
+    "technik"
+  ],
+  [
+    "t-online Panorama",
+    "https://www.t-online.de/nachrichten/panorama/feed.rss",
+    "DE",
+    "panorama"
+  ],
+  [
+    "stern",
+    "https://www.stern.de/feed/standard/alle-nachrichten/",
+    "DE"
+  ],
+  [
+    "Rheinische Post",
+    "https://rp-online.de/feed.rss",
+    "DE"
+  ],
+  [
     "BBC World",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "UK"
