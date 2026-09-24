@@ -36,7 +36,17 @@ const previousFor=item=>{
     .sort((a,b)=>titleSimilarity(b.t||"",item.title)-titleSimilarity(a.t||"",item.title))
     .find(x=>titleSimilarity(x.t||"",item.title)>=0.55);
 };
-const categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
+const germanStopwords=new Set("der die das den dem des ein eine einer eines einem einen und oder aber auch nicht ist sind war waren wird werden wurde wurden hat haben für von mit auf aus nach bei über unter vor durch als wie dass sich zu im in an am zum zur".split(/\\s+/));
+const looksGerman=text=>{
+  const s=clean(text||"").toLowerCase();
+  if(!s)return false;
+  const foreign=/\\b(the|and|with|from|this|that|will|world|news|economy|government|portuguese|britain|trump|deve|para|com|uma|uma|que|das|dos|não|nao|situação|presidente|montenegro|reage|buscas|clarificada|portugal|espero)\\b/i;
+  const words=s.split(/\\s+/).filter(Boolean);
+  const germanHits=words.filter(w=>germanStopwords.has(w)).length;
+  const foreignHits=(s.match(foreign)||[]).length;
+  return words.length<8 ? !foreign.test(s) : germanHits>=1&&foreignHits===0;
+};
+const validGerman=ai=>ai&&looksGerman(ai.t)&&looksGerman(ai.s)&&looksGerman(ai.m);\nconst categoryMap={politik:"politik",wirtschaft:"wirtschaft",sport:"sport",wissenschaft:"wissenschaft",technik:"technik",panorama:"panorama",umwelt:"umwelt"};
 const countryMap={DE:"DE",UK:"INT",PT:"INT",INT:"INT",US:"INT",EU:"INT"};
 
 function localFallback(item){
@@ -201,7 +211,7 @@ for(const item of ranked){
   const signature=(item.sources||[]).map(s=>s.url).join("|");
   const previous=previousFor(item);
   const key=hashKey("v9-translation-cache-reset|"+item.id+"|"+signature+"|"+(item.stateHint||""));
-  let ai=cache[key];
+  let ai=cache[key];\n  if(ai&&!validGerman(ai))ai=null;
   let usedGemini=false;
   if(!(ai?.t&&ai?.s&&ai?.m)){
     if(apiKey&&!forceFallback){
@@ -215,11 +225,11 @@ for(const item of ranked){
         }
       }
     }
-    if(!ai?.t){ai=localFallback(item);fallbacks++}
+    if(!ai?.t){\n      if(previous&&validGerman(previous)){ai={t:previous.t,s:previous.s,m:previous.m,r:previous.r||"",k:previous.k||categoryMap[item.topic]||"panorama",c:previous.c||countryMap[item.country]||"INT",p:previous.p||1,agree:previous.agree||"",diff:previous.diff||[],chg:""};}\n      else if(item.country==="DE"){ai=localFallback(item);fallbacks++;}\n    }
     cache[key]={...ai,updatedAt:new Date().toISOString(),sourceSignature:signature,method:usedGemini?"gemini":"fallback"};
   }
 
-  if(!srcs.length)continue;
+  if(!srcs.length||!validGerman(ai))continue;
   const outId=previous?.id||stableId(signature+"|"+(item.stateHint||""));
   freshIds.add(outId);
   output.push({
