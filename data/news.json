@@ -1,102 +1,606 @@
 [
   {
-    "id": "story-29",
-    "topic": "politik",
+    "id": "story-76",
+    "topic": "panorama",
     "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T17:26:15.000Z",
+    "stateHint": "NI",
+    "date": "2026-09-25T08:00:22.000Z",
     "sources": [
       {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-09/ministerpraesidentenkonferenz-vorsitz-rheinland-pfalz-sachsen-anhalt-malu-dreyer",
-        "date": "2026-09-24T17:26:15.000Z",
-        "snippet": "Ab Oktober sollte Sachsen-Anhalt den Vorsitz in der MPK übernehmen. Nach dem dortigen AfD-Sieg behält Rheinland-Pfalz das Amt für ein weiteres Jahr.",
-        "title": "Ministerpräsidentenkonferenz: Vorsitz der Ministerpräsidentenkonferenz geht nicht an Sachsen-Anhalt"
-      },
-      {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/sachsen-anhalt-verzichtet-auf-mpk-vorsitz-104.html",
-        "date": "2026-09-24T17:14:29.000Z",
-        "snippet": "Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz.",
-        "title": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz"
+        "url": "https://www.deutschlandfunk.de/bundesweit-100-demonstrationen-gegen-geplanten-neuen-wehrdienst-100.html",
+        "date": "2026-09-25T08:00:22.000Z",
+        "snippet": "Heute wollen Schüler erneut bundesweit auf die Straße gehen, um gegen eine mögliche Wehrpflicht zu demonstrieren.",
+        "title": "Schulstreik gegen Wehrpflicht - Bundesweit 100 Demonstrationen gegen geplanten neuen Wehrdienst"
       },
       {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101451472/ministerpraesidentenkonferenz-sachsen-anhalt-bekommt-vorsitz-nicht.html",
-        "date": "2026-09-24T16:38:53.000Z",
-        "snippet": "Eigentlich sollte Sachsen-Anhalt den Vorsitz der Ministerpräsidentenkonferenz übernehmen. Dazu kommt es nun vorerst nicht.",
-        "title": "Ministerpräsidentenkonferenz: Sachsen-Anhalt bekommt Vorsitz nicht"
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/schulstreik-gegen-wehrpflicht-in-norddeutschland,wehrpflicht-260.html",
+        "date": "2026-09-25T06:02:15.000Z",
+        "snippet": "Schülerinnen und Schüler wollen heute gegen den neuen Wehrdienst demonstrieren. Der Anlass sind Musterungen für Männer ab dem Jahrgang 2008.",
+        "title": "\"Schulstreik gegen Wehrpflicht\" in Norddeutschland"
       }
     ],
-    "title": "Ministerpräsidentenkonferenz: Vorsitz der Ministerpräsidentenkonferenz geht nicht an Sachsen-Anhalt",
-    "summary": "Ministerpräsidentenkonferenz: Vorsitz der Ministerpräsidentenkonferenz geht nicht an Sachsen-Anhalt Ab Oktober sollte Sachsen-Anhalt den Vorsitz in der MPK übernehmen. Nach dem dortigen AfD-Sieg behält Rheinland-Pfalz das Amt für ein weiteres Jahr.\nBundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz.\nMinisterpräsidentenkonferenz: Sachsen-Anhalt bekommt Vorsitz nicht Eigentlich sollte Sachsen-Anhalt den Vorsitz der Ministerpräsidentenkonferenz übernehmen. Dazu kommt es nun vorerst nicht."
+    "title": "Schulstreik gegen Wehrpflicht - Bundesweit 100 Demonstrationen gegen geplanten neuen Wehrdienst",
+    "summary": "Schulstreik gegen Wehrpflicht - Bundesweit 100 Demonstrationen gegen geplanten neuen Wehrdienst Heute wollen Schüler erneut bundesweit auf die Straße gehen, um gegen eine mögliche Wehrpflicht zu demonstrieren.\n\"Schulstreik gegen Wehrpflicht\" in Norddeutschland Schülerinnen und Schüler wollen heute gegen den neuen Wehrdienst demonstrieren. Der Anlass sind Musterungen für Männer ab dem Jahrgang 2008."
   },
   {
-    "id": "story-56",
+    "id": "story-79",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-24T17:14:29.000Z",
+    "date": "2026-09-25T08:00:22.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/wahlkomitee-schliesst-arabische-parteien-aus-100.html",
-        "date": "2026-09-24T17:14:29.000Z",
-        "snippet": "Das Zentrale Wahlkomitee in Israel hat gut einen Monat vor der Parlamentswahl die größten Parteien der arabischen Minderheit ausgeschlossen.",
-        "title": "Israel - Wahlkomitee schließt arabische Parteien aus"
+        "url": "https://www.deutschlandfunk.de/zahlreiche-diplomaten-verlassen-bei-netanjahus-rede-den-saal-110.html",
+        "date": "2026-09-25T08:00:22.000Z",
+        "snippet": "Der israelische Ministerpräsident Netanjahu hat bei einer Rede vor der UNO-Vollversammlung den New Yorker Bürgermeister, westliche Regierungschefs sowie Katar und die Türkei scharf angegriffen.",
+        "title": "UNO-Vollversammlung - Zahlreiche Diplomaten verlassen bei Netanjahus Rede den Saal"
       },
       {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/israel-schliesst-arabische-parteien-aus-100.html",
-        "date": "2026-09-24T14:33:06.000Z",
-        "snippet": "Gut einen Monat vor der Parlamentswahl in Israel hat das Wahlkomitee alle arabischen Parteien ausgeschlossen. Das Oberste Gericht könnte die Entscheidung zwar noch kippen - politische Schäden könnten jedoch bleiben.",
-        "title": "Israelisches Wahlkomitee schließt arabische Parteien von Parlamentswahl aus"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcV9fR1p2YVFpSWhfS0NPMGxsMzdSYi10czd1QmlNaDgzUTVvOHlHZWJwSjZ0dE9UMjEyOHV2ZU1JWlZRTFNNQnc5RlR6WW5raWRCSHc4ZGMwNjBwaFdLNWlDakNsVXNGS2FXRUxkMFlJZmJBc0tGTi1Ibm5YeXJxaC11SWh6UXlxU2xwUnZqalNLckNRdk9XVUZ3Z3cyU3Q2eW1QTjVXd2I?oc=5",
-        "date": "2026-09-24T14:28:12.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcV9fR1p2YVFpSWhfS0NPMGxsMzdSYi10czd1QmlNaDgzUTVvOHlHZWJwSjZ0dE9UMjEyOHV2ZU1JWlZRTFNNQnc5RlR6WW5raWRCSHc4ZGMwNjBwaFdLNWlDakNsVXNGS2FXRUxkMFlJZmJBc0tGTi1Ibm5YeXJxaC11SWh6UXlxU2xwUnZqalNLckNRdk9XVUZ3Z3cyU3Q2eW1QTjVXd2I?oc=5\" target=\"_blank\">Parlamentswahl in Israel: Israels Wahlkomitee schließt arabische Parteien bei Parlamentswahl aus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG9nME14LU5rRDcxbGFmVl9pdzJGbno1b3JuLUp0d3BwR2UwNnZ4bEF5cFVKQm1rSzdlSU5LYlV5V0pBTmNSR2xPRnJJVG5YOXhTVmVPYXJSc3QxMjZRN2h2bUt1eDZQX0lFT2tHM2VURWlIeFFXN0Z6Tm5YbFZKd0VkYkF3TUg4",
-        "title": "Parlamentswahl in Israel: Israels Wahlkomitee schließt arabische Parteien bei Parlamentswahl aus - DIE ZEIT"
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/benjamin-netanjahu-bei-un-rede-diplomaten-verlassen-den-saal-accg-201260900.html",
+        "date": "2026-09-25T04:34:37.000Z",
+        "snippet": "Israels Ministerpräsident Netanjahu schlägt in New York viel Kritik entgegen. Vor den UN verteidigt er seinen Kurs – und teilt heftig aus. Den Bürgermeister von New York nennt er einen Antisemiten.",
+        "title": "Proteste: Eklat bei Netanjahus UN-Rede – Diplomaten verlassen den Saal"
       }
     ],
-    "title": "Israel - Wahlkomitee schließt arabische Parteien aus",
-    "summary": "Israel - Wahlkomitee schließt arabische Parteien aus Das Zentrale Wahlkomitee in Israel hat gut einen Monat vor der Parlamentswahl die größten Parteien der arabischen Minderheit ausgeschlossen.\nIsraelisches Wahlkomitee schließt arabische Parteien von Parlamentswahl aus Gut einen Monat vor der Parlamentswahl in Israel hat das Wahlkomitee alle arabischen Parteien ausgeschlossen. Das Oberste Gericht könnte die Entscheidung zwar noch kippen - politische Schäden könnten jedoch bleiben.\nParlamentswahl in Israel: Israels Wahlkomitee schließt arabische Parteien bei Parlamentswahl aus - DIE ZEIT <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcV9fR1p2YVFpSWhfS0NPMGxsMzdSYi10czd1QmlNaDgzUTVvOHlHZWJwSjZ0dE9UMjEyOHV2ZU1JWlZRTFNNQnc5RlR6WW5raWRCSHc4ZGMwNjBwaFdLNWlDakNsVXNGS2FXRUxkMFlJZmJBc0tGTi1Ibm5YeXJxaC11SWh6UXlxU2xwUnZqalNLckNRdk9XVUZ3Z3cyU3Q2eW1QTjVXd2I?oc=5\" target=\"_blank\">Parlamentswahl in Israel: Israels Wahlkomitee schließt arabische Parteien bei Parlamentswahl aus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG9nME14LU5rRDcxbGFmVl9pdzJGbno1b3JuLUp0d3BwR2UwNnZ4bEF5cFVKQm1rSzdlSU5LYlV5V0pBTmNSR2xPRnJJVG5YOXhTVmVPYXJSc3QxMjZRN2h2bUt1eDZQX0lFT2tHM2VURWlIeFFXN0Z6Tm5YbFZKd0VkYkF3TUg4"
+    "title": "UNO-Vollversammlung - Zahlreiche Diplomaten verlassen bei Netanjahus Rede den Saal",
+    "summary": "UNO-Vollversammlung - Zahlreiche Diplomaten verlassen bei Netanjahus Rede den Saal Der israelische Ministerpräsident Netanjahu hat bei einer Rede vor der UNO-Vollversammlung den New Yorker Bürgermeister, westliche Regierungschefs sowie Katar und die Türkei scharf angegriffen.\nProteste: Eklat bei Netanjahus UN-Rede – Diplomaten verlassen den Saal Israels Ministerpräsident Netanjahu schlägt in New York viel Kritik entgegen. Vor den UN verteidigt er seinen Kurs – und teilt heftig aus. Den Bürgermeister von New York nennt er einen Antisemiten."
   },
   {
     "id": "story-148",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "SN",
+    "date": "2026-09-25T07:48:15.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
+        "date": "2026-09-25T07:48:15.000Z",
+        "snippet": "In Heidenau sollen keine Stolpersteine mehr zur Erinnerung an Opfer des NS-Regimes verlegt werden. Der Stadtrat folgte damit einem gemeinsamen Antrag von AfD- und CDU.",
+        "title": "Nach Antrag von CDU und AfD: Keine neuen Stolpersteine in Heidenau"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/stolpersteine-heidenau-cdu-afd-ablehnung-plan-100.html",
+        "date": "2026-09-25T06:11:00.000Z",
+        "snippet": "Gedenken an die Opfer der Nazi-Herrschaft ja, aber nicht mehr mit Stolpersteinen: Im sächsischen Heidenau hat der Stadtrat einen entsprechenden Antrag von CDU und AfD gebilligt.",
+        "title": "Heidenau in Sachsen: Keine neuen Stolpersteine"
+      }
+    ],
+    "title": "Nach Antrag von CDU und AfD: Keine neuen Stolpersteine in Heidenau",
+    "summary": "Nach Antrag von CDU und AfD: Keine neuen Stolpersteine in Heidenau In Heidenau sollen keine Stolpersteine mehr zur Erinnerung an Opfer des NS-Regimes verlegt werden. Der Stadtrat folgte damit einem gemeinsamen Antrag von AfD- und CDU.\nHeidenau in Sachsen: Keine neuen Stolpersteine Gedenken an die Opfer der Nazi-Herrschaft ja, aber nicht mehr mit Stolpersteinen: Im sächsischen Heidenau hat der Stadtrat einen entsprechenden Antrag von CDU und AfD gebilligt."
+  },
+  {
+    "id": "story-180",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T07:37:00.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/sport/fussball/fussball_nationalmannschaft/Havertz-und-Musiala-sind-wahrscheinlich-raus-id31346548.html",
+        "date": "2026-09-25T07:37:00.000Z",
+        "snippet": "Jürgen Klopps Debüt als Bundestrainer endet mit einem Remis - und zwei verletzten Profis. Für sein zweites Spiel muss Klopp wohl auf Kai Havertz und Jamal Musiala verzichten. Dafür dürften zwei andere Offensivspieler früher als geplant zum Team stoßen.",
+        "title": "Zwei verletzte Stars: Havertz und Musiala sind \"wahrscheinlich raus\""
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-dfb-team-nations-league-verletzung-kai-havertz-jamal-musiala-100.html",
+        "date": "2026-09-24T22:06:00.000Z",
+        "snippet": "Wermutstropfen nach dem Remis gegen die Niederlande. Bundestrainer Klopp muss wohl auf Kai Havertz und Jamal Musiala verzichten.",
+        "title": "DFB-Team: Musiala und Havertz \"wahrscheinlich raus\""
+      }
+    ],
+    "title": "Zwei verletzte Stars: Havertz und Musiala sind \"wahrscheinlich raus\"",
+    "summary": "Zwei verletzte Stars: Havertz und Musiala sind \"wahrscheinlich raus\" Jürgen Klopps Debüt als Bundestrainer endet mit einem Remis - und zwei verletzten Profis. Für sein zweites Spiel muss Klopp wohl auf Kai Havertz und Jamal Musiala verzichten. Dafür dürften zwei andere Offensivspieler früher als geplant zum Team stoßen.\nDFB-Team: Musiala und Havertz \"wahrscheinlich raus\" Wermutstropfen nach dem Remis gegen die Niederlande. Bundestrainer Klopp muss wohl auf Kai Havertz und Jamal Musiala verzichten."
+  },
+  {
+    "id": "story-193",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-24T16:51:00.000Z",
+    "date": "2026-09-25T07:30:02.000Z",
     "sources": [
       {
-        "source": "stern",
-        "url": "https://www.stern.de/politik/deutschland/statt-sachsen-anhalt--rheinland-pfalz-behaelt-vorsitz-der-mpk-38304692.html",
-        "date": "2026-09-24T16:51:00.000Z",
-        "snippet": "Eigentlich hätte Sachsen-Anhalt ab Oktober den Vorsitz der Ministerpräsidentenkonferenz übernommen. Doch wegen der unklaren Regierungsbildung bleibt Rheinland-Pfalz an der Spitze.",
-        "title": "Nach AfD-Erfolg: Statt Sachsen-Anhalt: Rheinland-Pfalz behält Vorsitz der MPK"
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+        "date": "2026-09-25T07:30:02.000Z",
+        "snippet": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt aus…",
+        "title": "So schnell soll der Tankrabatt kommen"
       },
       {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+        "date": "2026-09-25T07:27:57.000Z",
+        "snippet": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
+        "title": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen"
+      }
+    ],
+    "title": "So schnell soll der Tankrabatt kommen",
+    "summary": "So schnell soll der Tankrabatt kommen Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt aus…\nEntlastung im Bundestag: So schnell soll der Tankrabatt kommen Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch geplant ist."
+  },
+  {
+    "id": "story-212",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T07:17:18.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ab60bb5a8b3f6fdb1edaaea/umfrage-afd-baut-vorsprung-vor-union-aus-mehrheit-erwartet-vorzeitiges-ende-von-merz-kanzlerschaft.html",
+        "date": "2026-09-25T07:17:18.000Z",
+        "snippet": "Die AfD erreicht in der ZDF-Umfrage 28 Prozent und liegt sieben Punkte vor der Union. 79 Prozent bewerten die Arbeit von Bundeskanzler Friedrich Merz als eher schlecht.",
+        "title": "AfD baut Vorsprung vor Union aus – Mehrheit erwartet vorzeitiges Ende von Merz’ Kanzlerschaft"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/politbarometer-kanzler-merz-unzufriedenheit-projektion-100.html",
+        "date": "2026-09-25T06:15:00.000Z",
+        "snippet": "Rund zwei Drittel der Befragten erwarten laut ZDF-Politbarometer ein vorzeitiges Ende von Merz&apos; Kanzlerschaft. In der Projektion baut die AfD ihren Vorsprung auf die Union aus.",
+        "title": "Mehrheit erwartet vorzeitiges Ende der Kanzlerschaft von Merz"
+      }
+    ],
+    "title": "AfD baut Vorsprung vor Union aus – Mehrheit erwartet vorzeitiges Ende von Merz’ Kanzlerschaft",
+    "summary": "AfD baut Vorsprung vor Union aus – Mehrheit erwartet vorzeitiges Ende von Merz’ Kanzlerschaft Die AfD erreicht in der ZDF-Umfrage 28 Prozent und liegt sieben Punkte vor der Union. 79 Prozent bewerten die Arbeit von Bundeskanzler Friedrich Merz als eher schlecht.\nMehrheit erwartet vorzeitiges Ende der Kanzlerschaft von Merz Rund zwei Drittel der Befragten erwarten laut ZDF-Politbarometer ein vorzeitiges Ende von Merz&apos; Kanzlerschaft. In der Projektion baut die AfD ihren Vorsprung auf die Union aus."
+  },
+  {
+    "id": "story-237",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-09-25T07:02:45.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5",
+        "date": "2026-09-25T07:02:45.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5\" target=\"_blank\">Nepal’s leader labels devastating flood a ‘warning to the world’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+        "title": "Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+        "date": "2026-09-25T06:56:51.000Z",
+        "snippet": "Prime Minister Balendra Shah says world leaders must act on climate change.",
+        "title": "Nepal’s leader labels devastating flood a ‘warning to the world’"
+      }
+    ],
+    "title": "Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera",
+    "summary": "Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera <a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5\" target=\"_blank\">Nepal’s leader labels devastating flood a ‘warning to the world’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>\nNepal’s leader labels devastating flood a ‘warning to the world’ Prime Minister Balendra Shah says world leaders must act on climate change."
+  },
+  {
+    "id": "story-266",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T06:50:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/frankreich-saudi-arabien-hafen-oel-schutz-100.html",
+        "date": "2026-09-25T06:50:00.000Z",
+        "snippet": "Frankreich will helfen, ein Ölterminal in der Hafenstadt Yanbu in Saudi-Arabien zu schützen. Präsident Macron kündigte die Entsendung von Soldaten und militärischen Systemen an.",
+        "title": "Macron: Werden wichtigen Ölhafen in Saudi-Arabien schützen"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
+        "date": "2026-09-25T03:44:09.000Z",
+        "snippet": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron.",
+        "title": "Macron will Ölhafen in Saudi-Arabien militärisch schützen"
+      }
+    ],
+    "title": "Macron: Werden wichtigen Ölhafen in Saudi-Arabien schützen",
+    "summary": "Macron: Werden wichtigen Ölhafen in Saudi-Arabien schützen Frankreich will helfen, ein Ölterminal in der Hafenstadt Yanbu in Saudi-Arabien zu schützen. Präsident Macron kündigte die Entsendung von Soldaten und militärischen Systemen an.\nMacron will Ölhafen in Saudi-Arabien militärisch schützen Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron."
+  },
+  {
+    "id": "story-336",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T06:11:07.000Z",
+    "sources": [
+      {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjFzNXdFMV9NQk1ubmtXbVNDY2trcENNNmlsSXJQWXJvNVFLMVVmMzdpMnYyWTFYenJld1VlQUpXVENTa3dYN0hQUmxwLTdUdktYZWN2enRnREREUDRQLWtzeVNtb1ZnSEdhMW56ZTBDN0lvck5Tc0NhakthUnNyX3c4QlVBVWx6Zlk3N281dTJuRXlEZF9Fc2VWM2ZqU0VtNUpMWnNoZ2RZNkpqd1E?oc=5",
-        "date": "2026-09-24T16:25:13.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjFzNXdFMV9NQk1ubmtXbVNDY2trcENNNmlsSXJQWXJvNVFLMVVmMzdpMnYyWTFYenJld1VlQUpXVENTa3dYN0hQUmxwLTdUdktYZWN2enRnREREUDRQLWtzeVNtb1ZnSEdhMW56ZTBDN0lvck5Tc0NhakthUnNyX3c4QlVBVWx6Zlk3N281dTJuRXlEZF9Fc2VWM2ZqU0VtNUpMWnNoZ2RZNkpqd1E?oc=5\" target=\"_blank\">Sachsen-Anhalt verzichtet: Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbV9lb3otdjJCMmJJNVZZUXVXZWpVVFJFRnhxYW5GbjJadmZWZmdaWVFZWjJudXU1Zk1ycUpGd2lEZ2M5dFppUlJqNTY2bWRFZzBRVTcyMmFDWThtTVJnOFpDQ256YklLYUdEUEsybjdNR1BCbEVXc3ludXB0ekVxQndHUjhFdGo",
-        "title": "Sachsen-Anhalt verzichtet: Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz - n-tv.de"
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTh2UWNmZmh0czhDaHlUZ1JMU3BHTEFXZ1owRmVRMEI1QnNuaTZLWjFhTU5CUTlqTDVZa2FPS2k3U1BjOHVkeEdaWnhWYm5vclktbldkWWRlSFRpcmRxa0lib2xhTUZDZUNsdGU5MjhvcmFsck8xaHJuUVZ5TWtEcHdWbmt3NmV4Sk5kUFZPRkxxUQ?oc=5",
+        "date": "2026-09-25T06:11:07.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTh2UWNmZmh0czhDaHlUZ1JMU3BHTEFXZ1owRmVRMEI1QnNuaTZLWjFhTU5CUTlqTDVZa2FPS2k3U1BjOHVkeEdaWnhWYm5vclktbldkWWRlSFRpcmRxa0lib2xhTUZDZUNsdGU5MjhvcmFsck8xaHJuUVZ5TWtEcHdWbmt3NmV4Sk5kUFZPRkxxUQ?oc=5\" target=\"_blank\">\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXBnbDA0SXY3di1ETVlrQ0dDQ3lMUExzVWd0ZXVhNTN2aVUyNndJVEY0c3BEMDdRRzR0VG9xdWN4MzJQM2hMTW9UWjhXTEU3c2ZXdFFRWVU0THM5dW9zRmJlZm1QQ3NKTFI2aTdaS0RSWllDODhPNFh0dFczTDhhNmZLWGdHUk94VXdDQmd6bEZFbkR1M1JYdENUSXItRWh5RXlrY0lHaVlSQzJ3VjVi",
+        "title": "\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild - n-tv.de"
       },
       {
         "source": "ntv",
-        "url": "https://www.n-tv.de/politik/Rheinland-Pfalz-behaelt-Vorsitz-der-Ministerpraesidentenkonferenz-id31345181.html",
-        "date": "2026-09-24T16:25:13.000Z",
-        "snippet": "Eigentlich sollte Sachsen-Anhalt im Oktober den Vorsitz der Ministerpräsidentenkonferenz übernehmen. Nach dem AfD-Wahlerfolg zieht Ministerpräsident Sven Schulze jedoch zurück. Die Länderchefs einigen sich einstimmig auf eine ungewöhnliche Lösung.",
-        "title": "Sachsen-Anhalt verzichtet: Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz"
+        "url": "https://www.n-tv.de/politik/Ottawa-nimmt-Trumps-Namen-von-Strassenschild-id31346533.html",
+        "date": "2026-09-25T06:11:07.000Z",
+        "snippet": "Kanada kontert die Umbenennungspläne des US-Präsidenten: Der Stadtrat in der Hauptstadt Ottawa votiert einstimmig für einen neuen Namen für die Trump Avenue.",
+        "title": "\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild"
       }
     ],
-    "title": "Nach AfD-Erfolg: Statt Sachsen-Anhalt: Rheinland-Pfalz behält Vorsitz der MPK",
-    "summary": "Nach AfD-Erfolg: Statt Sachsen-Anhalt: Rheinland-Pfalz behält Vorsitz der MPK Eigentlich hätte Sachsen-Anhalt ab Oktober den Vorsitz der Ministerpräsidentenkonferenz übernommen. Doch wegen der unklaren Regierungsbildung bleibt Rheinland-Pfalz an der Spitze.\nSachsen-Anhalt verzichtet: Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjFzNXdFMV9NQk1ubmtXbVNDY2trcENNNmlsSXJQWXJvNVFLMVVmMzdpMnYyWTFYenJld1VlQUpXVENTa3dYN0hQUmxwLTdUdktYZWN2enRnREREUDRQLWtzeVNtb1ZnSEdhMW56ZTBDN0lvck5Tc0NhakthUnNyX3c4QlVBVWx6Zlk3N281dTJuRXlEZF9Fc2VWM2ZqU0VtNUpMWnNoZ2RZNkpqd1E?oc=5\" target=\"_blank\">Sachsen-Anhalt verzichtet: Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbV9lb3otdjJCMmJJNVZZUXVXZWpVVFJFRnhxYW5GbjJadmZWZmdaWVFZWjJudXU1Zk1ycUpGd2lEZ2M5dFppUlJqNTY2bWRFZzBRVTcyMmFDWThtTVJnOFpDQ256YklLYUdEUEsybjdNR1BCbEVXc3ludXB0ekVxQndHUjhFdGo\nSachsen-Anhalt verzichtet: Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz Eigentlich sollte Sachsen-Anhalt im Oktober den Vorsitz der Ministerpräsidentenkonferenz übernehmen. Nach dem AfD-Wahlerfolg zieht Ministerpräsident Sven Schulze jedoch zurück. Die Länderchefs einigen sich einstimmig auf eine ungewöhnliche Lösung."
+    "title": "\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild - n-tv.de",
+    "summary": "\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTh2UWNmZmh0czhDaHlUZ1JMU3BHTEFXZ1owRmVRMEI1QnNuaTZLWjFhTU5CUTlqTDVZa2FPS2k3U1BjOHVkeEdaWnhWYm5vclktbldkWWRlSFRpcmRxa0lib2xhTUZDZUNsdGU5MjhvcmFsck8xaHJuUVZ5TWtEcHdWbmt3NmV4Sk5kUFZPRkxxUQ?oc=5\" target=\"_blank\">\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXBnbDA0SXY3di1ETVlrQ0dDQ3lMUExzVWd0ZXVhNTN2aVUyNndJVEY0c3BEMDdRRzR0VG9xdWN4MzJQM2hMTW9UWjhXTEU3c2ZXdFFRWVU0THM5dW9zRmJlZm1QQ3NKTFI2aTdaS0RSWllDODhPNFh0dFczTDhhNmZLWGdHUk94VXdDQmd6bEZFbkR1M1JYdENUSXItRWh5RXlrY0lHaVlSQzJ3VjVi\n\"Feindseligkeit gegen Kanada\": Ottawa nimmt Trumps Namen von Straßenschild Kanada kontert die Umbenennungspläne des US-Präsidenten: Der Stadtrat in der Hauptstadt Ottawa votiert einstimmig für einen neuen Namen für die Trump Avenue."
   },
   {
-    "id": "story-20",
+    "id": "story-364",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "RP",
+    "date": "2026-09-25T05:59:06.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/rheinland-pfalz-leitet-ministerpraesidentenkonferenz-weiter-sachsen-anhalt-verzichtet-100.html",
+        "date": "2026-09-25T05:59:06.000Z",
+        "snippet": "Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen.",
+        "title": "Rheinland-Pfalz leitet weiter die Ministerpräsidentenkonferenz"
+      },
+      {
+        "source": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-rheinland-pfalz-leitet-fuer-weiteres-jahr-die-ministerpraesidentenkonferenz-100.html",
+        "date": "2026-09-24T18:54:00.000Z",
+        "snippet": "Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen.",
+        "title": "Rheinland-Pfalz leitet für weiteres Jahr die Ministerpräsidentenkonferenz"
+      }
+    ],
+    "title": "Rheinland-Pfalz leitet weiter die Ministerpräsidentenkonferenz",
+    "summary": "Rheinland-Pfalz leitet weiter die Ministerpräsidentenkonferenz Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen.\nRheinland-Pfalz leitet für weiteres Jahr die Ministerpräsidentenkonferenz Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen."
+  },
+  {
+    "id": "story-381",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T05:46:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/donald-trump-empfaeng-xi-jinping-was-der-gipfel-im-weissen-haus-veraendert-a-acc50516-a770-4094-8330-236661e5ba82#ref=rss",
+        "date": "2026-09-25T05:46:00.000Z",
+        "snippet": "Symbolik schlägt Substanz – was vor vier Monaten in Peking galt, gilt auch beim Treffen von Xi Jinping und Donald Trump in Washington. Nur dass der chinesische Staatschef diesmal mehr davon hat als der US-Präsident.",
+        "title": "Donald Trump empfäng Xi Jinping: Was der Gipfel im Weißen Haus verändert"
+      },
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101451634/donald-trump-empfaengt-xi-jinping-im-weissen-haus.html",
+        "date": "2026-09-24T22:07:04.000Z",
+        "snippet": "Viel gegenseitiges Lob, bislang keine konkreten Ergebnisse: Beim Treffen von Xi Jinping und Donald Trump ging es eher um Höflichkeiten.",
+        "title": "Donald Trump empfängt Xi Jinping im Weißen Haus"
+      }
+    ],
+    "title": "Donald Trump empfäng Xi Jinping: Was der Gipfel im Weißen Haus verändert",
+    "summary": "Donald Trump empfäng Xi Jinping: Was der Gipfel im Weißen Haus verändert Symbolik schlägt Substanz – was vor vier Monaten in Peking galt, gilt auch beim Treffen von Xi Jinping und Donald Trump in Washington. Nur dass der chinesische Staatschef diesmal mehr davon hat als der US-Präsident.\nDonald Trump empfängt Xi Jinping im Weißen Haus Viel gegenseitiges Lob, bislang keine konkreten Ergebnisse: Beim Treffen von Xi Jinping und Donald Trump ging es eher um Höflichkeiten."
+  },
+  {
+    "id": "story-385",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T05:44:22.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/kultur/article6ab601e218772248192d451c/zdf-kuendigt-nach-boehmermann-aus-neue-satireshow-mit-florian-schroeder-an.html",
+        "date": "2026-09-25T05:44:22.000Z",
+        "snippet": "Nach dem Ende von Jan Böhmermanns Sendung stellt sich das ZDF neu auf: Florian Schroeder empfängt im „Journal Deluxe“ Gäste. Der Kabarettist verspricht eine neue „Satirefarbe“ und neue Stimmen.",
+        "title": "ZDF kündigt nach Böhmermann-Aus neue Satireshow „Journal Deluxe“ an"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/leute/Journal-Deluxe-ZDF-kuendigt-Satire-Show-mit-Florian-Schroeder-an-id31345881.html",
+        "date": "2026-09-24T23:23:55.000Z",
+        "snippet": "Im November geht Kabarettist Florian Schroeder mit einem neuen Satire-Format im ZDF auf Sendung. Ohne das Aus für Jan Böhmermanns Show direkt zu thematisieren, verspricht der Sender eine neue Art von Satire, liberal und ohne Scheuklappen.",
+        "title": "Nach Böhmermann-Aus : \"Journal Deluxe\": ZDF kündigt Satire-Show mit Florian Schroeder an"
+      }
+    ],
+    "title": "ZDF kündigt nach Böhmermann-Aus neue Satireshow „Journal Deluxe“ an",
+    "summary": "ZDF kündigt nach Böhmermann-Aus neue Satireshow „Journal Deluxe“ an Nach dem Ende von Jan Böhmermanns Sendung stellt sich das ZDF neu auf: Florian Schroeder empfängt im „Journal Deluxe“ Gäste. Der Kabarettist verspricht eine neue „Satirefarbe“ und neue Stimmen.\nNach Böhmermann-Aus : \"Journal Deluxe\": ZDF kündigt Satire-Show mit Florian Schroeder an Im November geht Kabarettist Florian Schroeder mit einem neuen Satire-Format im ZDF auf Sendung. Ohne das Aus für Jan Böhmermanns Show direkt zu thematisieren, verspricht der Sender eine neue Art von Satire, liberal und ohne Scheuklappen."
+  },
+  {
+    "id": "story-387",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "HE",
+    "date": "2026-09-25T05:44:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/a66-bei-wiesbaden-88-jaehriger-faehrt-mit-elektro-rollstuhl-auf-die-autobahn-a-2ed187a4-d240-4b6d-9f97-332040621392#ref=rss",
+        "date": "2026-09-25T05:44:00.000Z",
+        "snippet": "In Hessen ist ein Rentner mit seinem Elektro-Rollstuhl auf dem Standstreifen der A66 unterwegs gewesen. Ein aufmerksamer Autofahrer kam dem Mann zu Hilfe.",
+        "title": "A66 bei Wiesbaden: 88-Jähriger fährt mit Elektro-Rollstuhl auf die Autobahn"
+      },
+      {
+        "source": "Tagesschau Regional Hessen",
+        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-mann-faehrt-mit-elektrorollstuhl-in-wiesbaden-auf-die-a66-100.html",
+        "date": "2026-09-25T04:22:31.000Z",
+        "snippet": "Ein 88 Jahre alter Mann ist mit seinem elektrischen Rollstuhl im wahren Wortsinn falsch abgebogen: Er landete auf der A66. Bei der Polizei gingen zahlreiche Notrufe ein.",
+        "title": "A66 bei Wiesbaden: 88-Jähriger fährt mit Elektrorollstuhl auf Autobahn"
+      }
+    ],
+    "title": "A66 bei Wiesbaden: 88-Jähriger fährt mit Elektro-Rollstuhl auf die Autobahn",
+    "summary": "A66 bei Wiesbaden: 88-Jähriger fährt mit Elektro-Rollstuhl auf die Autobahn In Hessen ist ein Rentner mit seinem Elektro-Rollstuhl auf dem Standstreifen der A66 unterwegs gewesen. Ein aufmerksamer Autofahrer kam dem Mann zu Hilfe.\nA66 bei Wiesbaden: 88-Jähriger fährt mit Elektrorollstuhl auf Autobahn Ein 88 Jahre alter Mann ist mit seinem elektrischen Rollstuhl im wahren Wortsinn falsch abgebogen: Er landete auf der A66. Bei der Polizei gingen zahlreiche Notrufe ein."
+  },
+  {
+    "id": "story-458",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T04:50:46.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5",
+        "date": "2026-09-25T04:50:46.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5\" target=\"_blank\">Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRXhPdy1KUnBnQnFwUjhWTjNidmdiOFVodk5OU2U3Y2VKUFRzMHNoZWRZWnpKWGtIMGVqYW1GVm03WUN5dVBOMi1EbVZyZ1dYcXM1OVY0TDh5cVIwNmxyN1AwX1pqWTNSQVBueDFud001UEIwSi1acUtJdUlEQXZ0dHdlRWJrM2RCbTRhbVpCQ05zcUpHZGZOeFVBMGNaalRUME1",
+        "title": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/AfD-sorgt-fuer-ersten-Streit-im-Magdeburger-Landtag-id31346315.html",
+        "date": "2026-09-25T04:50:46.000Z",
+        "snippet": "Im Landesparlament von Sachsen-Anhalt kommt es nach dem AfD-Wahlsieg zu ersten Konflikten. Die Rechtsaußen-Partei setzt auf eine machtvolle Position in den Ausschüssen, um Sitzungen dominieren zu können. Die anderen Parteien wehren sich.",
+        "title": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag"
+      }
+    ],
+    "title": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag - n-tv.de",
+    "summary": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5\" target=\"_blank\">Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRXhPdy1KUnBnQnFwUjhWTjNidmdiOFVodk5OU2U3Y2VKUFRzMHNoZWRZWnpKWGtIMGVqYW1GVm03WUN5dVBOMi1EbVZyZ1dYcXM1OVY0TDh5cVIwNmxyN1AwX1pqWTNSQVBueDFud001UEIwSi1acUtJdUlEQXZ0dHdlRWJrM2RCbTRhbVpCQ05zcUpHZGZOeFVBMGNaalRUME1\nPartei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag Im Landesparlament von Sachsen-Anhalt kommt es nach dem AfD-Wahlsieg zu ersten Konflikten. Die Rechtsaußen-Partei setzt auf eine machtvolle Position in den Ausschüssen, um Sitzungen dominieren zu können. Die anderen Parteien wehren sich."
+  },
+  {
+    "id": "story-460",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T04:45:15.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bauarbeiter-in-berlin-mit-urin-uebergossen-accg-201261215.html",
+        "date": "2026-09-25T04:45:15.000Z",
+        "snippet": "Bauarbeiter werden bei Angriffen in Berlin verletzt und mit Urin übergossen. Rund 200 Polizisten rücken aus. Sie beschlagnahmen auch Schlagwerkzeuge und Schreckschusswaffen.",
+        "title": "Polizei im Großeinsatz: Bauarbeiter bei Angriff in Berlin mit Urin übergossen"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/berlin-bauarbeiter-mit-urin-uebergossen-grosseinsatz-der-polizei-XY3MBSXLSJHCBP2YEHCU6EAOLM.html",
+        "date": "2026-09-24T23:54:30.000Z",
+        "snippet": "Mit rund 200 Einsatzkräften ist die Polizei in einem ehemaligen Hostel in Berlin-Friedrichshain. Was ist der Hintergrund?",
+        "title": "Berlin: Bauarbeiter mit Urin übergossen – Großeinsatz der Polizei"
+      }
+    ],
+    "title": "Polizei im Großeinsatz: Bauarbeiter bei Angriff in Berlin mit Urin übergossen",
+    "summary": "Polizei im Großeinsatz: Bauarbeiter bei Angriff in Berlin mit Urin übergossen Bauarbeiter werden bei Angriffen in Berlin verletzt und mit Urin übergossen. Rund 200 Polizisten rücken aus. Sie beschlagnahmen auch Schlagwerkzeuge und Schreckschusswaffen.\nBerlin: Bauarbeiter mit Urin übergossen – Großeinsatz der Polizei Mit rund 200 Einsatzkräften ist die Polizei in einem ehemaligen Hostel in Berlin-Friedrichshain. Was ist der Hintergrund?"
+  },
+  {
+    "id": "story-492",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-25T03:57:09.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T03:57:09.000Z",
+        "snippet": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96cGI3aDJqa0hXUkhtb3ZCRzRuazhZZGdIb01mMF80VjFITWNsbmlaQ1NRcjg3UkQ3TzVfekZsMmJGZ2VuazZDSldzVnp3RmFJMTE3ZF9PQWVacUE?oc=5",
+        "date": "2026-09-25T03:57:09.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE96cGI3aDJqa0hXUkhtb3ZCRzRuazhZZGdIb01mMF80VjFITWNsbmlaQ1NRcjg3UkQ3TzVfekZsMmJGZ2VuazZDSldzVnp3RmFJMTE3ZF9PQWVacUE?oc=5\" target=\"_blank\">Xi got Trump's red carpet welcome - but not everything he wanted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted - BBC"
+      }
+    ],
+    "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+    "summary": "Xi got Trump's red carpet welcome - but not everything he wanted China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.\nXi got Trump's red carpet welcome - but not everything he wanted - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE96cGI3aDJqa0hXUkhtb3ZCRzRuazhZZGdIb01mMF80VjFITWNsbmlaQ1NRcjg3UkQ3TzVfekZsMmJGZ2VuazZDSldzVnp3RmFJMTE3ZF9PQWVacUE?oc=5\" target=\"_blank\">Xi got Trump's red carpet welcome - but not everything he wanted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-553",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T02:01:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/netanjahu-vereinte-nationen-protest-israel-nahost-100.html",
+        "date": "2026-09-25T02:01:00.000Z",
+        "snippet": "Netanjahu verteidigt vor den UN Israels Vorgehen in Gaza und in Iran. Zahlreiche Diplomaten verlassen noch vor Beginn der Rede den Saal, auch vor dem Gebäude gibt es Proteste.",
+        "title": "Netanjahu verteidigt Kriege - Diplomaten verlassen den Saal"
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
+        "date": "2026-09-24T22:00:04.000Z",
+        "snippet": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahos…",
+        "title": "Diplomaten verlassen Saal bei Netanjahu-Rede"
+      }
+    ],
+    "title": "Netanjahu verteidigt Kriege - Diplomaten verlassen den Saal",
+    "summary": "Netanjahu verteidigt Kriege - Diplomaten verlassen den Saal Netanjahu verteidigt vor den UN Israels Vorgehen in Gaza und in Iran. Zahlreiche Diplomaten verlassen noch vor Beginn der Rede den Saal, auch vor dem Gebäude gibt es Proteste.\nDiplomaten verlassen Saal bei Netanjahu-Rede Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahos…"
+  },
+  {
+    "id": "story-592",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-09-25T00:03:32.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5",
+        "date": "2026-09-25T00:03:32.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5\" target=\"_blank\">At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+        "date": "2026-09-24T23:58:11.000Z",
+        "snippet": "<p>Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade</p><p>Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan.</p><p>At the start of his summit meeting with Donald Trump in the White House, the Chinese president laid out terms for a mutual understanding that he said could steer the two competing superpowers away from future military conflict and on to a road of mutual gain.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/24/",
+        "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict"
+      }
+    ],
+    "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian",
+    "summary": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5\" target=\"_blank\">At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nAt Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict <p>Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade</p><p>Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan.</p><p>At the start of his summit meeting with Donald Trump in the White House, the Chinese president laid out terms for a mutual understanding that he said could steer the two competing superpowers away from future military conflict and on to a road of mutual gain.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/24/"
+  },
+  {
+    "id": "story-598",
+    "topic": "panorama",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-24T23:41:10.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-24T23:41:10.000Z",
+        "snippet": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+        "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5",
+        "date": "2026-09-24T23:41:10.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5\" target=\"_blank\">Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - BBC"
+      }
+    ],
+    "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+    "summary": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.\nAngh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5\" target=\"_blank\">Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-642",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-24T21:57:34.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
+        "date": "2026-09-24T21:57:34.000Z",
+        "snippet": "<p>Country says US must lift sanctions on its oil exports and end the war on all fronts, including in Lebanon</p><p>Iran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, and to start talks on its nuclear program the day after, so long as the US lifts sanctions on Iran’s oil exports in return, ends the war on all fronts – including in Lebanon – and releases some of Iran’s frozen assets.</p><p>The proposal is designed to accelerate the steps first laid down in the memorandum of understanding signed by the US and Iran in June, particularly by helping the talks on Iran’s nuclear program start much more quickly than previously agreed.</p> <a href=\"https://www.",
+        "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmQ2NnEyNFBDamkyLW5SeG80NmkzZElsVzBDZXAxdmJQdlRkdVFIYnlEZ25QMnZHSHA4bEEtTWM5QTVKYzl5SnROc0tKbTRkdHpmaURjRGdmVFpFR3UzUTJWZHJMa1IwVkM4Q1FWaENiS1o5a2RaX0xBT0pJUHJsb2NySUdlUk8zNnA5ZmZoQzV3ZW1yQkppMDk0c2JKVVotWjhRSGZoZW9RRm1rb3Nla19n?oc=5",
+        "date": "2026-09-24T19:13:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmQ2NnEyNFBDamkyLW5SeG80NmkzZElsVzBDZXAxdmJQdlRkdVFIYnlEZ25QMnZHSHA4bEEtTWM5QTVKYzl5SnROc0tKbTRkdHpmaURjRGdmVFpFR3UzUTJWZHJMa1IwVkM4Q1FWaENiS1o5a2RaX0xBT0pJUHJsb2NySUdlUk8zNnA5ZmZoQzV3ZW1yQkppMDk0c2JKVVotWjhRSGZoZW9RRm1rb3Nla19n?oc=5\" target=\"_blank\">Iran awaiting response from Trump on proposal to open strait of Hormuz in six days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days - The Guardian"
+      }
+    ],
+    "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
+    "summary": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days <p>Country says US must lift sanctions on its oil exports and end the war on all fronts, including in Lebanon</p><p>Iran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, and to start talks on its nuclear program the day after, so long as the US lifts sanctions on Iran’s oil exports in return, ends the war on all fronts – including in Lebanon – and releases some of Iran’s frozen assets.</p><p>The proposal is designed to accelerate the steps first laid down in the memorandum of understanding signed by the US and Iran in June, particularly by helping the talks on Iran’s nuclear program start much more quickly than previously agreed.</p> <a href=\"https://www.\nIran awaiting response from Trump on proposal to open strait of Hormuz in six days - The Guardian <a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmQ2NnEyNFBDamkyLW5SeG80NmkzZElsVzBDZXAxdmJQdlRkdVFIYnlEZ25QMnZHSHA4bEEtTWM5QTVKYzl5SnROc0tKbTRkdHpmaURjRGdmVFpFR3UzUTJWZHJMa1IwVkM4Q1FWaENiS1o5a2RaX0xBT0pJUHJsb2NySUdlUk8zNnA5ZmZoQzV3ZW1yQkppMDk0c2JKVVotWjhRSGZoZW9RRm1rb3Nla19n?oc=5\" target=\"_blank\">Iran awaiting response from Trump on proposal to open strait of Hormuz in six days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-724",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "RP",
+    "date": "2026-09-24T19:25:25.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/rlp-abgeordneten-gesetz-vorbild-bundestag-kloeckner-100.html",
+        "date": "2026-09-24T19:25:25.000Z",
+        "snippet": "Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.",
+        "title": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter"
+      },
+      {
+        "source": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-nach-rlp-auch-bald-im-bund-kein-geld-fuer-extremistische-parlaments-mitarbeiter-100.html",
+        "date": "2026-09-24T19:25:00.000Z",
+        "snippet": "Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.",
+        "title": "Nach RLP auch bald im Bund? Kein Geld für extremistische Parlaments-Mitarbeiter"
+      }
+    ],
+    "title": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter",
+    "summary": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.\nNach RLP auch bald im Bund? Kein Geld für extremistische Parlaments-Mitarbeiter Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben."
+  },
+  {
+    "id": "story-747",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-09-24T19:05:56.000Z",
+    "sources": [
+      {
+        "source": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/simone-oldenburg-verzichtet-auf-ministeramt-in-mv,nordmagazin-14462.html",
+        "date": "2026-09-24T19:05:56.000Z",
+        "snippet": "Die 57-Jährige nannte familiäre Gründe für den Schritt. Ihr Mann sei schwer erkrankt und sie wolle bei seiner Genesung an seiner Seite sein.",
+        "title": "Simone Oldenburg verzichtet auf Ministeramt in MV"
+      },
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/barrierefreie_angebote/leichte_sprache/simone-oldenburg-verzichtet-auf-ministeramt,oldenburg-258.html",
+        "date": "2026-09-24T13:00:00.000Z",
+        "snippet": "Simone Oldenburg von der Partei Die Linke will keine Ministerin mehr sein. Sie will aber im Schweriner Landtag bleiben.",
+        "title": "Simone Oldenburg verzichtet auf Minister·amt"
+      }
+    ],
+    "title": "Simone Oldenburg verzichtet auf Ministeramt in MV",
+    "summary": "Simone Oldenburg verzichtet auf Ministeramt in MV Die 57-Jährige nannte familiäre Gründe für den Schritt. Ihr Mann sei schwer erkrankt und sie wolle bei seiner Genesung an seiner Seite sein.\nSimone Oldenburg verzichtet auf Minister·amt Simone Oldenburg von der Partei Die Linke will keine Ministerin mehr sein. Sie will aber im Schweriner Landtag bleiben."
+  },
+  {
+    "id": "story-776",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-09-24T18:36:01.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/binnen-drei-monaten-5000-moegliche-verstoesse-gegen-12-uhr-tankregel,tankverstoesse-100.html",
+        "date": "2026-09-24T18:36:01.000Z",
+        "snippet": "Niedersachsen will Bußgelder gegen die 577 Tankstellen im Bundesland verhängen. Noch werden die Fälle geprüft.",
+        "title": "Binnen drei Monaten: 5.000 mögliche Verstöße gegen 12-Uhr-Tankregel"
+      },
+      {
+        "source": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/5000-moegliche-verstoesse-gegen-12-uhr-tankregel-in-drei-monaten,hallonds-10464.html",
+        "date": "2026-09-24T18:35:14.000Z",
+        "snippet": "Niedersachsen will Bußgelder gegen knapp 600 Tankstellen im Bundesland verhängen. Zunächst werden die Fälle geprüft.",
+        "title": "5.000 mögliche Verstöße gegen 12-Uhr-Tankregel - in drei Monaten"
+      }
+    ],
+    "title": "Binnen drei Monaten: 5.000 mögliche Verstöße gegen 12-Uhr-Tankregel",
+    "summary": "Binnen drei Monaten: 5.000 mögliche Verstöße gegen 12-Uhr-Tankregel Niedersachsen will Bußgelder gegen die 577 Tankstellen im Bundesland verhängen. Noch werden die Fälle geprüft.\n5.000 mögliche Verstöße gegen 12-Uhr-Tankregel - in drei Monaten Niedersachsen will Bußgelder gegen knapp 600 Tankstellen im Bundesland verhängen. Zunächst werden die Fälle geprüft."
+  },
+  {
+    "id": "story-802",
+    "topic": "panorama",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-24T18:06:40.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-24T18:06:40.000Z",
+        "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5",
+        "date": "2026-09-24T18:06:40.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5\" target=\"_blank\">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack - BBC"
+      }
+    ],
+    "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    "summary": "Why Australia chose the world's biggest political stage to reveal OpenAI hack Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.\nWhy Australia chose the world's biggest political stage to reveal OpenAI hack - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5\" target=\"_blank\">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-844",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -121,164 +625,39 @@
     "summary": "Weißes Haus lässt Reporter wieder zu US-Präsident Trump hatte CNN und andere Medien tagelang ausgesperrt. Auch nach einem Richterspruch verweigerte das Weiße Haus Reportern zunächst den Zugang. Jetzt gab die Trump-Re…\nNach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu US-Präsident Trump hatte CNN und andere Medien tagelang ausgesperrt. Auch nach einem Richterspruch verweigerte das Weiße Haus Reportern zunächst den Zugang. Jetzt gab die Trump-Regierung nach."
   },
   {
-    "id": "story-28",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "RP",
-    "date": "2026-09-24T17:27:04.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/rheinland-pfalz-leitet-ministerpraesidentenkonferenz-weiter-sachsen-anhalt-verzichtet-100.html",
-        "date": "2026-09-24T17:27:04.000Z",
-        "snippet": "Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen.",
-        "title": "Rheinland-Pfalz leitet weiter die Ministerpräsidentenkonferenz"
-      },
-      {
-        "source": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-rheinland-pfalz-leitet-fuer-weiteres-jahr-die-ministerpraesidentenkonferenz-100.html",
-        "date": "2026-09-24T16:56:13.000Z",
-        "snippet": "Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen.",
-        "title": "Rheinland-Pfalz leitet für weiteres Jahr die Ministerpräsidentenkonferenz"
-      }
-    ],
-    "title": "Rheinland-Pfalz leitet weiter die Ministerpräsidentenkonferenz",
-    "summary": "Rheinland-Pfalz leitet weiter die Ministerpräsidentenkonferenz Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen.\nRheinland-Pfalz leitet für weiteres Jahr die Ministerpräsidentenkonferenz Rheinland-Pfalz übernimmt den Vorsitz der Regierungschefinnen und -chefs der Länder für ein weiteres Jahr. Turnusmäßig wäre eigentlich Sachsen-Anhalt zum 1. Oktober dran gewesen."
-  },
-  {
-    "id": "story-63",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T17:14:29.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/openai-agent-hackt-australisches-regierungsportal-100.html",
-        "date": "2026-09-24T17:14:29.000Z",
-        "snippet": "Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.",
-        "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
-        "date": "2026-09-24T07:12:43.000Z",
-        "snippet": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
-        "title": "KI-Agent hackt australisches Regierungsportal"
-      }
-    ],
-    "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal",
-    "summary": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.\nKI-Agent hackt australisches Regierungsportal Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt."
-  },
-  {
-    "id": "story-99",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T17:06:58.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/weisses-haus-reporter-von-cnn-politico-und-ms-now-haben-wieder-zugang-FZ6FN5DWSJHDJJSA2MFSLLE2WI.html",
-        "date": "2026-09-24T17:06:58.000Z",
-        "snippet": "Trump geht gegen führende US-Medien vor und verbannt sie aus dem Weißen Haus. Kurz darauf untersagt dies ein Gericht – zumindest vorerst. Trotzdem gibt es zunächst Probleme am Eingang.",
-        "title": "Weißes Haus: Reporter von CNN, „Politico“ und MS Now haben wieder Zugang"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-zugang-li.3530667",
-        "date": "2026-09-24T17:06:00.000Z",
-        "snippet": "Die Anordnung eines Richters hatte in der Nacht zuvor den Ausschluss von CNN, MS Now und „Politico“ als „wahrscheinlich verfassungswidrig“ eingestuft. Am Morgen war einigen Reportern der Zugang noch verweigert worden.",
-        "title": "USA-Newsblog: Reporter haben wieder Zugang zum Weißen Haus"
-      }
-    ],
-    "title": "Weißes Haus: Reporter von CNN, „Politico“ und MS Now haben wieder Zugang",
-    "summary": "Weißes Haus: Reporter von CNN, „Politico“ und MS Now haben wieder Zugang Trump geht gegen führende US-Medien vor und verbannt sie aus dem Weißen Haus. Kurz darauf untersagt dies ein Gericht – zumindest vorerst. Trotzdem gibt es zunächst Probleme am Eingang.\nUSA-Newsblog: Reporter haben wieder Zugang zum Weißen Haus Die Anordnung eines Richters hatte in der Nacht zuvor den Ausschluss von CNN, MS Now und „Politico“ als „wahrscheinlich verfassungswidrig“ eingestuft. Am Morgen war einigen Reportern der Zugang noch verweigert worden."
-  },
-  {
-    "id": "story-166",
+    "id": "story-889",
     "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-09-24T16:43:24.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/bayern/augsburg-verhaengt-haushaltssperre,VW9fI0W",
-        "date": "2026-09-24T16:43:24.000Z",
-        "snippet": "Augsburgs Oberbürgermeister Florian Freund zieht die Notbremse: Wegen steigender Kosten muss die Verwaltung jetzt sparen. Was das für Ämter und Bürger bedeutet.",
-        "title": "Augsburg verhängt Haushaltssperre"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/bayern/augsburg-haushaltssperre-freund-li.3553499",
-        "date": "2026-09-24T14:27:35.000Z",
-        "snippet": "Die drittgrößte Stadt Bayerns will nur noch laufende Investitionen bedienen, neue Projekte kann sie damit nicht mehr anstoßen. Die Kassen sind leer, unter anderem wegen stark steigender Personal- und Sozialkosten.",
-        "title": "Finanzprobleme: Augsburg verhängt Haushaltssperre"
-      }
-    ],
-    "title": "Augsburg verhängt Haushaltssperre",
-    "summary": "Augsburg verhängt Haushaltssperre Augsburgs Oberbürgermeister Florian Freund zieht die Notbremse: Wegen steigender Kosten muss die Verwaltung jetzt sparen. Was das für Ämter und Bürger bedeutet.\nFinanzprobleme: Augsburg verhängt Haushaltssperre Die drittgrößte Stadt Bayerns will nur noch laufende Investitionen bedienen, neue Projekte kann sie damit nicht mehr anstoßen. Die Kassen sind leer, unter anderem wegen stark steigender Personal- und Sozialkosten."
-  },
-  {
-    "id": "story-237",
-    "topic": "politik",
-    "country": "INT",
+    "country": "PT",
     "stateHint": "",
-    "date": "2026-09-24T16:22:00.000Z",
+    "date": "2026-09-24T16:33:58.000Z",
     "sources": [
       {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGNmbS1GdklXam8zQVF0N2ZFMTVGa0thQ1BoaTVQUC1SUVk0a0tvVDZnSlFsbTVZWDVlemFWN1B5ZFpqMmpqZzdpRW5jdmZ0X0xBNEN3cGJuLVA0RDctMHZQRzV0UG1zdVpLRERuX2lGNVBRaWt3MlZkLWNCMFladURIRWp0ZlJRSHRXcjBlWVJDU3dONGpBOWVIOXo2eEEzcEJFc053UlFTbjBNcXk5aFdFbGxzQ1pjMDVJ?oc=5",
-        "date": "2026-09-24T16:22:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGNmbS1GdklXam8zQVF0N2ZFMTVGa0thQ1BoaTVQUC1SUVk0a0tvVDZnSlFsbTVZWDVlemFWN1B5ZFpqMmpqZzdpRW5jdmZ0X0xBNEN3cGJuLVA0RDctMHZQRzV0UG1zdVpLRERuX2lGNVBRaWt3MlZkLWNCMFladURIRWp0ZlJRSHRXcjBlWVJDU3dONGpBOWVIOXo2eEEzcEJFc053UlFTbjBNcXk5aFdFbGxzQ1pjMDVJ?oc=5\" target=\"_blank\">Russia could attack a Nato country within months, Danish intelligence says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "title": "Russia could attack a Nato country within months, Danish intelligence says - The Guardian"
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHlfQ0dBSGJ5LXJUcWY5Sm9pWnFZS3RaREZzd3NtRXd0WklIcGxFTlQzaHFMTElQWkNUbkNjVXRRSy1zMFVCS18xMkVkVFRfZDltMVJTX0J6eVNoWFJwUXMzbHcxenJrd1k3OEFQcVduSE5iVkxnZmpoeHRJTlc3MWdzVGUxYnZuZDBXazBzVzNFemxodmFoM1ViZUFwMGlXem9SMVc2QW5fSVh3eHFfNw?oc=5",
+        "date": "2026-09-24T16:33:58.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHlfQ0dBSGJ5LXJUcWY5Sm9pWnFZS3RaREZzd3NtRXd0WklIcGxFTlQzaHFMTElQWkNUbkNjVXRRSy1zMFVCS18xMkVkVFRfZDltMVJTX0J6eVNoWFJwUXMzbHcxenJrd1k3OEFQcVduSE5iVkxnZmpoeHRJTlc3MWdzVGUxYnZuZDBXazBzVzNFemxodmFoM1ViZUFwMGlXem9SMVc2QW5fSVh3eHFfNw?oc=5\" target=\"_blank\">Conselho de Finanças Públicas prevê excedente orçamental este ano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmhFejVOdlBONS04M3RMTFNjSkg3VmFDendXT0R4SDFIeVpVT2RRdjVkVENfdy04LVVTRkZTTzU4R3UyZlVIZDUzR3FHcUMzY2Y0T0VSSGNFQzRYNy1DUFlrOXZqYnk2QjNGamNmQXdpRjFYLW9pamJhSVpsQjktTXdGSlJ6bkNJYVh4QWJIazNmT2RCYjFySElkd",
+        "title": "Conselho de Finanças Públicas prevê excedente orçamental este ano - RTP"
       },
       {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
-        "date": "2026-09-24T16:05:44.000Z",
-        "snippet": "<p>Warning comes hours after Poland says fire at Starlink satellite station was ‘act of sabotage’</p><p>Russia could launch a limited military attack against a Nato country in the coming months, Danish intelligence said, in one of the starkest warnings yet by western security services.</p><p>In a report published on Thursday, the Danish defence intelligence service warned of a “low but growing risk” that Russia could launch long-range strikes on Nato infrastructure supporting Ukraine, or carry out a limited incursion into a neighbouring country with a small number of troops, potentially operating without insignia.</p> <a href=\"https://www.theguardian.com/world/2026/sep/24/russia-could-attack",
-        "title": "Russia could attack a Nato country within months, Danish intelligence says"
+        "source": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/conselho-de-financas-publicas-preve-excedente-orcamental-este-ano_n1767508",
+        "date": "2026-09-24T15:37:29.000Z",
+        "snippet": "Entidade liderada por Nazaré da Costa Cabral está também otimista em relação ao crescimento da económica, apontando uma subida de 2,2%.",
+        "title": "Conselho de Finanças Públicas prevê excedente orçamental este ano"
       }
     ],
-    "title": "Russia could attack a Nato country within months, Danish intelligence says - The Guardian",
-    "summary": "Russia could attack a Nato country within months, Danish intelligence says - The Guardian <a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGNmbS1GdklXam8zQVF0N2ZFMTVGa0thQ1BoaTVQUC1SUVk0a0tvVDZnSlFsbTVZWDVlemFWN1B5ZFpqMmpqZzdpRW5jdmZ0X0xBNEN3cGJuLVA0RDctMHZQRzV0UG1zdVpLRERuX2lGNVBRaWt3MlZkLWNCMFladURIRWp0ZlJRSHRXcjBlWVJDU3dONGpBOWVIOXo2eEEzcEJFc053UlFTbjBNcXk5aFdFbGxzQ1pjMDVJ?oc=5\" target=\"_blank\">Russia could attack a Nato country within months, Danish intelligence says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nRussia could attack a Nato country within months, Danish intelligence says <p>Warning comes hours after Poland says fire at Starlink satellite station was ‘act of sabotage’</p><p>Russia could launch a limited military attack against a Nato country in the coming months, Danish intelligence said, in one of the starkest warnings yet by western security services.</p><p>In a report published on Thursday, the Danish defence intelligence service warned of a “low but growing risk” that Russia could launch long-range strikes on Nato infrastructure supporting Ukraine, or carry out a limited incursion into a neighbouring country with a small number of troops, potentially operating without insignia.</p> <a href=\"https://www.theguardian.com/world/2026/sep/24/russia-could-attack"
+    "title": "Conselho de Finanças Públicas prevê excedente orçamental este ano - RTP",
+    "summary": "Conselho de Finanças Públicas prevê excedente orçamental este ano - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHlfQ0dBSGJ5LXJUcWY5Sm9pWnFZS3RaREZzd3NtRXd0WklIcGxFTlQzaHFMTElQWkNUbkNjVXRRSy1zMFVCS18xMkVkVFRfZDltMVJTX0J6eVNoWFJwUXMzbHcxenJrd1k3OEFQcVduSE5iVkxnZmpoeHRJTlc3MWdzVGUxYnZuZDBXazBzVzNFemxodmFoM1ViZUFwMGlXem9SMVc2QW5fSVh3eHFfNw?oc=5\" target=\"_blank\">Conselho de Finanças Públicas prevê excedente orçamental este ano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmhFejVOdlBONS04M3RMTFNjSkg3VmFDendXT0R4SDFIeVpVT2RRdjVkVENfdy04LVVTRkZTTzU4R3UyZlVIZDUzR3FHcUMzY2Y0T0VSSGNFQzRYNy1DUFlrOXZqYnk2QjNGamNmQXdpRjFYLW9pamJhSVpsQjktTXdGSlJ6bkNJYVh4QWJIazNmT2RCYjFySElkd\nConselho de Finanças Públicas prevê excedente orçamental este ano Entidade liderada por Nazaré da Costa Cabral está também otimista em relação ao crescimento da económica, apontando uma subida de 2,2%."
   },
   {
-    "id": "story-267",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T16:02:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGVnQm41N2ZwQTFfazNyd3lWT3V4eEZ2cndZNWIzOFhBc2dTQzM1S0hCOUtXRFRzdG9GNmp2TC02WjlMNndvUURhamZGMmFYTTNvcDJyUDJOOEszLVgzVlhla25QVkxqMlNjWXgwejZSMEc1SklCNjhWWHIzYTVibjNWYllMNUF4R2hKVXdvYVVJbFFScGVIM0puelR1enl4RW83NF90M25ZT2o4UUlVYmNRS0NQaUV5RFk1am45WWVOOFFUTzM0YXphbmV2NXVOUFFZemxB?oc=5",
-        "date": "2026-09-24T16:02:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGVnQm41N2ZwQTFfazNyd3lWT3V4eEZ2cndZNWIzOFhBc2dTQzM1S0hCOUtXRFRzdG9GNmp2TC02WjlMNndvUURhamZGMmFYTTNvcDJyUDJOOEszLVgzVlhla25QVkxqMlNjWXgwejZSMEc1SklCNjhWWHIzYTVibjNWYllMNUF4R2hKVXdvYVVJbFFScGVIM0puelR1enl4RW83NF90M25ZT2o4UUlVYmNRS0NQaUV5RFk1am45WWVOOFFUTzM0YXphbmV2NXVOUFFZemxB?oc=5\" target=\"_blank\">HVO: Ökodiesel im Großhandel erstmals billiger als Diesel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1FfRGlhcjR1MjBqWVgtLUNQN1BmQndUQzBZTW93Tm5ZTUdQYUwzWm9xNlUzQjBCMHNJRGU0OE1ZU3FZWUZoWWNxSW5FYzZLM2U0bXdpZ0Q4QnJMaEw1UGVhZWJpS2Z3V1lZZ0JDXzJtcm9Qdm1DbE1",
-        "title": "HVO: Ökodiesel im Großhandel erstmals billiger als Diesel - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/service/hvo-oekodiesel-im-grosshandel-erstmals-billiger-als-diesel-a-84e509be-a2ac-4adb-8667-145f6475e3ca#ref=rss",
-        "date": "2026-09-24T16:02:00.000Z",
-        "snippet": "Seit 2024 ist HVO100 in Deutschland zugelassen. Nun ist der Ökodiesel im Großhandel wegen der Spannungen im Nahen Osten erstmals günstiger als fossiler Diesel. Das könnte auch bald an der Zapfsäule ankommen.",
-        "title": "HVO: Ökodiesel im Großhandel erstmals billiger als Diesel"
-      }
-    ],
-    "title": "HVO: Ökodiesel im Großhandel erstmals billiger als Diesel - Spiegel",
-    "summary": "HVO: Ökodiesel im Großhandel erstmals billiger als Diesel - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGVnQm41N2ZwQTFfazNyd3lWT3V4eEZ2cndZNWIzOFhBc2dTQzM1S0hCOUtXRFRzdG9GNmp2TC02WjlMNndvUURhamZGMmFYTTNvcDJyUDJOOEszLVgzVlhla25QVkxqMlNjWXgwejZSMEc1SklCNjhWWHIzYTVibjNWYllMNUF4R2hKVXdvYVVJbFFScGVIM0puelR1enl4RW83NF90M25ZT2o4UUlVYmNRS0NQaUV5RFk1am45WWVOOFFUTzM0YXphbmV2NXVOUFFZemxB?oc=5\" target=\"_blank\">HVO: Ökodiesel im Großhandel erstmals billiger als Diesel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1FfRGlhcjR1MjBqWVgtLUNQN1BmQndUQzBZTW93Tm5ZTUdQYUwzWm9xNlUzQjBCMHNJRGU0OE1ZU3FZWUZoWWNxSW5FYzZLM2U0bXdpZ0Q4QnJMaEw1UGVhZWJpS2Z3V1lZZ0JDXzJtcm9Qdm1DbE1\nHVO: Ökodiesel im Großhandel erstmals billiger als Diesel Seit 2024 ist HVO100 in Deutschland zugelassen. Nun ist der Ökodiesel im Großhandel wegen der Spannungen im Nahen Osten erstmals günstiger als fossiler Diesel. Das könnte auch bald an der Zapfsäule ankommen."
-  },
-  {
-    "id": "story-297",
+    "id": "story-923",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "BW",
     "date": "2026-09-24T15:53:13.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
+        "source": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mercedes-will-arbeitskosten-um-800-millionen-euro-senken-medienbericht-100.html",
         "date": "2026-09-24T15:53:13.000Z",
         "snippet": "Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche.",
@@ -296,207 +675,7 @@
     "summary": "Medienbericht: Mercedes will Arbeitskosten um 800 Millionen Euro senken Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche.\nMercedes will Arbeitskosten laut Medienbericht um 800 Millionen Euro senken Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche."
   },
   {
-    "id": "story-358",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "RP",
-    "date": "2026-09-24T15:21:48.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/rlp-abgeordneten-gesetz-vorbild-bundestag-kloeckner-100.html",
-        "date": "2026-09-24T15:21:48.000Z",
-        "snippet": "Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.",
-        "title": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter"
-      },
-      {
-        "source": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-nach-rlp-auch-bald-im-bund-kein-geld-fuer-extremistische-parlaments-mitarbeiter-100.html",
-        "date": "2026-09-24T07:01:26.000Z",
-        "snippet": "Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.",
-        "title": "Nach RLP auch bald im Bund? Kein Geld für extremistische Parlaments-Mitarbeiter"
-      }
-    ],
-    "title": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter",
-    "summary": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.\nNach RLP auch bald im Bund? Kein Geld für extremistische Parlaments-Mitarbeiter Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben."
-  },
-  {
-    "id": "story-369",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T15:18:06.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
-        "date": "2026-09-24T15:18:06.000Z",
-        "snippet": "Im Norden Äthiopiens ist ein alter Konflikt wieder voll entbrannt: Die \"Volksbefreiungsfront\" von Tigray will zurück an die Macht. Beobachter warnen vor einem Flächenbrand am Horn von Afrika. Von Karin Bensch.",
-        "title": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlV2ZkxaMGFqZ19lYVl4STRFZGZJTlk1Z25xMUZfczVObmxVU0JibHNmMFQtRGJtZndxQ0RlZjM1WElwWkhUSm9BNnFjdm9ESE9wZEFVMnFhYi0zaHoxRjh3Z2VJQXFvYjBHVHhpeGR2UDFiWUsybWlyLUw1dmViOG9B?oc=5",
-        "date": "2026-09-24T15:18:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlV2ZkxaMGFqZ19lYVl4STRFZGZJTlk1Z25xMUZfczVObmxVU0JibHNmMFQtRGJtZndxQ0RlZjM1WElwWkhUSm9BNnFjdm9ESE9wZEFVMnFhYi0zaHoxRjh3Z2VJQXFvYjBHVHhpeGR2UDFiWUsybWlyLUw1dmViOG9B?oc=5\" target=\"_blank\">Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUWlybjdMSVpPU0VDMGZSZGtHSGRmR2VVMUUwRHcxOTdkZG5pYzNLYUVOYXJCV3JWb2xBZDVPc3RmV1FZUkFQVlhYdjhwVEN0eGVRYlV6UG82WTJTLTd6VkdkRmJYT1lIM3Ywd2U3b0JWR0NXNXdHNkpHYWQyQmFyeXBtQUZzVGRGeUxHNi1jbU1rOVZUOUx6a3pvTmpYc1lQZzJvV1A0SkhlUmItV1JvQldqWG5uZnVmYzFMNFRTYkF0OFFGT0g3R3F",
-        "title": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren - tagesschau.de"
-      }
-    ],
-    "title": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
-    "summary": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren Im Norden Äthiopiens ist ein alter Konflikt wieder voll entbrannt: Die \"Volksbefreiungsfront\" von Tigray will zurück an die Macht. Beobachter warnen vor einem Flächenbrand am Horn von Afrika. Von Karin Bensch.\nKämpfe in Tigray-Region im Norden Äthiopiens eskalieren - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlV2ZkxaMGFqZ19lYVl4STRFZGZJTlk1Z25xMUZfczVObmxVU0JibHNmMFQtRGJtZndxQ0RlZjM1WElwWkhUSm9BNnFjdm9ESE9wZEFVMnFhYi0zaHoxRjh3Z2VJQXFvYjBHVHhpeGR2UDFiWUsybWlyLUw1dmViOG9B?oc=5\" target=\"_blank\">Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUWlybjdMSVpPU0VDMGZSZGtHSGRmR2VVMUUwRHcxOTdkZG5pYzNLYUVOYXJCV3JWb2xBZDVPc3RmV1FZUkFQVlhYdjhwVEN0eGVRYlV6UG82WTJTLTd6VkdkRmJYT1lIM3Ywd2U3b0JWR0NXNXdHNkpHYWQyQmFyeXBtQUZzVGRGeUxHNi1jbU1rOVZUOUx6a3pvTmpYc1lQZzJvV1A0SkhlUmItV1JvQldqWG5uZnVmYzFMNFRTYkF0OFFGT0g3R3F"
-  },
-  {
-    "id": "story-378",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-09-24T15:12:56.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay1wdlp2RjR2NnZIQlFQdGJPLW1TaTAwa2J3Q3RyRDdUZ3pHb296MTN2RDhJUFo5SjNLOHB4VGwxbFJzazh3dDNFT0MwcXVVa2VJdFZ6NEhuY0wzSnpVUVJaa2hMUU1vM0laZkViMVlVVDE0T1huWF9OZGFXWnB4aThNaVNaQkp5?oc=5",
-        "date": "2026-09-24T15:12:56.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay1wdlp2RjR2NnZIQlFQdGJPLW1TaTAwa2J3Q3RyRDdUZ3pHb296MTN2RDhJUFo5SjNLOHB4VGwxbFJzazh3dDNFT0MwcXVVa2VJdFZ6NEhuY0wzSnpVUVJaa2hMUU1vM0laZkViMVlVVDE0T1huWF9OZGFXWnB4aThNaVNaQkp5?oc=5\" target=\"_blank\">White House reporters say they've been denied access again despite court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
-        "title": "White House reporters say they've been denied access again despite court ruling - CBC"
-      },
-      {
-        "source": "France24 English",
-        "url": "https://www.france24.com/en/americas/20260924-us-judge-lifts-trump-s-white-house-ban-on-cnn-ms-now-politico",
-        "date": "2026-09-24T13:24:19.000Z",
-        "snippet": "",
-        "title": "🔴 CNN, MS NOW, Politico still barred from White House despite court ruling"
-      }
-    ],
-    "title": "White House reporters say they've been denied access again despite court ruling - CBC",
-    "summary": "White House reporters say they've been denied access again despite court ruling - CBC <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay1wdlp2RjR2NnZIQlFQdGJPLW1TaTAwa2J3Q3RyRDdUZ3pHb296MTN2RDhJUFo5SjNLOHB4VGwxbFJzazh3dDNFT0MwcXVVa2VJdFZ6NEhuY0wzSnpVUVJaa2hMUU1vM0laZkViMVlVVDE0T1huWF9OZGFXWnB4aThNaVNaQkp5?oc=5\" target=\"_blank\">White House reporters say they've been denied access again despite court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>\n🔴 CNN, MS NOW, Politico still barred from White House despite court ruling "
-  },
-  {
-    "id": "story-422",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T15:00:14.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/g20-putin-eu-100.html",
-        "date": "2026-09-24T15:00:14.000Z",
-        "snippet": "Die USA haben Russlands Präsidenten Putin zum G20-Gipfel im Dezember eingeladen. Die EU will das Treffen aber nicht boykottieren - schließlich will man in Sachen Ukraine mitreden.…",
-        "title": "EU plant nach Putin-Einladung keinen G20-Boykott"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMRFk5TzFkT1c1b0hRMDJqSlVmd2RDa09hZTltdU5iQlM0c2x4Znhsbi03T3BvTHNtbktTZW5VaFV2RUxTVzlTRG1WZ1BQUk92cHVoaXEtSnVkWFZ6NW5hM3ZEYXNZckI1M3g5d0RKOA?oc=5",
-        "date": "2026-09-24T14:55:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBMRFk5TzFkT1c1b0hRMDJqSlVmd2RDa09hZTltdU5iQlM0c2x4Znhsbi03T3BvTHNtbktTZW5VaFV2RUxTVzlTRG1WZ1BQUk92cHVoaXEtSnVkWFZ6NW5hM3ZEYXNZckI1M3g5d0RKOA?oc=5\" target=\"_blank\">EU plant nach Putin-Einladung keinen G20-Boykott</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHB0ZHhJb0ZYRk9ZNkxnTnBoQzFWb1JRa2pfLU9ZV0JESHZFTzhQLTJKdkthOWhuaUN1a01XbWE5cm9EZlNvc09acTJKaTNQMWJ5TzZ0SWxlUXFpeVBnQlY5RC15bUhkdzE3alRMUko5aXRHUWdVandiUVN5eW0yZHZVNHRUTi0xelR6TERfcXhQaXBNU3Bkb3Mxdk1FcFA4dnAzSUFDX3FJVGw2TV80elQzMnZZY3pWcU5aWnV1bkU?oc=5\" target=\"_blank\">Trump lädt Putin zum G",
-        "title": "EU plant nach Putin-Einladung keinen G20-Boykott - tagesschau.de"
-      }
-    ],
-    "title": "EU plant nach Putin-Einladung keinen G20-Boykott",
-    "summary": "EU plant nach Putin-Einladung keinen G20-Boykott Die USA haben Russlands Präsidenten Putin zum G20-Gipfel im Dezember eingeladen. Die EU will das Treffen aber nicht boykottieren - schließlich will man in Sachen Ukraine mitreden.…\nEU plant nach Putin-Einladung keinen G20-Boykott - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBMRFk5TzFkT1c1b0hRMDJqSlVmd2RDa09hZTltdU5iQlM0c2x4Znhsbi03T3BvTHNtbktTZW5VaFV2RUxTVzlTRG1WZ1BQUk92cHVoaXEtSnVkWFZ6NW5hM3ZEYXNZckI1M3g5d0RKOA?oc=5\" target=\"_blank\">EU plant nach Putin-Einladung keinen G20-Boykott</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHB0ZHhJb0ZYRk9ZNkxnTnBoQzFWb1JRa2pfLU9ZV0JESHZFTzhQLTJKdkthOWhuaUN1a01XbWE5cm9EZlNvc09acTJKaTNQMWJ5TzZ0SWxlUXFpeVBnQlY5RC15bUhkdzE3alRMUko5aXRHUWdVandiUVN5eW0yZHZVNHRUTi0xelR6TERfcXhQaXBNU3Bkb3Mxdk1FcFA4dnAzSUFDX3FJVGw2TV80elQzMnZZY3pWcU5aWnV1bkU?oc=5\" target=\"_blank\">Trump lädt Putin zum G"
-  },
-  {
-    "id": "story-438",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-09-24T14:51:42.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/stoff-ausgetreten-capri-sun-eppelheim-adm-wild-feuerwehr-100.html",
-        "date": "2026-09-24T14:51:42.000Z",
-        "snippet": "Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag durch Dampf Ingwerkonzentrat ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt.",
-        "title": "Ingwerkonzentrat bei ADM in Eppelheim ausgetreten - mehrere Verletzte"
-      },
-      {
-        "source": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-stoff-bei-adm-in-eppelheim-ausgetreten-mehrere-verletzte-100.html",
-        "date": "2026-09-24T11:31:00.000Z",
-        "snippet": "Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag ein noch unbekannter Stoff ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt.",
-        "title": "Stoffaustritt bei ADM in Eppelheim - mehrere Verletzte"
-      }
-    ],
-    "title": "Ingwerkonzentrat bei ADM in Eppelheim ausgetreten - mehrere Verletzte",
-    "summary": "Ingwerkonzentrat bei ADM in Eppelheim ausgetreten - mehrere Verletzte Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag durch Dampf Ingwerkonzentrat ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt.\nStoffaustritt bei ADM in Eppelheim - mehrere Verletzte Bei dem Unternehmen ADM in Eppelheim ist am Donnerstag ein noch unbekannter Stoff ausgetreten. Ein Werksgebäude wurde evakuiert, mehrere Menschen wurden verletzt."
-  },
-  {
-    "id": "story-444",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T14:49:12.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BDTTRJbGQ0SjMwNzA2RGtVV29VWE9TYjFaU196bVVtb0p4YzNQZFNrUDJvaHptMEk5ZHVSeGxreThEdGw3WjYwY2JRTnZaQUViajlFUUFDMlowdklLaU03SmNlQWI5NGpvbWU3cEEwdVpTeGJiQjQ3c3Z6dmF6UTFtNzI5bWJGUGRDVnljU0hTd2gzckJxN19oc0lHX2UzOE5ZQlhlUmw2Zw?oc=5",
-        "date": "2026-09-24T14:49:12.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BDTTRJbGQ0SjMwNzA2RGtVV29VWE9TYjFaU196bVVtb0p4YzNQZFNrUDJvaHptMEk5ZHVSeGxreThEdGw3WjYwY2JRTnZaQUViajlFUUFDMlowdklLaU03SmNlQWI5NGpvbWU3cEEwdVpTeGJiQjQ3c3Z6dmF6UTFtNzI5bWJGUGRDVnljU0hTd2gzckJxN19oc0lHX2UzOE5ZQlhlUmw2Zw?oc=5\" target=\"_blank\">Auch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0tEZzBIVjhxcE1URWxYNUwyazBQVjExU1p4S0gwVEJDZWJFZTY2amtQNU1wOEpYUFhPdm9WXzNid1RPa3dSalRPcFZCcG0yYjc1SVcyUjhKNURmUXJMNHFpREJUejhkc193dlpYemZlVEVtLTNVd1lxb0lJYzk1eUhR?oc=5\" targe",
-        "title": "Auch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott - n-tv.de"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/politik/US-Praesident-Trump-sorgt-mit-Outfit-bei-Xi-Empfang-fuer-Spott-id31344690.html",
-        "date": "2026-09-24T14:49:12.000Z",
-        "snippet": "Donald Trump inszeniert sich gerne. Beim Besuch von Chinas Staatschef Xi Jinping geht das daneben. Einige Aktionen des Präsidenten rufen Spott und Kritik hervor.",
-        "title": "Auch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott"
-      }
-    ],
-    "title": "Auch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott - n-tv.de",
-    "summary": "Auch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BDTTRJbGQ0SjMwNzA2RGtVV29VWE9TYjFaU196bVVtb0p4YzNQZFNrUDJvaHptMEk5ZHVSeGxreThEdGw3WjYwY2JRTnZaQUViajlFUUFDMlowdklLaU03SmNlQWI5NGpvbWU3cEEwdVpTeGJiQjQ3c3Z6dmF6UTFtNzI5bWJGUGRDVnljU0hTd2gzckJxN19oc0lHX2UzOE5ZQlhlUmw2Zw?oc=5\" target=\"_blank\">Auch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0tEZzBIVjhxcE1URWxYNUwyazBQVjExU1p4S0gwVEJDZWJFZTY2amtQNU1wOEpYUFhPdm9WXzNid1RPa3dSalRPcFZCcG0yYjc1SVcyUjhKNURmUXJMNHFpREJUejhkc193dlpYemZlVEVtLTNVd1lxb0lJYzk1eUhR?oc=5\" targe\nAuch Kritik am roten Teppich: US-Präsident Trump sorgt mit Outfit bei Xi-Empfang für Spott Donald Trump inszeniert sich gerne. Beim Besuch von Chinas Staatschef Xi Jinping geht das daneben. Einige Aktionen des Präsidenten rufen Spott und Kritik hervor."
-  },
-  {
-    "id": "story-445",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "MV",
-    "date": "2026-09-24T14:49:02.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/hendrik-holt-in-dubai-gefasst-reisepass-machte-ausreise-moeglich,holt-154.html",
-        "date": "2026-09-24T14:49:02.000Z",
-        "snippet": "Bei seiner Verhaftung musste der Haselünner seinen Personalausweis abgeben. Wie es mit seinem Reisepass aussah, ist unklar.",
-        "title": "Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter?"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1BZWGpfZjRxdWptbFZwYnN0cGhUNXRNd29paEZYM1NGcDNOQkhRSGJBbWcxSzNTUjN6eTZicVFmUHh2YnlSNnQyVzJrYk52a0wtLTdoOVR3Nk80Q0dfVHFpQjNwdXZSVWxCbmhSSmt6b2tQRFJ1dF8xY2JSeWt3ejdCTkpkSm5GZ1VEZDhZOVJhdVhsWHZDVWRLTDdzeW5WRDhhMkVnZS1GRnhLVnBaQlIwQzlKaVF0Sm1NQ25yblpBX2hmMVltb0xiRVNTQ201cEpBNV90UjdVdw?oc=5",
-        "date": "2026-09-24T13:27:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1BZWGpfZjRxdWptbFZwYnN0cGhUNXRNd29paEZYM1NGcDNOQkhRSGJBbWcxSzNTUjN6eTZicVFmUHh2YnlSNnQyVzJrYk52a0wtLTdoOVR3Nk80Q0dfVHFpQjNwdXZSVWxCbmhSSmt6b2tQRFJ1dF8xY2JSeWt3ejdCTkpkSm5GZ1VEZDhZOVJhdVhsWHZDVWRLTDdzeW5WRDhhMkVnZS1GRnhLVnBaQlIwQzlKaVF0Sm1NQ25yblpBX2hmMVltb0xiRVNTQ201cEpBNV90UjdVdw?oc=5\" target=\"_blank\">Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdENDUmNRbFRnc3hscjY0Y1l6eVZrWWpzU2JYNk1YRnFQMkk3NGFoVVZVc29DUzlKR0k3bDNtd0NZNF9pdFJ0aUhvQVdQZG5Ob3JrcjRYNjhtRjE1T21ETG1Sa0ZDUzVHdW9yZ3k2W",
-        "title": "Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter? - NDR.de"
-      }
-    ],
-    "title": "Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter?",
-    "summary": "Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter? Bei seiner Verhaftung musste der Haselünner seinen Personalausweis abgeben. Wie es mit seinem Reisepass aussah, ist unklar.\nWindkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter? - NDR.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1BZWGpfZjRxdWptbFZwYnN0cGhUNXRNd29paEZYM1NGcDNOQkhRSGJBbWcxSzNTUjN6eTZicVFmUHh2YnlSNnQyVzJrYk52a0wtLTdoOVR3Nk80Q0dfVHFpQjNwdXZSVWxCbmhSSmt6b2tQRFJ1dF8xY2JSeWt3ejdCTkpkSm5GZ1VEZDhZOVJhdVhsWHZDVWRLTDdzeW5WRDhhMkVnZS1GRnhLVnBaQlIwQzlKaVF0Sm1NQ25yblpBX2hmMVltb0xiRVNTQ201cEpBNV90UjdVdw?oc=5\" target=\"_blank\">Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdENDUmNRbFRnc3hscjY0Y1l6eVZrWWpzU2JYNk1YRnFQMkk3NGFoVVZVc29DUzlKR0k3bDNtd0NZNF9pdFJ0aUhvQVdQZG5Ob3JrcjRYNjhtRjE1T21ETG1Sa0ZDUzVHdW9yZ3k2W"
-  },
-  {
-    "id": "story-559",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T13:57:00.000Z",
-    "sources": [
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/justiz/lina-e-bundesverfassungsgericht-hebt-beugehaft-gegen-linksextremistin-auf-a-8fe0fa79-6026-4c64-a618-3f3417e949da#ref=rss",
-        "date": "2026-09-24T13:57:00.000Z",
-        "snippet": "Zweieinhalb Monate saß die Linksextremistin Lina E. in Beugehaft, weil sie in einem Prozess die Aussage verweigerte. Nun kommt sie vorerst frei. Laut ihrem Anwalt sind noch erhebliche verfassungsrechtliche Fragen zu klären.",
-        "title": "Lina E.: Bundesverfassungsgericht hebt Beugehaft gegen Linksextremistin auf"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/linksextremistin-lina-e-vorerst-frei-karlsruhe-hebt-beugehaft-auf-35D622EEHNGTFCNN4JMXEFCDME.html",
-        "date": "2026-09-24T12:49:10.000Z",
-        "snippet": "Nach zweieinhalbmonatiger Beugehaft kommt die Linksextremistin Lina E. frei – zumindest vorerst. Welche offenen verfassungsrechtlichen Fragen das Bundesverfassungsgericht zu klären hat.",
-        "title": "Linksextremistin Lina E. vorerst frei – Karlsruhe hebt Beugehaft auf"
-      }
-    ],
-    "title": "Lina E.: Bundesverfassungsgericht hebt Beugehaft gegen Linksextremistin auf",
-    "summary": "Lina E.: Bundesverfassungsgericht hebt Beugehaft gegen Linksextremistin auf Zweieinhalb Monate saß die Linksextremistin Lina E. in Beugehaft, weil sie in einem Prozess die Aussage verweigerte. Nun kommt sie vorerst frei. Laut ihrem Anwalt sind noch erhebliche verfassungsrechtliche Fragen zu klären.\nLinksextremistin Lina E. vorerst frei – Karlsruhe hebt Beugehaft auf Nach zweieinhalbmonatiger Beugehaft kommt die Linksextremistin Lina E. frei – zumindest vorerst. Welche offenen verfassungsrechtlichen Fragen das Bundesverfassungsgericht zu klären hat."
-  },
-  {
-    "id": "story-614",
+    "id": "story-1043",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -519,130 +698,5 @@
     ],
     "title": "\"Schockiert\": FCK äußert sich zu Fan-Ausschreitungen im Spiel gegen Mannheim",
     "summary": "\"Schockiert\": FCK äußert sich zu Fan-Ausschreitungen im Spiel gegen Mannheim Nach den Krawallen beim DFB-Pokalspiel gegen Waldhof Mannheim äußert sich der 1. FC Kaiserslautern nun erstmals konkret zu den Vorfällen.\n\"Schockiert und betroffen\": FCK äußert sich zu Fan-Ausschreitungen im Spiel gegen Mannheim Nach den Krawallen beim DFB-Pokalspiel gegen Waldhof Mannheim äußert sich der 1. FC Kaiserslautern nun erstmals konkret zu den Vorfällen."
-  },
-  {
-    "id": "story-620",
-    "topic": "wirtschaft",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-09-24T13:28:27.000Z",
-    "sources": [
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW5QY3FvWTViaHZTeklfS0NhZ0VraElGYnhMNG55M3dnblFaQmc3V21HQlR1VC1sODVtRkdHWUhfRjVoOTJMUFR6Ykx1ekFMM0dKU2w2M0NPYnpxUnI3aXhGWHpDaUhudEgtR0VONXJucEduSFg4MDNPME5FcUpabmQ3MnMzb1g5STY1eUNJQTdiRG9PN2x3WnpwSEVKSWRUREtTbkJqZkN0QXU3Umh1ZA?oc=5",
-        "date": "2026-09-24T13:28:27.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW5QY3FvWTViaHZTeklfS0NhZ0VraElGYnhMNG55M3dnblFaQmc3V21HQlR1VC1sODVtRkdHWUhfRjVoOTJMUFR6Ykx1ekFMM0dKU2w2M0NPYnpxUnI3aXhGWHpDaUhudEgtR0VONXJucEduSFg4MDNPME5FcUpabmQ3MnMzb1g5STY1eUNJQTdiRG9PN2x3WnpwSEVKSWRUREtTbkJqZkN0QXU3Umh1ZA?oc=5\" target=\"_blank\">Ministro da Economia aconselha população a \"consumir menos\" energia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2kzWmd2S3NrNlBWcl9RYTN2bmNabklVeV83cGVxQUJmWjVvMVlsc0s3RE5vNmp1bDhIamh5WkVBVUtpY3FYV0RlV3ozOC1LM0VuT19GTDBxbVFnQllGTkRBR3VKN1UwYjZaVnA5VkpTSmdyZDdYWXhqc1pmYnc1enpuY0UzVzNJT0gxN3RJNFQwNjlpR3pPU0p",
-        "title": "Ministro da Economia aconselha população a \"consumir menos\" energia - RTP"
-      },
-      {
-        "source": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/ministro-da-economia-aconselha-populacao-a-consumir-menos-energia_n1767453",
-        "date": "2026-09-24T12:04:21.000Z",
-        "snippet": "O ministro da Economia disse esta quinta-feira, em Bruxelas, que \"o conselho que damos é que as pessoas procurem consumir menos\" energia, \"se puderem escolher\". \"Se não há hipótese de escolha, não há nada a fazer\", acrescentou.",
-        "title": "Ministro da Economia aconselha população a \"consumir menos\" energia"
-      }
-    ],
-    "title": "Ministro da Economia aconselha população a \"consumir menos\" energia - RTP",
-    "summary": "Ministro da Economia aconselha população a \"consumir menos\" energia - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW5QY3FvWTViaHZTeklfS0NhZ0VraElGYnhMNG55M3dnblFaQmc3V21HQlR1VC1sODVtRkdHWUhfRjVoOTJMUFR6Ykx1ekFMM0dKU2w2M0NPYnpxUnI3aXhGWHpDaUhudEgtR0VONXJucEduSFg4MDNPME5FcUpabmQ3MnMzb1g5STY1eUNJQTdiRG9PN2x3WnpwSEVKSWRUREtTbkJqZkN0QXU3Umh1ZA?oc=5\" target=\"_blank\">Ministro da Economia aconselha população a \"consumir menos\" energia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2kzWmd2S3NrNlBWcl9RYTN2bmNabklVeV83cGVxQUJmWjVvMVlsc0s3RE5vNmp1bDhIamh5WkVBVUtpY3FYV0RlV3ozOC1LM0VuT19GTDBxbVFnQllGTkRBR3VKN1UwYjZaVnA5VkpTSmdyZDdYWXhqc1pmYnc1enpuY0UzVzNJT0gxN3RJNFQwNjlpR3pPU0p\nMinistro da Economia aconselha população a \"consumir menos\" energia O ministro da Economia disse esta quinta-feira, em Bruxelas, que \"o conselho que damos é que as pessoas procurem consumir menos\" energia, \"se puderem escolher\". \"Se não há hipótese de escolha, não há nada a fazer\", acrescentou."
-  },
-  {
-    "id": "story-754",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T12:00:04.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
-        "date": "2026-09-24T12:00:04.000Z",
-        "snippet": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei geg…",
-        "title": "Özdemir warnt Berliner Grüne vor Koalition mit Linken"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
-        "date": "2026-09-24T11:55:47.000Z",
-        "snippet": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen Antisemitismusvorwürfe in Schutz.",
-        "title": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei"
-      }
-    ],
-    "title": "Özdemir warnt Berliner Grüne vor Koalition mit Linken",
-    "summary": "Özdemir warnt Berliner Grüne vor Koalition mit Linken Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei geg…\nNach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen Antisemitismusvorwürfe in Schutz."
-  },
-  {
-    "id": "story-812",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T11:00:47.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
-        "date": "2026-09-24T11:00:47.000Z",
-        "snippet": "Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrumpft der Arbeitsmarkt.",
-        "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjBmMXg2cGU0cjJJb2JYcVo4bnFuRGtxcW5JNUJjNEN6eGRhMF83UlpoTXhldzZsdmVzajlIcXJ4eWxUVEg5ZDZhSTYtbUdSMHU3UDYyNXl3OGxDbUZYTGFOd09sWUxyZmZuSTRrZlgxMWVKQ0J1UERYX2QwY3U1LTMxTnpHRV9YSDRhbFpib2VnM25MVWY0dA?oc=5",
-        "date": "2026-09-24T11:00:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObjBmMXg2cGU0cjJJb2JYcVo4bnFuRGtxcW5JNUJjNEN6eGRhMF83UlpoTXhldzZsdmVzajlIcXJ4eWxUVEg5ZDZhSTYtbUdSMHU3UDYyNXl3OGxDbUZYTGFOd09sWUxyZmZuSTRrZlgxMWVKQ0J1UERYX2QwY3U1LTMxTnpHRV9YSDRhbFpib2VnM25MVWY0dA?oc=5\" target=\"_blank\">Deutlich höheres Wirtschaftswachstum erwartet als bisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0dxNHNPNTZkODhSUmowTENnLTJheE00ZmVRN3VCY2pURktST21GMXlTYjExNlZ4bkxFR1FsdndXYmVtMW1oTmR4X25yNFVtTUs4TVRTVTItc2w3c25xS0tXbEkxZ3IxSzhCMERjUV9Pcnc4a3YxMUREQWl3bE9Nd2ZUODZmdGd4S29rQWF4cXYzVElkdkYwLWZ0Um42VjBmZlRPZjJR?oc=5\" target=\"_",
-        "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher - tagesschau.de"
-      }
-    ],
-    "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher",
-    "summary": "Deutlich höheres Wirtschaftswachstum erwartet als bisher Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrumpft der Arbeitsmarkt.\nDeutlich höheres Wirtschaftswachstum erwartet als bisher - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObjBmMXg2cGU0cjJJb2JYcVo4bnFuRGtxcW5JNUJjNEN6eGRhMF83UlpoTXhldzZsdmVzajlIcXJ4eWxUVEg5ZDZhSTYtbUdSMHU3UDYyNXl3OGxDbUZYTGFOd09sWUxyZmZuSTRrZlgxMWVKQ0J1UERYX2QwY3U1LTMxTnpHRV9YSDRhbFpib2VnM25MVWY0dA?oc=5\" target=\"_blank\">Deutlich höheres Wirtschaftswachstum erwartet als bisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0dxNHNPNTZkODhSUmowTENnLTJheE00ZmVRN3VCY2pURktST21GMXlTYjExNlZ4bkxFR1FsdndXYmVtMW1oTmR4X25yNFVtTUs4TVRTVTItc2w3c25xS0tXbEkxZ3IxSzhCMERjUV9Pcnc4a3YxMUREQWl3bE9Nd2ZUODZmdGd4S29rQWF4cXYzVElkdkYwLWZ0Um42VjBmZlRPZjJR?oc=5\" target=\"_"
-  },
-  {
-    "id": "story-834",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-24T10:45:03.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
-        "date": "2026-09-24T10:45:03.000Z",
-        "snippet": "Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen g…",
-        "title": "\"Jetzt beginnt dort echter Hunger\""
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
-        "date": "2026-09-24T10:28:36.000Z",
-        "snippet": "Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen gelingt die Flucht - die Gegend ist vermint. Von F. Kellermann.",
-        "title": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\""
-      }
-    ],
-    "title": "\"Jetzt beginnt dort echter Hunger\"",
-    "summary": "\"Jetzt beginnt dort echter Hunger\" Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen g…\nFrontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\" Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen gelingt die Flucht - die Gegend ist vermint. Von F. Kellermann."
-  },
-  {
-    "id": "story-1233",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-23T18:15:31.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-23T18:15:31.000Z",
-        "snippet": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "title": "Iran's president tells Trump it will never 'bend the knee'"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DcVJwa0k3NWxvcVdabTVlTzFUM2MySkFjV2s0LW9tOXF6MlBteGk5TEFlbmJtbmcxeE5FU1ZOMFk1Z3IzMm5GNG5LV2psM1FZN3RGdHFzWUtyLTQ?oc=5",
-        "date": "2026-09-23T18:15:31.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DcVJwa0k3NWxvcVdabTVlTzFUM2MySkFjV2s0LW9tOXF6MlBteGk5TEFlbmJtbmcxeE5FU1ZOMFk1Z3IzMm5GNG5LV2psM1FZN3RGdHFzWUtyLTQ?oc=5\" target=\"_blank\">Iran's president tells Trump it will never 'bend the knee'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Iran's president tells Trump it will never 'bend the knee' - BBC"
-      }
-    ],
-    "title": "Iran's president tells Trump it will never 'bend the knee'",
-    "summary": "Iran's president tells Trump it will never 'bend the knee' Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.\nIran's president tells Trump it will never 'bend the knee' - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DcVJwa0k3NWxvcVdabTVlTzFUM2MySkFjV2s0LW9tOXF6MlBteGk5TEFlbmJtbmcxeE5FU1ZOMFk1Z3IzMm5GNG5LV2psM1FZN3RGdHFzWUtyLTQ?oc=5\" target=\"_blank\">Iran's president tells Trump it will never 'bend the knee'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   }
 ]
