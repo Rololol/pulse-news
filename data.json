@@ -1,5 +1,476 @@
 [
   {
+    "id": "story-4c5ca2acd26bdb15",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-25T13:39:08.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundestag beschließt neuen Tankrabatt ab Oktober",
+    "s": "Der Deutsche Bundestag hat eine Senkung der Energiesteuer auf Benzin und Diesel beschlossen. Die Maßnahme soll die hohen Spritpreise abfedern und ist für den Zeitraum vom 1. Oktober bis zum Jahresende vorgesehen. Nun muss noch der Bundesrat über das Vorhaben abstimmen.",
+    "m": "Um die anhaltend hohen Kraftstoffpreise für Verbraucher zu senken, hat der Bundestag einen neuen Tankrabatt auf den Weg gebracht. Die Regelung sieht eine Entlastung von 17 Cent je Liter für Diesel und Benzin vor. Sie soll von Anfang Oktober bis zum Ende des Jahres gelten. Nach dem Beschluss des Bundestages steht nun noch die Zustimmung des Bundesrates aus, bevor die Energiesteuer offiziell gesenkt werden kann.",
+    "r": "Die Senkung der Energiesteuer betrifft direkt die Verbraucherpreise an den Tankstellen und ist eine zentrale Maßnahme der Politik zur Entlastung bei hohen Energiekosten. Die Umsetzung ist jedoch noch an die Zustimmung des Bundesrates geknüpft.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/wirtschaft/2026-09/bundestag-beschliesst-neuen-tankrabatt-gxe",
+        "date": "2026-09-25T13:39:08.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/video6ab6641824c8e458512f874e/hohe-spritpreise-bundestag-beschliesst-neuen-tankrabatt.html",
+        "date": "2026-09-25T12:10:55.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/wirtschaft/2026-09/bundestag-beschliesst-neuen-tankrabatt-gxe",
+    "agree": "Beide Quellen stimmen überein, dass der Bundestag einen neuen Tankrabatt zur Senkung der Spritpreise beschlossen hat, der ab dem 1. Oktober bis zum Jahresende gelten soll.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "nennt die konkrete Entlastungssumme von 17 Cent je Liter für Diesel und Benzin und weist darauf hin, dass noch die Zustimmung des Bundesrates aussteht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9026f8100e1181a9",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T13:37:46.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz für weiteres Jahr",
+    "s": "Rheinland-Pfalz wird den Vorsitz der Ministerpräsidentenkonferenz für ein weiteres Jahr behalten. Damit wird Sachsen-Anhalt in der eigentlich jährlich wechselnden Reihenfolge übersprungen. Zu den genauen Gründen für das Auslassen des Bundeslandes wurden in den Berichten keine Details genannt.",
+    "m": "Der Vorsitz der Ministerpräsidentenkonferenz bleibt für ein weiteres Jahr in Rheinland-Pfalz. Üblicherweise wechselt dieser Vorsitz jährlich nach einer festgelegten Reihenfolge zwischen den Bundesländern. Durch die aktuelle Entscheidung wird Sachsen-Anhalt im rotierenden System übersprungen. Die AfD hat diese Entscheidung bereits kritisiert. Weitere Hintergründe, offizielle Begründungen der beteiligten Regierungen oder Reaktionen anderer Parteien gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die Ministerpräsidentenkonferenz ist ein wichtiges Gremium der deutschen Länderpolitik zur Abstimmung zwischen den Ländern und dem Bund. Verschiebungen im Vorsitz berühren die organisatorische Struktur dieses Gremiums.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/sachsen-anhalt-verzichtet-auf-mpk-vorsitz-110.html",
+        "date": "2026-09-25T13:37:46.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
+        "date": "2026-09-25T09:00:51.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/sachsen-anhalt-verzichtet-auf-mpk-vorsitz-110.html",
+    "agree": "Sachsen-Anhalt verzichtet auf den Vorsitz der Ministerpräsidentenkonferenz und Rheinland-Pfalz behält diesen für ein weiteres Jahr.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich die Kritik der AfD an dem Vorgehen."
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Liefert keine zusätzlichen Details über die Kritik hinaus."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3426feb8aa118701",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-25T13:28:15.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Protest von Terraplanungs-Unternehmen gegen Kraftstoffpreise",
+    "s": "Unternehmer des Terraplanungssektors haben eine Protest-Schleifenfahrt mit Lkw gestartet, um gegen die hohen Kraftstoffpreise zu demonstrieren. Der Konvoi, an dem potenziell mehr als 400 Lkw teilnehmen können, bewegt sich auf einer Strecke zwischen Paredes und Coimbra. Für den kommenden Montag ist ein Treffen der Demonstranten mit der Regierung angekündigt.",
+    "m": "Die Protestaktion der Terraplanungs-Unternehmer begann heute in Paredes im Distrikt Porto als Reaktion auf die gestiegenen Treibstoffkosten. Der geplante Routenverlauf führt über die Autobahnen A42, A41 und A1 nach Coimbra. Die Demonstranten fordern konkrete Antworten von der Politik auf die finanzielle Belastung durch die Energiepreise. Um auf ihre Forderungen aufmerksam zu machen, ist eine sogenannte marcha lenta mit möglicherweise über 400 Lastkraftwagen organisiert worden. Der Vertreter der Demonstranten gab bekannt, dass im Zuge dieser Entwicklungen am Montag ein offizielles Treffen mit Regierungsvertretern stattfinden wird. Die Situation wird fortlaufend beobachtet, während die Fahrzeuge unterwegs sind.",
+    "r": "Der Protest verdeutlicht den wirtschaftlichen Druck auf Transport- und Baubranche durch steigende Energiekosten. Das für Montag anberaumte Regierungsgespräch bietet eine Plattform zur Klärung der Forderungen der Unternehmer.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/marcha-lenta-empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_e1767607",
+        "date": "2026-09-25T13:28:15.000Z"
+      },
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_n1767625",
+        "date": "2026-09-25T08:24:25.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/marcha-lenta-empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_e1767607",
+    "agree": "Die Quellen stimmen überein, dass Unternehmer des Terraplanungssektors eine Protest-Schleifenfahrt wegen der Kraftstoffpreise durchführen und am kommenden Montag von der Regierung empfangen werden.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Erwähnt die genaue Uhrzeit des Beginns um 07:30 Uhr, den potenziellen Umfang von mehr als 400 Lkw sowie das genaue Routennetz über A42, A41 und A1."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Nennt explizit Paredes als Distrikt Porto und bestätigt, dass die Initiative vom Vertreter der Demonstranten für das Treffen am Montag angekündigt wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-6c358691f202ff28",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T13:26:44.000Z",
+    "p": 2,
+    "st": "SN",
+    "city": "",
+    "t": "Stadtrat von Heidenau beschließt Verbot neuer Stolpersteine",
+    "s": "Im sächsischen Heidenau sollen keine neuen Stolpersteine zur Erinnerung an Opfer des Nationalsozialismus mehr verlegt werden. Der Stadtrat hat einen entsprechenden gemeinsamen Antrag von CDU und AfD gebilligt. Das Gedenken an NS-Opfer soll künftig anders erfolgen, jedoch ohne die bisherigen Messingtafeln im Boden. Der Beschluss sorgt für eine kontroverse politische Debatte. Die Entscheidung stieß bei verschiedenen Gruppierungen auf unterschiedliche Reaktionen.",
+    "m": "Der Stadtrat im sächsischen Heidenau hat mit den Stimmen von CDU und AfD beschlossen, zukünftig keine neuen Stolpersteine zur Erinnerung an Opfer des NS-Regimes mehr zu verlegen. Die Initiative ging auf einen gemeinsamen Antrag dieser beiden Fraktionen zurück. Befürworter des Antrags argumentieren, dass das Gedenken an die Opfer der Nazi-Herrschaft auf andere Weise fortgeführt werden solle, während Kritiker das Aus für die Stolpersteine als Verlust für die Erinnerungskultur ansehen. Stolpersteine sind ein europaweites Projekt des Künstlers Gunter Demnig, bei dem kleine Gedenktafeln aus Messing vor den letzten frei gewählten Wohnorten von Opfern des Nationalsozialismus ins Pflaster eingelassen werden. In Heidenau wurden in den vergangenen Jahren bereits mehrere dieser Steine verlegt, um an vertriebene und ermordete Bürger zu erinnern. Durch den aktuellen Beschluss wird diese Form des Gedenkens im Stadtgebiet vorerst gestoppt. Offen bleibt bislang, welche konkreten alternativen Gedenkformen der Stadtrat künftig unterstützen will und wie sich die Entscheidung auf bereits bestehende Stolpersteine auswirkt.",
+    "r": "Die Entscheidung eines Kommunalparlaments gegen eine bestimmte Form des Gedenkens berührt grundsätzliche Fragen der lokalen Erinnerungskultur. Das Verbot neuer Stolpersteine durch einen Ratsbeschluss dokumentiert eine politische Richtungsentscheidung in Sachsen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
+        "date": "2026-09-25T13:26:44.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/stolpersteine-heidenau-cdu-afd-ablehnung-plan-100.html",
+        "date": "2026-09-25T06:11:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
+    "agree": "Die Quellen stimmen überein, dass der Stadtrat in Heidenau einen gemeinsamen Antrag von CDU und AfD gebilligt hat, wonach keine neuen Stolpersteine mehr verlegt werden.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "note": "Erwähnt explizit, dass die Steine zur Erinnerung an Opfer des NS-Regimes dienen."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Führt ergänzend die Formulierung 'Gedenken an die Opfer der Nazi-Herrschaft ja, aber nicht mehr mit Stolpersteinen' an."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-aa11f067342689de",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-25T13:17:46.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Philipp Nimmermann wird erster Grüner im Bundesbank-Vorstand",
+    "s": "Philipp Nimmermann wechselt in den Vorstand der Deutschen Bundesbank und wird damit der erste Vertreter der Partei Bündnis 90/Die Grünen in diesem Gremium. Seine berufliche Laufbahn umfasst sowohl Tätigkeiten in der Finanzwirtschaft als auch hochrangige politische Ämter als Staatssekretär.",
+    "m": "Philipp Nimmermann schließt mit seinem Wechsel in den Bundesbank-Vorstand den Kreis zu seinen beruflichen Anfängen im Bankwesen, auf die zahlreiche Stationen als politischer Beamter folgten. Er bringt wertvolle Erfahrung aus der Energiepolitik sowie der Finanzplatzförderung mit in sein neues Amt. Zu seinen früheren politischen Stationen gehört unter anderem der Einsatz als Staatssekretär unter dem ehemaligen Wirtschaftsminister Robert Habeck. Nimmermann markiert durch seine Ernennung einen historischen Meilenstein als erster Grüner im Vorstand der deutschen Notenbank. Die genauen Hintergründe des Berufungsverfahrens und die exakte Ressortverteilung innerhalb des Bundesbank-Vorstands wurden in den Berichten nicht näher spezifiziert.",
+    "r": "Die Personalie ist relevant, da mit Nimmermann erstmals ein Vertreter der Grünen in den Vorstand der Deutschen Bundesbank einzieht und er Erfahrung aus der Energiepolitik sowie dem Finanzsektor mitbringt.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/wirtschaft/Nimmermann-wird-erster-Gruener-im-Bundesbank-Vorstand-id31348826.html",
+        "date": "2026-09-25T13:17:46.000Z"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/bundesbank-philipp-nimmermann-wird-erster-gruener-im-bundesbank-vorstand/100257431.html",
+        "date": "2026-09-25T10:15:59.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/wirtschaft/Nimmermann-wird-erster-Gruener-im-Bundesbank-Vorstand-id31348826.html",
+    "agree": "Philipp Nimmermann wird das erste Mitglied der Grünen im Vorstand der Bundesbank.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt, dass Nimmermann seine berufliche Laufbahn einst bei einer Bank begann und nun als politischer Beamter zur Notenbank wechselt."
+      },
+      {
+        "name": "Handelsblatt",
+        "note": "Betont seine spezifische Erfahrung aus der Energiepolitik und Finanzplatzförderung sowie seinen früheren Einsatz unter Ex-Wirtschaftsminister Robert Habeck."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b6b7bc8e2880c537",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T13:14:10.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Schulstreik gegen Wehrpflicht: Schülerinnen und Schüler demonstrieren gegen mögliche Wehrpflicht",
+    "s": "In der Debatte um eine Wiedereinführung der Wehrpflicht haben sich Schülerinnen und Schüler zu Wort gemeldet. Deutschlandweit gingen sie auf die Straßen.",
+    "m": "In der Debatte um eine Wiedereinführung der Wehrpflicht haben sich Schülerinnen und Schüler zu Wort gemeldet. Deutschlandweit gingen sie auf die Straßen. Zehntausende Schüler demonstrieren bundesweit gegen eine mögliche Wehrpflicht. Die Initiative \"Schulstreik gegen Wehrpflicht\" spricht von mehr als 45.000 Teilnehmern.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-09/schulstreik-wehrpflicht-proteste-schueler-musterung-wehrdienstgesetz",
+        "date": "2026-09-25T13:14:10.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/wehrpflicht-schueler-protest-demo-100.html",
+        "date": "2026-09-25T12:56:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-09/schulstreik-wehrpflicht-proteste-schueler-musterung-wehrdienstgesetz",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-188077a286b70e1b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T13:11:27.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
+    "s": "Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt.",
+    "m": "Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt. Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0NzSmlBXzNzVW84bjlmeG5OaGwzSTZ6QVFBYXA5RUxzRjVBWDc0bkI3UEU3Xy1HajJYRGFSVExRMDBnZXpXNWg2YlRXTmxVVXQ4am5oRS1uMEVFbzJJT1otamUwa3Z0OU9jSTZIUnowMC1reGw3dnpwR2h2N3F0bGZId09qSmNJTUhuQW0wSGoybllqa1FBTDBnbnAtOE0zclRPMl9iQnVUcEgzcUV1cGhzMF",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
+        "date": "2026-09-25T13:11:27.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVVXQ1BGUjhYRjZ2SkdjMkNEMVU0VDdUSVd1QlkxMzFYUmpGWGpMVmVXNFVLY09ORjVta3dwRE1ZRzdWc2VldHViMFY0YTlsUFljYlZNVkl0c2ZRNUh4UUQ3UUhRNTlQUkNHT04zbHpOWFFsYURvTkpwWnZuT3Z1eU40cTdqei1NTHFsLW1JS2xOUQ?oc=5",
+        "date": "2026-09-25T13:11:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-98c5db4206f2a2fb",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T12:28:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Was man jetzt wissen muss: VW und Audi rufen knapp eine Million Pkw in die Werkstätten",
+    "s": "Fast eine Million Fahrzeuge von VW und Audi werden zurückgerufen, das teilte das Kraftfahrt-Bundesamt mit. Es könnte zu großen Problemen mit der Lenkung kommen. Welche Modelle betroffen sind.",
+    "m": "Fast eine Million Fahrzeuge von VW und Audi werden zurückgerufen, das teilte das Kraftfahrt-Bundesamt mit. Es könnte zu großen Problemen mit der Lenkung kommen. Welche Modelle betroffen sind. Bei fast einer Million Autos des VW-Konzerns muss wohl eine Schraube ersetzt werden. Andernfalls könnte es laut Kraftfahrt-Bundesamt zu einem Ausfall der Lenkung kommen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/leben/auto/vw-und-audi-rufen-knapp-eine-million-pkw-in-die-werkstaetten-das-ist-der-grund_aid-155421613",
+        "date": "2026-09-25T12:28:00.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-audi-rueckruf-auto-lenkung-kraftfahrt-bundesamt-100.html",
+        "date": "2026-09-25T09:32:21.000Z"
+      }
+    ],
+    "url": "https://rp-online.de/leben/auto/vw-und-audi-rufen-knapp-eine-million-pkw-in-die-werkstaetten-das-ist-der-grund_aid-155421613",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0c48c7fe927fbe47",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T11:45:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Saudi-Arabien wehrt Raketenangriffe der Houthi-Rebellen ab",
+    "s": "Die von Saudi-Arabien geführte Koalition im Jemen hat nach eigenen Angaben sechs ballistische Raketen abgefangen, die von den Huthi-Rebellen abgefeuert wurden. Die Angriffe richteten sich gegen Ziele in Saudi-Arabien, darunter Taif und die Region Yanbu am Roten Meer. Infolge der Eskalation stiegen die Ölpreise auf ein Wochentischsthoch, da Sorgen vor Versorgungsunterbrechungen wachsen.",
+    "m": "Die von Saudi-Arabien angeführte Koalition im Jemen gab bekannt, dass sechs ballistische Raketen abgefangen wurden, die von den Iran-unterstützten Huthi-Rebellen gestartet worden waren. Die Geschosse zielten nach Angaben der Koalition auf Taif im Westen Saudi-Arabiens sowie auf das Gebiet Yanbu am Roten Meer, welches als Hauptalternativroute für den saudischen Öltransport dient. Die Huthi-Rebellen widersprachen teilweise und beanspruchten für sich, ein sensitives Ziel in der Hauptstadt Riad sowie saudische Aramco-Anlagen in Yanbu ins Visier genommen zu haben. Die jüngsten Angriffe schürten international die Angst vor einer Verschärfung des Konflikts und drückten die Ölpreise auf den höchsten Stand seit einer Woche.",
+    "r": "Die Angriffe auf wichtige saudische Öl- und Transportinfrastrukturen durch die Huthi-Rebellen bedrohen die globale Energieversorgung und führen unmittelbar zu steigenden Ölpreisen. Die Entwicklung verdeutlicht die anhaltende Instabilität im Jemen-Konflikt und dessen internationale wirtschaftliche Auswirkungen.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0MwRGdjN1NtYkFaMVhhdktMMEtrb0hMUHdmeU1QeTVqZGpqcHlZVkZiVTZ1Yk4xY0ZQMktfem5iTGpsY3FPS0hqZDNkbV9iMHNIVW1ZVk1yOWtiVEtWTkRreXRUTkRMYjE1NThLT0s1cTVIWUlJSGpUdWJpZE5EcEQ3SlJtcjdXV1ByNWFaMlJOeS0ydThQNWJFU1o5TTZIYk1tempn?oc=5",
+        "date": "2026-09-25T11:45:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/25/saudi-arabia-intercepts-houthi-missiles-oil-prices-climbs",
+        "date": "2026-09-25T02:54:27.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0MwRGdjN1NtYkFaMVhhdktMMEtrb0hMUHdmeU1QeTVqZGpqcHlZVkZiVTZ1Yk4xY0ZQMktfem5iTGpsY3FPS0hqZDNkbV9iMHNIVW1ZVk1yOWtiVEtWTkRreXRUTkRMYjE1NThLT0s1cTVIWUlJSGpUdWJpZE5EcEQ3SlJtcjdXV1ByNWFaMlJOeS0ydThQNWJFU1o5TTZIYk1tempn?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Saudi-Arabien Raketen der Huthi-Rebellen abgefangen hat und die Ölpreise infolgedessen auf ein Wochentischsthoch gestiegen sind.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich über eine Überschrift auf den Guardian-Bericht."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Liefert konkrete Details über die sechs abgefangenen ballistischen Raketen, die Ziele Taif und Yanbu sowie die gegensätzlichen Angaben der Huthis zu Angriffen auf Riad und Aramco-Anlagen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b99e531227a92aab",
+    "c": "DE",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-25T11:27:52.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Knapp 10.000 Rufnummern von Cyberkriminellen abgeschaltet",
+    "s": "Ermittler aus Baden-Württemberg und internationale Partner gehen gegen Cyber-Anlagebetrug vor. Tausende Rufnummern und illegale Domains wurden abgeschaltet.",
+    "m": "Ermittler aus Baden-Württemberg und internationale Partner gehen gegen Cyber-Anlagebetrug vor. Tausende Rufnummern und illegale Domains wurden abgeschaltet. Ermittler aus Baden-Württemberg und internationale Partner gehen gegen Cyber-Anlagebetrug vor. Tausende Rufnummern und illegale Domains wurden abgeschaltet.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-knapp-10-000-rufnummern-von-cyberkriminellen-abgeschaltet-100.html",
+        "date": "2026-09-25T11:27:52.000Z"
+      },
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/cyber-anlagebetrug-rufnummern-100.html",
+        "date": "2026-09-25T11:27:52.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-knapp-10-000-rufnummern-von-cyberkriminellen-abgeschaltet-100.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9b3fb7280508ce91",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T10:36:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Trump und Xi Jinping tauschen bei Staatsbankett freundliche Worte aus",
+    "s": "US-Präsident Trump und Chinas Staatschef Xi Jinping haben bei einem Staatsbankett freundliche Worte gewechselt. Trotz dieser diplomatischen Höflichkeiten und des Austauschs von Geschenken gab es jedoch kaum Fortschritte bei den zentralen Streittagen.",
+    "m": "Bei dem Treffen zeigten sich die beiden Staatslenker von ihrer diplomatischen Seite. Sie tauschten freundliche Worte und Geschenke aus. Dennoch blieben die wesentlichen Differenzen und substanziellen Probleme, die beide Länder trennen, ungelöst. Auf den entscheidenden Politikfeldern wurden keine nennenswerten Fortschritte erzielt. Die Begegnung fand im Rahmen eines feierlichen Staatsbanketts statt. Offizielle Details zu den verhandelten Kernfragen nannten die Berichte nicht. Die Gespräche verdeutlichen den fortbestehenden Gegensatz zwischen diplomatischer Fassade und harten politischen Verhandlungspositionen.",
+    "r": "Das Treffen zwischen den Führern der USA und Chinas ist für die globale Geopolitik und die bilateralen Beziehungen von hoher Bedeutung. Mangels substanzieller Ergebnisse bleibt jedoch abzuwarten, wie sich die Handels- und politischen Konflikte weiter entwickeln.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T10:36:55.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GenJfMFlDbGZJWE9QSzNfazdTNUlQcmc4SlY5YkIzMXowOXIxbU9STjVXaHktWHJhTXZMaEhxMWFkUFYzVUo3VTl5RjBDa1BTMGpKQm1HNUE4MmM?oc=5",
+        "date": "2026-09-25T10:36:55.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass Trump und Xi bei einem Staatsbankett freundliche Worte gewechselt haben und es kaum Fortschritte bei den Hauptthemen gab.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt zusätzlich den Austausch von Geschenken."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-44fdbf47dacac6fe",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T09:16:49.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Die Waldrappe der Überlinger Kolonie haben die Alpen erfolgreich überquert",
+    "s": "Die Überlinger Waldrappe sind in Norditalien angekommen. Dass die Tiere erneut selbstständig losgeflogen sind, ist ein Erfolg. Auch die menschengeführte Migration steht kurz vor dem Ziel.",
+    "m": "Die Überlinger Waldrappe sind in Norditalien angekommen. Dass die Tiere erneut selbstständig losgeflogen sind, ist ein Erfolg. Auch die menschengeführte Migration steht kurz vor dem Ziel. Die Überlinger Waldrappe sind in Norditalien angekommen. Dass die Tiere erneut selbstständig losgeflogen sind, ist ein Erfolg. Auch die menschengeführte Migration steht kurz vor dem Ziel.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/ueberlinger-waldrappe-in-italien-angekommen-100.html",
+        "date": "2026-09-25T09:16:49.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ueberlinger-waldrappe-haben-die-alpen-erfolgreich-ueberquert-100.html",
+        "date": "2026-09-25T08:46:18.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/ueberlinger-waldrappe-in-italien-angekommen-100.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-df2d78f2411a014b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T08:44:11.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Umfrage: 67 Prozent glauben nicht an Reformerfolg von Kanzler Merz",
+    "s": "Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann.",
+    "m": "Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann. Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann – selbst viele Unionsanhänger zweifeln.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/umfrage-67-prozent-glauben-nicht-an-reformerfolg-von-kanzler-merz-Z24QZYL3BFDBPJFCY37WUSPSLE.html",
+        "date": "2026-09-25T08:44:11.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/umfragen/id_101452262/deutsche-glauben-nicht-an-merz-reformen-afd-baut-vorsprung-in-umfrage-aus.html",
+        "date": "2026-09-25T08:41:44.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/umfrage-67-prozent-glauben-nicht-an-reformerfolg-von-kanzler-merz-Z24QZYL3BFDBPJFCY37WUSPSLE.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-6b63e931f5549088",
     "c": "INT",
     "o": "DE",
@@ -76,47 +547,6 @@
       {
         "name": "Tagesschau Regional Niedersachsen",
         "note": "hebt Norddeutschland hervor und nennt als konkreten Anlass die Musterungen für Männer ab dem Jahrgang 2008."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6c358691f202ff28",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-25T07:48:15.000Z",
-    "p": 3,
-    "st": "SN",
-    "city": "",
-    "t": "Stadtrat von Heidenau stoppt Verlegung weiterer Stolpersteine",
-    "s": "Im sächsischen Heidenau werden künftig keine neuen Stolpersteine zur Erinnerung an NS-Opfer mehr verlegt. Der Stadtrat hat einen entsprechenden Antrag von CDU und AfD gebilligt. Das Gremium sprach sich gegen diese Form des Gedenkens an die Opfer der Nazi-Herrschaft in der Stadt aus.",
-    "m": "Der Stadtrat des sächsischen Heidenau hat am entsprechenden Standort beschlossen, keine weiteren Stolpersteine zur Erinnerung an die Opfer des NS-Regimes mehr zu verlegen. Grundlage für diesen Beschluss war ein gemeinsamer Antrag der Fraktionen von CDU und AfD, der im Rat eine Mehrheit fand. Damit wird das bekannte Gedenkformat mit den im Boden eingelassenen Messingtafeln für künftige Verlegungen in der Kommune gestoppt. Das Gedenken an die Opfer der Nazi-Herrschaft soll nach dem Willen der Befürworter des Antrags zwar weiterhin möglich sein, jedoch offenbar nicht mehr in Form von Stolpersteinen. Nähere Details zur Begründung des Antrags oder zu Alternativformen des Gedenkens gehen aus den vorliegenden Berichten nicht hervor. Auch die konkreten Reaktionen von Opferverbänden oder der Landespolitik stehen in den aktuellen Meldungen noch aus.",
-    "r": "Die Entscheidung des Stadtrats von Heidenau beendet die Verlegung von Stolpersteinen in der sächsischen Kommune. Der Schritt erfolgt auf Basis eines gemeinsamen Antrags von CDU und AfD, während das allgemeine Gedenken an NS-Opfer nicht grundsätzlich infrage gestellt wird.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "url": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
-        "date": "2026-09-25T07:48:15.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/stolpersteine-heidenau-cdu-afd-ablehnung-plan-100.html",
-        "date": "2026-09-25T06:11:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der Stadtrat im sächsischen Heidenau einen gemeinsamen Antrag von CDU und AfD gebilligt hat und künftig keine neuen Stolpersteine zur Erinnerung an Opfer des NS-Regimes mehr verlegt werden.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "note": "Erwähnt explizit, dass es sich um einen Antrag von CDU und AfD handelt, der die Entscheidung herbeigeführt hat."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Ergänzt, dass das Gedenken an die Opfer der Nazi-Herrschaft grundsätzlich befürwortet wird, jedoch nicht mehr in Form von Stolpersteinen."
       }
     ],
     "chg": "",
@@ -210,7 +640,7 @@
     "o": "INT",
     "k": "umwelt",
     "lang": "de",
-    "d": "2026-09-25T07:02:45.000Z",
+    "d": "2026-09-25T07:03:56.000Z",
     "p": 2,
     "st": "",
     "city": "",
@@ -222,7 +652,7 @@
       {
         "name": "Google News World",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5",
-        "date": "2026-09-25T07:02:45.000Z"
+        "date": "2026-09-25T07:03:56.000Z"
       },
       {
         "name": "Al Jazeera",
@@ -484,10 +914,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "AfD sorgt für ersten Streit im Landtag von Sachsen-Anhalt",
-    "s": "Im Magdeburger Landtag ist es nach dem Wahlerfolg der AfD zum ersten politischen Streit gekommen. Die Rechtsaußen-Partei pocht auf eine starke Position innerhalb der Ausschüsse, um Sitzungen maßgeblich dominieren zu können. Gegen dieses Vorhaben formiert sich Widerstand bei den übrigen Parteien.",
-    "m": "Nach dem Wahlsieg der AfD im Bundesland Sachsen-Anhalt zeichnen sich im Landesparlament in Magdeburg erste deutliche Konflikte ab. Streitpunkt ist die künftige Arbeit in den Ausschüssen des Parlaments, wo sich die AfD eine machtvolle Position sichern möchte. Durch diese Option zur Blockade oder Dominanz will die Partei wesentlichen Einfluss auf die parlamentarischen Abläufe nehmen. Die anderen im Landtag vertretenen Parteien wehren sich geschlossen gegen diese Bestrebungen, um eine Handlungsfähigkeit zu bewahren und den Einfluss der AfD einzuschränken. Konkrete Details zu den genauen Ausschusssitzen oder weiteren Beteiligten wurden in den vorliegenden Berichten noch nicht genannt.",
-    "r": "Die Auseinandersetzung im Magdeburger Landtag verdeutlicht den politischen Umgang und die Konfliktlinien im Parlament nach dem Wahlerfolg der AfD. Die Debatte um Blockade-Optionen in den Ausschüssen hat unmittelbare Auswirkungen auf die parlamentarische Zusammenarbeit in Sachsen-Anhalt.",
+    "t": "Erster Streit im Magdeburger Landtag nach AfD-Vorstoß",
+    "s": "Im Landtag von Sachsen-Anhalt ist es zu ersten politischen Auseinandersetzungen nach der Landtagswahl gekommen. Auslöser ist ein Vorstoß der AfD, die sich eine Blockade-Option sichern will. Die anderen Parteien im Parlament wehren sich gegen dieses Vorgehen.",
+    "m": "Nach den jüngsten politischen Veränderungen in Sachsen-Anhalt sorgt die AfD im Magdeburger Landtag für den ersten großen Streit. Die Rechtsaußen-Partei strebt eine machtvolle Position innerhalb der Parlamentsausschüsse an, um Sitzungen künftig dominieren zu können. Die übrigen Fraktionen im Landtag betrachten diesen Vorstoß kritisch und wehren sich gegen die angestrebte Blockade-Option der AfD. Der Konflikt markiert den Auftakt für verschärfte Machtkämpfe und Kooperationshürden im neuen Landesparlament. Bislang ist unklar, wie die anderen Parteien den Einfluss der AfD in den Ausschüssen formal verhindern oder einschränken können. Die Situation verdeutlicht die neuen parlamentarischen Herausforderungen nach dem Wahlerfolg der AfD in Sachsen-Anhalt.",
+    "r": "Der Streit im Magdeburger Landtag zeigt die konkreten parlamentarischen Machtkämpfe nach dem Wahlerfolg der AfD. Die Auseinandersetzung verdeutlicht die schwierige Findung von Arbeitsstrukturen und Mehrheiten im Landesparlament von Sachsen-Anhalt.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -501,7 +931,7 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass es nach dem Wahlsieg der AfD im Magdeburger Landtag zu einem ersten Streit wegen einer angestrebten Blockade-Option in den Ausschüssen kommt.",
+    "agree": "",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -542,6 +972,43 @@
       {
         "name": "RND",
         "note": "Nennt das konkrete Gebäude als ein ehemaliges Hostel in Berlin-Friedrichshain."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2fbc01f6b18b784f",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T04:06:00.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Militärkolonne fährt bei Übung durch Hamburg",
+    "s": "Im Rahmen der zivil-militärischen Übung Red Storm Charlie ist es am ersten Tag zu einer nächtlichen Militärkolonne durch Hamburg gekommen. Die Polizei musste dabei eine Blockade durch Aktivisten verhindern.",
+    "m": "Die Übung mit dem Namen Red Storm Charlie hat begonnen und führte am ersten Tag zu einem nächtlichen Konvoi einer Militärkolonne durch das Hamburger Stadtgebiet. Begleitet wurde die Aktion von Protesten. Aktivisten versuchten, den Konvoi zu blockieren, was jedoch durch das Eingreifen der Polizei verhindert werden konnte. Weitere Details zum genauen Ablauf, den beteiligten Streitkräften oder der Dauer der Übung gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die Meldung ist relevant, da eine militärische Übung mit Fahrzeugkolonnen im öffentlichen Stadtraum von Hamburg und damit verbundenen Polizeieinsätzen gegen Aktivisten das öffentliche Leben und die Sicherheit betreffen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-militaerkolonne-faehrt-durch-hamburg,redstormcharlie-128.html",
+        "date": "2026-09-25T04:06:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnBhWm5tdEwzZHY1ZWVQVHZjVklrV1RKeHlOZU9hVHVzTGtwb0VJOFA5S2Nfa0hMSE5qVDNlV05qNUxFQ0dROUlIZ1BxUG4wbUdLNzBETlI4VElQb25OUGFyNHc5SFA4a1R5Y3RIUjNuR2Q1cm5kR3pWRzJING5aMzBfaXhvbG9BQzJIMjFlMTN3YjhkQ004M0tBMmxFT3c1OTJxcXItcHhvNGlyclFkWnJnUEo1eUpscWc?oc=5",
+        "date": "2026-09-25T04:06:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-militaerkolonne-faehrt-durch-hamburg,redstormcharlie-128.html",
+    "agree": "Beide Quellen stimmen überein, dass eine Militärkolonne im Rahmen der Übung Red Storm Charlie durch Hamburg gefahren ist und die Polizei eine Blockade durch Aktivisten verhindert hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist zusätzlich auf den Originalbericht des NDR."
       }
     ],
     "chg": "",
@@ -626,19 +1093,56 @@
     "independent": 2
   },
   {
+    "id": "story-85ea66a21bdd1f1b",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T01:27:10.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Gipfeltreffen zwischen den Führern von Peking und Washington",
+    "s": "Die Staats- und Regierungschefs der weltweit einflussreichsten Mächte sind zu einem persönlichen Treffen zusammengekommen. Das Ereignis wirft Fragen über den Verlauf und die Ergebnisse der Gespräche auf. Eine Auslandskorrespondentin der BBC analysiert die Situation für beide Staaten. Bisher ist unklar, welche konkreten Vereinbarungen getroffen wurden.",
+    "m": "Die beiden mächtigsten Männer der Welt haben sich zu einem direkten Gespräch getroffen. Das Treffen wird von internationalen Medien und Beobachtern intensiv verfolgt. Die BBC-China-Korrespondentin Laura Bicker ordnet die Reise und deren Bedeutung für Peking und Washington ein. Konkrete Details zu den besprochenen Themen, Verträgen oder diplomatischen Durchbrüchen wurden in den kurzen Meldungen noch nicht genannt. Auch der genaue Ort und die Dauer des Gipfels gehen aus den vorliegenden Texten nicht hervor. Das Treffen markiert jedoch einen wichtigen Moment in den bilateralen Beziehungen der Supermächte. Weitere Analysen zur Reaktion der jeweiligen Regierungen und der Weltöffentlichkeit stehen noch aus.",
+    "r": "Das Treffen der beiden führenden Weltmächte besitzt hohe geopolitische Relevanz für die internationale Stabilität. Die Analyse der Ergebnisse ist entscheidend für das künftige Verhältnis zwischen den Regierungen in Peking und Washington.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T01:27:10.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdVpJb1pQZy1XdjF3RVdnV0dVenhGdzZZX0hmQlQ2MjVJS2I2QngzLWR2QU54OEZkejFkOHQtT1JXVUN0YVZha1NNRExiZUZDWDl0M2lmV1M?oc=5",
+        "date": "2026-09-25T01:27:10.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen berichten über ein Treffen der beiden mächtigsten Männer der Welt, das von der BBC analysiert wird.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist auf ein Video (Watch) über das Treffen, das ursprünglich von der BBC stammt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-421e867adc29ffc3",
     "c": "INT",
     "o": "INT",
     "k": "politik",
     "lang": "de",
     "d": "2026-09-25T00:03:32.000Z",
-    "p": 5,
+    "p": 4,
     "st": "",
     "city": "",
     "t": "Xi Jinping und Donald Trump beraten über Vermeidung von US-China-Konflikten",
-    "s": "Chinas Staatspräsident Xi Jinping hat bei einem Treffen mit dem US-amerikanischen Präsidenten Donald Trump im Weißen Haus Vorschläge zur Entspannung der bilateralen Beziehungen unterbreitet. Angesichts starker Konkurrenz in den Bereichen Künstliche Intelligenz und Handel forderte Xi eine umfassende Zusammenarbeit. Ziel sei es, einen militärischen Konflikt zwischen den beiden Supermächten zu verhindern. Das Treffen fand im September 2026 statt.",
-    "m": "Im Rahmen eines Gipfeltreffens im Weißen Haus ist der chinesische Präsident Xi Jinping mit dem US-Präsidenten Donald Trump zusammengekommen. Xi legte dabei Bedingungen und Vorschläge für ein gegenseitiges Verständnis vor, um einen militärischen Konflikt zwischen den beiden Ländern abzuwenden. Er warnte vor der sogenannten Thukydides-Falle, die die USA und China auf einen Kollisionskurs bringen könnte. Die Gespräche finden vor dem Hintergrund intensiver Spannungen und starker Konkurrenz statt, insbesondere in den Bereichen Künstliche Intelligenz, Handel und die Taiwan-Frage. Xi betonte, dass der eingeschlagene Weg zu gegenseitigem Gewinn führen solle. Konkrete Vereinbarungen oder Ergebnisse des Treffes über die dargelegten Bedingungen hinaus wurden in den vorliegenden Berichten bisher nicht genannt.",
-    "r": "Das Treffen zwischen Xi Jinping und Donald Trump ist von hoher geopolitischer Relevanz, da es um die Vermeidung eines militärischen Konflikts zwischen den beiden weltgrößten Wirtschaftsmächten geht. Die Beziehungen sind durch Konflikte bei Handel, Technologie und Taiwan stark belastet.",
+    "s": "Der chinesische Präsident Xi Jinping hat bei einem Gipfeltreffen mit US-Präsident Donald Trump im Weißen Haus Vorschläge zur Entspannung der bilateralen Beziehungen vorgelegt. Angesichts intensiver Konkurrenz in Bereichen wie Künstliche Intelligenz und Handel mahnte Xi eine umfangreiche Zusammenarbeit an. Ziel müsse es sein, eine militärische Kollision und die sogenannte Thukydides-Falle zu vermeiden. Das Treffen markiert einen wichtigen diplomatischen Austausch zwischen den beiden Supermächten.",
+    "m": "Bei dem Gipfeltreffen im Weißen Haus legte der chinesische Präsident Xi Jinping Bedingungen für ein gegenseitiges Verständnis vor, um einen militärischen Konflikt zwischen den USA und China zu verhindern. Xi forderte eine weitreichende Kooperation zwischen Washington und Peking. Hintergrund des Treffens sind stark steigende Spannungen und intensiver Wettbewerb in strategischen Zukunftsfeldern wie Künstlicher Intelligenz, dem internationalen Handel sowie der Taiwan-Frage. Xi warnte explizit vor der sogenannten Thukydides-Falle, die die beiden Großmächte auf einen militärischen Kollisionskurs treiben könnte. Konkrete Vereinbarungen oder Ergebnisse des Treffens wurden in den vorliegenden Auszügen nicht genannt. Das Treffen verdeutlicht jedoch den anhaltenden Bedarf beider Staaten, trotz wachsender Rivalität im direkten Dialog zu bleiben.",
+    "r": "Das Treffen zwischen US-Präsident Donald Trump und Chinas Präsident Xi Jinping ist von hoher geopolitischer Bedeutung für die Vermeidung militärischer Konflikte und die Bewältigung des Handels- sowie Technologiewettbewerbs zwischen den beiden Supermächten.",
     "srcs": [
       {
         "name": "Google News World",
@@ -652,15 +1156,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5",
-    "agree": "",
+    "agree": "Die Quellen stimmen überein, dass Xi Jinping bei einem Treffen mit Trump Bedingungen und Vorschläge vorgelegt hat, um einen US-China-Militärkonflikt zu vermeiden.",
     "diff": [
       {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf die Berichterstattung des Guardian über das Treffen von Xi Jinping und Trump zur Vermeidung eines US-China-Konflikts."
-      },
-      {
         "name": "Guardian World",
-        "note": "Berichtet ausführlich, dass Xi Jinping bei einem Gipfeltreffen mit Donald Trump im Weißen Haus Bedingungen zur Vermeidung der Thukydides-Falle und eines militärischen Konflikts nannte, wobei er Themen wie KI, Handel und Taiwan ansprach."
+        "note": "Berichtet detailliert, dass das Treffen im Weißen Haus stattfand und Xi Jinping vor der 'Thukydides-Falle' warnte sowie Spannungen bei KI, Handel und Taiwan als Hintergrund nannte."
       }
     ],
     "chg": "",
@@ -677,9 +1177,9 @@
     "st": "",
     "city": "",
     "t": "Indischer Film Angh aus Nagaland nimmt Kurs auf Oscars",
-    "s": "Der indische Spielfilm Angh unter der Regie von Theja Rio hat nach einem bedeutenden Erfolg beim Toronto International Film Festival internationale Aufmerksamkeit erlangt. Das Werk beleuchtet eine selten gesehene Welt aus dem nordostindischen Bundesstaat Nagaland und befindet sich nun auf dem Weg zu den Oscars. Es repräsentiert eine bedeutende kulturelle Stimme dieser Region auf der globalen Filmbühne.",
-    "m": "Der Film Angh stammt aus dem nordostindischen Bundesstaat Nagaland und wurde von Theja Rio ins Leben gerufen. Nach einem großen Erfolg beziehungsweise einer wichtigen Auszeichnung beim Toronto Film Festival steht das Werk vor dem Sprung in das globale Kino und visiert die Teilnahme an den Oscars an. Die Produktion öffnet ein filmisches Fenster in eine Region, deren Lebenswelten und Geschichten bislang nur selten im internationalen Kino vertreten waren. Konkrete Details zur Handlung oder weiteren Beteiligten nennen die vorliegenden Berichte nicht. Der Erfolg in Toronto markiert einen Meilenstein für die regionale Filmindustrie im Nordosten Indiens und unterstreicht das wachsende Interesse an diversen kulturellen Erzählungen weltweit. Offene Fragen betreffen den genauen Veröffentlichungstermin im Rahmen der Oscar-Kampagne und mögliche internationale Vertriebspartner.",
-    "r": "Die internationale Aufmerksamkeit für einen regionalen Film aus Nagaland zeigt die zunehmende Sichtbarkeit alternativer kultureller Perspektiven auf dem globalen Kinomarkt. Solche Erfolge können langfristig das Profil kleinerer Filmindustrien auf internationaler Ebene stärken.",
+    "s": "Der Film Angh von Regisseur Theja Rio aus dem indischen Bundesstaat Nagaland hat nach einem grossen Erfolg beim Filmfestival in Toronto internationale Aufmerksamkeit erlangt. Das Werk bringt eine selten gesehene Welt des nordöstlichen Indiens ins globale Kino. Nun befindet sich der Film auf dem Weg Richtung Oscar-Verleihung.",
+    "m": "Der Film Angh unter der Regie von Theja Rio stammt aus dem im Nordosten Indiens gelegenen Bundesstaat Nagaland. Nach einer erfolgreichen und bedeutenden Auszeichnung beziehungsweise einem grossen Gewinn beim Toronto International Film Festival steht das Werk im Fokus der internationalen Filmlandschaft. Die Produktion zeichnet sich dadurch aus, dass sie eine Kultur und Region beleuchtet, die im weltweiten Kino bisher selten repräsentiert wurde. Durch den Erfolg in Toronto öffnen sich für das Projekt nun konkrete Türen und Wege hin zu einer Einreichung oder Berücksichtigung bei den kommenden Oscar-Verleihungen. Weitere Details zum genauen Inhalt des Films oder zu den beteiligten Darstellern wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Der Erfolg eines Films aus einer abgelegenen Region Indiens bei einem internationalen Festival und die damit verbundene Oscar-Perspektive bereichert das globale Kino um neue kulturelle Perspektiven.",
     "srcs": [
       {
         "name": "BBC World",
@@ -693,11 +1193,11 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass der indische Film Angh von Theja Rio nach einem Erfolg in Toronto den Weg zu den Oscars beschreitet und Nagaland im globalen Kino repräsentiert.",
+    "agree": "Die Quellen stimmen überein, dass der Film Angh von Theja Rio aus Nagaland nach einem Erfolg in Toronto auf dem Weg zu den Oscars ist.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Erwähnt im Titel zusätzlich den Regisseur Theja Rio."
+        "note": "Verweist direkt auf die BBC-Berichterstattung über den Film Angh von Theja Rio in Toronto."
       }
     ],
     "chg": "",
@@ -713,10 +1213,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Iran bietet Öffnung der Straße von Hormus unter Bedingungen an",
-    "s": "Der Iran hat dem US-gewählten Präsidenten Donald Trump einen Vorschlag zur Öffnung der strategisch wichtigen Straße von Hormus innerhalb von sechs Tagen unterbreitet. Die Regierung in Teheran knüpft das Angebot an weitreichende Gegenleistungen der Vereinigten Staaten. Bislang steht eine offizielle Reaktion aus Washington noch aus.",
-    "m": "Dem Vorschlag zufolge soll die Blockade der Straße von Hormus nach sechs Tagen aufgehoben und bereits am darauffolgenden Tag mit Gesprächen über das iranische Atomprogramm begonnen werden. Im Gegenzug fordert Teheran von den USA die Aufhebung der Sanktionen gegen iranische Ölexporte, das Ende militärischer Auseinandersetzungen an allen Fronten einschließlich des Libanon sowie die Freigabe eingefrorener iranischer Vermögenswerte. Die Initiative zielt darauf ab, die im Juni in einem Memorandum of Understanding vereinbarten Schritte zu beschleunigen und den Zeitplan für nukleare Verhandlungen deutlich zu verkürzen.",
-    "r": "Die Initiative betrifft fundamentale Fragen der regionalen Sicherheit, des internationalen Energiehandels und der weltweiten Diplomatie. Ein möglicher Durchbruch könnte drastische Auswirkungen auf die Märkte und die geopolitische Lage im Nahen Osten haben.",
+    "t": "Iran schlägt US-Regierung Öffnung der Straße von Hormus vor",
+    "s": "Iran hat Donald Trump ein weitreichendes Abkommen zur Entspannung der Lage im Nahen Osten vorgeschlagen. Die Initiative sieht unter anderem die Öffnung der strategisch wichtigen Straße von Hormus innerhalb von sechs Tagen vor. Teheran wartet nun auf eine Reaktion der US-Regierung auf die übermittelten Bedingungen.",
+    "m": "Das iranische Angebot knüpft an ein bereits im Juni unterzeichnetes Memorandum of Understanding zwischen den USA und dem Iran an. Kernpunkte des Vorschlags sind die Wiederöffnung der Straße von Hormus nach sechs Tagen sowie der Beginn von Verhandlungen über das iranische Atomprogramm am Folgetag. Als Gegenleistung fordert Teheran jedoch, dass die USA sämtliche Sanktionen gegen die iranischen Ölexporte aufheben, die Kriege an allen Fronten einschließlich des Libanon beenden und einen Teil der eingefrorenen iranischen Vermögenswerte freigeben. Durch dieses Vorgehen soll der Zeitplan des früheren Abkommens deutlich beschleunigt werden. Die Initiative soll dem Iran die Möglichkeit geben, diplomatische Schritte zu beschleunigen, während die internationale Gemeinschaft auf eine offizielle Antwort der US-Regierung wartet.",
+    "r": "Die Initiative betrifft die globale Energiesicherheit, die Handelsschifffahrt im Nahen Osten sowie die internationale Atomdiplomatie. Eine Einigung könnte erhebliche Auswirkungen auf die weltweiten Ölmärkte und die militärische Lage in der Region haben.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -730,15 +1230,11 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
-    "agree": "Die Quellen stimmen überein, dass der Iran auf eine Antwort von Donald Trump bezüglich eines Vorschlags zur Öffnung der Straße von Hormus in sechs Tagen wartet.",
+    "agree": "Iran hat den USA einen Vorschlag zur Öffnung der Straße von Hormus und zur Wiederaufnahme von Atomgesprächen unterbreitet und wartet auf eine Reaktion von Donald Trump.",
     "diff": [
       {
-        "name": "Guardian World",
-        "note": "Berichtet detailliert über die Bedingungen wie die Aufhebung von Ölsanktionen, das Ende des Krieges im Libanon, die Freigabe eingefrorener Vermögenswerte und den Bezug zum Memorandum of Understanding vom Juni."
-      },
-      {
         "name": "Google News World",
-        "note": "Liefert lediglich eine Schlagzeilen-Verweisung auf den Artikel des Guardian."
+        "note": "Verweist lediglich auf den Bericht des Guardian ohne zusätzliche Details."
       }
     ],
     "chg": "",
@@ -755,9 +1251,9 @@
     "st": "RP",
     "city": "",
     "t": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter",
-    "s": "Bundestagspräsidentin Klöckner hat sich positiv über die Regelung in Rheinland-Pfalz geäußert, wonach extremistische Mitarbeiter von Abgeordneten kein öffentliches Geld erhalten sollen. Sie prüft nun, ob ein solches Verbot auch auf den Bund übertragen werden kann. Damit soll verhindert werden, dass verfassungsfeindliche Personen durch parlamentarische Gelder finanziert werden.",
-    "m": "Die Debatte um den Ausschluss extremistischer Mitarbeiter von parlamentarischen Geldern gewinnt an Fahrt. Auslöser ist eine bereits bestehende Regelung in Rheinland-Pfalz, die den Einsatz von staatlichen Mitteln für solche Personen untersagt. Bundestagspräsidentin Klöckner hält dieses Vorgehen für vorbildlich und sieht darin einen möglichen Ansatz für den Deutschen Bundestag. Bislang ist unklar, wie eine genaue Umsetzung auf Bundesebene rechtlich ausgestaltet und kontrolliert werden könnte. Kritiker und Befürworter diskutieren gleichermaßen über die Verhältnismäßigkeit und die Hürden bei der Überprüfung von Mitarbeitern. Der Vorstoß reiht sich in breitere Bemühungen ein, demokratische Institutionen vor extremistischen Einflüssen zu schützen.",
-    "r": "Die Diskussion berührt grundlegende Fragen der Integrität und Sicherheitsüberprüfung im parlamentarischen Raum. Eine mögliche Ausweitung der Regelung auf den Bund könnte die Arbeitsbedingungen und Personalvorgaben für alle Bundestagsabgeordneten maßgeblich verändern.",
+    "s": "Bundestagspräsidentin Klöckner hält die in Rheinland-Pfalz geltende Regelung, wonach extremistische Mitarbeiter von Abgeordneten kein öffentliches Geld erhalten, für ein mögliches Vorbild für den Bund. Die Praxis soll verhindern, dass verfassungsfeindliche Kräfte über Parlamentsmitarbeiter staatlich unterstützt werden. Bislang wird geprüft, ob sich dieses Modell auf die Bundesebene übertragen lässt.",
+    "m": "Die Bundestagspräsidentin Klöckner hat sich positiv über die Regelung in Rheinland-Pfalz geäußert, die den Einsatz von staatlich finanzierten Mitarbeitern mit extremistischem Hintergrund bei Abgeordneten unterbindet. Diese Vorgehensweise dient dem Schutz demokratischer Institutionen vor verfassungsfeindlichen Bestrebungen im direkten parlamentarischen Umfeld. Ob und in welcher Form eine solche Bestimmung konkret in den Bundestagsregeln verankert werden kann, ist Gegenstand laufender Beratungen und Überlegungen. Befürworter sehen darin einen wichtigen Schritt zur Stärkung der parlamentarischen Wehrhaftigkeit. Kritische Stimmen oder Details zu möglichen Umsetzungshürden wurden in den Berichten nicht genannt. Die finanzielle Entkopplung von Extremisten soll Transparenz und Vertrauen in die Volksvertretung sichern.",
+    "r": "Die Debatte berührt grundlegende Sicherheitsfragen und die Integrität parlamentarischer Abläufe im Bund und in den Ländern. Die mögliche Ausweitung auf den Bundestag könnte bundesweit Maßstäbe im Umgang mit Extremismus im politischen Raum setzen.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -771,17 +1267,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/rlp-abgeordneten-gesetz-vorbild-bundestag-kloeckner-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Bundestagspräsidentin Klöckner der rheinland-pfälzischen Regelung gegen extremistische Mitarbeiter von Abgeordneten Modellcharakter für den Bund beimisst.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet unter dem Titel 'Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter'."
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Berichtet unter dem Titel 'Nach RLP auch bald im Bund? Kein Geld für extremistische Parlaments-Mitarbeiter'."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass die Regelung aus Rheinland-Pfalz keinen Cent öffentlichen Geldes für extremistische Mitarbeiter von Abgeordneten vorsieht und Bundestagspräsidentin Klöckner darin einen Modellcharakter für den Bund sieht.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -868,6 +1355,43 @@
     "independent": 2
   },
   {
+    "id": "story-6f1c2cb4f12b550d",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-24T18:30:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Donald Trump empfängt den chinesischen Präsidenten Xi Jinping im Weißen Haus",
+    "s": "US-Präsident Donald Trump hat den chinesischen Präsidenten Xi Jinping am Donnerstag im Weißen Haus empfangen. Das Treffen der beiden führenden Politiker fand in ungewohntem Rahmen in Washington statt. Der Guardian berichtete über das Ereignis und beleuchtete die Dynamik zwischen den beiden Staatsmännern. Weitere offizielle Details zum genauen Verlauf der Gespräche wurden in den Meldungen zunächst nicht genannt.",
+    "m": "Der US-Präsident Donald Trump hat den chinesischen Präsidenten Xi Jinping am Donnerstag im Weißen Haus empfangen. Der chinesische Staatschef gilt als führender Vertreter eines autoritären Systems, das die Medienfreiheit stark einschränkt und demokratische Wahlen ablehnt. Das Zusammentreffen der beiden Politiker im traditionsreichen Weißen Haus bot ein Bild, das es in der über zweijährigen Geschichte des Gebäudes in dieser Form selten gegeben hat. Beobachter und Medienberichte thematisierten im Vorfeld oder Nachgang auch das Verhältnis zu anderen internationalen Akteuren wie dem russischen Präsidenten Wladimir Putin. Konkrete Ergebnisse, Vereinbarungen oder offizielle Erklärungen zu den Inhalten des Treffens gehen aus den vorliegenden Berichten jedoch nicht hervor. Die Einordnung der Begegnung konzentrierte sich stark auf den symbolischen Charakter des Besuchs und die persönliche Dynamik zwischen Trump und dem chinesischen Amtskollegen.",
+    "r": "Das Treffen zwischen US-Präsident Donald Trump und dem chinesischen Staatschef Xi Jinping im Weißen Haus ist ein bemerkenswertes diplomatisches Ereignis zwischen zwei weltweit führenden Großmächten. Die Begegnung wirft Fragen zur internationalen Politik und den Beziehungen zwischen autoritär geprägten Führungsstilen und westlichen Demokratien auf.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
+        "date": "2026-09-24T18:30:54.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEU4cmF5RWN2OE9MMm1jM0IweUZCcTBIM00xQk5BZVpOZEh5UjdCaXRCVWEyYlZWZ1d1QzFnNVlTVkRyMXVHaWFkcjFhankxZ3Y0dzcteUJFTk8wakk0dnp6ZGs4NUcxOGxVaUdOQ0hqSUdGRWFlX1hRVVZ2M2MxRUw2VEZ1aEVqLWtycA?oc=5",
+        "date": "2026-09-24T18:30:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
+    "agree": "Die Quellen sind sich einig, dass US-Präsident Donald Trump den chinesischen Präsidenten Xi Jinping im Weißen Haus empfangen hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel von The Guardian und enthält keine zusätzlichen Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-3299f79dacae8e24",
     "c": "INT",
     "o": "UK",
@@ -877,10 +1401,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Australien enthüllt OpenAI-Hack vor den Vereinten Nationen",
-    "s": "Australien hat einen Hack im Zusammenhang mit OpenAI öffentlich bekannt gegeben. Die Bekanntmachung erfolgte auf der politischen Bühne der Vereinten Nationen. Das Land hat zuvor strenge Vorschriften für soziale Medien erlassen.",
-    "m": "Australien hat auf der Weltbühne der Vereinten Nationen einen Hack im Zusammenhang mit OpenAI enthüllt. Das Land ist bereits für strenge Einschränkungen bei sozialen Medien bekannt. Zudem wurden Vorschläge für Kontrollen von Algorithmen und intelligenten Brillen gemacht. Warum sich Australien ausgerechnet für diesen hochrangigen politischen Rahmen für die Bekanntgabe entschied, ist Gegenstand der Berichterstattung. Weitere technische Details oder konkrete Folgen des Hacks wurden in den vorliegenden Berichten nicht genannt. Die Bekanntmachung unterstreicht jedoch die internationale Dimension australischer Digital- und Regulierungspolitik. Es bleibt offen, welche konkreten Sicherheitslücken oder Datenabflüsse vorlagen.",
-    "r": "Die Bekanntmachung eines OpenAI-Hacks durch einen Staat auf internationaler Bühne zeigt die wachsende Bedeutung von Cybersicherheit und KI-Regulierung. Sie verdeutlicht das Bestreben von Regierungen, digitale und technologische Vorfälle in globalen Gremien zu thematisieren.",
+    "t": "Australien macht OpenAI-Hack auf der UN-Bühne öffentlich",
+    "s": "Australien hat einen Hack von OpenAI öffentlich gemacht und dafür die Bühne der Vereinten Nationen gewählt. Die Bekanntgabe erfolgt vor dem Hintergrund strenger australischer Social-Media-Beschränkungen. Zudem hat das Land bereits Kontrollen für Algorithmen und Smart Glasses vorgeschlagen.",
+    "m": "Australien hat einen Sicherheitsvorfall im Zusammenhang mit OpenAI auf der weltweit größten politischen Bühne, den Vereinten Nationen, offengelegt. Bislang ist bekannt, dass diese ungewöhnliche Wahl der Plattform im Kontext der strikten australischen Gesetzgebung zur digitalen Überwachung steht. Das Land hat in der Vergangenheit bereits strenge Beschränkungen für soziale Medien erlassen. Darüber hinaus liegen Vorschläge vor, die Kontrolle über Algorithmen sowie den Einsatz von Smart Glasses zu regulieren. Weitere technische Details zu dem Hack oder konkrete Auswirkungen wurden in den vorliegenden Berichten noch nicht genannt. Der Vorfall unterstreicht jedoch die wachsende Bedeutung staatlicher Regulierung im Bereich Künstlicher Intelligenz.",
+    "r": "Die Bekanntgabe eines Hacks an einem so prominenten Ort wie der UN verdeutlicht die zunehmende geopolitische Relevanz von KI-Sicherheit. Sie zeigt zudem, wie Staaten versuchen, Technologie- und Regulierungsfragen auf internationaler Ebene zu verknüpfen.",
     "srcs": [
       {
         "name": "BBC World",
@@ -898,7 +1422,7 @@
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC mit gleichem Titel."
+        "note": "Verweist lediglich auf den Artikel der BBC mit exakt derselben Überschrift."
       }
     ],
     "chg": "",
