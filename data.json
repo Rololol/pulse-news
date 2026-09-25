@@ -1,5 +1,462 @@
 [
   {
+    "id": "story-59938ddbc7a4f462",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T21:30:07.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Paula Löber aus Sachsen-Anhalt ist die 78. Deutsche Weinkönigin",
+    "s": "Paula Löber hat sich im Finale gegen vier Mitbewerberinnen durchgesetzt und ist zur 78. Deutschen Weinkönigin gewählt worden. Die Krone wurde ihr von ihrer Vorgängerin Anna Zenz überreicht. Sie kommt aus dem Bundesland Sachsen-Anhalt.",
+    "m": "Die Wahl zur 78. Deutschen Weinkönigin fand im Finale statt, in dem Paula Löber gegen vier Mitbewerberinnen antrat und den Sieg davontrug. Nach ihrem Erfolg wurde ihr die Krone feierlich von ihrer Vorgängerin Anna Zenz verliehen. Die neue Weinkönigin stammt aus Sachsen-Anhalt. Die Berichterstattung beschränkt sich im Wesentlichen auf die Bekanntgabe des Wahlergebnisses, der Herkunft der Siegerin und die Amtsübergabe. Weitere Details zum Ablauf des Wettbewerbs, zur Dauer der Amtszeit oder zu den weiteren Platzierten wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Wahl der Deutschen Weinkönigin ist ein traditionsreiches Ereignis im Bereich des deutschen Weinbaus und der Kultur. Die Bekanntgabe der neuen Amtsträgerin zeigt, wer die Interessen der Weinregionen im kommenden Jahr vertreten wird.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/rhein-main/paula-loeber-die-neue-deutsche-weinkoenigin-kommt-aus-sachsen-anhalt-201264383.html",
+        "date": "2026-09-25T21:30:07.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/25/paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin",
+        "date": "2026-09-25T21:05:55.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/rhein-main/paula-loeber-die-neue-deutsche-weinkoenigin-kommt-aus-sachsen-anhalt-201264383.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Paula Löber aus Sachsen-Anhalt zur neuen Deutschen Weinkönigin gewählt wurde.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Berichtet zusätzlich, dass sie sich gegen vier Mitbewerberinnen im Finale durchgesetzt hat und die Krone von ihrer Vorgängerin Anna Zenz verliehen bekam."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b6b7bc8e2880c537",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T21:25:41.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Zehntausende Schüler demonstrieren bundesweit gegen mögliche Wehrpflicht",
+    "s": "Bundesweit haben zehntausende Schülerinnen und Schüler gegen eine mögliche Wiedereinführung der Wehrpflicht demonstriert. Zu den Protesten hatte die Initiative Schulstreik gegen Wehrpflicht aufgerufen. Es fanden zahlreiche Kundgebungen im gesamten Bundesgebiet statt.",
+    "m": "Die Initiative Schulstreik gegen Wehrpflicht sprach nach den Demonstrationen von rund 100 Kundgebungen im ganzen Land. Insgesamt beteiligten sich mehr als 45.000 Menschen an den Protesten der Schülerinnen und Schüler. Die Demonstrationen richteten sich explizit gegen die politische Debatte um eine mögliche Wiederbelebung der Wehrpflicht. Nähere Angaben zu konkreten Städten oder polizeilichen Schätzungen wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die bundesweiten Schülerproteste verdeutlichen die große Sorge und Mobilisierungsfähigkeit junger Menschen angesichts aktueller sicherheitspolitischer Debatten und möglicher neuer Pflichten für den Staatsdienst.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
+        "date": "2026-09-25T21:25:41.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGRzWHF0ZVUyM19CcThvX2dvMkI2aTZEY3hZU3dkOHhBVERLUkhHb3hfNmxMdHM1TjFhOEV0OVJsd2JyNDRjTHlpOG1jSnNxeUtxYlM5YzZSR29jSmpOWVVkellYb1FyUGhLYVJReFB3WnZmckx1LUxEV2swT1NfSThLa1RRTWk0djN6TTFqRDNnMnFqWko0RWE4andERnRNbVRoV3kyOF94cC1kaERNUGNOWjBxcWd2enBBSg?oc=5",
+        "date": "2026-09-25T13:14:10.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/wehrpflicht-schueler-protest-demo-100.html",
+        "date": "2026-09-25T12:56:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
+    "agree": "Die Quellen stimmen darin überein, dass zehntausende Schüler bundesweit gegen eine mögliche Wehrpflicht demonstriert haben und die Initiative Schulstreik gegen Wehrpflicht von über 45.000 Teilnehmern spricht.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt konkret, dass es rund 100 Demonstrationen gab."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf DIE ZEIT als ursprüngliche Publikation."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-77fa88d2e9cdf16b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T21:25:41.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundesrat beschließt neue Haftungsregeln für E-Scooter-Vermieter",
+    "s": "Opfer von Unfällen mit E-Scootern sollen künftig leichter an Schadensersatz gelangen. Der Bundesrat hat einem entsprechenden Gesetz zugestimmt. Damit ändern sich die bisherigen Haftungsregeln grundlegend für die Anbieter.",
+    "m": "Durch den Beschluss des Bundesrates soll das Haftungsrisiko bei E-Scooter-Unfällen künftig direkt bei den Vermietern liegen. Dies soll betroffenen Unfallopfern ermöglichen, deutlich einfacher und unkomplizierter Schadensersatz einzufordern. Die Gesetzesänderung schließt eine bisherige rechtliche Lücke im Umgang mit den beliebten Leihfahrzeugen im Straßenverkehr. Bislang war die Geltendmachung von Ansprüchen für Geschädigte oft mit erheblichen Hürden verbunden, da die direkte Haftung der Halter oder Vermieter nicht in dieser Form geregelt war. Nähere Details zum genauen Zeitpunkt des Inkrafttretens oder zu den Übergangsfristen für die Unternehmen wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Neuregelung betrifft die Sicherheit im Straßenverkehr sowie zivilrechtliche Ansprüche von Unfallopfern und schließt rechtliche Lücken im Umgang mit gewerblichen E-Scooter-Angeboten.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/kuenftig-haften-auch-vermieter-von-e-scootern-bei-unfaellen-100.html",
+        "date": "2026-09-25T21:25:41.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
+        "date": "2026-09-25T12:06:53.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/kuenftig-haften-auch-vermieter-von-e-scootern-bei-unfaellen-100.html",
+    "agree": "Die Quellen sind sich einig, dass der Bundesrat einem Gesetz zugestimmt hat, wonach Vermieter beziehungsweise Halter von E-Scootern künftig bei Unfällen haften und Unfallopfer dadurch leichter Schadensersatz erhalten.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt explizit die Vermieter von E-Scootern als künftige Haftende."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Spricht allgemein von Haltern und führt aus, dass der Bundesrat einem entsprechenden Gesetz zugestimmt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-abc8855d35fffce4",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T21:15:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst warnt bei Frankreich-Reise vor Verlust der Menschlichkeit durch KI",
+    "s": "Papst Leo hat zum Auftakt seiner Reise nach Frankreich vor den Gefahren von Maschinen und künstlicher Intelligenz gewarnt. Er äußerte existenzielle Bedenken hinsichtlich des wissenschaftlichen Fortschritts und betonte, dass eine technisierte Welt die Menschheit untergraben könnte. Die Rede fand am ersten Tag seines Besuchs in Frankreich statt.",
+    "m": "Zum Auftakt seiner Reise nach Frankreich hat Papst Leo eine deutliche Warnung vor den Risiken einer stark technisierten Zukunft ausgesprochen. Er sprach von einem drohenden Verlust der Menschlichkeit durch den Einsatz von KI-Maschinen und warnte vor einem sogenannten Paradies der Maschinen. Neben dem wissenschaftlichen Fortschritt thematisierte das Oberhaupt der katholischen Kirche in seiner Rede auch grundlegende Fragen zu Leben und Menschenrechten. Die Äußerungen wurden am Freitag am ersten Tag seines offiziellen Besuchs im Nachbarland getätigt. Konkrete Details zur Umsetzung oder Reaktionen auf die Rede gehen aus den Berichten bisher nicht hervor. Offen bleibt zudem, welche weiteren Stationen und Themen den Papst während seiner Frankreich-Reise noch beschäftigen werden.",
+    "r": "Die Äußerungen des Papstes berühren fundamentale Fragen des technologischen Fortschritts und der Zukunft der Menschheit. Solche Stellungnahmen religiöser Oberhäupter prägen oft den gesellschaftlichen Diskurs über Regulierung und Ethik in der Technik.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWJyaHFRaUVjcjFoYlJ2dFc0VUd4X2MxdnJWOXpsdTMzb2pDOXhnaGlUSHpOR0hNeXFabjl3MlRlVUtIMmkxbWVnaFlyU25PeWVTcGJmSy1kbmtJMXhYWFJLNWE3aDRIZi1RczY5Y2RFZnFWa0FqMUlOYTZjZTJwY0FUTGZHVkFIRjdhTm1UZXl4ZF9jem5BLThnTkVyY0JsaHpHM1lKdDhVd3BNbGRDeHpaSVRTXzd0LVlQNV9ycEZ2aFZIRDk2b2pEUjhUQUFLOHFwOERacTlaVEpqSl85X2FVa1hZZG5jcG8xTGV4enhpXzZrNDQzTGVmR3hSTXJmcHZUUw?oc=5",
+        "date": "2026-09-25T21:15:00.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T15:06:41.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+        "date": "2026-09-25T14:55:12.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWJyaHFRaUVjcjFoYlJ2dFc0VUd4X2MxdnJWOXpsdTMzb2pDOXhnaGlUSHpOR0hNeXFabjl3MlRlVUtIMmkxbWVnaFlyU25PeWVTcGJmSy1kbmtJMXhYWFJLNWE3aDRIZi1RczY5Y2RFZnFWa0FqMUlOYTZjZTJwY0FUTGZHVkFIRjdhTm1UZXl4ZF9jem5BLThnTkVyY0JsaHpHM1lKdDhVd3BNbGRDeHpaSVRTXzd0LVlQNV9ycEZ2aFZIRDk2b2pEUjhUQUFLOHFwOERacTlaVEpqSl85X2FVa1hZZG5jcG8xTGV4enhpXzZrNDQzTGVmR3hSTXJmcHZUUw?oc=5",
+    "agree": "Die Quellen sind sich einig, dass der Papst zum Auftakt seiner Frankreich-Reise vor den Gefahren von Maschinen und dem Verlust der Menschlichkeit gewarnt hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet über die Eröffnung der Frankreich-Reise mit dem Zitat zum Paradies der Maschinen und verweist auf journalgazette.net."
+      },
+      {
+        "name": "BBC World",
+        "note": "Nennt den Freitag als genauen Wochentag für den Beginn der Reise und die Warnung vor dem Verlust der Menschlichkeit an KI-Maschinen."
+      },
+      {
+        "name": "NPR World",
+        "note": "Bezeichnet den Pontifex namentlich als Papst Leo XIV und erwähnt, dass er neben dem wissenschaftlichen Fortschritt auch Fragen zu Leben und Menschenrechten ansprach."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-8660236b18575ad2",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T20:42:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump-Xi-Gipfel in den USA ohne substanzielle Ergebnisse",
+    "s": "Die Präsidenten der USA und Chinas, Donald Trump und Xi Jinping, trafen sich zu einem weiteren Gipfeltreffen in den USA. Während die US-Seite das Treffen als groß lobte, wurden kaum substanzielle Fortschritte bei der Lösung schwieriger Themen erzielt. Es handelt sich um die zweite Gesprächsrunde der beiden Staatschefs nach einem früheren Treffen im Mai in Peking. Das Gipfeltreffen war laut Berichten eher von Pomp als von echten Fortschritten geprägt.",
+    "m": "Das zweite Gipfeltreffen zwischen US-Präsident Donald Trump und dem chinesischen Staatschef Xi Jinping fand diese Woche in den USA statt. Im Vorfeld galt das Treffen in Peking im Mai noch als Pattsituation-Gipfel, doch die aktuelle Runde schien gänzlich auf Durchbrüche zu verzichten. Beobachter und Medien bewerteten die Inszenierung vor allem als symbolischen Gewinn für China. Der US-Präsident bezeichnete den Besuch zwar als groß, jedoch blieb die Einigung bei zentralen Konfliktpunkten aus. Konkrete Details zu den verhandelten Themenfeldern und Hintergründen wurden in den vorliegenden Berichten nicht weiter ausgeführt. Offen bleibt, wie die bilateralen Beziehungen nach diesem symbollastigen Austausch langfristig fortgeführt werden.",
+    "r": "Das Treffen zwischen den Staatsführern der USA und Chinas ist für die globale Politik und die internationalen Wirtschaftsbeziehungen von hoher Bedeutung. Mangels konkreter Ergebnisse bleibt jedoch unklar, wie künftige Handels- und Sicherheitskonflikte gelöst werden sollen.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5",
+        "date": "2026-09-25T20:42:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+        "date": "2026-09-25T12:41:14.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5",
+    "agree": "Die Quellen stimmen überein, dass beim Gipfeltreffen zwischen US-Präsident Trump und Chinas Staatschef Xi Jinping in den USA kaum substanzielle Ergebnisse erzielt wurden und der Fokus eher auf Pomp lag.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist auf einen Artikel der britischen Zeitung The Guardian mit der Überschrift, dass der Pomp über den Fortschritt beim US-Gipfel von Xi mit Trump ein Sieg für China sei."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Führt aus, dass fast nichts Substanzielles zur Lösung schwieriger Fragen erreicht wurde und das Treffen im Vergleich zum Mai-Gipfel in Peking jegliche Idee von Durchbrüchen aufgab."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fa705a4b644723f2",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T20:42:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Vier italienische Nato-Soldaten bei Übung in Lettland verletzt",
+    "s": "Bei einer Nato-Übung in Lettland ist es zu einem schweren Zwischenfall gekommen, bei dem vier italienische Soldaten verletzt wurden. Das italienische Militär hat Ermittlungen zu den Vorfällen aufgenommen. Die betroffenen Soldaten wurden medizinisch versorgt.",
+    "m": "Der Vorfall ereignete sich im lettischen Ādaži, wo rund 300 italienische Soldaten als Teil einer multinationalen Nato-Brigade stationiert sind. Während einer Übung kam es zu Schüssen beziehungsweise Maschinengewehrfeuer, wodurch die vier Soldaten verletzt wurden. Einer der Betroffenen erlitt schwere Verletzungen, es besteht jedoch keine Lebensgefahr für ihn. Das italienische Militär hat Untersuchungen eingeleitet, um die genauen Umstände des Zwischenfalls zu klären. Das westliche Bündnis ist im Rahmen seiner verstärkten Präsenz im baltischen Raum mit multinationalen Verbänden im Einsatz.",
+    "r": "Der Zwischenfall betrifft direkt die Sicherheit und Ausbildung von Nato-Truppen in einem sensiblen Bündnisgebiet und wirft Fragen zur Sicherheit bei militärischen Übungen auf.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/lettland-vier-italienische-nato-soldaten-bei-uebung-in-adazi-verletzt-a-6bceb4e2-719f-46e4-ada6-207363175677#ref=rss",
+        "date": "2026-09-25T20:42:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ab6ce105338129c5e1e46f2/stuetzpunkt-der-lettischen-armee-vier-italienische-nato-soldaten-in-lettland-verletzt.html",
+        "date": "2026-09-25T20:31:34.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/aussenpolitik/id_101453380/lettland-nato-soldaten-nach-schuessen-von-panzer-verletzt.html",
+        "date": "2026-09-25T19:53:30.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/lettland-vier-italienische-nato-soldaten-bei-uebung-in-adazi-verletzt-a-6bceb4e2-719f-46e4-ada6-207363175677#ref=rss",
+    "agree": "Die Quellen sind sich einig, dass vier italienische Nato-Soldaten bei einer Militärübung in Lettland verletzt wurden.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt, dass in Ādaži 300 italienische Soldaten stationiert sind und das italienische Militär ermittelt."
+      },
+      {
+        "name": "WELT",
+        "note": "Berichtet spezifisch, dass die Verletzungen durch Maschinengewehrfeuer entstanden und ein Soldat schwer, aber nicht lebensgefährlich verletzt wurde."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Gibt an, dass die Soldaten durch Schüsse von einem Panzer verletzt wurden."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-80ec8ee11edbf758",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T19:34:49.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump-Regierung streicht 760.000 Menschen aus Obamacare-Marktplatz",
+    "s": "Die US-Regierung unter Donald Trump entfernt 760.000 Menschen aus dem Marktplatz des Affordable Care Act. Grund für diese Maßnahme sind Betrugsvorwürfe, wie offizielle Stellen am Dienstag mitteilten. Dieser Schritt reiht sich in frühere Bemühungen ein, die subventionierte Gesundheitsversorgung einzuschränken. Kritiker und Beobachter werten dies als schweren Schlag gegen das Gesundheitssystem.",
+    "m": "Die Trump-Administration hat angekündigt, 760.000 in den Affordable Care Act (ACA) eingeschriebene Personen zu entfernen. Als offizielle Begründung wurden Betrugsvorwürfe genannt. Der Schritt wurde am Dienstag von zuständigen Offiziellen bekannt gegeben und verschärft die Sorgen um die Stabilität des US-Gesundheitssystems. Die Maßnahme stellt einen weiteren Versuch dar, die staatlich subventionierte Krankenversicherung zu schwächen. Bislang sind viele Details über die konkrete Umsetzung und die betroffenen Personengruppen unklar. Auch die Frage, wie betroffene Bürger rechtlich dagegen vorgehen können, bleibt offen. Der Vorfall unterstreicht die anhaltenden politischen Spannungen um die Zukunft von Obamacare.",
+    "r": "Die Maßnahme betrifft Hunderttausende Versicherte und hat potenziell gravierende Auswirkungen auf das US-Gesundheitssystem. Sie verdeutlicht die fortlaufenden politischen Auseinandersetzungen um die Zukunft von Obamacare.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
+        "date": "2026-09-25T19:34:49.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZY3lueklLRVMtb1VKaGFrWnhvM3JkT3NjQWp6Rlg2eXRyM3hwang0WWUxSUFnSzlYSV9uX1FiWlk5RS1CSG5mU1hkQlZlRjhaNWFUdkdMZjk0NzZPeWR2Z3c3dUZKZ21wbEduYzdJZGlYSnZyUmNpSnVKbXBOYnc?oc=5",
+        "date": "2026-09-25T13:00:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
+    "agree": "Beide Quellen stimmen überein, dass die Trump-Administration 760.000 Menschen aus dem Affordable Care Act Marktplatz entfernt.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian und nennt den dortigen Titel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2347e759bd709ee0",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T19:22:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Berliner Linke stimmt für Sondierungen mit Grünen und SPD",
+    "s": "Fünf Tage nach der Abgeordnetenhauswahl in Berlin hat ein Parteitag der Linken für Sondierungsgespräche mit Grünen und SPD gestimmt. Die als stärkste Kraft aus der Wahl hervorgegangene Partei folgte damit dem Antrag ihres Landesvorstands. Informelle Vorgespräche haben laut den Berliner Grünen bereits stattgefunden.",
+    "m": "Nach der Abgeordnetenhauswahl in Berlin, bei der die Linke als stärkste Kraft abgeschnitten hat, hat ein Parteitag am Freitag in der Hauptstadt den Weg für Sondierungen frei gemacht. Die Partei stimmte für den entsprechenden Antrag des Landesvorstands, um Gespräche mit Grünen und SPD aufzunehmen. Linken-Spitzenkandidatin Elif Eralp hatte die potenziellen Partner bereits im Laufe der Woche zu informellen Vorgesprächen eingeladen. Nach Angaben der Berliner Grünen fanden diese informellen Gespräche am Freitag auch bereits statt. Die Regierungsbildung wird jedoch unter anderem durch Antisemitismus-Vorwürfe und Diskussionen über eine angebliche Clan-Nähe erschwert.",
+    "r": "Die Aufnahme von Sondierungsgesprächen durch die Wahlsiegerin in Berlin ist ein entscheidender Schritt für die künftige Regierungsbildung in der Hauptstadt. Die Gespräche werden durch politische und gesellschaftliche Vorwürfe jedoch zusätzlich belastet.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/linke-berlin-sondierung-gruene-spd-100.html",
+        "date": "2026-09-25T19:22:00.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/berlin--linke-stimmt-auf-parteitag-fuer-sondierungen-mit-gruenen-und-spd-38310576.html",
+        "date": "2026-09-25T17:57:05.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/deutschland/linke-berlin-sondierung-gruene-spd-100.html",
+    "agree": "Die Linke ist stärkste Kraft in Berlin geworden und hat den Weg für Sondierungsgespräche mit Grünen und SPD geöffnet.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet, dass Antisemitismus-Vorwürfe und Clan-Nähe die Gespräche mit den möglichen Partnern erschweren."
+      },
+      {
+        "name": "stern",
+        "note": "Nennt Details zum zeitlichen Ablauf, den Parteitag am Freitag, Spitzenkandidatin Elif Eralp und bestätigt bereits stattgefunden habende informelle Vorgespräche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-dfed46ec41da3f55",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T19:11:55.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Immer weniger Studierende beziehen BaföG",
+    "s": "In Mecklenburg-Vorpommern beziehen immer weniger Studierende BAföG. Aktuellen Angaben zufolge nehmen rund 70 Prozent der berechtigten Personen die staatliche Finanzierung nicht in Anspruch. Als Hauptgrund für diese niedrige Quote wird oft ein Mangel an Informationen genannt.",
+    "m": "Der Trend zeigt seit Jahren nach unten: Während vor zehn Jahren noch monatlich rund 7.700 Studierende in Mecklenburg-Vorpommern BAföG erhalten haben, sind es mittlerweile über 1.000 Studierende weniger. Gleichzeitig nutzen schätzungsweise 70 Prozent derjenigen, denen das Geld eigentlich zustehen würde, die Förderung gar nicht erst aus. Experten führen diese geringe Inanspruchnahme vor allem auf fehlende Informationen bei den Betroffenen zurück. Das Bundesausbildungsförderungsgesetz soll Studierenden eigentlich eine finanzielle Sicherheit während ihres Studiums bieten, doch Hürden und Unwissenheit scheinen viele von der Antragstellung abzuhalten.",
+    "r": "Die sinkenden Empfängerzahlen bei gleichzeitig hoher Nichtinanspruchnahme beleuchten strukturelle Probleme bei der Studienfinanzierung in Mecklenburg-Vorpommern. Dies kann langfristig den Zugang zu Bildung erschweren und verdeutlicht einen Informationsbedarf bei potenziellen Leistungsempfängern.",
+    "srcs": [
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/immer-weniger-studierende-beziehen-bafoeg,nordmagazin-14500.html",
+        "date": "2026-09-25T19:11:55.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/immer-weniger-studierende-beziehen-in-mv-bafoeg,bafoeg-206.html",
+        "date": "2026-09-25T18:42:20.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/immer-weniger-studierende-beziehen-bafoeg,nordmagazin-14500.html",
+    "agree": "Beide Quellen stimmen überein, dass in Mecklenburg-Vorpommern immer weniger Studierende BAföG beziehen.",
+    "diff": [
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "note": "Berichtet, dass 70 Prozent der Studierenden, denen BaföG zustehen würde, es nicht in Anspruch nehmen, und nennt mangelnde Informationen als Grund."
+      },
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Liefert konkrete historische Vergleichszahlen und gibt an, dass vor zehn Jahren noch rund 7.700 Studierende monatlich BAföG bekamen und es heute über 1.000 weniger sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fc2a39c7621d407e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T19:00:10.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Junge Menschen in Baden-Württemberg und die Berliner Reformdebatten",
+    "s": "Nach Wahlen in Mecklenburg-Vorpommern und Berlin wird in der Politik erneut über Reformen in den Bereichen Rente, Gesundheit und Pflege diskutiert. Im Fokus steht dabei auch die Frage, wie junge Menschen in Baden-Württemberg über diese Debatten denken. Konkrete Positionen oder Umfrageergebnisse der Jugendlichen werden in den Berichten jedoch noch nicht genannt.",
+    "m": "Die Diskussionen um Reformen bei Rente, Gesundheit und Pflege sind nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin wieder entbrannt. Diese bundespolitischen Debatten werfen die Frage auf, wie die jüngere Generation zu den geplanten Veränderungen steht. Besonders in Baden-Württemberg stellt sich die Situation für junge Menschen dar, die sich im Spannungsfeld zwischen Miete, Job und Rente bewegen. Bislang bleibt offen, welche konkreten Forderungen oder Erwartungen die Jugend an die Berliner Politik richtet. Die Berichte greifen diese Fragestellung auf, ohne jedoch bereits detaillierte Studienergebnisse oder Aussagen von Jugendvertretern zu präsentieren.",
+    "r": "Die Berichte sind relevant, da sie die Perspektive junger Menschen auf aktuelle bundespolitische Reformdebatten in den Bereichen Rente, Gesundheit und Pflege beleuchten. Konkrete Schlüsse oder politische Entscheidungen lassen sich aus den Texten noch nicht ableiten.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/junge-menschen-bw-zu-berliner-politik-100.html",
+        "date": "2026-09-25T19:00:10.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-zwischen-miete-job-und-rente-was-junge-menschen-ueber-die-berliner-reformdebatten-denken-100.html",
+        "date": "2026-09-25T19:00:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/junge-menschen-bw-zu-berliner-politik-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass nach den Wahlen in Mecklenburg-Vorpommern und Berlin über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und die Perspektive junger Menschen in Baden-Württemberg dazu im Raum steht.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-436499f9dd53e040",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T18:52:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Backstreet Boys geben zehn Konzerte in Düsseldorf",
+    "s": "Die Boygroup Backstreet Boys absolviert eine Konzertreihe mit zehn Auftritten in Düsseldorf. Zu den Events reisen Fans aus der ganzen Welt an. Der Fall wirft ein Schlaglicht auf den Trend zu sogenannten Residencies in der Konzertbranche.",
+    "m": "Die US-amerikanische Boyband Backstreet Boys spielt insgesamt zehn Konzerte in Düsseldorf, was internationale Fans in die Stadt zieht. Solche zeitlich ausgedehnten Konzertserien, bei denen Künstler über einen längeren Zeitraum an einem einzigen Ort auftreten, werden in der Musikbranche als Residencies bezeichnet. Bislang war dieses Konzept vor allem aus Musikmetropolen wie Las Vegas bekannt. Immer mehr bekannte Stars setzen inzwischen auf dieses Modell, um Reiseaufwände zu reduzieren und Fans ein exklusives Erlebnis zu bieten. Für die austragenden Städte bedeutet dies oft einen spürbaren touristischen und wirtschaftlichen Impuls. Gleichzeitig führt das Modell bei Konzertgängern zu Diskussionen über Ticketverfügbarkeit, Anreisewege und die Verdrängung klassischer Tourneen.",
+    "r": "Die Konzertserie der Backstreet Boys in Düsseldorf verdeutlicht den zunehmenden Trend von Künstler-Residencies in der Musikbranche. Das Phänomen hat wirtschaftliche und organisatorische Auswirkungen auf Städte, Fans und den Konzertmarkt.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRnJHd2oxY0RiVURIY2VZMjZFWE0yNnZ3VnlzNk4wQ19VUTljNzM1MmtVN2QwM0RRcmdiTTF6X09EdDZzaDNXN2txdXlqMVBQOVFKWHBKNEdNbmtrNWJFWlVGckZUSkc0OXBZU0xFQ1dJU0pLeXZnR0tQOTF0YkU?oc=5",
+        "date": "2026-09-25T18:52:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/kultur/backstreet-boys-residenzkonzerte-100.html",
+        "date": "2026-09-25T13:01:38.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRnJHd2oxY0RiVURIY2VZMjZFWE0yNnZ3VnlzNk4wQ19VUTljNzM1MmtVN2QwM0RRcmdiTTF6X09EdDZzaDNXN2txdXlqMVBQOVFKWHBKNEdNbmtrNWJFWlVGckZUSkc0OXBZU0xFQ1dJU0pLeXZnR0tQOTF0YkU?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die Backstreet Boys zehn Auftritte beziehungsweise Abende in Düsseldorf spielen.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Nennt die zehn Abende in Düsseldorf in Verbindung mit tagesschau.de."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt anreisende Fans aus aller Welt und analysiert den Trend sowie die Bedeutung von Residencies für Fans, Städte und die Branche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-802a60ec1e1d1955",
     "c": "INT",
     "o": "PT",
@@ -41,6 +498,38 @@
     "independent": 2
   },
   {
+    "id": "story-9d7f057b03487cc2",
+    "c": "INT",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-09-25T18:35:13.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Drei Hurrikane gleichzeitig im Pazifik bedrohen Hawaii und Mexiko",
+    "s": "Das Klimaphänomen El Niño führt zu einer außergewöhnlich aktiven Hurrikansaison im Pazifik. Derzeit bewegen sich drei Stürme gleichzeitig über den Ozean. Dabei sind sowohl Mexiko als auch Hawaii von den Wettersystemen bedroht.",
+    "m": "Die aktuelle Hurrikansaison im Pazifik zeigt sich durch den Einfluss des Klimaphänomens El Niño äußerst aktiv. Aktuell befinden sich gleich drei Hurrikane gleichzeitig in der Region. Konkret bewegt sich der Sturm mit dem Namen Polo auf die Küste Mexikos zu. Gleichzeitig behalten die Behörden auf Hawaii den Hurrikan Nolo genau im Blick. Ein dritter Sturm namens Odalys bereitet den Meteorologen derzeit hingegen keine Sorgen und stellt keine direkte Bedrohung dar. Die genauen Auswirkungen auf die betroffenen Landesteile hängen von der weiteren Entwicklung der Zugbahnen ab.",
+    "r": "Das gleichzeitige Auftreten mehrerer Hurrikane im Pazifik zeigt die extremen Auswirkungen der aktuellen Saison. Dies stellt die betroffenen Regionen in Mexiko und Hawaii vor erhöhte meteorologische Beobachtungsanforderungen.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-7F6V476FYVFNTIZZDAIN2P4D5I.html",
+        "date": "2026-09-25T18:35:13.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/ungewoehnliche-hurrikansaison--gleich-drei-hurrikane-im-pazifik---hawaii-und-mexiko-bedroht-38310402.html",
+        "date": "2026-09-25T16:43:54.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-7F6V476FYVFNTIZZDAIN2P4D5I.html",
+    "agree": "Die Quellen sind sich einig, dass drei Hurrikane im Pazifik aktiv sind, El Niño die Ursache ist und Polo sowie Nolo Mexiko und Hawaii bedrohen, während Odalys harmlos ist.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-5c0022f5c2375b4c",
     "c": "INT",
     "o": "DE",
@@ -76,88 +565,6 @@
       {
         "name": "Süddeutsche Zeitung",
         "note": "Erwähnt zusätzlich, dass das Treffen in den VAE stattfinden soll, beruft sich dabei auf Selenskij und nennt russische Angaben zu einem baldigen Termin."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b6b7bc8e2880c537",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-25T18:14:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Zehntausende Schüler demonstrieren bundesweit gegen mögliche Wehrpflicht",
-    "s": "Bundesweit haben zehntausende Schülerinnen und Schüler gegen eine mögliche Wiedereinführung der Wehrpflicht demonstriert. Zu den Protesten hatte die Initiative \"Schulstreik gegen Wehrpflicht\" aufgerufen. Laut den Veranstaltern beteiligten sich mehr als 45.000 Menschen an den Kundgebungen.",
-    "m": "Die Proteste fanden im Rahmen von rund 100 angemeldeten Demonstrationen im gesamten Bundesgebiet statt. Die Initiative \"Schulstreik gegen Wehrpflicht\" koordinierte die Aktionen, bei denen sich vor allem junge Menschen gegen eine Verpflichtung zum militärischen Dienst aussprachen. Nach Angaben der Organisatoren gingen mehr als 45.000 Teilnehmer auf die Straße. Hintergründe der Proteste sind aktuelle politische Diskussionen über eine mögliche Reaktivierung der Wehrpflicht in Deutschland angesichts veränderter sicherheitspolitischer Lagen. Konkrete Reaktionen von Regierungsseite oder Details zu weiteren geplanten Aktionen gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die Proteste zeigen eine spürbare Mobilisierung junger Menschen gegen sicherheitspolitische Debatten über die Wehrpflicht. Die Kundgebungen verdeutlichen das gesellschaftliche Konfliktpotential bei der Frage nach einer Verpflichtung zum militärischen Dienst.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
-        "date": "2026-09-25T18:14:03.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/wehrpflicht-schueler-protest-demo-100.html",
-        "date": "2026-09-25T12:56:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
-    "agree": "Die Quellen sind sich einig, dass zehntausende Schüler bundesweit gegen eine mögliche Wehrpflicht demonstriert haben und die Initiative \"Schulstreik gegen Wehrpflicht\" mehr als 45.000 Teilnehmer meldete.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt zusätzlich, dass es rund 100 Demonstrationen gab."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet ohne Nennung der konkreten Anzahl an Demonstrationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-77fa88d2e9cdf16b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-25T18:14:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundesrat beschließt neue Haftungsregeln für E-Scooter-Vermieter",
-    "s": "Opfer von Unfällen mit E-Scootern sollen künftig leichter an Schadensersatz gelangen. Der Bundesrat hat einem entsprechenden Gesetz zugestimmt. Damit ändern sich die bisherigen Haftungsregeln grundlegend für die Anbieter.",
-    "m": "Durch den Beschluss des Bundesrates soll das Haftungsrisiko bei E-Scooter-Unfällen künftig direkt bei den Vermietern liegen. Dies soll betroffenen Unfallopfern ermöglichen, deutlich einfacher und unkomplizierter Schadensersatz einzufordern. Die Gesetzesänderung schließt eine bisherige rechtliche Lücke im Umgang mit den beliebten Leihfahrzeugen im Straßenverkehr. Bislang war die Geltendmachung von Ansprüchen für Geschädigte oft mit erheblichen Hürden verbunden, da die direkte Haftung der Halter oder Vermieter nicht in dieser Form geregelt war. Nähere Details zum genauen Zeitpunkt des Inkrafttretens oder zu den Übergangsfristen für die Unternehmen wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Neuregelung betrifft die Sicherheit im Straßenverkehr sowie zivilrechtliche Ansprüche von Unfallopfern und schließt rechtliche Lücken im Umgang mit gewerblichen E-Scooter-Angeboten.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/kuenftig-haften-auch-vermieter-von-e-scootern-bei-unfaellen-100.html",
-        "date": "2026-09-25T18:14:03.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
-        "date": "2026-09-25T12:06:53.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/kuenftig-haften-auch-vermieter-von-e-scootern-bei-unfaellen-100.html",
-    "agree": "Die Quellen sind sich einig, dass der Bundesrat einem Gesetz zugestimmt hat, wonach Vermieter beziehungsweise Halter von E-Scootern künftig bei Unfällen haften und Unfallopfer dadurch leichter Schadensersatz erhalten.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt explizit die Vermieter von E-Scootern als künftige Haftende."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Spricht allgemein von Haltern und führt aus, dass der Bundesrat einem entsprechenden Gesetz zugestimmt hat."
       }
     ],
     "chg": "",
@@ -330,13 +737,13 @@
     "k": "politik",
     "lang": "de",
     "d": "2026-09-25T17:45:24.000Z",
-    "p": 3,
+    "p": 4,
     "st": "",
     "city": "",
-    "t": "US-Höchstgericht erlaubt umstrittenes Wählerprüfsystem vor Wahl",
-    "s": "Der Oberste Gerichtshof der USA hat der Regierung am Freitag erlaubt, ein neues bundesweites Datenbanksystem zur Wählerüberprüfung zu nutzen. Das System soll offiziell die Staatsbürgerschaft von Wählern für die kommenden Wahlen im November verifizieren. Kritiker warnen jedoch vor möglichen negativen Folgen für das Wahlrecht. Die Maßnahme ist Teil politischer Kontroversen um den Umgang mit Wählerdaten in den Vereinigten Staaten.",
-    "m": "Das US-Höchstgericht hat am Freitag entschieden, dass die Regierung ein umstrittenes System zur Wählerverifizierung bei den Wahlen im November einsetzen darf. Es handelt sich dabei um eine neue föderale Datenbank, die offiziell zur Überprüfung der Wähler-Staatsbürgerschaft dienen soll. Stimmrechtsgruppen und Kritiker warnen vehement vor dem System, da es Wähler fälschlicherweise als Nicht-Staatsbürger identifizieren und so vom Wählen ausschließen könnte. Sie argumentieren, die Administration übertreibe die Bedrohung durch nicht-staatsbürgerliche Wähler, die bei US-Wahlen extrem selten vorkommen. Ziel der Politik sei es vielmehr, mutmaßlich demokratische Wähler zu benachteiligen und zu disenfranchisieren.",
-    "r": "Die Entscheidung des Obersten Gerichtshofs hat direkte Auswirkungen auf die Durchführung und Sicherheit der bevorstehenden Wahlen in den USA. Sie berührt fundamentale Fragen des Wahlrechts und des Schutzes vor möglicher politischer Einflussnahme durch den Einsatz neuer Technologien.",
+    "t": "US-Höchstgericht erlaubt Trump umstrittenes Wähler-Prüfsystem",
+    "s": "Der US Supreme Court hat am Freitag entschieden, dass die Regierung von Donald Trump eine neue Bundesdatenbank zur Überprüfung der Wähler-Staatsbürgerschaft für die Wahlen im November nutzen darf. Kritiker und Wählerrechtsgruppen warnen, dass dieses System fälschlicherweise Wähler als Nicht-US-Bürger identifizieren und zu deren Entmachtung führen könnte. Sie argumentieren, die Bedrohung durch nicht-staatsbürgerliche Wähler werde stark übertrieben.",
+    "m": "Die Entscheidung des Obersten Gerichtshofs der USA vom Freitag ermöglicht demnach den Einsatz des umstrittenen Systems zur Wähler-Verifizierung bei den bevorstehenden November-Wahlen. Befürworter und die Trump-Administration rechtfertigen das System als Sicherheitsmaßnahme. Gegner befürchten hingegen, dass die Maßnahme gezielt dazu dient, demokratische Wähler zu benachteiligen und deren Stimmrecht zu unterdrücken. Der Einsatz solcher Datenbanken ist seit längerem Gegenstand intensiver politischer Debatten in den Vereinigten Staaten, insbesondere im Hinblick auf den Schutz vor Wahlmanipulation versus dem Zugang zum Wahlrecht. Bislang bleibt offen, wie viele Wähler konkret von möglichen Fehlern des neuen Systems betroffen sein könnten.",
+    "r": "Die Entscheidung des Supreme Court hat direkte Auswirkungen auf die Durchführung und die Sicherheitsvorkehrungen der US-Präsidentschaftswahlen im November. Die Frage der Wählerregistrierung und des Zugangs zum Wahlrecht ist ein zentraler Streitpunkt zwischen Republikanern und Demokraten.",
     "srcs": [
       {
         "name": "Al Jazeera",
@@ -350,15 +757,101 @@
       }
     ],
     "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-    "agree": "Die Quellen stimmen überein, dass der Oberste Gerichtshof der USA ein umstrittenes Wählerprüfsystem erlaubt hat und Kritiker vor einer Entrechtung von Wählern warnen.",
+    "agree": "Beide Quellen stimmen darin überein, dass der US Supreme Court der Trump-Administration den Einsatz eines umstrittenen Wähler-Prüfsystems erlaubt hat und Kritiker eine Benachteiligung von Wählern befürchten.",
     "diff": [
       {
         "name": "Al Jazeera",
-        "note": "Berichtet speziell, dass Stimmrechtsgruppen davor gewarnt haben, das System könnte Wähler fälschlicherweise als Nicht-Staatsbürger identifizieren."
+        "note": "Erwähnt konkret die Warnungen von Wählerrechtsgruppen, dass das System Wähler fälschlicherweise als Nicht-Bürger identifizieren könnte."
       },
       {
         "name": "France24 English",
-        "note": "Nennt das genaue Datum (Freitag), den Zweck der neuen föderalen Datenbank zur Verifizierung für die Novemberwahlen und die Kritik, dass die Regierung die Bedrohung durch Nicht-Staatsbürger übertreibe, um demokratische Wähler zu benachteiligen."
+        "note": "Nennt den genauen Zeitpunkt der Entscheidung (Freitag) sowie den Verweis darauf, dass Nicht-Bürger-Wahlen eine extreme Seltenheit sind und die Regierung die Bedrohung übertreibe, um demokratische Wähler zu disenfranchisieren."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-edb1ebc173869278",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-25T17:00:05.000Z",
+    "p": 3,
+    "st": "BW",
+    "city": "",
+    "t": "VW-Konzern ruft fast eine Million Autos in Deutschland zurück",
+    "s": "Wegen einer fehlerhaften Schraube ruft der VW-Konzern in Deutschland fast eine Million Fahrzeuge in die Werkstätten zurück. Betroffen sind neben der Kernmarke VW auch Audi und Seat. Als Grund für die Maßnahme wird die Gefahr eines Schraubenabrisses genannt, der im Extremfall zum Ausfall der Lenkung führen kann. Autobesitzer müssen sich auf entsprechende Werkstattbesuche einstellen, um die Sicherheit der betroffenen Fahrzeuge zu gewährleisten.",
+    "m": "Der Volkswagen-Konzern hat einen massiven Rückruf für Fahrzeuge in Deutschland gestartet, der schätzungsweise knapp eine Million Autos betrifft. Auslöser ist ein potenzieller Defekt an einer Schraube, die abreißen kann und dadurch die Lenkung des Fahrzeugs beeinträchtigt. Im schlimmsten Fall droht ein kompletter Ausfall der Lenkung, was erhebliche Sicherheitsrisiken im Straßenverkehr birgt. Von der Aktion sind Modelle verschiedener Konzernmarken wie Volkswagen, Audi und Seat betroffen. Fahrzeughalter in ganz Deutschland sind nun angehalten, die notwendigen Überprüfungen und Nachbesserungen in Fachwerkstätten durchführen zu lassen. Bisher wurden keine konkreten Unfälle oder Schadensfälle im Zusammenhang mit dem Schraubendefekt öffentlich bekannt. Die betroffenen Besitzer müssen sich informieren, ob ihr spezifisches Modell zu den Rückrufkandidaten gehört und wie die genaue Abwicklung in den Werkstätten erfolgt.",
+    "r": "Der Rückruf betrifft fast eine Million Fahrzeuge eines der größten Automobilkonzerne in Deutschland und berührt aufgrund möglicher Lenkungsausfälle zentrale Sicherheitsfragen im Straßenverkehr.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
+        "date": "2026-09-25T17:00:05.000Z"
+      },
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/vw-audi-rueckruf-lenkungsausfall-golf-tiguan-caddy-touran-100.html",
+        "date": "2026-09-25T12:15:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
+    "agree": "Die Quellen sind sich einig, dass der VW-Konzern in Deutschland fast eine Million Autos wegen einer fehlerhaften Schraube zurückrufen muss, was zum Ausfall der Lenkung führen kann.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "nennt keine weiteren spezifischen Marken im Titel und verweist allgemein auf Autos des VW-Konzerns."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "nennt explizit die Marken VW, Audi und Seat im Titel und kündigt Informationen zu betroffenen Modellen sowie dem weiteren Vorgehen an."
+      },
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "führt Audi und Volkswagen explizit als die rückrufenden Marken auf und präzisiert die Gefahr als konkreten Schraubenabriss."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ef03d3c67134aa7f",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T16:49:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Schauspielerin Heather Locklear wird 65 Jahre alt",
+    "s": "Die US-amerikanische Schauspielerin Heather Locklear feiert ihren 65. Geburtstag. Ihr Leben war neben großen Karriereerfolgen auch von schweren persönlichen Krisen geprägt. Nun gibt es Berichte über eine positive Wendung in ihrem Leben.",
+    "m": "Heather Locklear wurde durch Serien wie den „Denver-Clan“ und „Melrose Place“ weltbekannt und feiert nun ihren 65. Geburtstag. Auf der Sonnenseite ihrer Biografie stehen große schauspielerische Erfolge im Fernsehen. Demgegenüber stand jedoch ein turbulent verlaufendes Privatleben. Die Medien und die Öffentlichkeit begleiteten über Jahre hinweg ihre Abstürze und gescheiterten Beziehungen. Zudem machten ihr in der Vergangenheit persönliche Skandale, Gewaltvorfälle und gesundheitliche Probleme durch Überdosierungen zu schaffen. Aktuell blicken Beobachter jedoch optimistischer auf die Jubilarin. Berichten zufolge blüht sie in einer neuen Liebe auf und es besteht die Hoffnung auf ein spätes Happy End.",
+    "r": "Die Meldung beleuchtet das Leben und den aktuellen Meilenstein einer prominenten Persönlichkeit der US-Fernsehgeschichte. Sie greift dabei das mediale Interesse an den Wechselhaftigkeit zwischen großem Erfolg und tiefen privaten Krisen auf.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/heather-locklear--hollywood-star-blueht-mit-65-in-neuer-liebe-auf-38309798.html",
+        "date": "2026-09-25T16:49:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Bekommt-Heather-Locklear-mit-65-noch-ihr-Happy-End-id31348810.html",
+        "date": "2026-09-25T14:24:31.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/lifestyle/leute/heather-locklear--hollywood-star-blueht-mit-65-in-neuer-liebe-auf-38309798.html",
+    "agree": "Beide Quellen stimmen überein, dass Heather Locklears Leben von ihren großen Erfolgen bei Serien wie dem Denver-Clan und Melrose Place sowie von privaten Abstürzen geprägt war und sie nun 65 Jahre alt wird.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet darüber, dass Locklear mit 65 in einer neuen Liebe aufblüht."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt konkret Gewalt, Überdosis und Liebespleiten in der Vergangenheit und fragt, ob sie noch ihr Happy End bekommt."
       }
     ],
     "chg": "",
@@ -374,10 +867,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Frau und Tochter lebten zwei Jahre mit Leiche in Haus bei Barcelona",
-    "s": "Anwohner eines Hauses nahe Barcelona haben den Behörden ein Müllproblem gemeldet. Als die katalanische Polizei daraufhin das Gebäude überprüfte, machte sie eine grausige Entdeckung. Eine Mutter und ihre Tochter hatten offenbar zwei Jahre lang mit einer Leiche in dem Haus gelebt. Die Identität der Leiche und die genauen Todesumstände sind Gegenstand von Ermittlungen.",
-    "m": "Die Entdeckung wurde durch wachsenden Müll auf dem Grundstück in der Nähe von Barcelona ausgelöst, was besorgte Nachbarn dazu veranlasste, die Behörden zu alarmieren. Bei der Überprüfung des Wohnhauses stießen die Einsatzkräfte der katalanischen Polizei auf den leblosen Körper. Ersten Erkenntnissen zufolge lebten eine Frau und ihre Tochter bereits seit zwei Jahren gemeinsam mit dem Toten in den Räumlichkeiten. Bislang ist unklar, um wen es sich bei der verstorbenen Person handelt und woran diese gestorben ist. Die Ermittler prüfen nun, wie es zu dieser Situation kommen konnte und ob strafrechtliche Konsequenzen drohen. Weitere Details zum genauen Zustand des Hauses oder den Hintergründen der beteiligten Personen wurden zunächst nicht bekannt gegeben.",
-    "r": "Der Fund einer Leiche, mit der Angehörige jahrelang unbemerkt zusammenlebten, wirft Fragen nach sozialer Isolation und den Umständen des Todes auf. Solche Fälle alarmieren Nachbarschaften und erfordern polizeiliche Aufklärung bezüglich möglicher Straftaten oder Vernachlässigung.",
+    "t": "Barcelona: Frau und Tochter lebten zwei Jahre mit Leiche",
+    "s": "In einem Wohnhaus nahe Barcelona haben eine Frau und ihre Tochter offenbar zwei Jahre lang mit einer Leiche zusammengelebt. Nachbarn waren auf ein zunehmendes Müllproblem aufmerksam geworden und hatten die Behörden alarmiert. Als die katalanische Polizei das Anwesen daraufhin überprüfte, stieß sie auf den Toten. Die Hintergründe des Vorfalls sind Gegenstand polizeilicher Ermittlungen.",
+    "m": "Die Entdeckung wurde durch aufmerksame Nachbarn in der Nachbarschaft eines Hauses nahe Barcelona ins Rollen gebracht, denen ein massives Müllproblem auf dem Anwesen auffiel. Daraufhin schalteten sie die Behörden ein, um der Ursache nachzugehen. Die alarmierten Beamten der katalanischen Polizei betraten das Gebäude für eine Nachschau und machten dort den grauenhaften Fund. Nach ersten Erkenntnissen der Ermittler befand sich die Leiche bereits seit schätzungsweise zwei Jahren in den Räumlichkeiten. Neben dem Toten wurden in dem Haus eine Frau und ihre Tochter angetroffen, die dort offenbar gemeinsam mit dem Leichnam hausten. Weitere Details zur Identität der beteiligten Personen, zur genauen Todesursache oder zu möglichen Motiven wurden zunächst nicht bekannt. Die zuständigen Behörden prüfen nun, wie es zu diesem Zustand kommen konnte und ob strafrechtliche Konsequenzen drohen.",
+    "r": "Der Fund einer Leiche, die über Jahre hinweg unbemerkt in einem Wohnhaus blieb, wirft Fragen zur sozialen Kontrolle und Nachbarschaft auf. Der Vorfall erfordert polizeiliche Aufklärung hinsichtlich möglicher Straftaten im Zusammenhang mit der Totenruhe oder Unterlassungen.",
     "srcs": [
       {
         "name": "RND",
@@ -391,15 +884,15 @@
       }
     ],
     "url": "https://www.rnd.de/panorama/barcelona-frau-und-tochter-lebten-zwei-jahre-mit-leiche-im-haus-P7RX6QFBQJDPLPZ5AURYPEQQGU.html",
-    "agree": "Die Quellen stimmen darin überein, dass eine Frau und ihre Tochter nahe Barcelona zwei Jahre lang mit einer Leiche in einem Haus lebten, nachdem Nachbarn wegen Mülls die Behörden alarmierten.",
+    "agree": "Die Quellen stimmen darin überein, dass Nachbarn wegen Müll den Behörden Bescheid gaben und die Polizei bei der Überprüfung eines Hauses nahe Barcelona eine Leiche fand, mit der eine Frau und eine Tochter lebten.",
     "diff": [
       {
-        "name": "RND",
-        "note": "Berichtet, dass Nachbarn der zunehmende Müll auffiel."
+        "name": "DER SPIEGEL",
+        "note": "Beschreibt die Entdeckung als grausig und erwähnt, dass die Anwohner ein Müllproblem in ihrer Nachbarschaft meldeten."
       },
       {
-        "name": "DER SPIEGEL",
-        "note": "Spricht von einem Müllproblem in der Nachbarschaft, das Anwohner den Behörden meldeten."
+        "name": "RND",
+        "note": "Erwähnt konkret, dass die katalanische Polizei nach dem Rechten sah."
       }
     ],
     "chg": "",
@@ -530,10 +1023,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Manchester City in 114 Fällen von Finanzverstößen schuldig gesprochen",
-    "s": "Ein unabhängiges Gericht hat nach Medienberichten ein erstes Urteil im lang erwarteten Verfahren gegen den englischen Fußballverein Manchester City gefällt. Dem Klub wird demnach vorgeworfen, in 114 Punkten gegen Finanzregeln der Premier League verstoßen zu haben. Der Prozess geht nach jahrelangen Ermittlungen und Vorwürfen nun in die nächste entscheidende Runde. Das Ergebnis dieser unabhängigen Kommission wird als drastisch beschrieben.",
-    "m": "Der englische Meister Manchester City steht im Zentrum eines beispiellosen Verfahrens im europäischen Spitzenfußball. Nach Berichten britischer Medien hat eine unabhängige Kommission nun ein erstes Urteil gefällt und den Verein in 114 von 115 angeklagten Punkten für schuldig befunden. Im Kern geht es um jahrelange, systematische Verstöße gegen die strengen Finanzregeln der Premier League. Die Vorwürfe umfassen unter anderem unvollständige Finanzangaben, mangelnde Kooperation bei den Untersuchungen sowie Unstimmigkeiten bezüglich Sponsoreneinnahmen und Spielergehältern über mehrere Spielzeiten hinweg. Das Verfahren zieht sich bereits über einen längeren Zeitraum hin und sorgt international für große Aufmerksamkeit, da drakonische Strafen wie Punktabzüge oder gar Ausschlüsse im Raum stehen. Bislang handelt es sich um ein erstes Urteil eines unabhängigen Gerichts, dessen genaue Konsequenzen und Details weiter geprüft werden. Offen bleibt, welche konkreten Sanktionen die Premier League letztlich gegen den Verein verhängen wird und wie die Clubführung auf das drastische Ergebnis reagiert.",
-    "r": "Das Urteil gegen Manchester City betrifft einen der finanzstärksten und erfolgreichsten Vereine im europäischen Fußball und könnte weitreichende Konsequenzen für den Wettbewerb in der Premier League haben. Die massiven Vorwürfe und das gefällte Urteil berühren die Integrität des Ligabetriebs und die Einhaltung finanzieller Fair-Play-Regeln.",
+    "t": "Manchester City in 114 Punkten von unabhängigem Gericht schuldig gesprochen",
+    "s": "Manchester City steht im Zentrum eines lang erwarteten Verfahrens wegen angeblicher Verstöße gegen die Finanzregeln der englischen Premier League. Ein unabhängiges Gericht hat nun ein erstes Urteil in diesem aufsehenerregenden Fall gefällt. Die Vorwürfe umfassen eine massive Anzahl an Regelverstößen über mehrere Jahre hinweg.",
+    "m": "Der Prozess gegen Manchester City betrifft insgesamt 115 angeklagte Punkte bezüglich der Finanzregeln der englischen Premier League. Berichten zufolge spricht ein unabhängiges Gericht den Verein nun in 114 von diesen 115 Punkten für schuldig. Die Vorwürfe werfen dem Spitzenklub vor, jahrelang systematisch gegen finanzielle Vorgaben verstoßen zu haben. Britische Medien machten das Ergebnis der zuständigen Kommission publik, welches als drastisch eingestuft wird. Das Verfahren gilt als einer der bedeutendsten Skandale im modernen englischen Fußball. Welche konkreten Konsequenzen oder Strafen auf den Verein zukommen, ist Gegenstand weiterer juristischer Entwicklungen. Die Tragweite des Urteils könnte den gesamten englischen Profifußball nachhaltig verändern.",
+    "r": "Das Verfahren gegen Manchester City betrifft einen der finanzstärksten und erfolgreichsten Klubs im europäischen Fußball. Die Entscheidung eines unabhängigen Gerichts über massive Verstöße gegen Finanzregeln hat weitreichende Bedeutung für die Integrität des Wettbewerbs.",
     "srcs": [
       {
         "name": "t-online Sport",
@@ -547,15 +1040,15 @@
       }
     ],
     "url": "https://www.t-online.de/sport/fussball/international/id_101453202/premier-league-manchester-city-schuldig-in-114-von-115-punkten.html",
-    "agree": "Die Quellen sind sich einig, dass Manchester City im Rahmen eines Prozesses der Premier League beschuldigt oder für schuldig befunden wurde, in 114 Fällen gegen Finanzregeln verstoßen zu haben.",
+    "agree": "Die Quellen sind sich einig, dass Manchester City wegen Verstößen gegen die Finanzregeln der Premier League von einem Gericht oder einer Kommission beurteilt wurde.",
     "diff": [
       {
         "name": "t-online Sport",
-        "note": "Berichtet konkreter von einem unabhängigen Gericht, das ein erstes Urteil gefällt hat, und nennt die Zahl von 114 Schuldigen Punkten in 115 Fällen als definitiven Befund."
+        "note": "Berichtet, dass das unabhängige Gericht Manchester City in 114 von 115 Punkten schuldig gesprochen hat und bezeichnet dies als erstes Urteil."
       },
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Formuliert das Ergebnis noch als Frage und stützt sich auf britische Medienberichte, wonach das Resultat der Kommission drastisch sein soll."
+        "note": "Formuliert die Zahl der Fälle als Frage und beruft sich auf britische Medienberichte bezüglich des drastischen Ergebnisses der Kommission."
       }
     ],
     "chg": "",
@@ -983,10 +1476,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Saudi-Arabien wehrt Huthi-Raketen ab und Ölpreise steigen",
-    "s": "Saudi-Arabien hat mehrere ballistische Raketen abgefangen, die von der Houthi-Miliz aus Jemen abgefeuert wurden. Die Angriffe richteten sich gegen Ziele in Taif und der Rotmeer-Region Yanbu. Infolge der neuen Eskalation kletterten die Ölpreise auf ein Wochentoch.",
-    "m": "Die von Saudi-Arabien angeführte Koalition im Jemen teilte mit, dass insgesamt sechs ballistische Raketen erfolgreich abgefangen wurden. Die Angriffe zielten auf die westsaudi-arabische Stadt Taif sowie auf das Gebiet Yanbu am Roten Meer ab, welches als wichtigste alternative Route für saudisches Öl dient. Die vom Iran unterstützten Houthi-Rebellen beanspruchten die Attacken für sich und sprachen von einem sensiblen Ziel in der Hauptstadt Riyadh sowie von Anlagen des Ölkonzerns Saudi Aramco in Yanbu. Die aktuellen Angriffe schürten international Befürchtungen vor spiralförmigen Versorgungsunterbrechungen auf den Energiemärkten. Durch diese Sorgen kletterten die Ölpreise auf den höchsten Stand seit einer Woche. Bislang gibt es keine offiziellen Berichte über größere Schäden an den angegriffenen Standorten oder Verletzte.",
-    "r": "Die Angriffe auf wichtige saudische Öl- und Transportinfrastrukturen verdeutlichen die anhaltende Bedrohung durch den Jemen-Konflikt für die globale Energieversorgung. Sie demonstrieren unmittelbar, wie geopolitische Spannungen in der Region den Weltmarktpreis für Rohöl beeinflussen können.",
+    "t": "Saudi-Arabien wehrt Raketenangriffe der Huthi-Miliz ab",
+    "s": "Die von Saudi-Arabien geführte Koalition hat nach eigenen Angaben mehrere ballistische Raketen abgefangen, die von der Huthi-Miliz im Jemen abgefeuert wurden. Die Angriffe richteten sich unter anderem gegen Taif und die Region Yanbu am Roten Meer. Infolge der Eskalation stiegen die Ölpreise auf ein Wochentief, angetrieben von Sorgen vor Versorgungsunterbrechungen.",
+    "m": "Die saudi-arabische Luftabwehr fing insgesamt sechs ballistische Raketen ab, die von den Iran-unterstützten Huthis im Jemen gestartet wurden. Laut Angaben der saudi-arabisch geführten Koalition waren die Ziele Taif im Westen des Landes sowie das Industrie- und Ölzentrum Yanbu am Roten Meer, das als Hauptalternativroute für saudi-arabisches Öl dient. Die Huthi-Miliz reklamierte dagegen Angriffe auf ein sensibles Ziel in der Hauptstadt Riad sowie auf Anlagen des Ölkonzerns Saudi Aramco in Yanbu für sich. Die neuerlichen Attacken schürten internationale Befürchtungen vor weitreichenden Versorgungsengpässen auf den Energiemärkten. Dies führte dazu, dass die Ölpreise auf den weltweiten Märkten auf ein Einwochenhoch kletterten. Die militärischen Auseinandersetzungen im Zusammenhang mit dem Jemen-Konflikt belasten damit erneut die globale Wirtschaftsstabilität und die Sicherheit kritischer Infrastruktur in der Region.",
+    "r": "Die Angriffe auf saudi-arabische Öl- und Infrastruktureinrichtungen durch jemenitische Rebellen verdeutlichen die anhaltende Verwundbarkeit wichtiger globaler Energierouten. Die daraus resultierenden Preisanstiege am Ölmarkt zeigen, wie sensibel die Märkte auf geopolitische Spannungen im Nahen Osten reagieren.",
     "srcs": [
       {
         "name": "Google News World",
@@ -1000,15 +1493,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0MwRGdjN1NtYkFaMVhhdktMMEtrb0hMUHdmeU1QeTVqZGpqcHlZVkZiVTZ1Yk4xY0ZQMktfem5iTGpsY3FPS0hqZDNkbV9iMHNIVW1ZVk1yOWtiVEtWTkRreXRUTkRMYjE1NThLT0s1cTVIWUlJSGpUdWJpZE5EcEQ3SlJtcjdXV1ByNWFaMlJOeS0ydThQNWJFU1o5TTZIYk1tempn?oc=5",
-    "agree": "Die Quellen sind sich einig, dass Saudi-Arabien Raketen der Huthi abgewehrt hat und die Ölpreise auf ein Wochentoch gestiegen sind.",
+    "agree": "",
     "diff": [
       {
-        "name": "Google News World",
-        "note": "Berichtet über die Schlagzeile in Anlehnung an den Guardian ohne zusätzlichen Fließtext."
-      },
-      {
         "name": "Guardian World",
-        "note": "Liefert die Details über sechs abgefangene Raketen, die Ziele Taif und Yanbu, die Huthi-Ansprüche bezüglich Riyadh und Saudi Aramco sowie den Hintergrund der Versorgungsängste."
+        "note": "Berichtet im Detail über sechs abgefangene Raketen, die Ziele Taif und Yanbu, die Angaben der Huthi zu Riad und Saudi Aramco sowie den Anstieg der Ölpreise."
       }
     ],
     "chg": "",
@@ -1025,9 +1514,9 @@
     "st": "BW",
     "city": "",
     "t": "Ermittler schalten knapp 10.000 Rufnummern von Cyberkriminellen ab",
-    "s": "Ermittler aus Baden-Württemberg und internationale Partner haben einen Schlag gegen den Cyber-Anlagebetrug geführt. Dabei wurden knapp 10.000 Rufnummern sowie illegale Domains abgeschaltet. Die Aktion richtet sich gegen kriminelle Strukturen im Bereich des Online-Betrugs.",
-    "m": "Unter der Beteiligung von Ermittlern aus Baden-Württemberg und weiteren internationalen Partnern wurde eine groß angelegte Aktion gegen Cyber-Anlagebetrug durchgeführt. Im Zuge dieser Maßnahmen konnten knapp 10.000 Rufnummern von mutmaßlichen Cyberkriminellen vom Netz genommen werden. Zudem wurden zahlreiche illegale Domains abgeschaltet, die für betrügerische Machenschaften genutzt wurden. Der Online-Anlagebetrug verursacht international und auch in Deutschland regelmäßig Millionenschäden bei Geschädigten. Die Behörden verstärken zunehmend die grenzüberschreitende Zusammenarbeit, um gegen die professionell agierenden Betrügerbanden vorzugehen. Bisher wurden im Rahmen dieser konkreten Operation keine Details zu konkreten Festnahmen oder den genauen Standorten der Server genannt. Die Ermittlungen zu den Hinterleuten und weiteren betroffenen Domains dauern an.",
-    "r": "Die Operation zeigt Erfolge im internationalen Kampf gegen den professionellen Online-Anlagebetrug und schränkt die Kommunikationsmittel krimineller Netzwerke ein.",
+    "s": "Ermittler aus Baden-Württemberg sind gemeinsam mit internationalen Partnern erfolgreich gegen Cyber-Anlagebetrug vorgegangen. Im Zuge dieser Operation wurden tausende Rufnummern und illegale Domains abgeschaltet. Ziel der Maßnahmen ist es, die kriminellen Strukturen im Bereich des Anlagebetrugs nachhaltig zu schwächen. Der aktuelle Stand der Ermittlungen zeigt spürbare Treffer gegen die Täter.",
+    "m": "Die Ermittlungsbehörden aus Baden-Württemberg haben in einer koordinierten Aktion mit internationalen Partnern einen Schlag gegen den Cyber-Anlagebetrug geführt. Dabei wurden knapp 10.000 Rufnummern von Cyberkriminellen abgeschaltet. Neben den Telefonnummern waren auch diverse illegale Domains das Ziel der polizeilichen Maßnahmen. Diese Infrastruktur wurde von den Kriminellen genutzt, um Opfer zu kontaktieren und zu betrügen. Details zum genauen zeitlichen Ablauf oder zu konkreten Festnahmen wurden in den vorliegenden Berichten bisher nicht genannt. Die Operation verdeutlicht die zunehmende Notwendigkeit internationaler Zusammenarbeit bei der Bekämpfung grenzüberschreitender Cyberkriminalität. Weitere Ermittlungen zu den Hintermännern und dem genauen Schadensausmaß laufen.",
+    "r": "Der massive Ausfall von knapp 10.000 Rufnummern und Domains zeigt einen erfolgreichen grenzüberschreitenden Schlag gegen international agierende Anlagebetrüger. Solche Maßnahmen sind zentral, um die technische Infrastruktur organisierter Cyberkriminalität empfindlich zu treffen.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -1041,8 +1530,17 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-knapp-10-000-rufnummern-von-cyberkriminellen-abgeschaltet-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Ermittler aus Baden-Württemberg gemeinsam mit internationalen Partnern knapp 10.000 Rufnummern und illegale Domains von Cyberkriminellen im Bereich des Anlagebetrugs abgeschaltet haben.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen überein, dass Ermittler aus Baden-Württemberg und internationale Partner gemeinsam gegen Cyber-Anlagebetrug vorgegangen sind und dabei knapp 10.000 Rufnummern sowie illegale Domains abgeschaltet wurden.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Berichtet in Kurzform über die Abschaltung von knapp 10.000 Rufnummern und illegalen Domains im Rahmen des Vorgehens gegen Cyber-Anlagebetrug."
+      },
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Verwendet einen leicht erweiterten Titel, der die Eckdaten der Operation direkt zusammenfasst."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -1094,9 +1592,9 @@
     "st": "BW",
     "city": "",
     "t": "Überlinger Waldrappe haben die Alpen erfolgreich überquert",
-    "s": "Die Waldrappe der Überlinger Kolonie haben auf ihrem Weg nach Süden erfolgreich die Alpen überquert und sind in Norditalien angekommen. Die Tiere sind erneut selbstständig losgeflogen, was von den Verantwortlichen als großer Erfolg gewertet wird. Gleichzeitig steht auch die menschengeführte Migration kurz vor ihrem Ziel in den italienischen Wintergebieten.",
-    "m": "Die Waldrappe aus der Überlinger Brutkolonie haben ihre herbstliche Reise in Richtung Süden angetreten und die Alpen erfolgreich hinter sich gelassen. Mittlerweile sind die seltenen Zugvögel in Norditalien eingetroffen. Besonders hervorgehoben wird von den Beobachtern, dass die Tiere erneut eigenständig den Weg über die Alpen angetreten und absolviert haben, was den langfristigen Wiedereinbürgerungserfolg unterstützt. Neben dieser selbstständigen Gruppe befindet sich auch die parallel laufende, menschengeführte Migration der Waldrappe auf den letzten Metern und steht kurz vor dem Erreichen ihres Ziels. Das Projekt soll den Vögeln die traditionellen Zugrouten in ihre südlichen Überwinterungsgebiete wiederbeibringen. Genauere Details zu den exakten Etappenorten in Norditalien oder der genauen Anzahl der beteiligten Tiere nennen die vorliegenden Berichte nicht.",
-    "r": "Die erfolgreiche Alpenüberquerung der Überlinger Waldrappe nach Norditalien ist ein wichtiger Meilenstein für die Wiedereinbürgerung und das Überleben dieser stark gefährdeten Vogelart in Mitteleuropa.",
+    "s": "Die Waldrappe der Überlinger Kolonie haben auf ihrem Weg nach Süden erfolgreich die Alpen überquert und sind in Norditalien angekommen. Die Tiere sind erneut selbstständig losgeflogen, was von den Verantwortlichen als großer Erfolg gewertet wird. Gleichzeitig steht auch die menschengeführte Migration der Vögel kurz vor ihrem Ziel.",
+    "m": "Die Waldrappe der Überlinger Kolonie haben ihre herbstliche Reise angetreten und dabei die Alpen erfolgreich hinter sich gelassen. Mittlerweile sind die Tiere in Norditalien angekommen. Besonders hervorgehoben wird von den Beobachtern, dass die Vögel erneut selbstständig losgeflogen sind, was als wichtiger Meilenstein für die Artenschutzbemühungen und die Etablierung einer eigenständigen Population gilt. Neben dieser eigenständigen Gruppe befindet sich auch die sogenannte menschengeführte Migration auf dem Weg und steht ebenfalls kurz vor dem Erreichen ihres Ziels in den südlichen Winterquartieren. Weitere Details zu genauen Zwischenstationen oder der genauen Anzahl der beteiligten Vögel nennen die vorliegenden Berichte nicht.",
+    "r": "Die erfolgreiche Alpenüberquerung der bedrohten Waldrappe zeigt Fortschritte bei den Wiederansiedlungsprojekten der Art. Die gelungene eigenständige sowie die begleitete Migration demonstrieren die Anpassungsfähigkeit der Vögel auf ihren traditionellen Zugrouten.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1110,7 +1608,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/ueberlinger-waldrappe-in-italien-angekommen-100.html",
-    "agree": "Sowohl SWR Aktuell Baden-Württemberg als auch Tagesschau Regional Baden-Württemberg berichten übereinstimmend, dass die Überlinger Waldrappe die Alpen erfolgreich überquert haben und in Norditalien angekommen sind, wobei der selbstständige Flug der Tiere als E",
+    "agree": "Beide Quellen stimmen darin überein, dass die Überlinger Waldrappe die Alpen erfolgreich überquert haben, in Norditalien angekommen sind, eigenständig losgeflogen sind und die menschengeführte Migration kurz vor dem Ziel steht.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1854,13 +2352,13 @@
     "k": "politik",
     "lang": "de",
     "d": "2026-09-25T00:03:32.000Z",
-    "p": 4,
+    "p": 5,
     "st": "",
     "city": "",
-    "t": "Xi Jinping schlägt bei Treffen mit Trump Zusammenarbeit zur Vermeidung eines Konflikts",
-    "s": "Der chinesische Staatschef Xi Jinping hat bei einem Gipfeltreffen mit US-Präsident Donald Trump im Weißen Haus Bedingungen für ein besseres gegenseitiges Verständnis genannt. Angesichts starker Spannungen forderte er eine umfassende Kooperation, um einen militärischen Konflikt zwischen den beiden Supermächten zu verhindern.",
-    "m": "Das Treffen zwischen Xi Jinping und Donald Trump im Weißen Haus findet vor dem Hintergrund intensiver Konkurrenz in den Bereichen Künstliche Intelligenz, Handel und der Taiwan-Frage statt. Der chinesische Präsident warnte vor der sogenannten Thukydides-Falle und plädiert für eine engere Zusammenarbeit, um einen militärischen Zusammenstoß zu vermeiden. Konkrete Vorschläge zur Entspannung sollen dabei helfen, die Beziehungen in dieser wettbewerbsintensiven Phase zu steuern. Die Gespräche markieren einen wichtigen Moment in den bilateralen Beziehungen der beiden Staaten.",
-    "r": "Die Gespräche zwischen den USA und China sind von globaler Bedeutung, da sie den Kurs im Umgang mit Handelskonflikten, technologischer Konkurrenz und potenziellen militärischen Risiken bestimmen. Das Treffen der beiden Staatsoberhäupter setzt Signale für die künftige diplomatische Stabilität.",
+    "t": "Xi Jinping schlägt bei Treffen mit Trump Kooperation zur Vermeidung eines Konflikts",
+    "s": "Bei einem Treffen im Weißen Haus hat der chinesische Staatschef Xi Jinping Bedingungen zur Entspannung des Verhältnisses zu den USA genannt. Er plädierte für eine umfassende Zusammenarbeit, um eine militärische Konfrontation zu vermeiden. Das Gespräch findet vor dem Hintergrund intensiver internationaler Konkurrenz statt.",
+    "m": "Im Rahmen eines Gipfeltreffens im Weißen Haus mit dem designierten US-Präsidenten Donald Trump hat der chinesische Staatspräsident Xi Jinping konkrete Bedingungen zur Vermeidung eines militärischen Konflikts zwischen den beiden Supermächten formuliert. Xi betonte die Notwendigkeit einer umfassenden Kooperation, um der sogenannten Thukydides-Falle zu entgehen, die zu einer kriegerischen Eskalation führen könnte. Hintergrund der angespannten Beziehungen sind erhebliche Handelskonflikte, das Thema Taiwan sowie die harte Konkurrenz im Bereich der künstlichen Intelligenz. Die Vorschläge des chinesischen Präsidenten zielen darauf ab, durch ein besseres gegenseitiges Verständnis die Spannungen zwischen den beiden Ländern zu verringern und einen direkten Zusammenstoß zu verhindern.",
+    "r": "Das Treffen und die diplomatischen Vorstöße der beiden Weltmächte sind von globaler Bedeutung, da eine Eskalation im Handels- und Technologiebereich sowie in der Taiwan-Frage schwerwiegende internationale Konsequenzen haben kann.",
     "srcs": [
       {
         "name": "Google News World",
@@ -1874,11 +2372,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass Xi Jinping bei einem Treffen mit Donald Trump Bedingungen zur Vermeidung eines US-chinesischen Militärkonflikts vorgelegt hat.",
+    "agree": "Die Quellen stimmen überein, dass Xi Jinping bei einem Treffen mit Donald Trump Bedingungen vorgelegt hat, um einen militärisch-politischen Konflikt zwischen den USA und China zu verhindern.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet detailliert über die Warnung vor der 'Thukydides-Falle' und nennt spezifische Spannungsfelder wie Künstliche Intelligenz, Handel und Taiwan."
+        "note": "Berichtet detailliert über die Hintergründe der Spannungen wie künstliche Intelligenz, Handel, Taiwan und die Erwähnung der 'Thukydides-Falle' sowie das Treffen im Weißen Haus."
       }
     ],
     "chg": "",
