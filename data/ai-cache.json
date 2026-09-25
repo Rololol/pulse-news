@@ -5670,5 +5670,594 @@
     "updatedAt": "2026-09-25T14:11:17.138Z",
     "sourceSignature": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss|https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5",
     "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMjZ8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL3VzYS1zY2hsYWdlbi1kcmVpZXJ0cmVm": {
+    "t": "USA schlagen Dreiertreffen mit Russland und Ukraine in den VAE vor",
+    "s": "Die USA haben ein neues Dreiertreffen vorgeschlagen, an dem Russland und die Ukraine teilnehmen sollen. Der ukrainische Präsident Selenskij berichtete über diesen Vorstoß. Nach russischen Angaben könnte das Treffen bald stattfinden.",
+    "m": "Das geplante Dreiertreffen soll nach den Berichten in den Vereinigten Arabischen Emiraten (VAE) stattfinden. Die Initiative dazu ging von den USA aus. Während der ukrainische Präsident Selenskij den Vorschlag öffentlich machte, bestätigten russische Stellen, dass das Treffen in absehbarer Zeit über die Bühne gehen könnte. Weitere Details zum genauen Zeitpunkt oder der konkreten Agenda wurden zunächst nicht bekannt gegeben. Der Schritt erfolgt vor dem Hintergrund des anhaltenden Krieges in der Ukraine. Es bleibt abzuwarten, ob beide Konfliktparteien der Einladung tatsächlich folgen und ob konkrete Verhandlungen zustande kommen.",
+    "r": "Ein mögliches Dreiertreffen unter US-Vermittlung könnte neue diplomatische Dynamiken in den festgefahrenen Konflikt bringen. Die Beteiligung aller drei Parteien ist für eventuelle Gespräche von zentraler Bedeutung.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass die USA ein Dreiertreffen zwischen ihnen, der Ukraine und Russland vorgeschlagen haben.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über den Vorschlag eines Dreiertreffens zwischen den USA, Russland und der Ukraine."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt zusätzlich, dass das Treffen in den VAE stattfinden soll, beruft sich dabei auf Selenskij und nennt russische Angaben zu einem baldigen Termin."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:23:23.218Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/usa-schlagen-dreiertreffen-mit-russland-und-ukraine-vor-100.html|https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-selenskij-vae-usa-treffen-li.3549696",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMjY2fGh0dHBzOi8vd3d3LnQtb25saW5lLmRlL3Nwb3J0L21laHItc3BvcnQvcmFkc3BvcnQvaWRf": {
+    "t": "Deutscher Radprofi Maximilian Walscheid beendet überraschend Karriere",
+    "s": "Der deutsche Radprofi Maximilian Walscheid wird seine Karriere überraschend mit Ablauf der laufenden Saison beenden. Das gab sein Rennstall Lidl-Trek bekannt. In gut einer Woche steht für ihn das letzte Rennen im Profi-Radsport an. Danach plant der Sportler den Wechsel an den Schreibtisch.",
+    "m": "Maximilian Walscheid wird dem Profi-Radsport nach dem Ende der aktuellen Saison den Rücken kehren. Diese Entscheidung teilte sein Team Lidl-Trek offiziell mit. In nur etwas mehr als einer Woche wird der deutsche Radprofi das letzte Rennen seiner Karriere bestreiten. Nach dem Abschied vom aktiven Sport ist für den Athleten der Einstieg ins Berufsleben am Schreibtisch vorgesehen. Konkrete Details zu seiner zukünftigen beruflichen Tätigkeit wurden zunächst nicht genannt. Der Zeitpunkt und die Umstände des Karriereendes überraschten die Öffentlichkeit. Mit seinem Rücktritt verliert der deutsche Radsport einen erfahrenen Profi.",
+    "r": "Das Karriereende eines bekannten deutschen Profi-Sportlers markiert einen personellen Einschnitt im Radsport. Die Bekanntgabe durch den Rennstall Lidl-Trek schafft Klarheit über die sportliche Zukunft des Athleten.",
+    "k": "sport",
+    "p": 2,
+    "agree": "Die Quellen stimmen darin überein, dass der deutsche Radprofi Maximilian Walscheid zum Saisonende seine Karriere beendet und sein Team Lidl-Trek dies mitgeteilt hat.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "t-online Sport",
+        "note": "Berichtet, dass das letzte Rennen in gut einer Woche stattfindet und Walscheid danach an den Schreibtisch zurückkehrt."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:23:44.345Z",
+    "sourceSignature": "https://www.t-online.de/sport/mehr-sport/radsport/id_101453278/radsport-maximilian-walscheid-beendet-ueberraschend-karriere.html|https://www.sportschau.de/radsport/max-walscheid-beendet-radsport-karriere,max-walscheid-beendet-karriere-100.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktODIyfGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvaW5sYW5kL3JlZ2lvbmFsL2JhZGVud3VlcnR0": {
+    "t": "Ermittler schalten knapp 10.000 Rufnummern von Cyberkriminellen ab",
+    "s": "Ermittler aus Baden-Württemberg und internationale Partner haben einen Schlag gegen den Cyber-Anlagebetrug geführt. Dabei wurden knapp 10.000 Rufnummern sowie illegale Domains abgeschaltet. Die Aktion richtet sich gegen kriminelle Strukturen im Bereich des Online-Betrugs.",
+    "m": "Unter der Beteiligung von Ermittlern aus Baden-Württemberg und weiteren internationalen Partnern wurde eine groß angelegte Aktion gegen Cyber-Anlagebetrug durchgeführt. Im Zuge dieser Maßnahmen konnten knapp 10.000 Rufnummern von mutmaßlichen Cyberkriminellen vom Netz genommen werden. Zudem wurden zahlreiche illegale Domains abgeschaltet, die für betrügerische Machenschaften genutzt wurden. Der Online-Anlagebetrug verursacht international und auch in Deutschland regelmäßig Millionenschäden bei Geschädigten. Die Behörden verstärken zunehmend die grenzüberschreitende Zusammenarbeit, um gegen die professionell agierenden Betrügerbanden vorzugehen. Bisher wurden im Rahmen dieser konkreten Operation keine Details zu konkreten Festnahmen oder den genauen Standorten der Server genannt. Die Ermittlungen zu den Hinterleuten und weiteren betroffenen Domains dauern an.",
+    "r": "Die Operation zeigt Erfolge im internationalen Kampf gegen den professionellen Online-Anlagebetrug und schränkt die Kommunikationsmittel krimineller Netzwerke ein.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass Ermittler aus Baden-Württemberg gemeinsam mit internationalen Partnern knapp 10.000 Rufnummern und illegale Domains von Cyberkriminellen im Bereich des Anlagebetrugs abgeschaltet haben.",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:24:11.742Z",
+    "sourceSignature": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-knapp-10-000-rufnummern-von-cyberkriminellen-abgeschaltet-100.html|https://www.swr.de/swraktuell/baden-wuerttemberg/cyber-anlagebetrug-rufnummern-100.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMzJ8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL3plaG50YXVzZW5kZS1zY2h1ZWxlci1k": {
+    "t": "Zehntausende Schüler demonstrieren bundesweit gegen mögliche Wehrpflicht",
+    "s": "Bundesweit haben zehntausende Schülerinnen und Schüler gegen eine mögliche Wiedereinführung der Wehrpflicht demonstriert. Zu den Protesten hatte die Initiative \"Schulstreik gegen Wehrpflicht\" aufgerufen. Laut den Veranstaltern beteiligten sich mehr als 45.000 Menschen an den Kundgebungen.",
+    "m": "Die Proteste fanden im Rahmen von rund 100 angemeldeten Demonstrationen im gesamten Bundesgebiet statt. Die Initiative \"Schulstreik gegen Wehrpflicht\" koordinierte die Aktionen, bei denen sich vor allem junge Menschen gegen eine Verpflichtung zum militärischen Dienst aussprachen. Nach Angaben der Organisatoren gingen mehr als 45.000 Teilnehmer auf die Straße. Hintergründe der Proteste sind aktuelle politische Diskussionen über eine mögliche Reaktivierung der Wehrpflicht in Deutschland angesichts veränderter sicherheitspolitischer Lagen. Konkrete Reaktionen von Regierungsseite oder Details zu weiteren geplanten Aktionen gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die Proteste zeigen eine spürbare Mobilisierung junger Menschen gegen sicherheitspolitische Debatten über die Wehrpflicht. Die Kundgebungen verdeutlichen das gesellschaftliche Konfliktpotential bei der Frage nach einer Verpflichtung zum militärischen Dienst.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass zehntausende Schüler bundesweit gegen eine mögliche Wehrpflicht demonstriert haben und die Initiative \"Schulstreik gegen Wehrpflicht\" mehr als 45.000 Teilnehmer meldete.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt zusätzlich, dass es rund 100 Demonstrationen gab."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet ohne Nennung der konkreten Anzahl an Demonstrationen."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:24:39.205Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html|https://www.zdfheute.de/politik/deutschland/wehrpflicht-schueler-protest-demo-100.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNjN8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL3NhY2hzZW4tYW5oYWx0LXZlcnppY2h0": {
+    "t": "Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz",
+    "s": "Rheinland-Pfalz wird den Vorsitz der Ministerpräsidentenkonferenz für ein weiteres Jahr behalten. Damit wird Sachsen-Anhalt in der eigentlich jährlich wechselnden Reihenfolge übersprungen. Sachsen-Anhalt verzichtet somit auf den turnusmäßigen Vorsitz.",
+    "m": "Der Vorsitz der Ministerpräsidentenkonferenz bleibt für ein weiteres Jahr bei Rheinland-Pfalz. In der regulär jährlich wechselnden Reihenfolge der Bundesländer wäre als nächstes Sachsen-Anhalt an der Reihe gewesen, verzichtet jedoch darauf. Die genauen Hintergründe für den Verzicht gehen aus den vorliegenden Berichten nicht hervor. Die AfD hat diese Entscheidung beziehungsweise den Vorgang kritisiert. Bislang gibt es keine weiteren Details zu den Konsequenzen oder einer Neuausrichtung des Zeitplans für die kommenden Jahre.",
+    "r": "Die Ministerpräsidentenkonferenz ist ein wichtiges Gremium der deutschen Politik zur Abstimmung zwischen den Ländern und dem Bund. Veränderungen im Vorsitz und der Verzicht eines Bundeslandes berühren den organisatorischen Ablauf dieser Bund-Länder-Zusammenarbeit.",
+    "k": "politik",
+    "p": 2,
+    "agree": "Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz und Sachsen-Anhalt wird übersprungen.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Die Quelle erwähnt zusätzlich, dass die AfD die Entscheidung kritisiert."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:25:00.123Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/sachsen-anhalt-verzichtet-auf-mpk-vorsitz-110.html|https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMjk4fGh0dHBzOi8vd3d3LnQtb25saW5lLmRlL3Nwb3J0L2Z1c3NiYWxsL2ludGVybmF0aW9uYWwv": {
+    "t": "Manchester City in 114 Fällen von Finanzverstößen schuldig gesprochen",
+    "s": "Ein unabhängiges Gericht hat nach Medienberichten ein erstes Urteil im lang erwarteten Verfahren gegen den englischen Fußballverein Manchester City gefällt. Dem Klub wird demnach vorgeworfen, in 114 Punkten gegen Finanzregeln der Premier League verstoßen zu haben. Der Prozess geht nach jahrelangen Ermittlungen und Vorwürfen nun in die nächste entscheidende Runde. Das Ergebnis dieser unabhängigen Kommission wird als drastisch beschrieben.",
+    "m": "Der englische Meister Manchester City steht im Zentrum eines beispiellosen Verfahrens im europäischen Spitzenfußball. Nach Berichten britischer Medien hat eine unabhängige Kommission nun ein erstes Urteil gefällt und den Verein in 114 von 115 angeklagten Punkten für schuldig befunden. Im Kern geht es um jahrelange, systematische Verstöße gegen die strengen Finanzregeln der Premier League. Die Vorwürfe umfassen unter anderem unvollständige Finanzangaben, mangelnde Kooperation bei den Untersuchungen sowie Unstimmigkeiten bezüglich Sponsoreneinnahmen und Spielergehältern über mehrere Spielzeiten hinweg. Das Verfahren zieht sich bereits über einen längeren Zeitraum hin und sorgt international für große Aufmerksamkeit, da drakonische Strafen wie Punktabzüge oder gar Ausschlüsse im Raum stehen. Bislang handelt es sich um ein erstes Urteil eines unabhängigen Gerichts, dessen genaue Konsequenzen und Details weiter geprüft werden. Offen bleibt, welche konkreten Sanktionen die Premier League letztlich gegen den Verein verhängen wird und wie die Clubführung auf das drastische Ergebnis reagiert.",
+    "r": "Das Urteil gegen Manchester City betrifft einen der finanzstärksten und erfolgreichsten Vereine im europäischen Fußball und könnte weitreichende Konsequenzen für den Wettbewerb in der Premier League haben. Die massiven Vorwürfe und das gefällte Urteil berühren die Integrität des Ligabetriebs und die Einhaltung finanzieller Fair-Play-Regeln.",
+    "k": "sport",
+    "p": 4,
+    "agree": "Die Quellen sind sich einig, dass Manchester City im Rahmen eines Prozesses der Premier League beschuldigt oder für schuldig befunden wurde, in 114 Fällen gegen Finanzregeln verstoßen zu haben.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "t-online Sport",
+        "note": "Berichtet konkreter von einem unabhängigen Gericht, das ein erstes Urteil gefällt hat, und nennt die Zahl von 114 Schuldigen Punkten in 115 Fällen als definitiven Befund."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Formuliert das Ergebnis noch als Frage und stützt sich auf britische Medienberichte, wonach das Resultat der Kommission drastisch sein soll."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:25:23.270Z",
+    "sourceSignature": "https://www.t-online.de/sport/fussball/international/id_101453202/premier-league-manchester-city-schuldig-in-114-von-115-punkten.html|https://www.faz.net/aktuell/sport/fussball/manchester-city-schuldig-in-114-faellen-201263735.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMzZ8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2tpLXZlcmRhY2h0LXJvbWFuLXdpcmQt": {
+    "t": "Roman wegen KI-Verdachts von Prix-Goncourt-Liste gestrichen",
+    "s": "In Frankreich wurde ein Roman des kanadisch-haitianischen Autors Thélyson Orélien von der Auswahlliste für den Literaturpreis Prix Goncourt gestrichen. Grund dafür ist der Verdacht, dass das Werk sehr weitgehend unter dem Einsatz Künstlicher Intelligenz entstanden sein könnte. Der Autor weist die Vorwürfe zurück, während sich sein französischer Verlag hinter ihn stellt.",
+    "m": "Die Akademie des renommierten Prix Goncourt hat entschieden, das Buch von Thélyson Orélien von der Liste der nominierten Werke zu nehmen. Dahinter steckt der Vorwurf, dass der Roman weitgehend das Produkt Künstlicher Intelligenz sei. Nähere technische Details oder Belege für diesen Verdacht wurden in den Berichten bisher nicht öffentlich genannt. Autor Thélyson Orélien bestreitet die Anschuldigungen entschieden. Unterstützung erhält er von seinem französischen Verlag, der ebenfalls hinter ihm steht. Der Fall wirft ein Schlaglicht auf den zunehmenden Einsatz und die Regulierung von KI-generierten Inhalten im Literaturbetrieb. Offen ist bislang, welche konkreten Prüfmethoden die Jury angewendet hat und ob weitere Autoren in diesem Jahr von ähnlichen Schritten betroffen sein könnten.",
+    "r": "Der Ausschluss eines Romans wegen KI-Verdachts von einem der wichtigsten Literaturpreise zeigt die wachsenden Bedenken im Literaturbetrieb bezüglich künstlich erzeugter Texte. Der Fall verdeutlicht den Konflikt zwischen traditionellen Autorenschaften und dem Einsatz neuer Technologien im Verlagswesen.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass ein Roman von Thélyson Orélien wegen des Verdachts auf den Einsatz Künstlicher Intelligenz von der Liste des Prix Goncourt gestrichen wurde.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt zusätzlich die Herkunft des Autors (kanadisch-haitianisch) und dass sich sein französischer Verlag hinter ihn stellt."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Zitiert die Einschätzung, dass der Roman »sehr weitgehend das Produkt künstlicher Intelligenz« sein soll."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:25:52.775Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/ki-verdacht-roman-wird-von-prix-goncourt-liste-gestrichen-102.html|https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen-a-01a61898-e363-4c38-9b24-a15a14d58e0b#ref=rss",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMTA3fGh0dHBzOi8vd3d3LnN1ZWRkZXV0c2NoZS5kZS9wb2xpdGlrL3dhaGxlbi1kZXV0c2NobGFu": {
+    "t": "Berliner Linke beschließt Sondierungen mit Grünen und SPD",
+    "s": "Nach der Abgeordnetenhauswahl in Berlin hat sich die Linke auf einem Parteitag für Sondierungsgespräche mit Grünen und SPD ausgesprochen. Die Delegierten stimmten für die Aufnahme von Regierungsgesprächen zur Bildung einer möglichen Koalition. Gleichzeitig äußerte sich die Partei selbstkritisch und wies Antisemitismusvorwürfe zurück.",
+    "m": "Die Delegierten der Berliner Linken haben auf einem Parteitag den Weg für Sondierungsgespräche zur Bildung einer Regierung freigemacht. Sie sprachen sich dafür aus, Gespräche mit den potenziellen Koalitionspartnern von Grünen und SPD zu führen. Neben den Schritten zur Regierungsbildung beschäftigte sich der Parteitag auch mit inhaltsbezogener Selbstkritik. In diesem Zusammenhang wurden Vorwürfe des Antisemitismus von der Partei zurückgewiesen, während gleichzeitig Raum für eigene kritische Reflexion gelassen wurde. Die Entscheidung folgt auf die jüngst abgehaltene Abgeordnetenhauswahl in der Hauptstadt, deren Ergebnisse nun in konkrete politische Handlungsoptionen überführt werden sollen. Über den genauen Zeitplan oder personelle Besetzungen der Sondierungsteams wurden in den Berichten zunächst keine weiteren Details genannt.",
+    "r": "Die Entscheidung der Berliner Linken markiert einen wichtigen Schritt für die Bildung einer neuen Landesregierung in der Hauptstadt. Mögliche Koalitionsoptionen wie ein Dreierbündnis werden damit konkret ausgelotet.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass die Berliner Linke nach der Abgeordnetenhauswahl Sondierungsgespräche mit Grünen und SPD führen möchte.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet zusätzlich, dass der Beschluss auf einem Parteitag der Delegierten gefasst wurde und die Linke dabei Antisemitismusvorwürfe zurückwies, sich aber selbstkritisch zeigte."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt die Sondierungsabsicht der Berliner Linken nach der Abgeordnetenhauswahl ohne nähere Details zum Parteitag."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:26:11.008Z",
+    "sourceSignature": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501|https://www.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMzh8aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rLmRlL2t1ZW5mdGlnLWhhZnRlbi1hdWNoLXZl": {
+    "t": "Bundesrat beschließt neue Haftungsregeln für E-Scooter-Vermieter",
+    "s": "Opfer von Unfällen mit E-Scootern sollen künftig leichter an Schadensersatz gelangen. Der Bundesrat hat einem entsprechenden Gesetz zugestimmt. Damit ändern sich die bisherigen Haftungsregeln grundlegend für die Anbieter.",
+    "m": "Durch den Beschluss des Bundesrates soll das Haftungsrisiko bei E-Scooter-Unfällen künftig direkt bei den Vermietern liegen. Dies soll betroffenen Unfallopfern ermöglichen, deutlich einfacher und unkomplizierter Schadensersatz einzufordern. Die Gesetzesänderung schließt eine bisherige rechtliche Lücke im Umgang mit den beliebten Leihfahrzeugen im Straßenverkehr. Bislang war die Geltendmachung von Ansprüchen für Geschädigte oft mit erheblichen Hürden verbunden, da die direkte Haftung der Halter oder Vermieter nicht in dieser Form geregelt war. Nähere Details zum genauen Zeitpunkt des Inkrafttretens oder zu den Übergangsfristen für die Unternehmen wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Neuregelung betrifft die Sicherheit im Straßenverkehr sowie zivilrechtliche Ansprüche von Unfallopfern und schließt rechtliche Lücken im Umgang mit gewerblichen E-Scooter-Angeboten.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass der Bundesrat einem Gesetz zugestimmt hat, wonach Vermieter beziehungsweise Halter von E-Scootern künftig bei Unfällen haften und Unfallopfer dadurch leichter Schadensersatz erhalten.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt explizit die Vermieter von E-Scootern als künftige Haftende."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Spricht allgemein von Haltern und führt aus, dass der Bundesrat einem entsprechenden Gesetz zugestimmt hat."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:26:36.496Z",
+    "sourceSignature": "https://www.deutschlandfunk.de/kuenftig-haften-auch-vermieter-von-e-scootern-bei-unfaellen-100.html|https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNjIyfGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9ldXJvcGEvcGFwc3QtbGVvLXJl": {
+    "t": "Papst Leo XIV. zu erstem Frankreich-Besuch in Paris eingetroffen",
+    "s": "Papst Leo XIV. ist zu seinem ersten Besuch in Frankreich in Paris eingetroffen. Dort kam er mit dem französischen Präsidenten Emmanuel Macron zusammen, um unter anderem über Sterbehilfe und Künstliche Intelligenz zu sprechen. In den kommenden Tagen werden Hunderttausende Gläubige zu den weiteren Stationen und Veranstaltungen erwartet.",
+    "m": "Der Pontifex wurde bei seiner Ankunft in der französischen Hauptstadt von Staatspräsident Emmanuel Macron empfangen. Im Mittelpunkt des politischen Austauschs standen gesellschaftspolitische und zukunftsweisende Themen wie die Debatte um Sterbehilfe sowie die Regulierung und die Auswirkungen von Künstlicher Intelligenz. Der Besuch ist der erste offizielle Aufenthalt von Papst Leo XIV. in Frankreich seit Beginn seines Pontifikats. Sicherheitskräfte bereiten sich auf den Ansturm Hunderttausender Gläubiger vor, die in den nächsten Tagen zu den Messen und öffentlichen Auftritten des Papstes erwartet werden. Das genaue Programm der kommenden Tage umfasst neben religiösen Feiern auch weitere hochrangige Begegnungen. Weitere Details zu den Inhalten des Gesprächs mit Macron wurden zunächst nicht bekannt gegeben.",
+    "r": "Der erste Frankreich-Besuch von Papst Leo XIV. und sein Treffen mit Präsident Macron setzen wichtige diplomatische und gesellschaftspolitische Akzente. Die Anwesenheit Hunderttausender erwarteter Gläubiger unterstreicht die religiöse und organisatorische Dimension des Ereignisses.",
+    "k": "panorama",
+    "p": 3,
+    "agree": "",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Enthält lediglich den Verweis auf den Bericht der Tagesschau und bricht den Text mitten im Wort ab."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:26:54.791Z",
+    "sourceSignature": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html|https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjJ2WEtFaW96OWFwZVV6STZFdTU4UTdCRVA3UFgzc0NfYTFpSVgxOXRHMkgwcTVNTXFadFFCcjJPYW1SYTRIQXVpWWZsT3FYbzhaZDA4NV92eFoyaEVDaTVxbEtFOTg3ekxTTXRrMV9jY1d2QlMxSkdRaTZrSEg4MHlR?oc=5",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMjU1fGh0dHBzOi8vd3d3LnJuZC5kZS9wYW5vcmFtYS9iYXJjZWxvbmEtZnJhdS11bmQtdG9jaHRl": {
+    "t": "Frau und Tochter lebten zwei Jahre mit Leiche in Haus bei Barcelona",
+    "s": "Anwohner eines Hauses nahe Barcelona haben den Behörden ein Müllproblem gemeldet. Als die katalanische Polizei daraufhin das Gebäude überprüfte, machte sie eine grausige Entdeckung. Eine Mutter und ihre Tochter hatten offenbar zwei Jahre lang mit einer Leiche in dem Haus gelebt. Die Identität der Leiche und die genauen Todesumstände sind Gegenstand von Ermittlungen.",
+    "m": "Die Entdeckung wurde durch wachsenden Müll auf dem Grundstück in der Nähe von Barcelona ausgelöst, was besorgte Nachbarn dazu veranlasste, die Behörden zu alarmieren. Bei der Überprüfung des Wohnhauses stießen die Einsatzkräfte der katalanischen Polizei auf den leblosen Körper. Ersten Erkenntnissen zufolge lebten eine Frau und ihre Tochter bereits seit zwei Jahren gemeinsam mit dem Toten in den Räumlichkeiten. Bislang ist unklar, um wen es sich bei der verstorbenen Person handelt und woran diese gestorben ist. Die Ermittler prüfen nun, wie es zu dieser Situation kommen konnte und ob strafrechtliche Konsequenzen drohen. Weitere Details zum genauen Zustand des Hauses oder den Hintergründen der beteiligten Personen wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Fund einer Leiche, mit der Angehörige jahrelang unbemerkt zusammenlebten, wirft Fragen nach sozialer Isolation und den Umständen des Todes auf. Solche Fälle alarmieren Nachbarschaften und erfordern polizeiliche Aufklärung bezüglich möglicher Straftaten oder Vernachlässigung.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Die Quellen stimmen darin überein, dass eine Frau und ihre Tochter nahe Barcelona zwei Jahre lang mit einer Leiche in einem Haus lebten, nachdem Nachbarn wegen Mülls die Behörden alarmierten.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet, dass Nachbarn der zunehmende Müll auffiel."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Spricht von einem Müllproblem in der Nachbarschaft, das Anwohner den Behörden meldeten."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:27:07.848Z",
+    "sourceSignature": "https://www.rnd.de/panorama/barcelona-frau-und-tochter-lebten-zwei-jahre-mit-leiche-im-haus-P7RX6QFBQJDPLPZ5AURYPEQQGU.html|https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMjc5fGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvd2lydHNjaGFmdC9maW5hbnplbi9tYXJrdGJl": {
+    "t": "Friedenshoffnungen und Übernahmegerüchte bewegen den DAX",
+    "s": "Neue Hoffnungen auf einen Frieden im Nahen Osten lassen zum Wochenschluss die Ölpreise sinken. Diese Entwicklung sorgt bei Anlegern an der Börse für Zuversicht. Zusätzlich treibt eine mögliche Übernahme die Kurse an.",
+    "m": "Die aktuellen Marktberichte zeigen, dass insbesondere die Aussicht auf Entspannung im Nahen Osten spürbare Spuren hinterlässt. Sinkende Ölpreise entlasten dabei die Märkte und geben den DAX-Anlegern neuen Mut. Parallel dazu rückt eine potenzielle Firmenübernahme in den Fokus des Handelsgeschehens und beeinflusst die Kursverläufe. Konkrete Details zu den beteiligten Unternehmen oder dem genauen Ausmaß der Kursbewegungen nennen die vorliegenden Berichte jedoch nicht. Marktbeobachter werten die Kombination aus geopolitischen Entspannungssignalen und unternehmerischen Aktivitäten als entscheidende Impulse zum Wochenschluss. Offen bleibt, wie sich die Situation im Nahen Osten nachhaltig entwickelt und ob die genannte Übernahme tatsächlich zustande kommt.",
+    "r": "Die Meldung ist relevant, da geopolitische Entwicklungen wie Hoffnungen auf Frieden und sinkende Ölpreise direkten Einfluss auf das Handelsgeschehen am Aktienmarkt und die Stimmung der Anleger haben.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Die Quellen sind sich einig, dass neue Friedenshoffnungen im Nahen Osten zu sinkenden Ölpreisen und steigendem Mut bei DAX-Anlegern führen.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist direkt auf den Tagesschau-Artikel und enthält HTML-Code mit einem externen Link."
+      }
+    ],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:27:25.962Z",
+    "sourceSignature": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html|https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXQtWG1Xa3c0RmJKclBlZk1JZWhWU2JHU29mb3g3a3BaakVMUEowejAyT2htZ2k3UENFOC16TVJpNWRueXdaejU0OFJzZ0hTQzhsVW5CSktNeGZwT1docGcwQTVEZlJRTnlMVzNaaTR1b1VQYXFpNUJXeV9hWGFORHN2Tm1KYU1VZzZ6RFJ2dEgydWJ2Yll6UDQxVzQ1d2l4TF9RQThubHo4bnhP?oc=5",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMTE4NnxodHRwczovL3d3dy5zd3IuZGUvc3dyYWt0dWVsbC9yaGVpbmxhbmQtcGZhbHovcmxwLWFi": {
+    "t": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter",
+    "s": "Bundestagspräsidentin Klöckner hält die in Rheinland-Pfalz geltende Regelung, wonach extremistische Mitarbeiter von Abgeordneten kein öffentliches Geld erhalten, für ein mögliches Vorbild für den Bund. Die Praxis soll verhindern, dass verfassungsfeindliche Kräfte über Parlamentsmitarbeiter staatlich unterstützt werden. Bislang wird geprüft, ob sich dieses Modell auf die Bundesebene übertragen lässt.",
+    "m": "Die Bundestagspräsidentin Klöckner hat sich positiv über die Regelung in Rheinland-Pfalz geäußert, die den Einsatz von staatlich finanzierten Mitarbeitern mit extremistischem Hintergrund bei Abgeordneten unterbindet. Diese Vorgehensweise dient dem Schutz demokratischer Institutionen vor verfassungsfeindlichen Bestrebungen im direkten parlamentarischen Umfeld. Ob und in welcher Form eine solche Bestimmung konkret in den Bundestagsregeln verankert werden kann, ist Gegenstand laufender Beratungen und Überlegungen. Befürworter sehen darin einen wichtigen Schritt zur Stärkung der parlamentarischen Wehrhaftigkeit. Kritische Stimmen oder Details zu möglichen Umsetzungshürden wurden in den Berichten nicht genannt. Die finanzielle Entkopplung von Extremisten soll Transparenz und Vertrauen in die Volksvertretung sichern.",
+    "r": "Die Debatte berührt grundlegende Sicherheitsfragen und die Integrität parlamentarischer Abläufe im Bund und in den Ländern. Die mögliche Ausweitung auf den Bundestag könnte bundesweit Maßstäbe im Umgang mit Extremismus im politischen Raum setzen.",
+    "k": "politik",
+    "c": "DE",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass die Regelung aus Rheinland-Pfalz keinen Cent öffentlichen Geldes für extremistische Mitarbeiter von Abgeordneten vorsieht und Bundestagspräsidentin Klöckner darin einen Modellcharakter für den Bund sieht.",
+    "diff": [],
+    "chg": "",
+    "updatedAt": "2026-09-25T18:28:01.964Z",
+    "sourceSignature": "https://www.swr.de/swraktuell/rheinland-pfalz/rlp-abgeordneten-gesetz-vorbild-bundestag-kloeckner-100.html|https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-nach-rlp-auch-bald-im-bund-kein-geld-fuer-extremistische-parlaments-mitarbeiter-100.html",
+    "method": "fallback"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNDIxfGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pMUFGQlZWOTVjVXhO": {
+    "t": "Sandra Hüller sprach in den USA über ihre Anfänge beim Jobcenter",
+    "s": "Die international erfolgreiche Schauspielerin Sandra Hüller war zu Gast in einer US-Late-Night-Show. Dort berichtete sie über den Beginn ihrer Karriere. Unerwarteterweise spielte dabei auch ein Jobcenter eine entscheidende Rolle.",
+    "m": "Sandra Hüller ist mittlerweile auch in Hollywood bekannt, unter anderem durch ihre Rolle im Film Astronaut sowie Dreharbeiten für den Streifen Digger gemeinsam mit Tom Cruise. Nun trat sie in der US-Show Late Night mit Moderator Seth Meyers auf. In diesem Rahmen sprach sie offen über die Anfänge ihres Weges in die Schauspielkunst. Dabei offenbarte die Darstellerin, dass ihr eine Arbeitsagentur beziehungsweise ein Jobcenter den Einstieg in diesen Beruf ermöglichte. Genauere Details über die damaligen Umstände oder die genaue Vermittlung wurden in dem Gespräch jedoch nicht umfassend vertieft. Hüller nutzt solche Auftritte zunehmend, um ihre Präsenz im US-amerikanischen Raum nach ihren Oscar-Erfolgen weiter auszubauen.",
+    "r": "Der Auftritt einer international bekannten deutschen Schauspielerin in einer prominenten US-Late-Night-Show zeigt die wachsende US-Präsenz von Sandra Hüller. Die Erwähnung des Jobcenters bietet einen ungewöhnlichen Einblick in die frühen Etappen ihrer Biografie vor dem großen Durchbruch.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Beide Quellen berichten darüber, dass Sandra Hüller ihren Weg ins Schauspiel über ein Jobcenter fand.",
+    "chg": "Die Meldung ist durch den Bericht in der US-Show Late Night mit Seth Meyers aktualisiert worden, in dem Hüller über ihre Anfänge sprach.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Führt den SPIEGEL als Quelle und verlinkt auf den Artikel."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Liefert den Originalbericht und nennt Details zu Hollywood-Filmen wie Astronaut und Digger sowie den Auftritt bei Seth Meyers."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:28:21.150Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHlfcnRkZkdtbXBzbk52OFpWcEZwM3hpdTl6b1o5QzBBbmppd21TRDZNdWpzNDROQTREbGxBSk0wRUd5c3pobkxYQXJoM3h2UFE5eHVIbzZ5YlBTb3RiQndXcmtNVUZ3b0ZrNGFSYzlGQUIzN2lqR0JSbVJxWmNGMm1TWUtPdzV5bUNqZ2hyc2ZNTzNKYmdsZm9vWWtQNFNzeGs2SEtBT1BaMDNaRUNmamwyckpnQmRxNDU5OVpXVDNxS3ZZdl9FNnRjVXRNd204eVBncA?oc=5|https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter-a-4fdb6944-b9cd-41e8-bae7-551d957b20a9#ref=rss",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNjIzfGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pNWdGQlZWOTVjVXhQ": {
+    "t": "Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark - welt.de",
+    "s": "Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark welt.de <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWFVxdFc2Tmd6ZzlyeGpoWUFGQTg5QUIxZE1hR3F0aG5nOTFLcUd6dDRickpDNHlNdzVhd3R3SjRPVmZ1djFnMkVSQzdvc2hWbU5WW",
+    "m": "Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark welt.de <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWFVxdFc2Tmd6ZzlyeGpoWUFGQTg5QUIxZE1hR3F0aG5nOTFLcUd6dDRickpDNHlNdzVhd3R3SjRPVmZ1djFnMkVSQzdvc2hWbU5WW BASF prüft laut Medienberichten die Übernahme von Evonik und setzt damit auf mehr Größe im Chemiegeschäft. Die Evonik-Aktie stieg zeitweise um elf Prozent.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "k": "panorama",
+    "c": "DE",
+    "p": 2,
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "updatedAt": "2026-09-25T18:28:42.883Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUMxQlNjeVdwbHN4LUswX0tXdDVoN1U2NmVtMFpObUZiTEhUanhlbUliRG5oQmhMTm5aR2lRXzNEYlRiZmRsNDFIeXhXRHprS2FNakMyV3NUNWJaMDVZZE1WUkdFSWowOTlqenlDU0MtNXBKazZlNGtVeko0MS0xNll0eUtLcnN0bEZ1eXlqaEpJSjF2T0dEQ2RnVndsbEJ5NUZ2SkxPRTE3N2tSTS1IWEF1R0hVN0MxUzdqUVN0TlRreUlsYmFWUGc0eHNzSExvZTFiNy1fWEs1MG44SnhJRXJIRG9yZw?oc=5|https://www.welt.de/wirtschaft/article6ab66e75a8b3f6fdb1edb2f6/chemiebranche-basf-will-laut-berichten-evonik-uebernehmen-aktienkurse-steigen-stark.html",
+    "method": "fallback"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktOTU4fGh0dHBzOi8vd3d3LnN3ci5kZS9zd3Jha3R1ZWxsL2JhZGVuLXd1ZXJ0dGVtYmVyZy9mcmll": {
+    "t": "Überlinger Waldrappe haben die Alpen erfolgreich überquert",
+    "s": "Die Waldrappe der Überlinger Kolonie haben auf ihrem Weg nach Süden erfolgreich die Alpen überquert und sind in Norditalien angekommen. Die Tiere sind erneut selbstständig losgeflogen, was von den Verantwortlichen als großer Erfolg gewertet wird. Gleichzeitig steht auch die menschengeführte Migration kurz vor ihrem Ziel in den italienischen Wintergebieten.",
+    "m": "Die Waldrappe aus der Überlinger Brutkolonie haben ihre herbstliche Reise in Richtung Süden angetreten und die Alpen erfolgreich hinter sich gelassen. Mittlerweile sind die seltenen Zugvögel in Norditalien eingetroffen. Besonders hervorgehoben wird von den Beobachtern, dass die Tiere erneut eigenständig den Weg über die Alpen angetreten und absolviert haben, was den langfristigen Wiedereinbürgerungserfolg unterstützt. Neben dieser selbstständigen Gruppe befindet sich auch die parallel laufende, menschengeführte Migration der Waldrappe auf den letzten Metern und steht kurz vor dem Erreichen ihres Ziels. Das Projekt soll den Vögeln die traditionellen Zugrouten in ihre südlichen Überwinterungsgebiete wiederbeibringen. Genauere Details zu den exakten Etappenorten in Norditalien oder der genauen Anzahl der beteiligten Tiere nennen die vorliegenden Berichte nicht.",
+    "r": "Die erfolgreiche Alpenüberquerung der Überlinger Waldrappe nach Norditalien ist ein wichtiger Meilenstein für die Wiedereinbürgerung und das Überleben dieser stark gefährdeten Vogelart in Mitteleuropa.",
+    "k": "umwelt",
+    "p": 2,
+    "agree": "Sowohl SWR Aktuell Baden-Württemberg als auch Tagesschau Regional Baden-Württemberg berichten übereinstimmend, dass die Überlinger Waldrappe die Alpen erfolgreich überquert haben und in Norditalien angekommen sind, wobei der selbstständige Flug der Tiere als E",
+    "chg": "",
+    "diff": [],
+    "c": "DE",
+    "updatedAt": "2026-09-25T18:29:16.250Z",
+    "sourceSignature": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/ueberlinger-waldrappe-in-italien-angekommen-100.html|https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ueberlinger-waldrappe-haben-die-alpen-erfolgreich-ueberquert-100.html",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMTMyfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzkvMjUvdXMtdG9wLWNvdXJ0": {
+    "t": "US-Höchstgericht erlaubt umstrittenes Wählerprüfsystem vor Wahl",
+    "s": "Der Oberste Gerichtshof der USA hat der Regierung am Freitag erlaubt, ein neues bundesweites Datenbanksystem zur Wählerüberprüfung zu nutzen. Das System soll offiziell die Staatsbürgerschaft von Wählern für die kommenden Wahlen im November verifizieren. Kritiker warnen jedoch vor möglichen negativen Folgen für das Wahlrecht. Die Maßnahme ist Teil politischer Kontroversen um den Umgang mit Wählerdaten in den Vereinigten Staaten.",
+    "m": "Das US-Höchstgericht hat am Freitag entschieden, dass die Regierung ein umstrittenes System zur Wählerverifizierung bei den Wahlen im November einsetzen darf. Es handelt sich dabei um eine neue föderale Datenbank, die offiziell zur Überprüfung der Wähler-Staatsbürgerschaft dienen soll. Stimmrechtsgruppen und Kritiker warnen vehement vor dem System, da es Wähler fälschlicherweise als Nicht-Staatsbürger identifizieren und so vom Wählen ausschließen könnte. Sie argumentieren, die Administration übertreibe die Bedrohung durch nicht-staatsbürgerliche Wähler, die bei US-Wahlen extrem selten vorkommen. Ziel der Politik sei es vielmehr, mutmaßlich demokratische Wähler zu benachteiligen und zu disenfranchisieren.",
+    "r": "Die Entscheidung des Obersten Gerichtshofs hat direkte Auswirkungen auf die Durchführung und Sicherheit der bevorstehenden Wahlen in den USA. Sie berührt fundamentale Fragen des Wahlrechts und des Schutzes vor möglicher politischer Einflussnahme durch den Einsatz neuer Technologien.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass der Oberste Gerichtshof der USA ein umstrittenes Wählerprüfsystem erlaubt hat und Kritiker vor einer Entrechtung von Wählern warnen.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet speziell, dass Stimmrechtsgruppen davor gewarnt haben, das System könnte Wähler fälschlicherweise als Nicht-Staatsbürger identifizieren."
+      },
+      {
+        "name": "France24 English",
+        "note": "Nennt das genaue Datum (Freitag), den Zweck der neuen föderalen Datenbank zur Verifizierung für die Novemberwahlen und die Kritik, dass die Regierung die Bedrohung durch Nicht-Staatsbürger übertreibe, um demokratische Wähler zu benachteiligen."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:29:36.273Z",
+    "sourceSignature": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss|https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNnxodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbm90aWNpYXJpby1hbnRlbmExLzE4aC1jb21i": {
+    "t": "Treibstoffpreise in Portugal sinken in der kommenden Woche",
+    "s": "In der kommenden Woche sollen die Kraftstoffpreise in Portugal sinken. Dies geht aus aktuellen Berichten portugiesischer Medien hervor. Autofahrer können demnach mit einer finanziellen Entlastung beim Tanken rechnen. Genaue Details zu den prozentualen oder absoluten Senkungen wurden in den Kurzmeldungen zunächst nicht genannt.",
+    "m": "Die bevorstehende Senkung der Treibstoffpreise betrifft voraussichtlich sowohl Benzin als auch Diesel. Konkrete Zahlen zu den Preisnachlässen oder die genaue Höhe der Entlastung wurden von den Quellen nicht genannt. Auch die Ursachen für den Preisrückgang, wie etwa Entwicklungen auf dem internationalen Ölmarkt oder steuerliche Anpassungen, sind in den vorliegenden Berichten nicht näher ausgeführt. Die Verbraucher in Portugal erhalten damit zum Start der neuen Woche eine spürbare Entlastung an den Tankstellen. Weitere offene Fragen betreffen die genaue Dauer dieser Preissenkung und ob sich der Trend in den Folgezochen fortsetzen wird.",
+    "r": "Die Meldung ist für Autofahrer und die Wirtschaft in Portugal relevant, da Treibstoffpreise direkte Auswirkungen auf die Transportkosten und Haushaltsbudgets haben. Preisbewegungen auf dem Kraftstoffmarkt beeinflussen zudem die allgemeine Inflation.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Die Quellen stimmen überein, dass die Kraftstoffpreise in der kommenden Woche sinken werden.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet kurz und knapp über die sinkenden Kraftstoffpreise in der nächsten Woche."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den entsprechenden Artikel der Wochenzeitung Expresso bezüglich des Preisrückgangs."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:29:57.350Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/18h-combustiveis-precos-descem-na-proxima-semana_a1_1767782|https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHB4SnR2aGk5TkVOTEhkbFllN3VyRFlHNXlPUmUwWTN6Y2IxRXoyYVQxMks2UE1UemU5TnF2MklvMmF5c3U5V3pGazdjRy1IZEFKLWRTRHZzTWMxdS1xam1Dd1NGSnExcWNKN2lXVmhfNW5tR0lRYVZ2M1oyYzJ2RmtKbmE2U0wyQXN2WnNBZWJqWWs0SDNzbUlNMFB6LWtDWHJKNUFWdi1xX0szdWxmVGZLYnp5QkdfcVE?oc=5",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMzQzfGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pcHdGQlZWOTVjVXhO": {
+    "t": "Treffen von Donald Trump und Xi Jinping in Washington",
+    "s": "Donald Trump und Xi Jinping haben sich in Washington zu einem Treffen zusammengefunden. Das Zusammentreffen fand statt, während sich weltweit führende Politiker zur UN-Generalversammlung in New York eingefunden hatten. Die Begegnung beleuchtet Dynamiken der globalen Machtverteilung zwischen den USA und China. Bislang sind keine weiteren Details zu konkreten Gesprächsinhalten oder Vereinbarungen öffentlich bekannt geworden.",
+    "m": "Das Treffen zwischen US-Präsident Donald Trump und dem chinesischen Staatschef Xi Jinping in Washington fiel zeitlich mit der Ankunft globaler Führungspersönlichkeiten zur UN-Generalversammlung im nahegelegenen New York zusammen. Solche hochrangigen diplomatischen Begegnungen stehen traditionell im Fokus der internationalen Aufmerksamkeit, da sie maßgeblich die bilateralen Beziehungen und globale Handels- sowie sicherheitspolitische Fragen prägen. Konkrete Gesprächsgegenstände, Verhandlungsergebnisse oder offizielle Verlautbarungen wurden in den vorliegenden Berichten jedoch nicht genannt. Beobachter werten das Zusammentreffen dennoch als wichtigen Indikator für den Zustand der Beziehungen der beiden Supermächte. Weitere offizielle Details zum genauen Ablauf und den besprochenen Themen standen zunächst aus.",
+    "r": "Gipfeltreffen zwischen den USA und China sind für die globale Stabilität und internationale Politik von zentraler Bedeutung. Das Zusammentreffen der beiden Staatschefs während der UN-Woche unterstreicht die fortbestehende diplomatische Reaktivität zwischen Washington und Peking.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Die Quellen stimmen überein, dass sich Donald Trump und Xi Jinping in Washington getroffen haben, während weltweit führende Politiker bei der UN-Generalversammlung in New York zusammenkamen.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist auf einen Artikel von Al Jazeera mit dem Titel über die Enthüllungen des Treffens zur globalen Macht."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet direkt über das Treffen von Donald Trump und Xi Jinping in Washington im Kontext der UN-Generalversammlung in New York."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:30:32.652Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTllVHF0VUFPMG9ia1Z5RVR1Z01XR3RYa05DZjNXUGJuODFacTFnMXNPbkVSakxqRUFIRmlCbEZ0WnBzM0NyeEVwVEJ1REVqR0ItZHZEVUg2TnNSOHhkUVd1WjRtaEpLMHE1WmNMWHhMM3EtUGp4QXNSOTJvZ1JtYkFTdjVTVHlPOUhoZmFkRThNNzB1eHZFSEdqNDZHSll6U21TZDMtRdIBrAFBVV95cUxPSFMwcDg5OVhIbldDX0dCQkdVRktOakNnSlRIT1U5X1RYMjRsUDhTbEU5ZFhOZ21UR3Y5cWk2Z05JMzQzel9pSUQ0WUw0ZTl3S0NONzlNRG9ZY3Znd2hOTURFUWRnclg2MEg1VkIyTXZuNkFtM0gxZndrVXM0T2hxTUllOXp3dmU1R1ZFcno5dEN4bld6RXA5UkN5UTN6bHZHOGJreEh1dVk1bmFs?oc=5|https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktOTJ8aHR0cHM6Ly93d3cucnRwLnB0L25vdGljaWFzL211bmRvL2V4ZXJjaXRvLWRvcy1ldWEtcHJl": {
+    "t": "Berichte über angebliche Vorbereitungen des US-Heers auf Militäraktion in Cuba",
+    "s": "Das US-amerikanische Heer bereitet sich Berichten zufolge auf eine mögliche Militäraktion im Zusammenhang mit Kuba vor. Dies geht aus einer internen Nachricht hervor, über die der US-Sender CBS News zuerst berichtete. Weitere Medien griffen das Thema auf.",
+    "m": "Laut Medienberichten unter Berufung auf den Fernsehsender CBS News hat sich das US-Heer auf eine mögliche militärische Aktion vorbereitet, die Kuba betrifft. Grundlage für die Berichterstattung ist eine interne Nachricht, die dem Sender zugänglich gemacht wurde. Genauere Details zum zeitlichen Ablauf, den Hintergründen der Maßnahme oder den beteiligten militärischen Einheiten wurden in den Meldungen zunächst nicht genannt. Auch offizielle Bestätigungen von Regierungs- oder Militärstellen stehen in den kurzen Auszügen noch aus. Die Tragweite dieser internen Anweisung bleibt vorerst unklar.",
+    "r": "Mögliche militärische Planungen der USA in Bezug auf Kuba sind von großer geopolitischer Bedeutung und könnten internationale Spannungen auslösen. Die Meldung beruht bisher jedoch auf wenigen Details aus einer internen Nachricht.",
+    "k": "politik",
+    "p": 3,
+    "agree": "Beide Quellen stimmen überein, dass sich das US-Heer auf eine mögliche Militäraktion im Zusammenhang mit Kuba vorbereitet und berufen sich dabei auf den US-Sender CBS News.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet ausführlicher, dass die Information von CBS News stammt und auf einer internen Nachricht beruht."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verlinkt auf cmjornal.pt und hält die Meldung sehr kurz."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:30:53.380Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/mundo/exercito-dos-eua-prepara-se-para-possivel-acao-militar-em-cuba-avanca-a-cbs_n1767763|https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGMxd0w5SEh2d2M0a2dYVkQ2YkRsTjZJaVZZYjZLSnJhUExNU3BVZUpFWnZ3bVMzRXl0MjdZUjNyMGtGcW1NUTFQRmxia0o2aHMwX1NuanpHamFWZnJoWXpUb2JMTlBkcGUtZ3VKYWMyX1E0V2NrQzJ0NUtocUtZMzVRb1pjRW9JSmFLRWNscGR3Y3NQOFpuT0JDOFRneWpaaFA3djhxUExRLU5rZFVTQ0Vvb9IBrgFBVV95cUxQMzQ0VDE1SHpTaU9jLUpVdXVZd0V3VzZ1ZDQtdEZNMDNGcEtKT1NST3NabFB0Y0ZmZG9GZEM5YlljM1VVVDE0b3cyaHN1TXZheWhHS1ptZlhub0MtODNHNWxMS0ZrX3U3RVFpYWJORFNtZW9ZdGNnZzVyek83MzJhbUNHSFF3UGtFeVROX1EtZ3NqTzd0QXNpTVRGcVBkY3BTeWhsU29tUkZDZXRMRGc?oc=5",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNDA5fGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pdUFGQlZWOTVjVXhQ": {
+    "updatedAt": "2026-09-25T18:31:29.388Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5|https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+    "method": "fallback"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMjkzfGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9ub3RpY2lhcmlvLWFudGVuYTEvMTZoLWVt": {
+    "t": "Terraplanungs-Unternehmen protestieren mit langsamer Fahrt gegen Treibstoffpreise",
+    "s": "Unternehmer aus dem Bereich der Erdbewegung und Terraplanungen haben aus Protest gegen die hohen Kraftstoffpreise eine Protestaktion mit langsamer Fahrt gestartet. Der Startpunkt befand sich in Paredes im Distrikt Porto. Nach Angaben der Demonstranten ist für den kommenden Montag ein Treffen mit Vertretern der Regierung angesetzt.",
+    "m": "Die Unternehmer des Terraplanungssektors begannen ihren Protest als langsame Fahrt, um auf die Belastungen durch die Kraftstoffpreise aufmerksam zu machen. Ausgangspunkt der Demonstration war Paredes im Distrikt Porto. Der Vertreter der Demonstranten gab bekannt, dass für den folgenden Montag ein offizielles Treffen mit der Regierung vereinbart wurde. Weitere Details zum Ablauf des Protests oder zu konkreten Forderungen über die Gespräche hinaus wurden in den Meldungen nicht genannt.",
+    "r": "Der Protest verdeutlicht die wirtschaftliche Belastung durch Kraftstoffpreise in bestimmten Branchen und führt zu Gesprächen zwischen der Branche und Regierungsvertretern.",
+    "k": "wirtschaft",
+    "p": 2,
+    "agree": "Die Quellen stimmen überein, dass Unternehmer aus dem Terraplanungssektor eine langsame Protestfahrt gegen Kraftstoffpreise von Paredes aus gestartet haben und am Montag vom Governo empfangen werden.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Die Meldung enthält lediglich die Ankündigung des Regierungstreffens am Montag und erwähnt die Terraplanungs-Unternehmer."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Ergänzt, dass die Protestaktion als langsame Fahrt gegen den Treibstoffpreis in Paredes im Distrikt Porto begonnen hat und vom Vertreter der Manifestanten angekündigt wurde."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:31:51.530Z",
+    "sourceSignature": "https://www.rtp.pt/noticias/noticiario-antena1/16h-empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_a1_1767751|https://www.rtp.pt/noticias/economia/empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_n1767625",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktNDM4fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NtcThqOTA0MjEycG8_YXRf": {
+    "t": "Papst warnt vor Verlust der Menschlichkeit durch künstliche Intelligenz",
+    "s": "Papst Franziskus hat zum Auftakt seiner Reise nach Frankreich vor den Gefahren künstlicher Intelligenz gewarnt. Er rief dazu auf, die Menschlichkeit im Umgang mit intelligenten Maschinen nicht zu verlieren. Die Warnung äußerte das katholische Kirchenoberhaupt am Freitag.",
+    "m": "Zum Beginn seines Besuchs in Frankreich am Freitag äußerte sich Papst Franziskus kritisch über die Entwicklung und den Einsatz von künstlichen Intelligenzsystemen. Er betonte, dass die Menschheit darauf achten müsse, in der technologischen Entwicklung nicht ihre eigenen menschlichen Werte und ihre Identität zu verlieren. Die Äußerung fiel direkt am ersten Tag des mehrtägigen Aufenthalts des Pontifex in dem europäischen Land. Bislang sind keine weiteren konkreten Details oder Maßnahmen im Zusammenhang mit dieser Warnung bekannt geworden. Das Kirchenoberhaupt hat in der Vergangenheit wiederholt ethische Fragen im Zusammenhang mit modernen Technologien und der Digitalisierung angesprochen. Offen bleibt, wie die technologische Industrie auf diese neuerliche Mahnung reagieren wird und ob konkrete kirchliche Initiativen zum Thema KI folgen.",
+    "r": "Die Warnung des Papstes verdeutlicht die wachsende ethische Debatte um den Einfluss neuer Technologien auf die Gesellschaft. Da religiöse und moralische Führer zunehmend Position zu technologischen Fragen beziehen, erhält die weltweite Diskussion um Regulierung und Werte eine zusätzliche Dimension.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Beide Quellen stimmen darin überein, dass der Papst vor dem Verlust der Menschlichkeit an künstliche Intelligenz gewarnt hat.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel der BBC mit dem gleichen Titel."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:32:15.760Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss|https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRk9qcHgtYXlLam9kaElOenBEU09ac0Mta2psT18tWGE3ZWZmNHRYQVRpb1pkc1MxVnBoWUlvN0stTENqcjhBU3BrZlpPYXB3NTZzWnd3ZUdhTFk?oc=5",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktODAxfGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pcGdGQlZWOTVjVXhP": {
+    "t": "Saudi-Arabien wehrt Huthi-Raketen ab und Ölpreise steigen",
+    "s": "Saudi-Arabien hat mehrere ballistische Raketen abgefangen, die von der Houthi-Miliz aus Jemen abgefeuert wurden. Die Angriffe richteten sich gegen Ziele in Taif und der Rotmeer-Region Yanbu. Infolge der neuen Eskalation kletterten die Ölpreise auf ein Wochentoch.",
+    "m": "Die von Saudi-Arabien angeführte Koalition im Jemen teilte mit, dass insgesamt sechs ballistische Raketen erfolgreich abgefangen wurden. Die Angriffe zielten auf die westsaudi-arabische Stadt Taif sowie auf das Gebiet Yanbu am Roten Meer ab, welches als wichtigste alternative Route für saudisches Öl dient. Die vom Iran unterstützten Houthi-Rebellen beanspruchten die Attacken für sich und sprachen von einem sensiblen Ziel in der Hauptstadt Riyadh sowie von Anlagen des Ölkonzerns Saudi Aramco in Yanbu. Die aktuellen Angriffe schürten international Befürchtungen vor spiralförmigen Versorgungsunterbrechungen auf den Energiemärkten. Durch diese Sorgen kletterten die Ölpreise auf den höchsten Stand seit einer Woche. Bislang gibt es keine offiziellen Berichte über größere Schäden an den angegriffenen Standorten oder Verletzte.",
+    "r": "Die Angriffe auf wichtige saudische Öl- und Transportinfrastrukturen verdeutlichen die anhaltende Bedrohung durch den Jemen-Konflikt für die globale Energieversorgung. Sie demonstrieren unmittelbar, wie geopolitische Spannungen in der Region den Weltmarktpreis für Rohöl beeinflussen können.",
+    "k": "wirtschaft",
+    "p": 3,
+    "agree": "Die Quellen sind sich einig, dass Saudi-Arabien Raketen der Huthi abgewehrt hat und die Ölpreise auf ein Wochentoch gestiegen sind.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet über die Schlagzeile in Anlehnung an den Guardian ohne zusätzlichen Fließtext."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Liefert die Details über sechs abgefangene Raketen, die Ziele Taif und Yanbu, die Huthi-Ansprüche bezüglich Riyadh und Saudi Aramco sowie den Hintergrund der Versorgungsängste."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:32:41.530Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0MwRGdjN1NtYkFaMVhhdktMMEtrb0hMUHdmeU1QeTVqZGpqcHlZVkZiVTZ1Yk4xY0ZQMktfem5iTGpsY3FPS0hqZDNkbV9iMHNIVW1ZVk1yOWtiVEtWTkRreXRUTkRMYjE1NThLT0s1cTVIWUlJSGpUdWJpZE5EcEQ3SlJtcjdXV1ByNWFaMlJOeS0ydThQNWJFU1o5TTZIYk1tempn?oc=5|https://www.theguardian.com/world/2026/sep/25/saudi-arabia-intercepts-houthi-missiles-oil-prices-climbs",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktOTg4fGh0dHBzOi8vbmV3cy5nb29nbGUuY29tL3Jzcy9hcnRpY2xlcy9DQk1pcHdGQlZWOTVjVXhR": {
+    "t": "Xi Jinping fordert von Donald Trump Haltung gegen Taiwan-Unabhängigkeit",
+    "s": "Der chinesische Präsident Xi Jinping hat den US-Präsidenten Donald Trump bei einem Treffen in der US-Regierungszentrale aufgefordert, eine klare Haltung gegen die Unabhängigkeit Taiwans einzunehmen. Dies berichtete die offizielle Presse aus Peking nach dem Gespräch zwischen den beiden Staatschefs. Die Äußerung unterstreicht die anhaltenden Spannungen in der Region und die Bedeutung der Taiwan-Frage für die bilateralen Beziehungen. Der genaue Zeitpunkt und weitere Details des Treffens wurden in d",
+    "m": "Chinas Präsident Xi Jinping hat den US-Präsidenten Donald Trump in der Nacht in der Casa Branca gewarnt und von ihm gefordert, eine korrekte Haltung gegen die Unabhängigkeit Taiwans beizubehalten. Diese Aussagen wurden laut Medienberichten durch die offizielle staatliche Presse aus Peking verbreitet. Das Treffen der beiden führenden Politiker fand im Weißen Haus statt, wobei Taiwan als zentrales diplomatisches Thema im Fokus stand. Peking betrachtet die taiwanische Souveränität als innere Angelegenheit und fordert von internationalen Partnern ein klares Bekenntnis zur Ein-China-Politik. Weitere offizielle Reaktionen der US-Seite sowie konkrete diplomatische Konsequenzen wurden in den vorliegenden Berichten zunächst nicht näher ausgeführt. Beobachter werten das Statement als erneute Bekräftigung der roten Linien Chinas in den Beziehungen zu den Vereinigten Staaten.",
+    "r": "Die Äußerungen des chinesischen Präsidenten Xi Jinping verdeutlichen den anhaltenden diplomatischen Druck auf die USA in der Taiwan-Frage. Das Treffen mit US-Präsident Donald Trump unterstreicht die Sensibilität der bilateralen Beziehungen und der territorialen Integrität Chinas.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Beide Quellen stimmen überein, dass der chinesische Präsident Xi Jinping den US-Präsidenten Donald Trump vor der Unabhängigkeit Taiwans gewarnt und eine korrekte Haltung von Washington gefordert hat.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt zusätzlich den Zeitungsnamen Diário de Notícias als Medium und enthält gekürzte URL-Referenzen."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Führt aus, dass das Treffen in der Casa Branca stattfand und die Information auf die offizielle Presse aus Peking zurückgeht."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:33:04.944Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQanNaTldfekFESDA1RFN1QkJxR3RKRGJLaVlKeTlRQWlLZk5NWE1la1V1S0VPRU1uS2RTYmJZck01eU1GQ3hwaDB3NnhkT2d1TzEzXzFMQjFLRml4eTFfUGE2dW5qQUpYclQ4ekI2RjJKbHJid1p1TnZWMnRxTWtZM3FFelRZNENrMXV4WTR2dUk0SHNLTHdBOEdmazVOYUtCa2NvTlRlUQ?oc=5|https://www.rtp.pt/noticias/mundo/xi-avisa-trump-para-manter-postura-correta-contra-independencia-de-taiwan_n1767586",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMTEzOXxodHRwczovL25ld3MuZ29vZ2xlLmNvbS9yc3MvYXJ0aWNsZXMvQ0JNaW53RkJWVjk1Y1V4": {
+    "t": "Xi Jinping schlägt bei Treffen mit Trump Zusammenarbeit zur Vermeidung eines Konflikts",
+    "s": "Der chinesische Staatschef Xi Jinping hat bei einem Gipfeltreffen mit US-Präsident Donald Trump im Weißen Haus Bedingungen für ein besseres gegenseitiges Verständnis genannt. Angesichts starker Spannungen forderte er eine umfassende Kooperation, um einen militärischen Konflikt zwischen den beiden Supermächten zu verhindern.",
+    "m": "Das Treffen zwischen Xi Jinping und Donald Trump im Weißen Haus findet vor dem Hintergrund intensiver Konkurrenz in den Bereichen Künstliche Intelligenz, Handel und der Taiwan-Frage statt. Der chinesische Präsident warnte vor der sogenannten Thukydides-Falle und plädiert für eine engere Zusammenarbeit, um einen militärischen Zusammenstoß zu vermeiden. Konkrete Vorschläge zur Entspannung sollen dabei helfen, die Beziehungen in dieser wettbewerbsintensiven Phase zu steuern. Die Gespräche markieren einen wichtigen Moment in den bilateralen Beziehungen der beiden Staaten.",
+    "r": "Die Gespräche zwischen den USA und China sind von globaler Bedeutung, da sie den Kurs im Umgang mit Handelskonflikten, technologischer Konkurrenz und potenziellen militärischen Risiken bestimmen. Das Treffen der beiden Staatsoberhäupter setzt Signale für die künftige diplomatische Stabilität.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Beide Quellen stimmen darin überein, dass Xi Jinping bei einem Treffen mit Donald Trump Bedingungen zur Vermeidung eines US-chinesischen Militärkonflikts vorgelegt hat.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über die Warnung vor der 'Thukydides-Falle' und nennt spezifische Spannungsfelder wie Künstliche Intelligenz, Handel und Taiwan."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:33:25.423Z",
+    "sourceSignature": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5|https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMTE0MnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jdjJkd2szejd4NWVvP2F0": {
+    "t": "Indischer Film aus Nagaland nach Erfolg in Toronto auf Oscars-Kurs",
+    "s": "Der Film Angh aus dem indischen Bundesstaat Nagaland hat nach einem bedeutenden Erfolg beim Toronto International Film Festival internationale Aufmerksamkeit erlangt. Das Werk von Regisseur Theja Rio präsentiert eine selten gesehene Welt im globalen Kino. Nun befindet sich die Produktion auf dem Weg Richtung Oscar-Nominierungen.",
+    "m": "Der Film mit dem Titel Angh stammt aus dem Nordosten Indiens, genauer aus der Region Nagaland, und wurde von Theja Rio inszeniert. Nach einer erfolgreichen Station beim Toronto International Film Festival, wo die Produktion einen wichtigen Preis gewinnen konnte, rückt das Werk nun ins Blickfeld für mögliche Oscar-Auszeichnungen. Die Berichterstattung hebt hervor, dass der Film eine in der globalen Kinolandschaft bisher kaum beachtete Kultur und Weltbühne beleuchtet. Konkrete Details zur Handlung, zur Besetzung oder zu den genauen Oscar-Kategorien nennen die vorliegenden Berichte nicht. Die internationale Rezeption wertet den Erfolg des regional verankerten Projekts als bedeutenden Schritt für das Filmschaffen aus dem nordöstlichen Indien. Weitere Auszeichnungen oder Termine für den Oscar-Weg sind in den aktuellen Meldungen noch nicht bekannt gegeben worden.",
+    "r": "Der internationale Erfolg eines Films aus einer abgelegenen indischen Region verdeutlicht die zunehmende globale Präsenz regionaler Kinokulturen. Solche Meilensteine können das Profil des nordostindischen Filmschaffens auf dem Weltmarkt nachhaltig stärken.",
+    "k": "panorama",
+    "p": 2,
+    "agree": "Beide Quellen stimmen überein, dass der indische Film Angh von Theja Rio nach einem Erfolg in Toronto auf dem Weg zu den Oscars ist.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt zusätzlich, dass der Film aus Nagaland im Nordosten Indiens stammt und eine selten gesehene Welt in das globale Kino bringt."
+      },
+      {
+        "name": "Google News World",
+        "note": "Führt im Titel lediglich die Namen des Regisseurs Theja Rio und des Festivals in Toronto auf und verweist auf die BBC-Berichterstattung."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:33:43.783Z",
+    "sourceSignature": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss|https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5",
+    "method": "gemini"
+  },
+  "djktdHJhbnNsYXRpb24tY2FjaGUtcmVzZXR8c3RvcnktMTE2MHxodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyNi9zZXAvMjQvZWQtbWls": {
+    "t": "Iran schlägt US-Regierung Öffnung der Straße von Hormus vor",
+    "s": "Iran hat Donald Trump ein weitreichendes Abkommen zur Entspannung im Nahen Osten in Aussicht gestellt. Demnach könnte die wichtige Straße von Hormus innerhalb von sechs Tagen geöffnet werden. Voraussetzung für den Vorstoß sind jedoch umfassende Gegenleistungen der Vereinigten Staaten.",
+    "m": "Der iranische Vorschlag sieht vor, dass die Straße von Hormus binnen sechs Tagen geöffnet und am Tag darauf mit Gesprächen über das iranische Atomprogramm begonnen wird. Im Gegenzug fordert das Land von den USA die Aufhebung der Sanktionen gegen iranische Ölexporte, die Beendigung des Krieges an allen Fronten einschließlich Libanons sowie die Freigabe eingefrorener Vermögenswerte. Der Plan soll die Umsetzung eines im Juni unterzeichneten Absichtsprotokolls zwischen den USA und dem Iran beschleunigen und nukleare Verhandlungen deutlich früher als ursprünglich vereinbart ermöglichen. Bislang wartet Teheran auf eine offizielle Reaktion der US-Regierung auf diesen Vorschlag.",
+    "r": "Ein möglicher Deal zwischen den USA und dem Iran zur Schifffahrt im Persischen Golf und zum Atomprogramm betrifft zentrale geopolitische und wirtschaftliche Interessen. Die Bedingungen berühren globale Ölmärkte sowie die militärische Stabilität in der Region.",
+    "k": "politik",
+    "p": 4,
+    "agree": "Iran hat den USA einen Vorschlag unterbreitet, die Straße von Hormus innerhalb von sechs Tagen zu öffnen und über das Atomprogramm zu verhandeln.",
+    "chg": "",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian und bietet keinen eigenständigen Inhalt."
+      }
+    ],
+    "c": "INT",
+    "updatedAt": "2026-09-25T18:34:08.392Z",
+    "sourceSignature": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz|https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmQ2NnEyNFBDamkyLW5SeG80NmkzZElsVzBDZXAxdmJQdlRkdVFIYnlEZ25QMnZHSHA4bEEtTWM5QTVKYzl5SnROc0tKbTRkdHpmaURjRGdmVFpFR3UzUTJWZHJMa1IwVkM4Q1FWaENiS1o5a2RaX0xBT0pJUHJsb2NySUdlUk8zNnA5ZmZoQzV3ZW1yQkppMDk0c2JKVVotWjhRSGZoZW9RRm1rb3Nla19n?oc=5",
+    "method": "gemini"
   }
 }

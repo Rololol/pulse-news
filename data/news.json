@@ -1,13 +1,488 @@
 [
   {
-    "id": "story-15",
+    "id": "story-6",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-25T18:46:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-combustiveis-precos-descem-na-proxima-semana_a1_1767782",
+        "date": "2026-09-25T18:46:02.000Z",
+        "snippet": "",
+        "title": "18h Combustíveis: preços descem na próxima semana"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHB4SnR2aGk5TkVOTEhkbFllN3VyRFlHNXlPUmUwWTN6Y2IxRXoyYVQxMks2UE1UemU5TnF2MklvMmF5c3U5V3pGazdjRy1IZEFKLWRTRHZzTWMxdS1xam1Dd1NGSnExcWNKN2lXVmhfNW5tR0lRYVZ2M1oyYzJ2RmtKbmE2U0wyQXN2WnNBZWJqWWs0SDNzbUlNMFB6LWtDWHJKNUFWdi1xX0szdWxmVGZLYnp5QkdfcVE?oc=5",
+        "date": "2026-09-25T09:33:01.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHB4SnR2aGk5TkVOTEhkbFllN3VyRFlHNXlPUmUwWTN6Y2IxRXoyYVQxMks2UE1UemU5TnF2MklvMmF5c3U5V3pGazdjRy1IZEFKLWRTRHZzTWMxdS1xam1Dd1NGSnExcWNKN2lXVmhfNW5tR0lRYVZ2M1oyYzJ2RmtKbmE2U0wyQXN2WnNBZWJqWWs0SDNzbUlNMFB6LWtDWHJKNUFWdi1xX0szdWxmVGZLYnp5QkdfcVE?oc=5\" target=\"_blank\">Preços dos combustíveis com alívio na próxima semana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Expresso</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXBuaXI2OEtUMXNRTHkzXzQwZkpzQkI4cGZuOUxBUDVyZWFXUjg5anNXZnZWcVNaTXBjOXQxal9oUFpTTGdqRDhiNlhKNm8xcWtHTUVObVRjUzJtaGV6MHhzTmdOajlYZnp1czc4SFdZM3Y0TkZ1Z3cwNGxyR0tHdVRjeHQ0ejRDdTRvMDNWT0xCNDBtaEJn",
+        "title": "Preços dos combustíveis com alívio na próxima semana - Expresso"
+      }
+    ],
+    "title": "18h Combustíveis: preços descem na próxima semana",
+    "summary": "18h Combustíveis: preços descem na próxima semana \nPreços dos combustíveis com alívio na próxima semana - Expresso <ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHB4SnR2aGk5TkVOTEhkbFllN3VyRFlHNXlPUmUwWTN6Y2IxRXoyYVQxMks2UE1UemU5TnF2MklvMmF5c3U5V3pGazdjRy1IZEFKLWRTRHZzTWMxdS1xam1Dd1NGSnExcWNKN2lXVmhfNW5tR0lRYVZ2M1oyYzJ2RmtKbmE2U0wyQXN2WnNBZWJqWWs0SDNzbUlNMFB6LWtDWHJKNUFWdi1xX0szdWxmVGZLYnp5QkdfcVE?oc=5\" target=\"_blank\">Preços dos combustíveis com alívio na próxima semana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Expresso</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXBuaXI2OEtUMXNRTHkzXzQwZkpzQkI4cGZuOUxBUDVyZWFXUjg5anNXZnZWcVNaTXBjOXQxal9oUFpTTGdqRDhiNlhKNm8xcWtHTUVObVRjUzJtaGV6MHhzTmdOajlYZnp1czc4SFdZM3Y0TkZ1Z3cwNGxyR0tHdVRjeHQ0ejRDdTRvMDNWT0xCNDBtaEJn"
+  },
+  {
+    "id": "story-26",
     "topic": "politik",
     "country": "DE",
-    "stateHint": "BW",
+    "stateHint": "",
+    "date": "2026-09-25T18:14:03.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/usa-schlagen-dreiertreffen-mit-russland-und-ukraine-vor-100.html",
+        "date": "2026-09-25T18:14:03.000Z",
+        "snippet": "Die USA haben ein neues Dreiertreffen mit Russland und der Ukraine vorgeschlagen.",
+        "title": "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-selenskij-vae-usa-treffen-li.3549696",
+        "date": "2026-09-25T12:13:37.000Z",
+        "snippet": "Das sollen die USA vorgeschlagen haben, wie Selenskij berichtet. Nach russischen Angaben könnte das Dreiertreffen bald stattfinden.",
+        "title": "Newsblog zum Ukraine-Krieg: USA, Ukraine und Russland sollen sich in den VAE treffen"
+      }
+    ],
+    "title": "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor",
+    "summary": "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor Die USA haben ein neues Dreiertreffen mit Russland und der Ukraine vorgeschlagen.\nNewsblog zum Ukraine-Krieg: USA, Ukraine und Russland sollen sich in den VAE treffen Das sollen die USA vorgeschlagen haben, wie Selenskij berichtet. Nach russischen Angaben könnte das Dreiertreffen bald stattfinden."
+  },
+  {
+    "id": "story-32",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T18:14:03.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
+        "date": "2026-09-25T18:14:03.000Z",
+        "snippet": "Bundesweit sind zehntausende Schülerinnen und Schüler auf die Straße gegangen, um gegen eine mögliche Wehrpflicht zu demonstrieren. Wie die Initiative \"Schulstreik gegen Wehrpflicht\" mitteilte, gab es rund 100 Demonstrationen, an denen sich mehr als 45.000 Menschen beteiligten.",
+        "title": "Schulstreik gegen Wehrpflicht - Zehntausende Schüler demonstrieren gegen mögliche Wehrpflicht"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/wehrpflicht-schueler-protest-demo-100.html",
+        "date": "2026-09-25T12:56:00.000Z",
+        "snippet": "Zehntausende Schüler demonstrieren bundesweit gegen eine mögliche Wehrpflicht. Die Initiative \"Schulstreik gegen Wehrpflicht\" spricht von mehr als 45.000 Teilnehmern.",
+        "title": "Schüler demonstrieren bundesweit gegen mögliche Wehrpflicht"
+      }
+    ],
+    "title": "Schulstreik gegen Wehrpflicht - Zehntausende Schüler demonstrieren gegen mögliche Wehrpflicht",
+    "summary": "Schulstreik gegen Wehrpflicht - Zehntausende Schüler demonstrieren gegen mögliche Wehrpflicht Bundesweit sind zehntausende Schülerinnen und Schüler auf die Straße gegangen, um gegen eine mögliche Wehrpflicht zu demonstrieren. Wie die Initiative \"Schulstreik gegen Wehrpflicht\" mitteilte, gab es rund 100 Demonstrationen, an denen sich mehr als 45.000 Menschen beteiligten.\nSchüler demonstrieren bundesweit gegen mögliche Wehrpflicht Zehntausende Schüler demonstrieren bundesweit gegen eine mögliche Wehrpflicht. Die Initiative \"Schulstreik gegen Wehrpflicht\" spricht von mehr als 45.000 Teilnehmern."
+  },
+  {
+    "id": "story-36",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T18:14:03.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/ki-verdacht-roman-wird-von-prix-goncourt-liste-gestrichen-102.html",
+        "date": "2026-09-25T18:14:03.000Z",
+        "snippet": "In Frankreich ist ein Roman wegen des Verdachts auf den Einsatz Künstlicher Intelligenz vom renommierten Literaturpreis Prix Goncourt ausgeschlossen worden. Der kanadisch-haitianische Autor Thélyson Orélien weist die Vorwürfe zurück, sein französischer Verlag stellt sich hinter ihn.",
+        "title": "Frankreich - KI-Verdacht: Roman wird von \"Prix Goncourt\"-Liste gestrichen"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/literatur/roman-wegen-ki-verdacht-aus-liste-fuer-franzoesischen-literaturpreis-gestrichen-a-01a61898-e363-4c38-9b24-a15a14d58e0b#ref=rss",
+        "date": "2026-09-25T14:03:00.000Z",
+        "snippet": "Der Roman von Thélyson Orélien soll »sehr weitgehend das Produkt künstlicher Intelligenz« sein. Jetzt hat der Goncourt-Preis ihn von der Liste geworfen.",
+        "title": "Prix Goncourt: Roman wegen KI-Verdachts aus Liste für französischen Literaturpreis gestrichen"
+      }
+    ],
+    "title": "Frankreich - KI-Verdacht: Roman wird von \"Prix Goncourt\"-Liste gestrichen",
+    "summary": "Frankreich - KI-Verdacht: Roman wird von \"Prix Goncourt\"-Liste gestrichen In Frankreich ist ein Roman wegen des Verdachts auf den Einsatz Künstlicher Intelligenz vom renommierten Literaturpreis Prix Goncourt ausgeschlossen worden. Der kanadisch-haitianische Autor Thélyson Orélien weist die Vorwürfe zurück, sein französischer Verlag stellt sich hinter ihn.\nPrix Goncourt: Roman wegen KI-Verdachts aus Liste für französischen Literaturpreis gestrichen Der Roman von Thélyson Orélien soll »sehr weitgehend das Produkt künstlicher Intelligenz« sein. Jetzt hat der Goncourt-Preis ihn von der Liste geworfen."
+  },
+  {
+    "id": "story-38",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T18:14:03.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/kuenftig-haften-auch-vermieter-von-e-scootern-bei-unfaellen-100.html",
+        "date": "2026-09-25T18:14:03.000Z",
+        "snippet": "Opfer von Unfällen mit E-Scootern sollen künftig leichter Schadenersatz bekommen.",
+        "title": "Bundesrat - Künftig haften auch Vermieter von E-Scootern bei Unfällen"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
+        "date": "2026-09-25T12:06:53.000Z",
+        "snippet": "E-Scooter-Unfallopfer sollen einfacher an Schadensersatz kommen. Der Bundesrat hat einem Gesetz zugestimmt, das die Haftungsregeln ändert - künftig sollen die Vermieter das Haftungsrisiko tragen.",
+        "title": "Halter von E-Scootern haften künftig bei Unfällen"
+      }
+    ],
+    "title": "Bundesrat - Künftig haften auch Vermieter von E-Scootern bei Unfällen",
+    "summary": "Bundesrat - Künftig haften auch Vermieter von E-Scootern bei Unfällen Opfer von Unfällen mit E-Scootern sollen künftig leichter Schadenersatz bekommen.\nHalter von E-Scootern haften künftig bei Unfällen E-Scooter-Unfallopfer sollen einfacher an Schadensersatz kommen. Der Bundesrat hat einem Gesetz zugestimmt, das die Haftungsregeln ändert - künftig sollen die Vermieter das Haftungsrisiko tragen."
+  },
+  {
+    "id": "story-63",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T18:14:03.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/sachsen-anhalt-verzichtet-auf-mpk-vorsitz-110.html",
+        "date": "2026-09-25T18:14:03.000Z",
+        "snippet": "Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz.",
+        "title": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
+        "date": "2026-09-25T09:00:51.000Z",
+        "snippet": "Rheinland-Pfalz soll ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz übernehmen - damit wird Sachsen-Anhalt in der jährlich wechselnden Reihenfolge übersprungen. Die AfD kritisiert das.",
+        "title": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen"
+      }
+    ],
+    "title": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz",
+    "summary": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz.\nRheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen Rheinland-Pfalz soll ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz übernehmen - damit wird Sachsen-Anhalt in der jährlich wechselnden Reihenfolge übersprungen. Die AfD kritisiert das."
+  },
+  {
+    "id": "story-92",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-25T18:00:59.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/exercito-dos-eua-prepara-se-para-possivel-acao-militar-em-cuba-avanca-a-cbs_n1767763",
+        "date": "2026-09-25T18:00:59.000Z",
+        "snippet": "O Exército dos Estados Unidos está a preparar-se para uma possível ação militar relacionada com Cuba, noticiou hoje o canal televisivo norte-americano CBS News, após ter tido acesso a uma mensagem interna.",
+        "title": "Exército dos EUA prepara-se para possível ação militar em Cuba, avança a CBS"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGMxd0w5SEh2d2M0a2dYVkQ2YkRsTjZJaVZZYjZLSnJhUExNU3BVZUpFWnZ3bVMzRXl0MjdZUjNyMGtGcW1NUTFQRmxia0o2aHMwX1NuanpHamFWZnJoWXpUb2JMTlBkcGUtZ3VKYWMyX1E0V2NrQzJ0NUtocUtZMzVRb1pjRW9JSmFLRWNscGR3Y3NQOFpuT0JDOFRneWpaaFA3djhxUExRLU5rZFVTQ0Vvb9IBrgFBVV95cUxQMzQ0VDE1SHpTaU9jLUpVdXVZd0V3VzZ1ZDQtdEZNMDNGcEtKT1NST3NabFB0Y0ZmZG9GZEM5YlljM1VVVDE0b3cyaHN1TXZheWhHS1ptZlhub0MtODNHNWxMS0ZrX3U3RVFpYWJORFNtZW9ZdGNnZzVyek83MzJhbUNHSFF3UGtFeVROX1EtZ3NqTzd0QXNpTVRGcVBkY3BTeWhsU29tUkZDZXRMRGc?oc=5",
+        "date": "2026-09-25T16:11:18.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGMxd0w5SEh2d2M0a2dYVkQ2YkRsTjZJaVZZYjZLSnJhUExNU3BVZUpFWnZ3bVMzRXl0MjdZUjNyMGtGcW1NUTFQRmxia0o2aHMwX1NuanpHamFWZnJoWXpUb2JMTlBkcGUtZ3VKYWMyX1E0V2NrQzJ0NUtocUtZMzVRb1pjRW9JSmFLRWNscGR3Y3NQOFpuT0JDOFRneWpaaFA3djhxUExRLU5rZFVTQ0Vvb9IBrgFBVV95cUxQMzQ0VDE1SHpTaU9jLUpVdXVZd0V3VzZ1ZDQtdEZNMDNGcEtKT1NST3NabFB0Y0ZmZG9GZEM5YlljM1VVVDE0b3cyaHN1TXZheWhHS1ptZlhub0MtODNHNWxMS0ZrX3U3RVFpYWJORFNtZW9ZdGNnZzVyek83MzJhbUNHSFF3UGtFeVROX1EtZ3NqTzd0QXNpTVRGcVBkY3BTeWhsU29tUkZDZXRMRGc?oc=5\" target=\"_blank\">Exército dos EUA prepara-se para possível ação militar relacionada com Cuba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cmjornal.pt</font></li><li>",
+        "title": "Exército dos EUA prepara-se para possível ação militar relacionada com Cuba - cmjornal.pt"
+      }
+    ],
+    "title": "Exército dos EUA prepara-se para possível ação militar em Cuba, avança a CBS",
+    "summary": "Exército dos EUA prepara-se para possível ação militar em Cuba, avança a CBS O Exército dos Estados Unidos está a preparar-se para uma possível ação militar relacionada com Cuba, noticiou hoje o canal televisivo norte-americano CBS News, após ter tido acesso a uma mensagem interna.\nExército dos EUA prepara-se para possível ação militar relacionada com Cuba - cmjornal.pt <ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGMxd0w5SEh2d2M0a2dYVkQ2YkRsTjZJaVZZYjZLSnJhUExNU3BVZUpFWnZ3bVMzRXl0MjdZUjNyMGtGcW1NUTFQRmxia0o2aHMwX1NuanpHamFWZnJoWXpUb2JMTlBkcGUtZ3VKYWMyX1E0V2NrQzJ0NUtocUtZMzVRb1pjRW9JSmFLRWNscGR3Y3NQOFpuT0JDOFRneWpaaFA3djhxUExRLU5rZFVTQ0Vvb9IBrgFBVV95cUxQMzQ0VDE1SHpTaU9jLUpVdXVZd0V3VzZ1ZDQtdEZNMDNGcEtKT1NST3NabFB0Y0ZmZG9GZEM5YlljM1VVVDE0b3cyaHN1TXZheWhHS1ptZlhub0MtODNHNWxMS0ZrX3U3RVFpYWJORFNtZW9ZdGNnZzVyek83MzJhbUNHSFF3UGtFeVROX1EtZ3NqTzd0QXNpTVRGcVBkY3BTeWhsU29tUkZDZXRMRGc?oc=5\" target=\"_blank\">Exército dos EUA prepara-se para possível ação militar relacionada com Cuba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cmjornal.pt</font></li><li>"
+  },
+  {
+    "id": "story-107",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T17:57:26.000Z",
+    "sources": [
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
+        "date": "2026-09-25T17:57:26.000Z",
+        "snippet": "Auf einem Parteitag beschließen die Delegierten, Gespräche über die Regierungsbildung in der Hauptstadt zu führen. Antisemitismusvorwürfe weist die Linke zurück, zeigt sich aber selbstkritisch.",
+        "title": "Newsblog zu den Landtagswahlen: Berliner Linke will mit Grünen und SPD sondieren"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe",
+        "date": "2026-09-25T17:52:55.000Z",
+        "snippet": "",
+        "title": "Nach der Abgeordnetenhauswahl: Berliner Linke will mit Grünen und SPD sondieren"
+      }
+    ],
+    "title": "Newsblog zu den Landtagswahlen: Berliner Linke will mit Grünen und SPD sondieren",
+    "summary": "Newsblog zu den Landtagswahlen: Berliner Linke will mit Grünen und SPD sondieren Auf einem Parteitag beschließen die Delegierten, Gespräche über die Regierungsbildung in der Hauptstadt zu führen. Antisemitismusvorwürfe weist die Linke zurück, zeigt sich aber selbstkritisch.\nNach der Abgeordnetenhauswahl: Berliner Linke will mit Grünen und SPD sondieren "
+  },
+  {
+    "id": "story-132",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-09-25T17:45:24.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
+        "date": "2026-09-25T17:45:24.000Z",
+        "snippet": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
+        "title": "US top court allows Trump to use controversial voter verification system"
+      },
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+        "date": "2026-09-25T16:52:32.000Z",
+        "snippet": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity in US elections – to implement policies that would disenfranchise likely Democratic voters.",
+        "title": "US Supreme Court allows Trump to use controversial voter 'verification' system"
+      }
+    ],
+    "title": "US top court allows Trump to use controversial voter verification system",
+    "summary": "US top court allows Trump to use controversial voter verification system Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.\nUS Supreme Court allows Trump to use controversial voter 'verification' system The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity in US elections – to implement policies that would disenfranchise likely Democratic voters."
+  },
+  {
+    "id": "story-223",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T17:00:05.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
+        "date": "2026-09-25T17:00:05.000Z",
+        "snippet": "Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt…",
+        "title": "Das müssen Autobesitzer über den Rückruf wissen"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
+        "date": "2026-09-25T16:44:11.000Z",
+        "snippet": "Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt. Welche Modelle betroffen sind - und was zu tun ist.",
+        "title": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen"
+      }
+    ],
+    "title": "Das müssen Autobesitzer über den Rückruf wissen",
+    "summary": "Das müssen Autobesitzer über den Rückruf wissen Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt…\nRückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt. Welche Modelle betroffen sind - und was zu tun ist."
+  },
+  {
+    "id": "story-255",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T16:40:47.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/barcelona-frau-und-tochter-lebten-zwei-jahre-mit-leiche-im-haus-P7RX6QFBQJDPLPZ5AURYPEQQGU.html",
+        "date": "2026-09-25T16:40:47.000Z",
+        "snippet": "An einem Haus nahe Barcelona fällt Nachbarn der zunehmende Müll auf. Sie alarmieren die Behörden. Als die katalanische Polizei dort nach dem Rechten sieht, macht sie eine ungewöhnliche Entdeckung.",
+        "title": "Barcelona: Frau und Tochter lebten zwei Jahre mit Leiche im Haus"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/justiz/spanien-frau-und-tochter-leben-zwei-jahre-mit-leiche-im-haus-nahe-barcelona-a-cae89fed-05aa-48dc-9bef-4bc6bdd797d3#ref=rss",
+        "date": "2026-09-25T15:18:00.000Z",
+        "snippet": "In der Nähe von Barcelona melden Anwohner den Behörden ein Müllproblem an einem Haus in ihrer Nachbarschaft. Die Polizei rückt an – und macht eine grausige Entdeckung.",
+        "title": "Spanien: Frau und Tochter leben zwei Jahre mit Leiche im Haus nahe Barcelona"
+      }
+    ],
+    "title": "Barcelona: Frau und Tochter lebten zwei Jahre mit Leiche im Haus",
+    "summary": "Barcelona: Frau und Tochter lebten zwei Jahre mit Leiche im Haus An einem Haus nahe Barcelona fällt Nachbarn der zunehmende Müll auf. Sie alarmieren die Behörden. Als die katalanische Polizei dort nach dem Rechten sieht, macht sie eine ungewöhnliche Entdeckung.\nSpanien: Frau und Tochter leben zwei Jahre mit Leiche im Haus nahe Barcelona In der Nähe von Barcelona melden Anwohner den Behörden ein Müllproblem an einem Haus in ihrer Nachbarschaft. Die Polizei rückt an – und macht eine grausige Entdeckung."
+  },
+  {
+    "id": "story-266",
+    "topic": "sport",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T16:35:47.000Z",
+    "sources": [
+      {
+        "source": "t-online Sport",
+        "url": "https://www.t-online.de/sport/mehr-sport/radsport/id_101453278/radsport-maximilian-walscheid-beendet-ueberraschend-karriere.html",
+        "date": "2026-09-25T16:35:47.000Z",
+        "snippet": "In gut einer Woche fährt Maximilian Walscheid sein letztes Rennen im Profi-Radsport. Danach geht es für ihn wieder an den Schreibtisch.",
+        "title": "Radsport: Maximilian Walscheid beendet überraschend Karriere"
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.sportschau.de/radsport/max-walscheid-beendet-radsport-karriere,max-walscheid-beendet-karriere-100.html",
+        "date": "2026-09-25T15:02:01.000Z",
+        "snippet": "Der deutsche Radprofi Max Walscheid beendet mit Ablauf der Saison seine Karriere. Das teilte sein Rennstall Lidl-Trek mit.",
+        "title": "Max Walscheid beendet Radsport-Karriere"
+      }
+    ],
+    "title": "Radsport: Maximilian Walscheid beendet überraschend Karriere",
+    "summary": "Radsport: Maximilian Walscheid beendet überraschend Karriere In gut einer Woche fährt Maximilian Walscheid sein letztes Rennen im Profi-Radsport. Danach geht es für ihn wieder an den Schreibtisch.\nMax Walscheid beendet Radsport-Karriere Der deutsche Radprofi Max Walscheid beendet mit Ablauf der Saison seine Karriere. Das teilte sein Rennstall Lidl-Trek mit."
+  },
+  {
+    "id": "story-279",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T16:31:47.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+        "date": "2026-09-25T16:31:47.000Z",
+        "snippet": "Neue Hoffnungen auf einen Frieden im Nahen Osten lassen die Ölpreise zum Wochenschluss sinken. Das macht den Anlegern an der Börse Mut. Gleichzeitig bewegt eine mögliche Übernahme die Kurse.",
+        "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXQtWG1Xa3c0RmJKclBlZk1JZWhWU2JHU29mb3g3a3BaakVMUEowejAyT2htZ2k3UENFOC16TVJpNWRueXdaejU0OFJzZ0hTQzhsVW5CSktNeGZwT1docGcwQTVEZlJRTnlMVzNaaTR1b1VQYXFpNUJXeV9hWGFORHN2Tm1KYU1VZzZ6RFJ2dEgydWJ2Yll6UDQxVzQ1d2l4TF9RQThubHo4bnhP?oc=5",
+        "date": "2026-09-25T16:31:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXQtWG1Xa3c0RmJKclBlZk1JZWhWU2JHU29mb3g3a3BaakVMUEowejAyT2htZ2k3UENFOC16TVJpNWRueXdaejU0OFJzZ0hTQzhsVW5CSktNeGZwT1docGcwQTVEZlJRTnlMVzNaaTR1b1VQYXFpNUJXeV9hWGFORHN2Tm1KYU1VZzZ6RFJ2dEgydWJ2Yll6UDQxVzQ1d2l4TF9RQThubHo4bnhP?oc=5\" target=\"_blank\">Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVllicy1mM3NES2ZjaHdJblNvYWNhUEVJSlN5SjQyUzdVX3QyV2hFdzNvbVZYUVM2MzVGVFdrbGtUb1l6R3ljbHhpNlo5NzIwb1JLU3RDbWRqVmN2STRxd01EVk43RnMzeDE5bmdiRWZybHN6dl9LMTlMVkRyaFdHWjV2djBBNmY2Y1JUVE5oN2FiSHM?oc=5\" tar",
+        "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut - tagesschau.de"
+      }
+    ],
+    "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
+    "summary": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut Neue Hoffnungen auf einen Frieden im Nahen Osten lassen die Ölpreise zum Wochenschluss sinken. Das macht den Anlegern an der Börse Mut. Gleichzeitig bewegt eine mögliche Übernahme die Kurse.\nMarktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXQtWG1Xa3c0RmJKclBlZk1JZWhWU2JHU29mb3g3a3BaakVMUEowejAyT2htZ2k3UENFOC16TVJpNWRueXdaejU0OFJzZ0hTQzhsVW5CSktNeGZwT1docGcwQTVEZlJRTnlMVzNaaTR1b1VQYXFpNUJXeV9hWGFORHN2Tm1KYU1VZzZ6RFJ2dEgydWJ2Yll6UDQxVzQ1d2l4TF9RQThubHo4bnhP?oc=5\" target=\"_blank\">Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVllicy1mM3NES2ZjaHdJblNvYWNhUEVJSlN5SjQyUzdVX3QyV2hFdzNvbVZYUVM2MzVGVFdrbGtUb1l6R3ljbHhpNlo5NzIwb1JLU3RDbWRqVmN2STRxd01EVk43RnMzeDE5bmdiRWZybHN6dl9LMTlMVkRyaFdHWjV2djBBNmY2Y1JUVE5oN2FiSHM?oc=5\" tar"
+  },
+  {
+    "id": "story-293",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-25T16:20:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_a1_1767751",
+        "date": "2026-09-25T16:20:02.000Z",
+        "snippet": "",
+        "title": "16h Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira"
+      },
+      {
+        "source": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_n1767625",
+        "date": "2026-09-25T08:24:25.000Z",
+        "snippet": "Os empresários do setor das terraplanagens que hoje iniciaram uma marcha lenta de protesto contra o preço dos combustíveis a partir de Paredes, distrito do Porto, vão reunir-se na segunda-feira com o Governo, anunciou o representante dos manifestantes.",
+        "title": "Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira"
+      }
+    ],
+    "title": "16h Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira",
+    "summary": "16h Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira \nEmpresários do setor das terraplanagens recebidos pelo Governo na segunda-feira Os empresários do setor das terraplanagens que hoje iniciaram uma marcha lenta de protesto contra o preço dos combustíveis a partir de Paredes, distrito do Porto, vão reunir-se na segunda-feira com o Governo, anunciou o representante dos manifestantes."
+  },
+  {
+    "id": "story-298",
+    "topic": "sport",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T16:18:44.000Z",
+    "sources": [
+      {
+        "source": "t-online Sport",
+        "url": "https://www.t-online.de/sport/fussball/international/id_101453202/premier-league-manchester-city-schuldig-in-114-von-115-punkten.html",
+        "date": "2026-09-25T16:18:44.000Z",
+        "snippet": "Der lang erwartete Prozess gegen Manchester City geht in die nächste Runde. Ein unabhängiges Gericht spricht nun ein erstes Urteil.",
+        "title": "Premier League: Manchester City schuldig in 114 von 115 Punkten"
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/manchester-city-schuldig-in-114-faellen-201263735.html",
+        "date": "2026-09-25T14:45:01.000Z",
+        "snippet": "Manchester City soll jahrelang gegen Finanzregeln der englischen Premier League verstoßen haben. Das Ergebnis einer Kommission soll nach britischen Medienberichten drastisch sein.",
+        "title": "Premier League: Manchester City schuldig in 114 Fällen?"
+      }
+    ],
+    "title": "Premier League: Manchester City schuldig in 114 von 115 Punkten",
+    "summary": "Premier League: Manchester City schuldig in 114 von 115 Punkten Der lang erwartete Prozess gegen Manchester City geht in die nächste Runde. Ein unabhängiges Gericht spricht nun ein erstes Urteil.\nPremier League: Manchester City schuldig in 114 Fällen? Manchester City soll jahrelang gegen Finanzregeln der englischen Premier League verstoßen haben. Das Ergebnis einer Kommission soll nach britischen Medienberichten drastisch sein."
+  },
+  {
+    "id": "story-343",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-09-25T15:56:20.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTllVHF0VUFPMG9ia1Z5RVR1Z01XR3RYa05DZjNXUGJuODFacTFnMXNPbkVSakxqRUFIRmlCbEZ0WnBzM0NyeEVwVEJ1REVqR0ItZHZEVUg2TnNSOHhkUVd1WjRtaEpLMHE1WmNMWHhMM3EtUGp4QXNSOTJvZ1JtYkFTdjVTVHlPOUhoZmFkRThNNzB1eHZFSEdqNDZHSll6U21TZDMtRdIBrAFBVV95cUxPSFMwcDg5OVhIbldDX0dCQkdVRktOakNnSlRIT1U5X1RYMjRsUDhTbEU5ZFhOZ21UR3Y5cWk2Z05JMzQzel9pSUQ0WUw0ZTl3S0NONzlNRG9ZY3Znd2hOTURFUWRnclg2MEg1VkIyTXZuNkFtM0gxZndrVXM0T2hxTUllOXp3dmU1R1ZFcno5dEN4bld6RXA5UkN5UTN6bHZHOGJreEh1dVk1bmFs?oc=5",
+        "date": "2026-09-25T15:56:20.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTllVHF0VUFPMG9ia1Z5RVR1Z01XR3RYa05DZjNXUGJuODFacTFnMXNPbkVSakxqRUFIRmlCbEZ0WnBzM0NyeEVwVEJ1REVqR0ItZHZEVUg2TnNSOHhkUVd1WjRtaEpLMHE1WmNMWHhMM3EtUGp4QXNSOTJvZ1JtYkFTdjVTVHlPOUhoZmFkRThNNzB1eHZFSEdqNDZHSll6U21TZDMtRdIBrAFBVV95cUxPSFMwcDg5OVhIbldDX0dCQkdVRktOakNnSlRIT1U5X1RYMjRsUDhTbEU5ZFhOZ21UR3Y5cWk2Z05JMzQzel9pSUQ0WUw0ZTl3S0NONzlNRG9ZY3Znd2hOTURFUWRnclg2MEg1VkIyTXZuNkFtM0gxZndrVXM0T2hxTUllOXp3dmU1R1ZFcno5dEN4bld6RXA5UkN5UTN6bHZHOGJreEh1dVk1bmFs?oc=5\" target=\"_blank\">What the Trump-Xi meeting revealed about global power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+        "title": "What the Trump-Xi meeting revealed about global power - Al Jazeera"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
+        "date": "2026-09-25T15:26:56.000Z",
+        "snippet": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York.",
+        "title": "What the Trump-Xi meeting revealed about global power"
+      }
+    ],
+    "title": "What the Trump-Xi meeting revealed about global power - Al Jazeera",
+    "summary": "What the Trump-Xi meeting revealed about global power - Al Jazeera <a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTllVHF0VUFPMG9ia1Z5RVR1Z01XR3RYa05DZjNXUGJuODFacTFnMXNPbkVSakxqRUFIRmlCbEZ0WnBzM0NyeEVwVEJ1REVqR0ItZHZEVUg2TnNSOHhkUVd1WjRtaEpLMHE1WmNMWHhMM3EtUGp4QXNSOTJvZ1JtYkFTdjVTVHlPOUhoZmFkRThNNzB1eHZFSEdqNDZHSll6U21TZDMtRdIBrAFBVV95cUxPSFMwcDg5OVhIbldDX0dCQkdVRktOakNnSlRIT1U5X1RYMjRsUDhTbEU5ZFhOZ21UR3Y5cWk2Z05JMzQzel9pSUQ0WUw0ZTl3S0NONzlNRG9ZY3Znd2hOTURFUWRnclg2MEg1VkIyTXZuNkFtM0gxZndrVXM0T2hxTUllOXp3dmU1R1ZFcno5dEN4bld6RXA5UkN5UTN6bHZHOGJreEh1dVk1bmFs?oc=5\" target=\"_blank\">What the Trump-Xi meeting revealed about global power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>\nWhat the Trump-Xi meeting revealed about global power Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York."
+  },
+  {
+    "id": "story-409",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-09-25T15:20:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5",
+        "date": "2026-09-25T15:20:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5\" target=\"_blank\">Pomp over progress in Xi’s US summit with Trump is a win for China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Pomp over progress in Xi’s US summit with Trump is a win for China - The Guardian"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+        "date": "2026-09-25T12:41:14.000Z",
+        "snippet": "<p>While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade\">Key takeaways from the Trump-Xi summit in Washington</a></p></li></ul><p>If the Beijing meeting between Donald Trump and Xi Jinping in May was the “<a href=\"https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing\">stalemate summit</a>”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.</p><p>Instead, it was described as a celebration o",
+        "title": "Pomp over progress in Xi’s US summit with Trump is a win for China"
+      }
+    ],
+    "title": "Pomp over progress in Xi’s US summit with Trump is a win for China - The Guardian",
+    "summary": "Pomp over progress in Xi’s US summit with Trump is a win for China - The Guardian <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5\" target=\"_blank\">Pomp over progress in Xi’s US summit with Trump is a win for China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nPomp over progress in Xi’s US summit with Trump is a win for China <p>While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade\">Key takeaways from the Trump-Xi summit in Washington</a></p></li></ul><p>If the Beijing meeting between Donald Trump and Xi Jinping in May was the “<a href=\"https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing\">stalemate summit</a>”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.</p><p>Instead, it was described as a celebration o"
+  },
+  {
+    "id": "story-421",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-25T15:15:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHlfcnRkZkdtbXBzbk52OFpWcEZwM3hpdTl6b1o5QzBBbmppd21TRDZNdWpzNDROQTREbGxBSk0wRUd5c3pobkxYQXJoM3h2UFE5eHVIbzZ5YlBTb3RiQndXcmtNVUZ3b0ZrNGFSYzlGQUIzN2lqR0JSbVJxWmNGMm1TWUtPdzV5bUNqZ2hyc2ZNTzNKYmdsZm9vWWtQNFNzeGs2SEtBT1BaMDNaRUNmamwyckpnQmRxNDU5OVpXVDNxS3ZZdl9FNnRjVXRNd204eVBncA?oc=5",
+        "date": "2026-09-25T15:15:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHlfcnRkZkdtbXBzbk52OFpWcEZwM3hpdTl6b1o5QzBBbmppd21TRDZNdWpzNDROQTREbGxBSk0wRUd5c3pobkxYQXJoM3h2UFE5eHVIbzZ5YlBTb3RiQndXcmtNVUZ3b0ZrNGFSYzlGQUIzN2lqR0JSbVJxWmNGMm1TWUtPdzV5bUNqZ2hyc2ZNTzNKYmdsZm9vWWtQNFNzeGs2SEtBT1BaMDNaRUNmamwyckpnQmRxNDU5OVpXVDNxS3ZZdl9FNnRjVXRNd204eVBncA?oc=5\" target=\"_blank\">Sandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWdIclIzSkVleVlxaXZRMGF6ZmRINlRKa1JwTmJYV3lVMDBiOE5LUGo5WjIzbEtscTVrOUkxUnRpdDFma2h4TEhJX1o2MlBtX2tKRUtVX2duUG5yZzF0VlE5UlR4VHZ1c2FoNDV2N1lMVjNTYWwy",
+        "title": "Sandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/kino/sandra-hueller-fand-ihren-weg-ins-schauspiel-ueber-ein-jobcenter-a-4fdb6944-b9cd-41e8-bae7-551d957b20a9#ref=rss",
+        "date": "2026-09-25T15:15:00.000Z",
+        "snippet": "Mit dem Film »Astronaut« machte sich Sandra Hüller in Hollywood einen Namen. Für den neuen Streifen »Digger« drehte sie mit Tom Cruise. In »Late Night« mit Seth Meyers hat sie über ihre Anfänge berichtet.",
+        "title": "Sandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter"
+      }
+    ],
+    "title": "Sandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter - Spiegel",
+    "summary": "Sandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHlfcnRkZkdtbXBzbk52OFpWcEZwM3hpdTl6b1o5QzBBbmppd21TRDZNdWpzNDROQTREbGxBSk0wRUd5c3pobkxYQXJoM3h2UFE5eHVIbzZ5YlBTb3RiQndXcmtNVUZ3b0ZrNGFSYzlGQUIzN2lqR0JSbVJxWmNGMm1TWUtPdzV5bUNqZ2hyc2ZNTzNKYmdsZm9vWWtQNFNzeGs2SEtBT1BaMDNaRUNmamwyckpnQmRxNDU5OVpXVDNxS3ZZdl9FNnRjVXRNd204eVBncA?oc=5\" target=\"_blank\">Sandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWdIclIzSkVleVlxaXZRMGF6ZmRINlRKa1JwTmJYV3lVMDBiOE5LUGo5WjIzbEtscTVrOUkxUnRpdDFma2h4TEhJX1o2MlBtX2tKRUtVX2duUG5yZzF0VlE5UlR4VHZ1c2FoNDV2N1lMVjNTYWwy\nSandra Hüller fand ihren Weg ins Schauspiel über ein Jobcenter Mit dem Film »Astronaut« machte sich Sandra Hüller in Hollywood einen Namen. Für den neuen Streifen »Digger« drehte sie mit Tom Cruise. In »Late Night« mit Seth Meyers hat sie über ihre Anfänge berichtet."
+  },
+  {
+    "id": "story-438",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-25T15:06:41.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T15:06:41.000Z",
+        "snippet": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+        "title": "Pope warns against 'losing humanity' to AI machines"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRk9qcHgtYXlLam9kaElOenBEU09ac0Mta2psT18tWGE3ZWZmNHRYQVRpb1pkc1MxVnBoWUlvN0stTENqcjhBU3BrZlpPYXB3NTZzWnd3ZUdhTFk?oc=5",
+        "date": "2026-09-25T15:06:41.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRk9qcHgtYXlLam9kaElOenBEU09ac0Mta2psT18tWGE3ZWZmNHRYQVRpb1pkc1MxVnBoWUlvN0stTENqcjhBU3BrZlpPYXB3NTZzWnd3ZUdhTFk?oc=5\" target=\"_blank\">Pope warns against 'losing humanity' to AI machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
+        "title": "Pope warns against 'losing humanity' to AI machines - bbc.com"
+      }
+    ],
+    "title": "Pope warns against 'losing humanity' to AI machines",
+    "summary": "Pope warns against 'losing humanity' to AI machines The pontiff delivered the warning on the first day of his trip to France on Friday.\nPope warns against 'losing humanity' to AI machines - bbc.com <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRk9qcHgtYXlLam9kaElOenBEU09ac0Mta2psT18tWGE3ZWZmNHRYQVRpb1pkc1MxVnBoWUlvN0stTENqcjhBU3BrZlpPYXB3NTZzWnd3ZUdhTFk?oc=5\" target=\"_blank\">Pope warns against 'losing humanity' to AI machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>"
+  },
+  {
+    "id": "story-569",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
     "date": "2026-09-25T14:00:09.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell Baden-Württemberg",
+        "source": "SWR Aktuell",
         "url": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
         "date": "2026-09-25T14:00:09.000Z",
         "snippet": "Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und …",
@@ -25,14 +500,14 @@
     "summary": "So schnell soll der \"Tankrabatt\" kommen Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und …\nEntlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und was noch geplant ist."
   },
   {
-    "id": "story-58",
+    "id": "story-605",
     "topic": "panorama",
     "country": "DE",
-    "stateHint": "",
+    "stateHint": "BW",
     "date": "2026-09-25T13:45:01.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
+        "source": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
         "date": "2026-09-25T13:45:01.000Z",
         "snippet": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.",
@@ -50,207 +525,57 @@
     "summary": "Bundestag beschließt erneuten \"Tankrabatt\" Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.\nBundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu."
   },
   {
-    "id": "story-75",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-25T13:39:08.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/wirtschaft/2026-09/bundestag-beschliesst-neuen-tankrabatt-gxe",
-        "date": "2026-09-25T13:39:08.000Z",
-        "snippet": "Der Bundestag hat die Senkung der Energiesteuer auf Benzin und Diesel beschlossen, um die hohen Spritpreise abzufedern. Sie gilt ab dem 1. Oktober bis zum Jahresende.",
-        "title": "Spritpreise: Bundestag beschließt neuen Tankrabatt"
-      },
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/video6ab6641824c8e458512f874e/hohe-spritpreise-bundestag-beschliesst-neuen-tankrabatt.html",
-        "date": "2026-09-25T12:10:55.000Z",
-        "snippet": "Der Bundestag hat grünes Licht für den neuerlichen Tankrabatt gegeben. Mit diesem sollen von Anfang Oktober bis Ende Dezember die hohen Spritpreise um 17 Cent je Liter Diesel und Benzin gedrückt werden. Nun muss noch der Bundesrat zustimmen.",
-        "title": "Bundestag beschließt neuen Tankrabatt"
-      }
-    ],
-    "title": "Spritpreise: Bundestag beschließt neuen Tankrabatt",
-    "summary": "Spritpreise: Bundestag beschließt neuen Tankrabatt Der Bundestag hat die Senkung der Energiesteuer auf Benzin und Diesel beschlossen, um die hohen Spritpreise abzufedern. Sie gilt ab dem 1. Oktober bis zum Jahresende.\nBundestag beschließt neuen Tankrabatt Der Bundestag hat grünes Licht für den neuerlichen Tankrabatt gegeben. Mit diesem sollen von Anfang Oktober bis Ende Dezember die hohen Spritpreise um 17 Cent je Liter Diesel und Benzin gedrückt werden. Nun muss noch der Bundesrat zustimmen."
-  },
-  {
-    "id": "story-116",
+    "id": "story-622",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-25T13:37:46.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/sachsen-anhalt-verzichtet-auf-mpk-vorsitz-110.html",
-        "date": "2026-09-25T13:37:46.000Z",
-        "snippet": "Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz.",
-        "title": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
-        "date": "2026-09-25T09:00:51.000Z",
-        "snippet": "Rheinland-Pfalz soll ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz übernehmen - damit wird Sachsen-Anhalt in der jährlich wechselnden Reihenfolge übersprungen. Die AfD kritisiert das.",
-        "title": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen"
-      }
-    ],
-    "title": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz",
-    "summary": "Bundesländer - Sachsen-Anhalt verzichtet auf MPK-Vorsitz Rheinland-Pfalz behält ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz.\nRheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen Rheinland-Pfalz soll ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz übernehmen - damit wird Sachsen-Anhalt in der jährlich wechselnden Reihenfolge übersprungen. Die AfD kritisiert das."
-  },
-  {
-    "id": "story-157",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-09-25T13:28:15.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/marcha-lenta-empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_e1767607",
-        "date": "2026-09-25T13:28:15.000Z",
-        "snippet": "Uma marcha lenta organizada por empresários de terraplanagens pode juntar mais de 400 camiões a partir das 07h30, num percurso entre Paredes e Coimbra através da A42, A41 e A1, para exigir \"respostas concretas\" face ao aumento dos combustíveis. Acompanhamos aqui o protesto.",
-        "title": "Marcha lenta. Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira"
-      },
-      {
-        "source": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_n1767625",
-        "date": "2026-09-25T08:24:25.000Z",
-        "snippet": "Os empresários do setor das terraplanagens que hoje iniciaram uma marcha lenta de protesto contra o preço dos combustíveis a partir de Paredes, distrito do Porto, vão reunir-se na segunda-feira com o Governo, anunciou o representante dos manifestantes.",
-        "title": "Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira"
-      }
-    ],
-    "title": "Marcha lenta. Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira",
-    "summary": "Marcha lenta. Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira Uma marcha lenta organizada por empresários de terraplanagens pode juntar mais de 400 camiões a partir das 07h30, num percurso entre Paredes e Coimbra através da A42, A41 e A1, para exigir \"respostas concretas\" face ao aumento dos combustíveis. Acompanhamos aqui o protesto.\nEmpresários do setor das terraplanagens recebidos pelo Governo na segunda-feira Os empresários do setor das terraplanagens que hoje iniciaram uma marcha lenta de protesto contra o preço dos combustíveis a partir de Paredes, distrito do Porto, vão reunir-se na segunda-feira com o Governo, anunciou o representante dos manifestantes."
-  },
-  {
-    "id": "story-163",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "SN",
-    "date": "2026-09-25T13:26:44.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Sachsen",
-        "url": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
-        "date": "2026-09-25T13:26:44.000Z",
-        "snippet": "In Heidenau sollen keine Stolpersteine mehr zur Erinnerung an Opfer des NS-Regimes verlegt werden. Der Stadtrat folgte damit einem gemeinsamen Antrag von AfD und CDU.",
-        "title": "Nach Antrag von CDU und AfD: Keine neuen Stolpersteine in Heidenau"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/stolpersteine-heidenau-cdu-afd-ablehnung-plan-100.html",
-        "date": "2026-09-25T06:11:00.000Z",
-        "snippet": "Gedenken an die Opfer der Nazi-Herrschaft ja, aber nicht mehr mit Stolpersteinen: Im sächsischen Heidenau hat der Stadtrat einen entsprechenden Antrag von CDU und AfD gebilligt.",
-        "title": "Heidenau in Sachsen: Keine neuen Stolpersteine"
-      }
-    ],
-    "title": "Nach Antrag von CDU und AfD: Keine neuen Stolpersteine in Heidenau",
-    "summary": "Nach Antrag von CDU und AfD: Keine neuen Stolpersteine in Heidenau In Heidenau sollen keine Stolpersteine mehr zur Erinnerung an Opfer des NS-Regimes verlegt werden. Der Stadtrat folgte damit einem gemeinsamen Antrag von AfD und CDU.\nHeidenau in Sachsen: Keine neuen Stolpersteine Gedenken an die Opfer der Nazi-Herrschaft ja, aber nicht mehr mit Stolpersteinen: Im sächsischen Heidenau hat der Stadtrat einen entsprechenden Antrag von CDU und AfD gebilligt."
-  },
-  {
-    "id": "story-181",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-25T13:17:46.000Z",
-    "sources": [
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Nimmermann-wird-erster-Gruener-im-Bundesbank-Vorstand-id31348826.html",
-        "date": "2026-09-25T13:17:46.000Z",
-        "snippet": "In gewisser Weise schließt sich für Philipp Nimmermann ein Kreis. Seine berufliche Laufbahn beginnt bei einer Bank und nach zahlreichen Stationen als politischer Beamter führt ihn sein Weg nun zur deutschen Notenbank - als erster Vertreter seiner Partei.",
-        "title": "Banker und Staatssekretär: Nimmermann wird erster Grüner im Bundesbank-Vorstand"
-      },
-      {
-        "source": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/politik/deutschland/bundesbank-philipp-nimmermann-wird-erster-gruener-im-bundesbank-vorstand/100257431.html",
-        "date": "2026-09-25T10:15:59.000Z",
-        "snippet": "Vom Staatssekretär zum Bundesbank-Vorstand: Philipp Nimmermann bringt Erfahrung aus Energiepolitik und Finanzplatzförderung mit. Auch unter Ex-Wirtschaftsminister Robert Habeck war er im Einsatz.",
-        "title": "Bundesbank: Philipp Nimmermann wird erster Grüner im Bundesbank-Vorstand"
-      }
-    ],
-    "title": "Banker und Staatssekretär: Nimmermann wird erster Grüner im Bundesbank-Vorstand",
-    "summary": "Banker und Staatssekretär: Nimmermann wird erster Grüner im Bundesbank-Vorstand In gewisser Weise schließt sich für Philipp Nimmermann ein Kreis. Seine berufliche Laufbahn beginnt bei einer Bank und nach zahlreichen Stationen als politischer Beamter führt ihn sein Weg nun zur deutschen Notenbank - als erster Vertreter seiner Partei.\nBundesbank: Philipp Nimmermann wird erster Grüner im Bundesbank-Vorstand Vom Staatssekretär zum Bundesbank-Vorstand: Philipp Nimmermann bringt Erfahrung aus Energiepolitik und Finanzplatzförderung mit. Auch unter Ex-Wirtschaftsminister Robert Habeck war er im Einsatz."
-  },
-  {
-    "id": "story-200",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-25T13:14:10.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-09/schulstreik-wehrpflicht-proteste-schueler-musterung-wehrdienstgesetz",
-        "date": "2026-09-25T13:14:10.000Z",
-        "snippet": "In der Debatte um eine Wiedereinführung der Wehrpflicht haben sich Schülerinnen und Schüler zu Wort gemeldet. Deutschlandweit gingen sie auf die Straßen.",
-        "title": "Schulstreik gegen Wehrpflicht: Schülerinnen und Schüler demonstrieren gegen mögliche Wehrpflicht"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/wehrpflicht-schueler-protest-demo-100.html",
-        "date": "2026-09-25T12:56:00.000Z",
-        "snippet": "Zehntausende Schüler demonstrieren bundesweit gegen eine mögliche Wehrpflicht. Die Initiative \"Schulstreik gegen Wehrpflicht\" spricht von mehr als 45.000 Teilnehmern.",
-        "title": "Schüler demonstrieren bundesweit gegen mögliche Wehrpflicht"
-      }
-    ],
-    "title": "Schulstreik gegen Wehrpflicht: Schülerinnen und Schüler demonstrieren gegen mögliche Wehrpflicht",
-    "summary": "Schulstreik gegen Wehrpflicht: Schülerinnen und Schüler demonstrieren gegen mögliche Wehrpflicht In der Debatte um eine Wiedereinführung der Wehrpflicht haben sich Schülerinnen und Schüler zu Wort gemeldet. Deutschlandweit gingen sie auf die Straßen.\nSchüler demonstrieren bundesweit gegen mögliche Wehrpflicht Zehntausende Schüler demonstrieren bundesweit gegen eine mögliche Wehrpflicht. Die Initiative \"Schulstreik gegen Wehrpflicht\" spricht von mehr als 45.000 Teilnehmern."
-  },
-  {
-    "id": "story-209",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-25T13:11:27.000Z",
+    "date": "2026-09-25T13:34:08.000Z",
     "sources": [
       {
         "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
-        "date": "2026-09-25T13:11:27.000Z",
-        "snippet": "Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt.",
-        "title": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren"
+        "url": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html",
+        "date": "2026-09-25T13:34:08.000Z",
+        "snippet": "Papst Leo XIV. ist zu seinem ersten Frankreich-Besuch in Paris eingetroffen. Beim Treffen mit Präsident Macron sprach er über Sterbehilfe und KI. In den kommenden Tagen werden Hunderttausende Gläubige erwartet.",
+        "title": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris"
       },
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVVXQ1BGUjhYRjZ2SkdjMkNEMVU0VDdUSVd1QlkxMzFYUmpGWGpMVmVXNFVLY09ORjVta3dwRE1ZRzdWc2VldHViMFY0YTlsUFljYlZNVkl0c2ZRNUh4UUQ3UUhRNTlQUkNHT04zbHpOWFFsYURvTkpwWnZuT3Z1eU40cTdqei1NTHFsLW1JS2xOUQ?oc=5",
-        "date": "2026-09-25T13:11:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVVXQ1BGUjhYRjZ2SkdjMkNEMVU0VDdUSVd1QlkxMzFYUmpGWGpMVmVXNFVLY09ORjVta3dwRE1ZRzdWc2VldHViMFY0YTlsUFljYlZNVkl0c2ZRNUh4UUQ3UUhRNTlQUkNHT04zbHpOWFFsYURvTkpwWnZuT3Z1eU40cTdqei1NTHFsLW1JS2xOUQ?oc=5\" target=\"_blank\">Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0NzSmlBXzNzVW84bjlmeG5OaGwzSTZ6QVFBYXA5RUxzRjVBWDc0bkI3UEU3Xy1HajJYRGFSVExRMDBnZXpXNWg2YlRXTmxVVXQ4am5oRS1uMEVFbzJJT1otamUwa3Z0OU9jSTZIUnowMC1reGw3dnpwR2h2N3F0bGZId09qSmNJTUhuQW0wSGoybllqa1FBTDBnbnAtOE0zclRPMl9iQnVUcEgzcUV1cGhzMF",
-        "title": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren - tagesschau.de"
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjJ2WEtFaW96OWFwZVV6STZFdTU4UTdCRVA3UFgzc0NfYTFpSVgxOXRHMkgwcTVNTXFadFFCcjJPYW1SYTRIQXVpWWZsT3FYbzhaZDA4NV92eFoyaEVDaTVxbEtFOTg3ekxTTXRrMV9jY1d2QlMxSkdRaTZrSEg4MHlR?oc=5",
+        "date": "2026-09-25T13:34:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjJ2WEtFaW96OWFwZVV6STZFdTU4UTdCRVA3UFgzc0NfYTFpSVgxOXRHMkgwcTVNTXFadFFCcjJPYW1SYTRIQXVpWWZsT3FYbzhaZDA4NV92eFoyaEVDaTVxbEtFOTg3ekxTTXRrMV9jY1d2QlMxSkdRaTZrSEg4MHlR?oc=5\" target=\"_blank\">Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzBGODBySTEyNVpXckNnRXZ6UkotdTZEd2UxdzVaT3hSVXlMcFZaV2JuWENTcmtxWS1yYXB5cHlqRm9tWlpCUldCR2llLVVsY1FYbW9RMmtvMElBZ1BkV0phbk9US3JfM3M2ZW4zbEhoNko2THNUaVlFREIyM2VSMVg2ajdyamphZGFQSHNHVGpjanQ1Q1Jla1lROFYzWE5MXzdGVG56YVlUVEx6MW9fM1dBa0k?oc=5\" target=\"_blank\">Pap",
+        "title": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris - tagesschau.de"
       }
     ],
-    "title": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
-    "summary": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt.\nBundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVVXQ1BGUjhYRjZ2SkdjMkNEMVU0VDdUSVd1QlkxMzFYUmpGWGpMVmVXNFVLY09ORjVta3dwRE1ZRzdWc2VldHViMFY0YTlsUFljYlZNVkl0c2ZRNUh4UUQ3UUhRNTlQUkNHT04zbHpOWFFsYURvTkpwWnZuT3Z1eU40cTdqei1NTHFsLW1JS2xOUQ?oc=5\" target=\"_blank\">Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0NzSmlBXzNzVW84bjlmeG5OaGwzSTZ6QVFBYXA5RUxzRjVBWDc0bkI3UEU3Xy1HajJYRGFSVExRMDBnZXpXNWg2YlRXTmxVVXQ4am5oRS1uMEVFbzJJT1otamUwa3Z0OU9jSTZIUnowMC1reGw3dnpwR2h2N3F0bGZId09qSmNJTUhuQW0wSGoybllqa1FBTDBnbnAtOE0zclRPMl9iQnVUcEgzcUV1cGhzMF"
+    "title": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
+    "summary": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris Papst Leo XIV. ist zu seinem ersten Frankreich-Besuch in Paris eingetroffen. Beim Treffen mit Präsident Macron sprach er über Sterbehilfe und KI. In den kommenden Tagen werden Hunderttausende Gläubige erwartet.\nPapst Leo XIV. in Frankreich: Treffen mit Macron in Paris - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjJ2WEtFaW96OWFwZVV6STZFdTU4UTdCRVA3UFgzc0NfYTFpSVgxOXRHMkgwcTVNTXFadFFCcjJPYW1SYTRIQXVpWWZsT3FYbzhaZDA4NV92eFoyaEVDaTVxbEtFOTg3ekxTTXRrMV9jY1d2QlMxSkdRaTZrSEg4MHlR?oc=5\" target=\"_blank\">Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzBGODBySTEyNVpXckNnRXZ6UkotdTZEd2UxdzVaT3hSVXlMcFZaV2JuWENTcmtxWS1yYXB5cHlqRm9tWlpCUldCR2llLVVsY1FYbW9RMmtvMElBZ1BkV0phbk9US3JfM3M2ZW4zbEhoNko2THNUaVlFREIyM2VSMVg2ajdyamphZGFQSHNHVGpjanQ1Q1Jla1lROFYzWE5MXzdGVG56YVlUVEx6MW9fM1dBa0k?oc=5\" target=\"_blank\">Pap"
   },
   {
-    "id": "story-328",
+    "id": "story-623",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-09-25T12:28:00.000Z",
+    "date": "2026-09-25T13:33:52.000Z",
     "sources": [
       {
-        "source": "Rheinische Post",
-        "url": "https://rp-online.de/leben/auto/vw-und-audi-rufen-knapp-eine-million-pkw-in-die-werkstaetten-das-ist-der-grund_aid-155421613",
-        "date": "2026-09-25T12:28:00.000Z",
-        "snippet": "Fast eine Million Fahrzeuge von VW und Audi werden zurückgerufen, das teilte das Kraftfahrt-Bundesamt mit. Es könnte zu großen Problemen mit der Lenkung kommen. Welche Modelle betroffen sind.",
-        "title": "Was man jetzt wissen muss: VW und Audi rufen knapp eine Million Pkw in die Werkstätten"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUMxQlNjeVdwbHN4LUswX0tXdDVoN1U2NmVtMFpObUZiTEhUanhlbUliRG5oQmhMTm5aR2lRXzNEYlRiZmRsNDFIeXhXRHprS2FNakMyV3NUNWJaMDVZZE1WUkdFSWowOTlqenlDU0MtNXBKazZlNGtVeko0MS0xNll0eUtLcnN0bEZ1eXlqaEpJSjF2T0dEQ2RnVndsbEJ5NUZ2SkxPRTE3N2tSTS1IWEF1R0hVN0MxUzdqUVN0TlRreUlsYmFWUGc0eHNzSExvZTFiNy1fWEs1MG44SnhJRXJIRG9yZw?oc=5",
+        "date": "2026-09-25T13:33:52.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUMxQlNjeVdwbHN4LUswX0tXdDVoN1U2NmVtMFpObUZiTEhUanhlbUliRG5oQmhMTm5aR2lRXzNEYlRiZmRsNDFIeXhXRHprS2FNakMyV3NUNWJaMDVZZE1WUkdFSWowOTlqenlDU0MtNXBKazZlNGtVeko0MS0xNll0eUtLcnN0bEZ1eXlqaEpJSjF2T0dEQ2RnVndsbEJ5NUZ2SkxPRTE3N2tSTS1IWEF1R0hVN0MxUzdqUVN0TlRreUlsYmFWUGc0eHNzSExvZTFiNy1fWEs1MG44SnhJRXJIRG9yZw?oc=5\" target=\"_blank\">Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">welt.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWFVxdFc2Tmd6ZzlyeGpoWUFGQTg5QUIxZE1hR3F0aG5nOTFLcUd6dDRickpDNHlNdzVhd3R3SjRPVmZ1djFnMkVSQzdvc2hWbU5WW",
+        "title": "Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark - welt.de"
       },
       {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-audi-rueckruf-auto-lenkung-kraftfahrt-bundesamt-100.html",
-        "date": "2026-09-25T09:32:21.000Z",
-        "snippet": "Bei fast einer Million Autos des VW-Konzerns muss wohl eine Schraube ersetzt werden. Andernfalls könnte es laut Kraftfahrt-Bundesamt zu einem Ausfall der Lenkung kommen.",
-        "title": "VW und Audi rufen fast eine Million Autos in die Werkstätten"
+        "source": "WELT",
+        "url": "https://www.welt.de/wirtschaft/article6ab66e75a8b3f6fdb1edb2f6/chemiebranche-basf-will-laut-berichten-evonik-uebernehmen-aktienkurse-steigen-stark.html",
+        "date": "2026-09-25T13:30:42.000Z",
+        "snippet": "BASF prüft laut Medienberichten die Übernahme von Evonik und setzt damit auf mehr Größe im Chemiegeschäft. Die Evonik-Aktie stieg zeitweise um elf Prozent.",
+        "title": "BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark"
       }
     ],
-    "title": "Was man jetzt wissen muss: VW und Audi rufen knapp eine Million Pkw in die Werkstätten",
-    "summary": "Was man jetzt wissen muss: VW und Audi rufen knapp eine Million Pkw in die Werkstätten Fast eine Million Fahrzeuge von VW und Audi werden zurückgerufen, das teilte das Kraftfahrt-Bundesamt mit. Es könnte zu großen Problemen mit der Lenkung kommen. Welche Modelle betroffen sind.\nVW und Audi rufen fast eine Million Autos in die Werkstätten Bei fast einer Million Autos des VW-Konzerns muss wohl eine Schraube ersetzt werden. Andernfalls könnte es laut Kraftfahrt-Bundesamt zu einem Ausfall der Lenkung kommen."
+    "title": "Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark - welt.de",
+    "summary": "Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark - welt.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUMxQlNjeVdwbHN4LUswX0tXdDVoN1U2NmVtMFpObUZiTEhUanhlbUliRG5oQmhMTm5aR2lRXzNEYlRiZmRsNDFIeXhXRHprS2FNakMyV3NUNWJaMDVZZE1WUkdFSWowOTlqenlDU0MtNXBKazZlNGtVeko0MS0xNll0eUtLcnN0bEZ1eXlqaEpJSjF2T0dEQ2RnVndsbEJ5NUZ2SkxPRTE3N2tSTS1IWEF1R0hVN0MxUzdqUVN0TlRreUlsYmFWUGc0eHNzSExvZTFiNy1fWEs1MG44SnhJRXJIRG9yZw?oc=5\" target=\"_blank\">Chemiebranche: BASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">welt.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWFVxdFc2Tmd6ZzlyeGpoWUFGQTg5QUIxZE1hR3F0aG5nOTFLcUd6dDRickpDNHlNdzVhd3R3SjRPVmZ1djFnMkVSQzdvc2hWbU5WW\nBASF will laut Berichten Evonik übernehmen – Aktienkurse steigen stark BASF prüft laut Medienberichten die Übernahme von Evonik und setzt damit auf mehr Größe im Chemiegeschäft. Die Evonik-Aktie stieg zeitweise um elf Prozent."
   },
   {
-    "id": "story-393",
+    "id": "story-781",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -275,7 +600,7 @@
     "summary": "VW, Audi und Seat müssen Autos zurückrufen Volkswagen, Audi und Seat müssen allein in Deutschland rund eine Million Autos in die Werkstätten zurückrufen. Grund dafür sind mögliche Probleme mit der Lenkung bei mehreren Mode…\nVW, Audi, Seat müssen mehr als eine Million Autos zurückrufen Volkswagen, Audi und Seat müssen allein in Deutschland rund eine Million Autos in die Werkstätten zurückrufen. Grund dafür sind mögliche Probleme mit der Lenkung bei mehreren Modellen."
   },
   {
-    "id": "story-424",
+    "id": "story-801",
     "topic": "panorama",
     "country": "INT",
     "stateHint": "",
@@ -300,32 +625,7 @@
     "summary": "Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high - The Guardian <a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON0MwRGdjN1NtYkFaMVhhdktMMEtrb0hMUHdmeU1QeTVqZGpqcHlZVkZiVTZ1Yk4xY0ZQMktfem5iTGpsY3FPS0hqZDNkbV9iMHNIVW1ZVk1yOWtiVEtWTkRreXRUTkRMYjE1NThLT0s1cTVIWUlJSGpUdWJpZE5EcEQ3SlJtcjdXV1ByNWFaMlJOeS0ydThQNWJFU1o5TTZIYk1tempn?oc=5\" target=\"_blank\">Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nSaudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high <p>The ⁠Saudi-led coalition in Yemen said the missiles were ⁠aimed at Taif and the Yanbu area on the Red Sea, the main alternative route for Saudi oil</p><p>Saudi Arabia says it intercepted six ballistic missiles fired by Yemen’s Iran-backed Houthis, with the latest attacks pushing oil prices ⁠to a one-week high over fears of spiralling supply disruptions.</p><p>The ⁠Saudi-led coalition in Yemen said the missiles were ⁠aimed at Taif in western Saudi ​Arabia and the Yanbu area on the Red Sea, with the Houthis claiming their attacks were aimed at “a sensitive target” in the capital Riyadh and on Saudi Aramco facilities in Yanbu.</p> <a href=\"https://www.theguardian.com/world/2026/sep/25/saudi-"
   },
   {
-    "id": "story-450",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-25T11:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
-        "date": "2026-09-25T11:30:02.000Z",
-        "snippet": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fo…",
-        "title": "Verbraucher halten ihr Geld zusammen"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
-        "date": "2026-09-25T11:11:04.000Z",
-        "snippet": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus.",
-        "title": "Marktbericht: Verbraucher halten ihr Geld zusammen"
-      }
-    ],
-    "title": "Verbraucher halten ihr Geld zusammen",
-    "summary": "Verbraucher halten ihr Geld zusammen Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fo…\nMarktbericht: Verbraucher halten ihr Geld zusammen Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus."
-  },
-  {
-    "id": "story-453",
+    "id": "story-822",
     "topic": "technik",
     "country": "DE",
     "stateHint": "BW",
@@ -350,32 +650,7 @@
     "summary": "Knapp 10.000 Rufnummern von Cyberkriminellen abgeschaltet Ermittler aus Baden-Württemberg und internationale Partner gehen gegen Cyber-Anlagebetrug vor. Tausende Rufnummern und illegale Domains wurden abgeschaltet.\nKnapp 10.000 Rufnummern von Cyberkriminellen abgeschaltet: Ermittler gehen gegen Cyber-Anlagebetrug vor Ermittler aus Baden-Württemberg und internationale Partner gehen gegen Cyber-Anlagebetrug vor. Tausende Rufnummern und illegale Domains wurden abgeschaltet."
   },
   {
-    "id": "story-480",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-09-25T11:15:06.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-antragsloses-kindergeld-100.html",
-        "date": "2026-09-25T11:15:06.000Z",
-        "snippet": "Weniger Papierkram nach der Geburt: Das Kindergeld soll von 2027 an in vielen Fällen automatisch auf dem Konto landen. Rund 300.000 Anträge pro Jahr könnten dadurch entfallen.",
-        "title": "Kindergeld soll künftig ohne Antrag ausgezahlt werden"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-antragsloses-kindergeld-100.html",
-        "date": "2026-09-25T10:55:27.000Z",
-        "snippet": "Weniger Papierkram nach der Geburt: Das Kindergeld soll von 2027 an in vielen Fällen automatisch auf dem Konto landen. Rund 300.000 Anträge pro Jahr könnten dadurch entfallen.",
-        "title": "Kindergeld soll von 2027 an ohne Antrag ausgezahlt werden"
-      }
-    ],
-    "title": "Kindergeld soll künftig ohne Antrag ausgezahlt werden",
-    "summary": "Kindergeld soll künftig ohne Antrag ausgezahlt werden Weniger Papierkram nach der Geburt: Das Kindergeld soll von 2027 an in vielen Fällen automatisch auf dem Konto landen. Rund 300.000 Anträge pro Jahr könnten dadurch entfallen.\nKindergeld soll von 2027 an ohne Antrag ausgezahlt werden Weniger Papierkram nach der Geburt: Das Kindergeld soll von 2027 an in vielen Fällen automatisch auf dem Konto landen. Rund 300.000 Anträge pro Jahr könnten dadurch entfallen."
-  },
-  {
-    "id": "story-481",
+    "id": "story-837",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -400,32 +675,7 @@
     "summary": "Der \"Tankrabatt\" ist richtig Mit dem \"Tankrabatt\" hat die Bundesregierung die richtige Maßnahme ergriffen, meint Benjamin Großkopff. Zwar mag es ökonomische Gründe geben, die dagegen sprechen, dennoch werden …\nKommentar: Der \"Tankrabatt\" ist politisch richtig Mit dem \"Tankrabatt\" hat die Bundesregierung zumindest politisch die richtige Maßnahme ergriffen, meint Benjamin Großkopff. Zwar mag es ökonomische Gründe geben, die dagegen sprechen, dennoch werden fast alle Bürger davon profitieren."
   },
   {
-    "id": "story-559",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-25T10:36:55.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-25T10:36:55.000Z",
-        "snippet": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
-        "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GenJfMFlDbGZJWE9QSzNfazdTNUlQcmc4SlY5YkIzMXowOXIxbU9STjVXaHktWHJhTXZMaEhxMWFkUFYzVUo3VTl5RjBDa1BTMGpKQm1HNUE4MmM?oc=5",
-        "date": "2026-09-25T10:36:55.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GenJfMFlDbGZJWE9QSzNfazdTNUlQcmc4SlY5YkIzMXowOXIxbU9STjVXaHktWHJhTXZMaEhxMWFkUFYzVUo3VTl5RjBDa1BTMGpKQm1HNUE4MmM?oc=5\" target=\"_blank\">Trump and Xi exchange warm words at state dinner but little progress on key issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues - BBC"
-      }
-    ],
-    "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-    "summary": "Trump and Xi exchange warm words at state dinner but little progress on key issues Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.\nTrump and Xi exchange warm words at state dinner but little progress on key issues - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GenJfMFlDbGZJWE9QSzNfazdTNUlQcmc4SlY5YkIzMXowOXIxbU9STjVXaHktWHJhTXZMaEhxMWFkUFYzVUo3VTl5RjBDa1BTMGpKQm1HNUE4MmM?oc=5\" target=\"_blank\">Trump and Xi exchange warm words at state dinner but little progress on key issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-696",
+    "id": "story-958",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -450,132 +700,32 @@
     "summary": "Die Waldrappe der Überlinger Kolonie haben die Alpen erfolgreich überquert Die Überlinger Waldrappe sind in Norditalien angekommen. Dass die Tiere erneut selbstständig losgeflogen sind, ist ein Erfolg. Auch die menschengeführte Migration steht kurz vor dem Ziel.\nÜberlinger Waldrappe haben die Alpen erfolgreich überquert Die Überlinger Waldrappe sind in Norditalien angekommen. Dass die Tiere erneut selbstständig losgeflogen sind, ist ein Erfolg. Auch die menschengeführte Migration steht kurz vor dem Ziel."
   },
   {
-    "id": "story-745",
+    "id": "story-988",
     "topic": "politik",
-    "country": "DE",
+    "country": "PT",
     "stateHint": "",
-    "date": "2026-09-25T08:44:11.000Z",
+    "date": "2026-09-25T08:41:03.000Z",
     "sources": [
       {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/umfrage-67-prozent-glauben-nicht-an-reformerfolg-von-kanzler-merz-Z24QZYL3BFDBPJFCY37WUSPSLE.html",
-        "date": "2026-09-25T08:44:11.000Z",
-        "snippet": "Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann.",
-        "title": "Umfrage: 67 Prozent glauben nicht an Reformerfolg von Kanzler Merz"
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQanNaTldfekFESDA1RFN1QkJxR3RKRGJLaVlKeTlRQWlLZk5NWE1la1V1S0VPRU1uS2RTYmJZck01eU1GQ3hwaDB3NnhkT2d1TzEzXzFMQjFLRml4eTFfUGE2dW5qQUpYclQ4ekI2RjJKbHJid1p1TnZWMnRxTWtZM3FFelRZNENrMXV4WTR2dUk0SHNLTHdBOEdmazVOYUtCa2NvTlRlUQ?oc=5",
+        "date": "2026-09-25T08:41:03.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQanNaTldfekFESDA1RFN1QkJxR3RKRGJLaVlKeTlRQWlLZk5NWE1la1V1S0VPRU1uS2RTYmJZck01eU1GQ3hwaDB3NnhkT2d1TzEzXzFMQjFLRml4eTFfUGE2dW5qQUpYclQ4ekI2RjJKbHJid1p1TnZWMnRxTWtZM3FFelRZNENrMXV4WTR2dUk0SHNLTHdBOEdmazVOYUtCa2NvTlRlUQ?oc=5\" target=\"_blank\">Xi avisa Trump para manter “postura correta contra independência de Taiwan\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diário de Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXVGczBQUE9jQlBBWF9wVWNwSHVQX0Vzb242RzhXeXpjbENhRExYdjJlLTlGVkhlZzROZFUxQTVnRDhBMlBCWVpNekM5TmpJOHhBTTdKS0ZxdkVoTXlqNEpTYVhBQmo2T3RfSGFWLVpRWm9nWVc3MTZyVzZEeUYxejNoTjQxV0RXdE5SNlBRblZh",
+        "title": "Xi avisa Trump para manter “postura correta contra independência de Taiwan\" - Diário de Notícias"
       },
       {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/umfragen/id_101452262/deutsche-glauben-nicht-an-merz-reformen-afd-baut-vorsprung-in-umfrage-aus.html",
-        "date": "2026-09-25T08:41:44.000Z",
-        "snippet": "Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann – selbst viele Unionsanhänger zweifeln.",
-        "title": "Deutsche glauben nicht an Merz-Reformen – AfD baut Vorsprung in Umfrage aus"
+        "source": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/xi-avisa-trump-para-manter-postura-correta-contra-independencia-de-taiwan_n1767586",
+        "date": "2026-09-25T01:07:59.000Z",
+        "snippet": "O Presidente da China, Xi Jinping, avisou esta noite na Casa Branca o homólogo norte-americano, Donald Trump, que espera que Washington \"mantenha a sua postura correta contra a `independência de Taiwan`\", segundo a imprensa oficial de Pequim.",
+        "title": "Xi avisa Trump para manter \"postura correta contra independência de Taiwan\""
       }
     ],
-    "title": "Umfrage: 67 Prozent glauben nicht an Reformerfolg von Kanzler Merz",
-    "summary": "Umfrage: 67 Prozent glauben nicht an Reformerfolg von Kanzler Merz Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann.\nDeutsche glauben nicht an Merz-Reformen – AfD baut Vorsprung in Umfrage aus Nach enttäuschenden Wahlen für die CDU steht der Kanzler unter Druck. Nur eine Minderheit glaubt einer Umfrage zufolge, dass er seine Reformen durchsetzen kann – selbst viele Unionsanhänger zweifeln."
+    "title": "Xi avisa Trump para manter “postura correta contra independência de Taiwan\" - Diário de Notícias",
+    "summary": "Xi avisa Trump para manter “postura correta contra independência de Taiwan\" - Diário de Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQanNaTldfekFESDA1RFN1QkJxR3RKRGJLaVlKeTlRQWlLZk5NWE1la1V1S0VPRU1uS2RTYmJZck01eU1GQ3hwaDB3NnhkT2d1TzEzXzFMQjFLRml4eTFfUGE2dW5qQUpYclQ4ekI2RjJKbHJid1p1TnZWMnRxTWtZM3FFelRZNENrMXV4WTR2dUk0SHNLTHdBOEdmazVOYUtCa2NvTlRlUQ?oc=5\" target=\"_blank\">Xi avisa Trump para manter “postura correta contra independência de Taiwan\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diário de Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXVGczBQUE9jQlBBWF9wVWNwSHVQX0Vzb242RzhXeXpjbENhRExYdjJlLTlGVkhlZzROZFUxQTVnRDhBMlBCWVpNekM5TmpJOHhBTTdKS0ZxdkVoTXlqNEpTYVhBQmo2T3RfSGFWLVpRWm9nWVc3MTZyVzZEeUYxejNoTjQxV0RXdE5SNlBRblZh\nXi avisa Trump para manter \"postura correta contra independência de Taiwan\" O Presidente da China, Xi Jinping, avisou esta noite na Casa Branca o homólogo norte-americano, Donald Trump, que espera que Washington \"mantenha a sua postura correta contra a `independência de Taiwan`\", segundo a imprensa oficial de Pequim."
   },
   {
-    "id": "story-839",
-    "topic": "politik",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-09-25T07:03:56.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5",
-        "date": "2026-09-25T07:03:56.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5\" target=\"_blank\">Nepal’s leader labels devastating flood a ‘warning to the world’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-        "title": "Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera"
-      },
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
-        "date": "2026-09-25T06:56:51.000Z",
-        "snippet": "Prime Minister Balendra Shah says world leaders must act on climate change.",
-        "title": "Nepal’s leader labels devastating flood a ‘warning to the world’"
-      }
-    ],
-    "title": "Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera",
-    "summary": "Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera <a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTVZUnExVHRHTTEzbUpBTXhlUWl3U1Z4RUN6RzBxeHg0VTczbzZOZmgtcF9IRkhQWGd4NUphWXRxRS1EV0RCS056bGtJTGIzWHRqOF8zUzFDcmRzREZhVkRwOFhldWczODNTSHZDVWhXT2d2WHR1VTJrZWZ1Z1NJQ0Y4MWNDRjZPenkwZmpLdWZ4N3RsaFZCMWsyMV96UWhBMnlNcdIBqgFBVV95cUxPSmFfaGZ2MldDdG5QeVo1Q1E3T094ME9ySGFYN0t4bUVud2FVb1JkTUNPOVZoTktuT21zc0lNY2g4a3FZWms4dk5nUjY5N3BrNk1qNFVJa2s4NE5jRWtOOUp5NFRHR2F5R2oxVTNVeHlDNV9nN0RqZUsyc2N3dkdCbzdPS25wS212ajl1RHNRYm9iN2xwTVkzeU9XUllHYWpDcVV6Qld3VllfZw?oc=5\" target=\"_blank\">Nepal’s leader labels devastating flood a ‘warning to the world’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>\nNepal’s leader labels devastating flood a ‘warning to the world’ Prime Minister Balendra Shah says world leaders must act on climate change."
-  },
-  {
-    "id": "story-924",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-25T04:50:46.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5",
-        "date": "2026-09-25T04:50:46.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5\" target=\"_blank\">Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3FrWmdPZTB4RTBocUFJQ3B6ZG54S2VmV2hKMy02TThJTnBNMV84em82WDVBMTlFeWdDQ0l5Sy0yM09iUE1ZWFc3QjVNX296N2tDTkh4V1A3YmlaNi1KcU1reUNkX2pSM1YwUUVoSTJkTU9mVnZoWnUtbjZTaE9mVE41NXFfT2hYZWNNcXRNdm5yYTVNMDBJMHdOVlVmNkZfQmV",
-        "title": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag - n-tv.de"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/politik/AfD-sorgt-fuer-ersten-Streit-im-Magdeburger-Landtag-id31346315.html",
-        "date": "2026-09-25T04:50:46.000Z",
-        "snippet": "Im Landesparlament von Sachsen-Anhalt kommt es nach dem AfD-Wahlsieg zu ersten Konflikten. Die Rechtsaußen-Partei setzt auf eine machtvolle Position in den Ausschüssen, um Sitzungen dominieren zu können. Die anderen Parteien wehren sich.",
-        "title": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag"
-      }
-    ],
-    "title": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag - n-tv.de",
-    "summary": "Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9qYkRQTVBRWm02RnozM1pfRURla2N6NXluRHRDcy1jU3NLUlQ1ZzBrVGdvbldsZWxBaFpRTkY3VlFKUE12eDB2SkJneVJ6U0VLSXd5cFRIQ01uN1U4TTBpRExPSHVaNTd1V1R5al80RXh5RkE2bzBKeUVmQ1o0NU5xVXlDR0RVc2E0UmpUNWN5cEJ2WVc1RHJzYw?oc=5\" target=\"_blank\">Partei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3FrWmdPZTB4RTBocUFJQ3B6ZG54S2VmV2hKMy02TThJTnBNMV84em82WDVBMTlFeWdDQ0l5Sy0yM09iUE1ZWFc3QjVNX296N2tDTkh4V1A3YmlaNi1KcU1reUNkX2pSM1YwUUVoSTJkTU9mVnZoWnUtbjZTaE9mVE41NXFfT2hYZWNNcXRNdm5yYTVNMDBJMHdOVlVmNkZfQmV\nPartei will Blockade-Option: AfD sorgt für ersten Streit im Magdeburger Landtag Im Landesparlament von Sachsen-Anhalt kommt es nach dem AfD-Wahlsieg zu ersten Konflikten. Die Rechtsaußen-Partei setzt auf eine machtvolle Position in den Ausschüssen, um Sitzungen dominieren zu können. Die anderen Parteien wehren sich."
-  },
-  {
-    "id": "story-940",
-    "topic": "umwelt",
-    "country": "DE",
-    "stateHint": "HH",
-    "date": "2026-09-25T04:06:00.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-militaerkolonne-faehrt-durch-hamburg,redstormcharlie-128.html",
-        "date": "2026-09-25T04:06:00.000Z",
-        "snippet": "Der erste Tag der zivil-militärischen Übung endete mit einem nächtlichen Konvoi durch die Stadt. Die Polizei verhinderte eine Blockade durch Aktivisten.",
-        "title": "\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnBhWm5tdEwzZHY1ZWVQVHZjVklrV1RKeHlOZU9hVHVzTGtwb0VJOFA5S2Nfa0hMSE5qVDNlV05qNUxFQ0dROUlIZ1BxUG4wbUdLNzBETlI4VElQb25OUGFyNHc5SFA4a1R5Y3RIUjNuR2Q1cm5kR3pWRzJING5aMzBfaXhvbG9BQzJIMjFlMTN3YjhkQ004M0tBMmxFT3c1OTJxcXItcHhvNGlyclFkWnJnUEo1eUpscWc?oc=5",
-        "date": "2026-09-25T04:06:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnBhWm5tdEwzZHY1ZWVQVHZjVklrV1RKeHlOZU9hVHVzTGtwb0VJOFA5S2Nfa0hMSE5qVDNlV05qNUxFQ0dROUlIZ1BxUG4wbUdLNzBETlI4VElQb25OUGFyNHc5SFA4a1R5Y3RIUjNuR2Q1cm5kR3pWRzJING5aMzBfaXhvbG9BQzJIMjFlMTN3YjhkQ004M0tBMmxFT3c1OTJxcXItcHhvNGlyclFkWnJnUEo1eUpscWc?oc=5\" target=\"_blank\">\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGk5bUMwLWhsWDFKRE9SdEVIb190aDJtbVB6ZHZic1YyaHRoSDU5ZmlwdHV5NFVfb3lZeUN2a1lDNzdnWk12SVNkLVh0SlprVWZ1VGhKM09SQjZEUDRsbjJLTWFsZ09neFhtRjhVS0RtUVhfeVBBLTY0WlZJRzVQMjNlRGxzVktXWi1XX3RkYjNWSjl1czc",
-        "title": "\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg - NDR.de"
-      }
-    ],
-    "title": "\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg",
-    "summary": "\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg Der erste Tag der zivil-militärischen Übung endete mit einem nächtlichen Konvoi durch die Stadt. Die Polizei verhinderte eine Blockade durch Aktivisten.\n\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg - NDR.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnBhWm5tdEwzZHY1ZWVQVHZjVklrV1RKeHlOZU9hVHVzTGtwb0VJOFA5S2Nfa0hMSE5qVDNlV05qNUxFQ0dROUlIZ1BxUG4wbUdLNzBETlI4VElQb25OUGFyNHc5SFA4a1R5Y3RIUjNuR2Q1cm5kR3pWRzJING5aMzBfaXhvbG9BQzJIMjFlMTN3YjhkQ004M0tBMmxFT3c1OTJxcXItcHhvNGlyclFkWnJnUEo1eUpscWc?oc=5\" target=\"_blank\">\"Red Storm Charlie\": Militärkolonne fährt durch Hamburg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGk5bUMwLWhsWDFKRE9SdEVIb190aDJtbVB6ZHZic1YyaHRoSDU5ZmlwdHV5NFVfb3lZeUN2a1lDNzdnWk12SVNkLVh0SlprVWZ1VGhKM09SQjZEUDRsbjJLTWFsZ09neFhtRjhVS0RtUVhfeVBBLTY0WlZJRzVQMjNlRGxzVktXWi1XX3RkYjNWSjl1czc"
-  },
-  {
-    "id": "story-976",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-25T01:27:10.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-25T01:27:10.000Z",
-        "snippet": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
-        "title": "The world’s two most powerful men just met. How did it go?"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdVpJb1pQZy1XdjF3RVdnV0dVenhGdzZZX0hmQlQ2MjVJS2I2QngzLWR2QU54OEZkejFkOHQtT1JXVUN0YVZha1NNRExiZUZDWDl0M2lmV1M?oc=5",
-        "date": "2026-09-25T01:27:10.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdVpJb1pQZy1XdjF3RVdnV0dVenhGdzZZX0hmQlQ2MjVJS2I2QngzLWR2QU54OEZkejFkOHQtT1JXVUN0YVZha1NNRExiZUZDWDl0M2lmV1M?oc=5\" target=\"_blank\">Watch: The world’s two most powerful men just met. How did it go?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Watch: The world’s two most powerful men just met. How did it go? - BBC"
-      }
-    ],
-    "title": "The world’s two most powerful men just met. How did it go?",
-    "summary": "The world’s two most powerful men just met. How did it go? The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.\nWatch: The world’s two most powerful men just met. How did it go? - BBC <a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdVpJb1pQZy1XdjF3RVdnV0dVenhGdzZZX0hmQlQ2MjVJS2I2QngzLWR2QU54OEZkejFkOHQtT1JXVUN0YVZha1NNRExiZUZDWDl0M2lmV1M?oc=5\" target=\"_blank\">Watch: The world’s two most powerful men just met. How did it go?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-987",
+    "id": "story-1139",
     "topic": "politik",
     "country": "INT",
     "stateHint": "",
@@ -600,7 +750,7 @@
     "summary": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5\" target=\"_blank\">At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nAt Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict <p>Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade</p><p>Xi Jinping has called for extensive cooperation with Washington to avoid the <a href=\"https://www.theguardian.com/us-news/2026/may/15/thucydides-trap-explained-xi-jinping-donald-trump-us-china-taiwan\">“Thucydides trap”</a> that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan.</p><p>At the start of his summit meeting with Donald Trump in the White House, the Chinese president laid out terms for a mutual understanding that he said could steer the two competing superpowers a"
   },
   {
-    "id": "story-990",
+    "id": "story-1142",
     "topic": "panorama",
     "country": "UK",
     "stateHint": "",
@@ -617,15 +767,15 @@
         "source": "Google News World",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5",
         "date": "2026-09-24T23:41:10.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5\" target=\"_blank\">Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - BBC"
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5\" target=\"_blank\">Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
+        "title": "Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - bbc.com"
       }
     ],
     "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-    "summary": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.\nAngh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5\" target=\"_blank\">Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+    "summary": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.\nAngh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - bbc.com <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5\" target=\"_blank\">Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>"
   },
   {
-    "id": "story-1010",
+    "id": "story-1160",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -650,14 +800,14 @@
     "summary": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days <p>Country says US must lift sanctions on its oil exports and end the war on all fronts, including in Lebanon</p><p>Iran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, and to start talks on its nuclear program the day after, so long as the US lifts sanctions on Iran’s oil exports in return, ends the war on all fronts – including in Lebanon – and releases some of Iran’s frozen assets.</p><p>The proposal is designed to accelerate the steps first laid down in the memorandum of understanding signed by the US and Iran in June, particularly by helping the talks on Iran’s nuclear program start much more quickly than previously agreed.</p> <a href=\"https://www.\nIran awaiting response from Trump on proposal to open strait of Hormuz in six days - The Guardian <a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmQ2NnEyNFBDamkyLW5SeG80NmkzZElsVzBDZXAxdmJQdlRkdVFIYnlEZ25QMnZHSHA4bEEtTWM5QTVKYzl5SnROc0tKbTRkdHpmaURjRGdmVFpFR3UzUTJWZHJMa1IwVkM4Q1FWaENiS1o5a2RaX0xBT0pJUHJsb2NySUdlUk8zNnA5ZmZoQzV3ZW1yQkppMDk0c2JKVVotWjhRSGZoZW9RRm1rb3Nla19n?oc=5\" target=\"_blank\">Iran awaiting response from Trump on proposal to open strait of Hormuz in six days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
   },
   {
-    "id": "story-1041",
+    "id": "story-1186",
     "topic": "politik",
     "country": "DE",
     "stateHint": "RP",
     "date": "2026-09-24T19:25:25.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
+        "source": "SWR Aktuell Rheinland-Pfalz",
         "url": "https://www.swr.de/swraktuell/rheinland-pfalz/rlp-abgeordneten-gesetz-vorbild-bundestag-kloeckner-100.html",
         "date": "2026-09-24T19:25:25.000Z",
         "snippet": "Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.",
@@ -673,80 +823,5 @@
     ],
     "title": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter",
     "summary": "Nach RLP auch im Bund? Kein Geld für extremistische Mitarbeiter Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben.\nNach RLP auch bald im Bund? Kein Geld für extremistische Parlaments-Mitarbeiter Kein öffentliches Geld für extremistische Mitarbeiter von Abgeordneten - diese Regelung aus RLP könnte aus Sicht von Bundestagspräsidentin Klöckner Modellcharakter haben."
-  },
-  {
-    "id": "story-1082",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-24T18:30:54.000Z",
-    "sources": [
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
-        "date": "2026-09-24T18:30:54.000Z",
-        "snippet": "<p>Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips</p><p>One is an authoritarian who represses the media and has a strong allergy to democratic elections. The other is head of the Chinese Communist party.</p><p>Donald Trump welcomed the Chinese president, Xi Jinping, to the White House on Thursday, setting the stage for a scene quite unlike anything the august old building has seen over more than two centuries.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house\">Continue reading...</a>",
-        "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEU4cmF5RWN2OE9MMm1jM0IweUZCcTBIM00xQk5BZVpOZEh5UjdCaXRCVWEyYlZWZ1d1QzFnNVlTVkRyMXVHaWFkcjFhankxZ3Y0dzcteUJFTk8wakk0dnp6ZGs4NUcxOGxVaUdOQ0hqSUdGRWFlX1hRVVZ2M2MxRUw2VEZ1aEVqLWtycA?oc=5",
-        "date": "2026-09-24T18:30:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEU4cmF5RWN2OE9MMm1jM0IweUZCcTBIM00xQk5BZVpOZEh5UjdCaXRCVWEyYlZWZ1d1QzFnNVlTVkRyMXVHaWFkcjFhankxZ3Y0dzcteUJFTk8wakk0dnp6ZGs4NUcxOGxVaUdOQ0hqSUdGRWFlX1hRVVZ2M2MxRUw2VEZ1aEVqLWtycA?oc=5\" target=\"_blank\">Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir? - The Guardian"
-      }
-    ],
-    "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
-    "summary": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir? <p>Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips</p><p>One is an authoritarian who represses the media and has a strong allergy to democratic elections. The other is head of the Chinese Communist party.</p><p>Donald Trump welcomed the Chinese president, Xi Jinping, to the White House on Thursday, setting the stage for a scene quite unlike anything the august old building has seen over more than two centuries.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house\">Continue reading...</a>\nTrump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir? - The Guardian <a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEU4cmF5RWN2OE9MMm1jM0IweUZCcTBIM00xQk5BZVpOZEh5UjdCaXRCVWEyYlZWZ1d1QzFnNVlTVkRyMXVHaWFkcjFhankxZ3Y0dzcteUJFTk8wakk0dnp6ZGs4NUcxOGxVaUdOQ0hqSUdGRWFlX1hRVVZ2M2MxRUw2VEZ1aEVqLWtycA?oc=5\" target=\"_blank\">Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
-  },
-  {
-    "id": "story-1099",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-24T18:06:40.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-24T18:06:40.000Z",
-        "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5",
-        "date": "2026-09-24T18:06:40.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5\" target=\"_blank\">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack - BBC"
-      }
-    ],
-    "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-    "summary": "Why Australia chose the world's biggest political stage to reveal OpenAI hack Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.\nWhy Australia chose the world's biggest political stage to reveal OpenAI hack - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcDV3bWhqbTRuNjNnUjJpQnI2bF9XTFY4dEVtZUdHNEJvakxrQ1lrVk1OUzNWR2NCNkZsUWRIalZUdU1DVkZjNEFmZHRSX3h5RmZ1eGVZVVFiU1k?oc=5\" target=\"_blank\">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-1187",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-09-24T15:53:13.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mercedes-will-arbeitskosten-um-800-millionen-euro-senken-medienbericht-100.html",
-        "date": "2026-09-24T15:53:13.000Z",
-        "snippet": "Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche.",
-        "title": "Medienbericht: Mercedes will Arbeitskosten um 800 Millionen Euro senken"
-      },
-      {
-        "source": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-mercedes-will-arbeitskosten-laut-medienbericht-um-800-millionen-euro-senken-100.html",
-        "date": "2026-09-24T15:37:46.000Z",
-        "snippet": "Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche.",
-        "title": "Mercedes will Arbeitskosten laut Medienbericht um 800 Millionen Euro senken"
-      }
-    ],
-    "title": "Medienbericht: Mercedes will Arbeitskosten um 800 Millionen Euro senken",
-    "summary": "Medienbericht: Mercedes will Arbeitskosten um 800 Millionen Euro senken Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche.\nMercedes will Arbeitskosten laut Medienbericht um 800 Millionen Euro senken Mercedes-Benz will laut \"WirtschaftsWoche\" 800 Millionen Euro bei Arbeitskosten sparen. Der Konzern verweist auf laufende Gespräche."
   }
 ]
