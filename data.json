@@ -1,36 +1,118 @@
 [
   {
-    "id": "story-59938ddbc7a4f462",
-    "c": "DE",
-    "o": "DE",
+    "id": "story-cf250155511278ec",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T23:38:48.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Iran bietet Deal zur Wiederöffnung der Straße von Hormus an",
+    "s": "Iran hat den USA angeblich einen Deal zur Wiederöffnung der Straße von Hormus innerhalb von sieben Tagen angeboten. Über das Angebot finden laut einem US-Offiziellen konstruktive Gespräche durch Vermittler statt. Die Berichterstattung basiert auf Medienberichten der BBC und Google News World. Weitere offizielle Details wurden zunächst nicht genannt.",
+    "m": "Der Iran hat den Vereinigten Staaten einen Vorschlag unterbreitet, der eine Wiederöffnung der strategisch wichtigen Straße von Hormus innerhalb einer Frist von sieben Tagen vorsieht. Ein US-amerikanischer Regierungsvertreter bestätigte gegenüber der BBC, dass zu diesem Angebot konstruktive Gespräche über Vermittler geführt werden. Die Straße von Hormus ist eine der weltweit wichtigsten Routen für den Ölexport, weshalb jede Blockade oder Verhandlung in diesem Gebiet globale wirtschaftliche und sicherheitspolitische Relevanz besitzt. Bislang gibt es jedoch nur spärliche Informationen zu den genauen Bedingungen des iranischen Angebots oder dazu, welche konkreten Vermittler an den Gesprächen beteiligt sind. Auch über die Reaktionen anderer internationaler Akteure auf diesen Vorstoß ist noch nichts bekannt. Die Situation bleibt daher vorerst dynamisch und erfordert weitere offizielle Bestätigungen, um die Ernsthaftigkeit und die Erfolgsaussichten des Deals einzuschätzen.",
+    "r": "Die Straße von Hormus ist ein zentraler Nadelöhr für den globalen Handel und die Energieversorgung, weshalb Verhandlungen über deren Öffnung internationale Aufmerksamkeit erfordern. Das berichtete Gespräch zwischen den USA und dem Iran über Vermittler könnte direkte Auswirkungen auf die globale Sicherheit und den Ölmarkt haben.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T23:38:48.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5",
+        "date": "2026-09-25T21:57:23.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen berichten übereinstimmend, dass der Iran den USA einen Deal zur Wiederöffnung der Straße von Hormus innerhalb von sieben Tagen angeboten hat und ein US-Offizieller konstruktive Gespräche über Vermittler bestätigt.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Bericht der BBC, ohne eigenständige neue Informationen hinzuzufügen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6b502abaf5675303",
+    "c": "INT",
+    "o": "INT",
     "k": "panorama",
     "lang": "de",
-    "d": "2026-09-25T21:30:07.000Z",
+    "d": "2026-09-25T23:21:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. warnt in Frankreich vor Gefahren durch Künstliche Intelligenz",
+    "s": "Bei seinem ersten Papstbesuch in Frankreich hat Papst Leo XIV. vor den Risiken des technologischen Fortschritts gewarnt. Tausende Gläubige versammelten sich in Paris. Im Elysée-Palast äußerte das Kirchenoberhaupt existenzielle Bedenken.",
+    "m": "Der Papst warnte während seines Besuchs im Elysée-Palast vor einer technisierten Zukunft, die er als 'Paradies der Maschinen' bezeichnete. Er betonte, dass solche Entwicklungen die Menschheit untergraben könnten. Die Rede umfasste grundlegende existenzielle Fragen zum wissenschaftlichen Fortschritt, zum menschlichen Leben und zu den Menschenrechten. Zu dem Ereignis versammelten sich tausende Menschen in Paris, um das Kirchenoberhaupt zu empfangen. Es handelt sich um die erste apostolische Reise des Papstes nach Frankreich, bei der gesellschaftspolitische und technologische Themen im Mittelpunkt stehen.",
+    "r": "Die Äußerungen des Papstes zu technologischem Fortschritt und Künstlicher Intelligenz berühren fundamentale gesellschaftliche Fragen. Das Event verdeutlicht den Dialog zwischen Kirche und moderner Wissenschaft.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+        "date": "2026-09-25T23:21:52.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+        "date": "2026-09-25T14:55:12.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass Papst Leo XIV. bei seinem Besuch in Frankreich vor den Gefahren von Maschinen und wissenschaftlichem Fortschritt für die Menschheit gewarnt hat.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet spezifisch über die Warnung vor Künstlicher Intelligenz und erwähnt die versammelten Menschenmassen am Elysée-Palast in Paris."
+      },
+      {
+        "name": "NPR World",
+        "note": "Erwähnt allgemein existenzielle Bedenken zum wissenschaftlichen Fortschritt, zu Leben und Menschenrechten während seines ersten Papstbesuchs in Frankreich."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-410b1e0bdf3c67b2",
+    "c": "INT",
+    "o": "INT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-25T22:22:00.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Paula Löber aus Sachsen-Anhalt ist die 78. Deutsche Weinkönigin",
-    "s": "Paula Löber hat sich im Finale gegen vier Mitbewerberinnen durchgesetzt und ist zur 78. Deutschen Weinkönigin gewählt worden. Die Krone wurde ihr von ihrer Vorgängerin Anna Zenz überreicht. Sie kommt aus dem Bundesland Sachsen-Anhalt.",
-    "m": "Die Wahl zur 78. Deutschen Weinkönigin fand im Finale statt, in dem Paula Löber gegen vier Mitbewerberinnen antrat und den Sieg davontrug. Nach ihrem Erfolg wurde ihr die Krone feierlich von ihrer Vorgängerin Anna Zenz verliehen. Die neue Weinkönigin stammt aus Sachsen-Anhalt. Die Berichterstattung beschränkt sich im Wesentlichen auf die Bekanntgabe des Wahlergebnisses, der Herkunft der Siegerin und die Amtsübergabe. Weitere Details zum Ablauf des Wettbewerbs, zur Dauer der Amtszeit oder zu den weiteren Platzierten wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Wahl der Deutschen Weinkönigin ist ein traditionsreiches Ereignis im Bereich des deutschen Weinbaus und der Kultur. Die Bekanntgabe der neuen Amtsträgerin zeigt, wer die Interessen der Weinregionen im kommenden Jahr vertreten wird.",
+    "t": "Michigan-CEO verliert Job wegen KI-Bild mit umstrittenem See-Namen",
+    "s": "Eine CEO einer Credit Union in Michigan hat ihren Arbeitsplatz verloren, nachdem sie ein KI-generiertes Bild auf Social Media geteilt hatte. Die Aufnahme zeigte sie und ihre Familie in Pullovern mit der Aufschrift Lake America. Der Begriff bezieht sich auf eine von Donald Trump angeordnete Bezeichnung für den Ontariosee inmitten eines Handelskonflikts mit Kanada.",
+    "m": "Die CEO Jane Smith verwendete laut Berichten ChatGPT, um ein Foto entsprechend zu bearbeiten. Das so erstellte Bild zeigt ihre Familie in Pullovern, die mit dem Donald Trump assoziierten Begriff Lake America versehen sind. Die Family First Credit Union gab daraufhin in einer Erklärung bekannt, dass Jane Smith nicht mehr als CEO für die Organisation tätig ist. Der Vorfall ereignete sich vor dem Hintergrund politischer Spannungen und eines Handelskonflikts zwischen den USA und Kanada. Ob weitere arbeitsrechtliche oder gesellschaftliche Konsequenzen folgen, ist derzeit noch offen. Die genauen Umstände des Entstehungsprozesses des Postings werden in den Berichten beleuchtet.",
+    "r": "Der Fall verdeutlicht die beruflichen Konsequenzen für Führungskräfte bei der Verbreitung politisch aufgeladener oder künstlich erzeugter Inhalte im Netz. Zudem zeigt er die Sensibilität von Unternehmen in Bezug auf politische Äußerungen ihrer Leitungsebene.",
     "srcs": [
       {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/rhein-main/paula-loeber-die-neue-deutsche-weinkoenigin-kommt-aus-sachsen-anhalt-201264383.html",
-        "date": "2026-09-25T21:30:07.000Z"
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlBX3B2bGdGZ2g5czNEemhjM1RfdDVUUEJkWEFwR1BzbEhhdVdQUHlhVnZya2JfZ3J5d3I5cjk2ZTdKRG14UXZBX05TYXdVYkFyQXpKN0ZBTlpaVkU4Z0t4UGFyUzM1dlpmRXJ0NHhpcDhGVWFaWlFrdzZWT09wMDhFZWpENWs2czVidmMzYnozeXM?oc=5",
+        "date": "2026-09-25T22:22:00.000Z"
       },
       {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-09/25/paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin",
-        "date": "2026-09-25T21:05:55.000Z"
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+        "date": "2026-09-25T22:21:15.000Z"
       }
     ],
-    "url": "https://www.faz.net/aktuell/rhein-main/paula-loeber-die-neue-deutsche-weinkoenigin-kommt-aus-sachsen-anhalt-201264383.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Paula Löber aus Sachsen-Anhalt zur neuen Deutschen Weinkönigin gewählt wurde.",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlBX3B2bGdGZ2g5czNEemhjM1RfdDVUUEJkWEFwR1BzbEhhdVdQUHlhVnZya2JfZ3J5d3I5cjk2ZTdKRG14UXZBX05TYXdVYkFyQXpKN0ZBTlpaVkU4Z0t4UGFyUzM1dlpmRXJ0NHhpcDhGVWFaWlFrdzZWT09wMDhFZWpENWs2czVidmMzYnozeXM?oc=5",
+    "agree": "Die Quellen stimmen überein, dass eine CEO aus Michigan ihren Posten verloren hat, nachdem sie ein KI-generiertes Bild mit dem Text Lake America auf Social Media gepostet hatte.",
     "diff": [
       {
-        "name": "Frankfurter Allgemeine",
-        "note": "Berichtet zusätzlich, dass sie sich gegen vier Mitbewerberinnen im Finale durchgesetzt hat und die Krone von ihrer Vorgängerin Anna Zenz verliehen bekam."
+        "name": "Guardian World",
+        "note": "nennt Jane Smith als CEO, die Verwendung von ChatGPT für das Foto und die Family First Credit Union als Organisation."
+      },
+      {
+        "name": "Google News World",
+        "note": "bietet lediglich die Schlagzeile zu dem Vorfall."
       }
     ],
     "chg": "",
@@ -42,24 +124,19 @@
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-09-25T21:25:41.000Z",
+    "d": "2026-09-25T21:39:26.000Z",
     "p": 3,
     "st": "",
     "city": "",
     "t": "Zehntausende Schüler demonstrieren bundesweit gegen mögliche Wehrpflicht",
-    "s": "Bundesweit haben zehntausende Schülerinnen und Schüler gegen eine mögliche Wiedereinführung der Wehrpflicht demonstriert. Zu den Protesten hatte die Initiative Schulstreik gegen Wehrpflicht aufgerufen. Es fanden zahlreiche Kundgebungen im gesamten Bundesgebiet statt.",
-    "m": "Die Initiative Schulstreik gegen Wehrpflicht sprach nach den Demonstrationen von rund 100 Kundgebungen im ganzen Land. Insgesamt beteiligten sich mehr als 45.000 Menschen an den Protesten der Schülerinnen und Schüler. Die Demonstrationen richteten sich explizit gegen die politische Debatte um eine mögliche Wiederbelebung der Wehrpflicht. Nähere Angaben zu konkreten Städten oder polizeilichen Schätzungen wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die bundesweiten Schülerproteste verdeutlichen die große Sorge und Mobilisierungsfähigkeit junger Menschen angesichts aktueller sicherheitspolitischer Debatten und möglicher neuer Pflichten für den Staatsdienst.",
+    "s": "Bundesweit haben zehntausende Schülerinnen und Schüler gegen eine mögliche Wiedereinführung der Wehrpflicht demonstriert. Zu den Protesten hatte die Initiative \"Schulstreik gegen Wehrpflicht\" aufgerufen. Laut Angaben der Veranstalter gab es zahlreiche Kundgebungen im ganzen Land. Die Demonstranten fordern ein Ende der Debatte um eine allgemeine Dienstpflicht.",
+    "m": "Die Initiative \"Schulstreik gegen Wehrpflicht\" organisierte bundesweit rund 100 Demonstrationen, an denen sich nach eigenen Angaben mehr als 45.000 Menschen beteiligten. Der Protest richtet sich gegen aktuelle politische Überlegungen und Debatten zur Reaktivierung oder Neugestaltung einer Wehrpflicht. Schülerinnen und Schüler verließen im Rahmen der Aktionen während der Unterrichtszeit die Schulen, um ihrem Unmut öffentlich Ausdruck zu verleihen. Die Organisatoren kritisierten, dass junge Menschen durch eine solche Maßnahme in ihrer Lebensplanung eingeschränkt würden. Bislang gibt es seitens der Bundesregierung keine offiziellen Beschlüsse zur Umsetzung der diskutierten Wehrpflichtmodelle. Die Demonstrationen verliefen in vielen Städten friedlich, während die politische Diskussion über die Sicherheitslage und die Zukunft der Bundeswehr weiter anhält.",
+    "r": "Die Proteste zeigen den massiven Widerstand junger Menschen gegen eine mögliche Wehrpflicht und begleiten eine aktuelle sicherheitspolitische Debatte in Deutschland. Die hohe Teilnehmerzahl verdeutlicht die Mobilisierungskraft des Themas an Schulen.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
-        "date": "2026-09-25T21:25:41.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGRzWHF0ZVUyM19CcThvX2dvMkI2aTZEY3hZU3dkOHhBVERLUkhHb3hfNmxMdHM1TjFhOEV0OVJsd2JyNDRjTHlpOG1jSnNxeUtxYlM5YzZSR29jSmpOWVVkellYb1FyUGhLYVJReFB3WnZmckx1LUxEV2swT1NfSThLa1RRTWk0djN6TTFqRDNnMnFqWko0RWE4andERnRNbVRoV3kyOF94cC1kaERNUGNOWjBxcWd2enBBSg?oc=5",
-        "date": "2026-09-25T13:14:10.000Z"
+        "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-104.html",
+        "date": "2026-09-25T21:39:26.000Z"
       },
       {
         "name": "ZDF heute",
@@ -67,20 +144,61 @@
         "date": "2026-09-25T12:56:00.000Z"
       }
     ],
-    "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass zehntausende Schüler bundesweit gegen eine mögliche Wehrpflicht demonstriert haben und die Initiative Schulstreik gegen Wehrpflicht von über 45.000 Teilnehmern spricht.",
+    "url": "https://www.deutschlandfunk.de/zehntausende-schueler-demonstrieren-gegen-moegliche-wehrpflicht-104.html",
+    "agree": "Die Quellen sind sich einig, dass zehntausende Schüler bundesweit gegen eine mögliche Wehrpflicht demonstriert haben und die Initiative \"Schulstreik gegen Wehrpflicht\" von mehr als 45.000 Teilnehmern ausgeht.",
     "diff": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt konkret, dass es rund 100 Demonstrationen gab."
+        "note": "Erwähnt zusätzlich, dass es rund 100 Demonstrationen bundesweit gab."
       },
       {
-        "name": "Google News DE",
-        "note": "Verweist auf DIE ZEIT als ursprüngliche Publikation."
+        "name": "ZDF heute",
+        "note": "Berichtet ebenfalls von bundesweiten Demonstrationen und der Teilnehmerzahl, nennt jedoch keine genaue Anzahl der Kundgebungsorte."
       }
     ],
     "chg": "",
-    "independent": 3
+    "independent": 2
+  },
+  {
+    "id": "story-59938ddbc7a4f462",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T21:30:07.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Paula Löber aus Sachsen-Anhalt ist neue Deutsche Weinkönigin",
+    "s": "Paula Löber aus Sachsen-Anhalt wurde zur 78. Deutschen Weinkönigin gekürt. Sie setzte sich im Finale gegen vier Mitbewerberinnen durch und übernahm die Krone von ihrer Vorgängerin Anna Zenz. Damit stellt das Anbaugebiet Saale-Unstrut erstmals seit 1993 wieder die Bundes-Weinkönigin.",
+    "m": "Paula Löber aus Sachsen-Anhalt hat sich im Finale gegen vier Mitbewerberinnen durchgesetzt und ist zur 78. Deutschen Weinkönigin ernannt worden. Die feierliche Übergabe der Krone erfolgte durch ihre Vorgängerin Anna Zenz im Beisein jubelnder Fans. Die Weinkönigin fungiert als wichtigste Botschafterin der Branche. Eine historische Besonderheit dieses Erfolgs ist, dass das Anbaugebiet Saale-Unstrut erstmals seit dem Jahr 1993 wieder die Bundes-Weinkönigin stellt.",
+    "r": "Die Wahl der Deutschen Weinkönigin ist ein wichtiges Ereignis für die heimische Weinwirtschaft und das repräsentierte Anbaugebiet. Der Erfolg von Paula Löber bringt nach mehr als drei Jahrzehnten wieder den Titel in das Anbaugebiet Saale-Unstrut.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/rhein-main/paula-loeber-die-neue-deutsche-weinkoenigin-kommt-aus-sachsen-anhalt-201264383.html",
+        "date": "2026-09-25T21:30:07.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/monarchin-auf-zeit--paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin-38310892.html",
+        "date": "2026-09-25T21:05:55.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/rhein-main/paula-loeber-die-neue-deutsche-weinkoenigin-kommt-aus-sachsen-anhalt-201264383.html",
+    "agree": "Die Quellen sind sich einig, dass Paula Löber aus Sachsen-Anhalt zur neuen Deutschen Weinkönigin gewählt wurde und die Krone von ihrer Vorgängerin erhalten hat.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt, dass Paula Löber sich gegen vier Mitbewerberinnen im Finale durchsetzte und nennt die Vorgängerin Anna Zenz namentlich."
+      },
+      {
+        "name": "stern",
+        "note": "Hebt hervor, dass das Anbaugebiet Saale-Unstrut erstmals seit 1993 wieder die Bundes-Weinkönigin stellt und beschreibt den Empfang im Jubel der Fans als wichtigste Botschafterin der Branche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-77fa88d2e9cdf16b",
@@ -174,6 +292,47 @@
     "independent": 3
   },
   {
+    "id": "story-436499f9dd53e040",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T21:10:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Backstreet Boys geben zehn Konzerte in Düsseldorf",
+    "s": "Die US-amerikanische Boyband Backstreet Boys absolviert eine Konzertserie mit zehn Abenden in Düsseldorf. Zu den Auftritten in der nordrhein-westfälischen Stadt reisen Fans aus aller Welt an. Das Ereignis wirft die Frage auf, warum vermehrt Künstler auf solche zeitlich länger andauernde Aufenthalte setzen.",
+    "m": "Die Backstreet Boys haben in Düsseldorf eine Konzertreihe mit insgesamt zehn Terminen begonnen. Der Auftakt der Auftritte wurde von Fans emotional begleitet, die für die Shows teilweise aus verschiedenen Ländern angereist sind. Solche als Residencies bezeichneten Auftrittsserien gewinnen in der Musikbranche an Bedeutung. Es stellt sich dabei die Frage, welche konkreten Auswirkungen diese Form von Konzertreihen für die auftretenden Künstler, die besuchten Städte sowie die gesamte Konzertbranche hat.",
+    "r": "Die Konzertreihe einer international bekannten Band in einer deutschen Großstadt verdeutlicht aktuelle Trends in der Veranstaltungsbranche, wie den Trend zu festen Konzertserien. Solche Events haben wirtschaftliche und touristische Effekte für die beteiligte Stadt Düsseldorf und ziehen internationales Publikum an.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRnJHd2oxY0RiVURIY2VZMjZFWE0yNnZ3VnlzNk4wQ19VUTljNzM1MmtVN2QwM0RRcmdiTTF6X09EdDZzaDNXN2txdXlqMVBQOVFKWHBKNEdNbmtrNWJFWlVGckZUSkc0OXBZU0xFQ1dJU0pLeXZnR0tQOTF0YkU?oc=5",
+        "date": "2026-09-25T21:10:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/kultur/backstreet-boys-residenzkonzerte-100.html",
+        "date": "2026-09-25T13:01:38.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRnJHd2oxY0RiVURIY2VZMjZFWE0yNnZ3VnlzNk4wQ19VUTljNzM1MmtVN2QwM0RRcmdiTTF6X09EdDZzaDNXN2txdXlqMVBQOVFKWHBKNEdNbmtrNWJFWlVGckZUSkc0OXBZU0xFQ1dJU0pLeXZnR0tQOTF0YkU?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass die Backstreet Boys zehn Konzertabende in Düsseldorf spielen.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich den emotionalen Start der Konzerte in Düsseldorf."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet ausführlich darüber, dass Fans aus aller Welt anreisen und thematisiert den Trend von Residencies für Fans, Städte und die Konzertbranche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-8660236b18575ad2",
     "c": "INT",
     "o": "INT",
@@ -183,10 +342,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Trump-Xi-Gipfel in den USA ohne substanzielle Ergebnisse",
-    "s": "Die Präsidenten der USA und Chinas, Donald Trump und Xi Jinping, trafen sich zu einem weiteren Gipfeltreffen in den USA. Während die US-Seite das Treffen als groß lobte, wurden kaum substanzielle Fortschritte bei der Lösung schwieriger Themen erzielt. Es handelt sich um die zweite Gesprächsrunde der beiden Staatschefs nach einem früheren Treffen im Mai in Peking. Das Gipfeltreffen war laut Berichten eher von Pomp als von echten Fortschritten geprägt.",
-    "m": "Das zweite Gipfeltreffen zwischen US-Präsident Donald Trump und dem chinesischen Staatschef Xi Jinping fand diese Woche in den USA statt. Im Vorfeld galt das Treffen in Peking im Mai noch als Pattsituation-Gipfel, doch die aktuelle Runde schien gänzlich auf Durchbrüche zu verzichten. Beobachter und Medien bewerteten die Inszenierung vor allem als symbolischen Gewinn für China. Der US-Präsident bezeichnete den Besuch zwar als groß, jedoch blieb die Einigung bei zentralen Konfliktpunkten aus. Konkrete Details zu den verhandelten Themenfeldern und Hintergründen wurden in den vorliegenden Berichten nicht weiter ausgeführt. Offen bleibt, wie die bilateralen Beziehungen nach diesem symbollastigen Austausch langfristig fortgeführt werden.",
-    "r": "Das Treffen zwischen den Staatsführern der USA und Chinas ist für die globale Politik und die internationalen Wirtschaftsbeziehungen von hoher Bedeutung. Mangels konkreter Ergebnisse bleibt jedoch unklar, wie künftige Handels- und Sicherheitskonflikte gelöst werden sollen.",
+    "t": "Gipfeltreffen zwischen Trump und Xi Jinping bringt kaum inhaltliche Ergebnisse",
+    "s": "US-Präsident Donald Trump und der chinesische Staatschef Xi Jinping sind zu einem weiteren Gipfeltreffen in den USA zusammengekommen. Während Trump den Besuch als großartig lobte, wurde in der Sache kaum etwas zur Lösung schwieriger Fragen erreicht. Das Treffen folgte auf eine frühere Begegnung in Peking im Mai, die als Stillstand-Gipfel bezeichnet worden war.",
+    "m": "Das zweite Treffen zwischen den Präsidenten der USA und Chinas in dieser Woche schien gänzlich auf die Idee von Durchbrüchen verzichtet zu haben, stattdessen stand die Inszenierung im Vordergrund. Beobachter werten diesen Umstand als diplomatischen Erfolg für China, da der Pomp über den tatsächlichen Fortschritten stand. Im Mai hatte bereits ein Treffen in Peking stattgefunden, das damals als Stillstand-Gipfel galt. Die aktuellen Gespräche in den USA zeigten erneut, dass kaum Fortschritte bei der Lösung der zentralen Streitpunkte erzielt wurden. Trump lobte den Besuch dennoch als großartig. Weitere Details zum genauen Ablauf und den beteiligten Akteuren nennen die vorliegenden Ausschnitte nicht.",
+    "r": "Das Treffen zwischen den Spitzenpolitikern zweier globaler Supermächte ist für die internationale Diplomatie und die bilateralen Beziehungen von großer Bedeutung. Das Ausbleiben substanzieller Ergebnisse bei gleichzeitiger inszenatorischer Betonung verdeutlicht die aktuellen Hürden in den Beziehungen.",
     "srcs": [
       {
         "name": "Google News World",
@@ -200,15 +359,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhQUmlKRzBRSVdZLWl6NGh2ZDZfbEZmbGNmRnFyVFFnWlU2bmluRFItTS1NZzFQclZCVFQxdVZCY1BIdzZ5azdmRWFsX1NEbEpYQ0ZuZ0E3WjF5aUNGM1MxX1lKOGNZNHZBc0lEY3E2Y3l1Z1BHcXQ0MExKWnFwdVo3eDJtV3lPbEJaX0FROXM2Sjc2ZUlwdWVta3J3bTRsbXZDbzFmbDNBcG5XXzNkekp6dl9BMEhT?oc=5",
-    "agree": "Die Quellen stimmen überein, dass beim Gipfeltreffen zwischen US-Präsident Trump und Chinas Staatschef Xi Jinping in den USA kaum substanzielle Ergebnisse erzielt wurden und der Fokus eher auf Pomp lag.",
+    "agree": "Die Quellen stimmen überein, dass beim Gipfeltreffen zwischen Donald Trump und Xi Jinping in den USA kaum substanzielle Ergebnisse erzielt wurden und stattdessen der Pomp im Vordergrund stand.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist auf einen Artikel der britischen Zeitung The Guardian mit der Überschrift, dass der Pomp über den Fortschritt beim US-Gipfel von Xi mit Trump ein Sieg für China sei."
+        "note": "Die Quelle verweist lediglich auf einen Artikel des Guardian mit dem Titel über Chinas Gewinn durch Pomp über Fortschritt beim US-Gipfel."
       },
       {
         "name": "Guardian World",
-        "note": "Führt aus, dass fast nichts Substanzielles zur Lösung schwieriger Fragen erreicht wurde und das Treffen im Vergleich zum Mai-Gipfel in Peking jegliche Idee von Durchbrüchen aufgab."
+        "note": "Die Quelle liefert den vollständigen Kontext und die Einordnung, dass kaum etwas von Substanz erreicht wurde und vergleicht das Treffen mit dem Stillstand-Gipfel im Mai in Peking."
       }
     ],
     "chg": "",
@@ -224,10 +383,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Vier italienische Nato-Soldaten bei Übung in Lettland verletzt",
-    "s": "Bei einer Nato-Übung in Lettland ist es zu einem schweren Zwischenfall gekommen, bei dem vier italienische Soldaten verletzt wurden. Das italienische Militär hat Ermittlungen zu den Vorfällen aufgenommen. Die betroffenen Soldaten wurden medizinisch versorgt.",
-    "m": "Der Vorfall ereignete sich im lettischen Ādaži, wo rund 300 italienische Soldaten als Teil einer multinationalen Nato-Brigade stationiert sind. Während einer Übung kam es zu Schüssen beziehungsweise Maschinengewehrfeuer, wodurch die vier Soldaten verletzt wurden. Einer der Betroffenen erlitt schwere Verletzungen, es besteht jedoch keine Lebensgefahr für ihn. Das italienische Militär hat Untersuchungen eingeleitet, um die genauen Umstände des Zwischenfalls zu klären. Das westliche Bündnis ist im Rahmen seiner verstärkten Präsenz im baltischen Raum mit multinationalen Verbänden im Einsatz.",
-    "r": "Der Zwischenfall betrifft direkt die Sicherheit und Ausbildung von Nato-Truppen in einem sensiblen Bündnisgebiet und wirft Fragen zur Sicherheit bei militärischen Übungen auf.",
+    "t": "Vier italienische Nato-Soldaten bei Militärübung in Lettland verletzt",
+    "s": "Bei einer Nato-Übung im lettischen Ādaži ist es zu einem schweren Zwischenfall gekommen, bei dem vier italienische Soldaten verletzt wurden. Das italienische Militär hat Ermittlungen zu den Vorfällen aufgenommen. Ein Soldat erlitt schwere Verletzungen, es besteht jedoch keine Lebensgefahr.",
+    "m": "Der Vorfall ereignete sich während einer Übung in Lettland, wo das westliche Bündnis mit einer multinationalen Brigade stationiert ist. Konkret sind 300 italienische Soldaten in dem baltischen Land im Einsatz. Bei dem Manöver kam es zu Maschinengewehrfeuer, welches auch von einem Panzer abgegeben wurde, wodurch die vier Soldaten verletzt wurden. Einer der Betroffenen wurde schwer verletzt, befindet sich aber Medienberichten zufolge nicht in Lebensgefahr. Das italienische Militär untersucht derzeit die genauen Umstände und den Ablauf des Unfalls. Offen bleibt bislang, wie es zu der Fehlfunktion oder dem folgenschweren Schusswaffeneinsatz während des Manövers kommen konnte.",
+    "r": "Der Zwischenfall betrifft Soldaten eines Bündnispartners im Rahmen eines internationalen Nato-Einsatzes. Die Verletzung von vier Soldaten bei einer Übung wirft Fragen zur Sicherheit bei militärischen Manövern auf.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -246,23 +405,64 @@
       }
     ],
     "url": "https://www.spiegel.de/ausland/lettland-vier-italienische-nato-soldaten-bei-uebung-in-adazi-verletzt-a-6bceb4e2-719f-46e4-ada6-207363175677#ref=rss",
-    "agree": "Die Quellen sind sich einig, dass vier italienische Nato-Soldaten bei einer Militärübung in Lettland verletzt wurden.",
+    "agree": "Die Quellen stimmen überein, dass vier italienische Nato-Soldaten bei einer Übung in Lettland verletzt wurden.",
     "diff": [
       {
         "name": "DER SPIEGEL",
-        "note": "Erwähnt, dass in Ādaži 300 italienische Soldaten stationiert sind und das italienische Militär ermittelt."
+        "note": "Erwähnt, dass 300 italienische Soldaten als Teil einer multinationalen Brigade in Ādaži stationiert sind und dass das italienische Militär ermittelt."
       },
       {
         "name": "WELT",
-        "note": "Berichtet spezifisch, dass die Verletzungen durch Maschinengewehrfeuer entstanden und ein Soldat schwer, aber nicht lebensgefährlich verletzt wurde."
+        "note": "Berichtet spezifisch, dass die Verletzungen durch Maschinengewehrfeuer verursacht wurden und einer der Soldaten schwer, aber nicht lebensgefährlich verletzt wurde."
       },
       {
         "name": "t-online Nachrichten",
-        "note": "Gibt an, dass die Soldaten durch Schüsse von einem Panzer verletzt wurden."
+        "note": "Ergänzt die Information, dass die Schüsse von einem Panzer abgegeben wurden."
       }
     ],
     "chg": "",
     "independent": 3
+  },
+  {
+    "id": "story-771f63fbe9281a42",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T19:37:49.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Xi Jinping und Trump treffen zu Gesprächen in Washington zusammen",
+    "s": "Der chinesische Staatschef Xi Jinping ist am Freitag zu einem Treffen mit US-Präsident Donald Trump in die Casa Branca zurückgekehrt. Bei dem Empfang mit traditioneller chinesischer Zeremonie betonten beide Seiten die Bedeutung einer konstruktiven Zusammenarbeit. Xi hob hervor, dass er eine Beziehung auf Basis von Respekt, Gerechtigkeit und Gegenseitigkeit anstrebt.",
+    "m": "Das Treffen zwischen dem chinesischen Staatspräsidenten Xi Jinping und dem US-Präsidenten Donald Trump fand am Freitag statt und endete mit der Aussicht auf eine dauerhafte Partnerschaft. Xi wurde bei seiner Rückkehr in die Casa Branca feierlich mit einer traditionellen chinesischen Zeremonie empfangen. Im Rahmen der Gespräche bekräftigte der chinesische Machthaber das Ziel, die bilateralen Beziehungen künftig auf den Grundsätzen des gegenseitigen Respekts, der Gerechtigkeit und der Gegenseitigkeit aufzubauen. Beide Staatsmänner richteten ihren Blick dabei auf ein gemeinsames Zukunftsszenario. Konkrete wirtschaftliche oder politische Abkommen wurden in den Berichten jedoch nicht im Detail genannt. Die Zusammenkunft markiert einen weiteren diplomatischen Austausch auf höchster Ebene zwischen den beiden weltpolitischen Kontrahenten.",
+    "r": "Das Treffen zwischen den Führern der USA und Chinas ist von hoher geo- und wirtschaftspolitischer Relevanz, da die bilaterale Beziehung beider Supermächte maßgeblich die globale Stabilität beeinflusst.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5",
+        "date": "2026-09-25T19:37:49.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/encontro-entre-xi-jinping-e-trump-termina-em-promessa-de-parceria-duradoura_n1767772",
+        "date": "2026-09-25T18:44:58.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5",
+    "agree": "Beide Quellen berichten übereinstimmend über das Treffen zwischen Xi Jinping und Donald Trump sowie die Aussicht auf eine dauerhafte Partnerschaft.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt im Titel, dass das Treffen in der Partnerschafts-Zusage endete, und verlinkt auf die RTP-Berichterstattung."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Liefert konkrete Details über die traditionelle chinesische Willkommenszeremonie in der Casa Branca am Freitag und Zitate zu Respekt, Gerechtigkeit und Gegenseitigkeit."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-80ec8ee11edbf758",
@@ -343,6 +543,43 @@
     "independent": 2
   },
   {
+    "id": "story-c3fb0b7c5dcc72c5",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-25T19:15:16.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Gefahrgut-Transporter explodiert auf A1 bei Sottrum",
+    "s": "Auf der Autobahn 1 nahe Bremen ist ein Gefahrgut-Transporter explodiert. Durch die Explosion haben sich Fahrzeugteile über beide Fahrstreifen verteilt und eine Lärmschutzwand wurde beschädigt. Die A1 musste nach dem Vorfall voll gesperrt werden.",
+    "m": "Der Vorfall ereignete sich in Sottrum bei Bremen auf der A1. Nach der Explosion des Gefahrgut-Transporters kam es zu erheblichen Behinderungen auf der Autobahn. Fahrzeugteile wurden über beide Richtungen beziehungsweise Fahrstreifen geschleudert. Zudem wurde eine Lärmschutzwand durch die Wucht der Explosion in Mitleidenschaft gezogen. Wegen der starken Beschädigungen und der Gefahrenlage wurde die A1 in dem Bereich voll gesperrt. Rettungs- und Einsatzkräfte sind vor Ort, um die Sperrung abzusichern und die Aufräumarbeiten einzuleiten. Zu genauen Ursachen, Verletzten oder der Art des geladenen Gefahrguts liegen in den vorliegenden Berichten noch keine näheren Details vor.",
+    "r": "Die Vollsperrung einer wichtigen Autobahn wie der A1 beeinträchtigt den überregionalen und regionalen Verkehr massiv. Zudem verdeutlicht der Vorfall die besonderen Risiken beim Transport von Gefahrgut auf Hauptverkehrsstraßen.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/sottrum-bei-bremen-gefahrgut-transporter-explodiert-auf-a1-AV7D63HFBBD5FFEJQTLIWM2VCY.html",
+        "date": "2026-09-25T19:15:16.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkdOSHFKd0ticUJQQmdfN2h4YW1ybko2d201U19kRjAtYk1hZ0EwSWJ1YjM1eHV4WW9iYTU0S2Z1Z1lhREktSG5vN09IejlpLXQzS3NOSmU3WFd6UkRVQ2tJRlAyZWJzSF8ycWM5Si0yTHlWN1Q3ak1qQUIwOVllUm9Dek9ER3c2WEZvRXFtWWlVU2VfcGE2dkpOQXNFTno1U2JJZXFHektIWlhSWjNmUU9FekhTWXg1eFE?oc=5",
+        "date": "2026-09-25T19:13:42.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/sottrum-bei-bremen-gefahrgut-transporter-explodiert-auf-a1-AV7D63HFBBD5FFEJQTLIWM2VCY.html",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Gefahrgut-Transporter auf der A1 bei Bremen explodiert ist.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Enthält lediglich den Verweis und Link auf den RND-Artikel ohne zusätzlichen Inhalt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-dfed46ec41da3f55",
     "c": "DE",
     "o": "DE",
@@ -353,9 +590,9 @@
     "st": "MV",
     "city": "",
     "t": "Immer weniger Studierende beziehen BaföG",
-    "s": "In Mecklenburg-Vorpommern beziehen immer weniger Studierende BAföG. Aktuellen Angaben zufolge nehmen rund 70 Prozent der berechtigten Personen die staatliche Finanzierung nicht in Anspruch. Als Hauptgrund für diese niedrige Quote wird oft ein Mangel an Informationen genannt.",
-    "m": "Der Trend zeigt seit Jahren nach unten: Während vor zehn Jahren noch monatlich rund 7.700 Studierende in Mecklenburg-Vorpommern BAföG erhalten haben, sind es mittlerweile über 1.000 Studierende weniger. Gleichzeitig nutzen schätzungsweise 70 Prozent derjenigen, denen das Geld eigentlich zustehen würde, die Förderung gar nicht erst aus. Experten führen diese geringe Inanspruchnahme vor allem auf fehlende Informationen bei den Betroffenen zurück. Das Bundesausbildungsförderungsgesetz soll Studierenden eigentlich eine finanzielle Sicherheit während ihres Studiums bieten, doch Hürden und Unwissenheit scheinen viele von der Antragstellung abzuhalten.",
-    "r": "Die sinkenden Empfängerzahlen bei gleichzeitig hoher Nichtinanspruchnahme beleuchten strukturelle Probleme bei der Studienfinanzierung in Mecklenburg-Vorpommern. Dies kann langfristig den Zugang zu Bildung erschweren und verdeutlicht einen Informationsbedarf bei potenziellen Leistungsempfängern.",
+    "s": "In Mecklenburg-Vorpommern beziehen immer weniger Studierende BAföG. Zehn Jahren nach einem höheren Stand ist die Zahl der monatlichen Empfänger deutlich gesunken. Zudem nehmen rund 70 Prozent der Studierenden, denen die staatliche Förderung zustehen würde, das Geld gar nicht in Anspruch.",
+    "m": "Die Zahl der BAföG-Bezieher in Mecklenburg-Vorpommern ist in den vergangenen zehn Jahren um über 1.000 gesunken. Vor einem Jahrzehnt bekamen noch monatlich rund 7.700 Studierende im Bundesland die finanzielle Unterstützung. Aktuell zeigt sich zudem, dass etwa 70 Prozent der Berechtigten das Geld nicht abrufen. Als Hauptgrund für diese geringe Inanspruchnahme wird ein Mangel an Informationen bei den Betroffenen genannt.",
+    "r": "Die Entwicklung verdeutlicht eine sinkende Inanspruchnahme staatlicher Ausbildungsförderung bei Studierenden in Mecklenburg-Vorpommern. Dies wirft Fragen bezüglich der Information und Erreichbarkeit der Zielgruppe auf.",
     "srcs": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
@@ -369,15 +606,15 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/immer-weniger-studierende-beziehen-bafoeg,nordmagazin-14500.html",
-    "agree": "Beide Quellen stimmen überein, dass in Mecklenburg-Vorpommern immer weniger Studierende BAföG beziehen.",
+    "agree": "Beide Quellen berichten über die sinkende Zahl von BAföG-Beziehenden beziehungsweise die rückläufige Inanspruchnahme bei Studierenden in Mecklenburg-Vorpommern.",
     "diff": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Berichtet, dass 70 Prozent der Studierenden, denen BaföG zustehen würde, es nicht in Anspruch nehmen, und nennt mangelnde Informationen als Grund."
+        "note": "Berichtet spezifisch, dass 70 Prozent der Studierenden, denen das Geld zustehen würde, es nicht in Anspruch nehmen, und führt dies auf mangelnde Informationen zurück."
       },
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Liefert konkrete historische Vergleichszahlen und gibt an, dass vor zehn Jahren noch rund 7.700 Studierende monatlich BAföG bekamen und es heute über 1.000 weniger sind."
+        "note": "Nennt konkrete historische Vergleichszahlen und gibt an, dass vor zehn Jahren noch monatlich rund 7.700 Studierende BAföG bekamen, was heute über 1.000 weniger sind."
       }
     ],
     "chg": "",
@@ -393,10 +630,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Junge Menschen in Baden-Württemberg und die Berliner Reformdebatten",
-    "s": "Nach Wahlen in Mecklenburg-Vorpommern und Berlin wird in der Politik erneut über Reformen in den Bereichen Rente, Gesundheit und Pflege diskutiert. Im Fokus steht dabei auch die Frage, wie junge Menschen in Baden-Württemberg über diese Debatten denken. Konkrete Positionen oder Umfrageergebnisse der Jugendlichen werden in den Berichten jedoch noch nicht genannt.",
-    "m": "Die Diskussionen um Reformen bei Rente, Gesundheit und Pflege sind nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin wieder entbrannt. Diese bundespolitischen Debatten werfen die Frage auf, wie die jüngere Generation zu den geplanten Veränderungen steht. Besonders in Baden-Württemberg stellt sich die Situation für junge Menschen dar, die sich im Spannungsfeld zwischen Miete, Job und Rente bewegen. Bislang bleibt offen, welche konkreten Forderungen oder Erwartungen die Jugend an die Berliner Politik richtet. Die Berichte greifen diese Fragestellung auf, ohne jedoch bereits detaillierte Studienergebnisse oder Aussagen von Jugendvertretern zu präsentieren.",
-    "r": "Die Berichte sind relevant, da sie die Perspektive junger Menschen auf aktuelle bundespolitische Reformdebatten in den Bereichen Rente, Gesundheit und Pflege beleuchten. Konkrete Schlüsse oder politische Entscheidungen lassen sich aus den Texten noch nicht ableiten.",
+    "t": "Junge Menschen in Baden-Württemberg über Reformen bei Rente und Pflege",
+    "s": "Nach Wahlen in Mecklenburg-Vorpommern und Berlin wird in der Politik wieder verstärkt über Reformen in den Bereichen Rente, Gesundheit und Pflege diskutiert. Im Mittelpunkt steht dabei die Frage, wie junge Menschen in Baden-Württemberg über diese Reformdebatten denken. Die Berichterstattung widmet sich den Sorgen und Prioritäten der jüngeren Generation zwischen Miete, Job und Rente. Konkrete Positionen oder Ergebnisse der Befragung junger Menschen gehen aus den Meldungen jedoch noch nicht hervor",
+    "m": "Die aktuellen Diskussionen über politische Reformen folgen auf die Landtagswahlen in Mecklenburg-Vorpommern und Berlin. Dabei rücken Themen wie Rente, Gesundheit und Pflege in den Fokus der Aufmerksamkeit. Regierungen und Parteien stehen vor der Herausforderung, Zukunftsfragen zu adressieren, die besonders die jüngere Generation betreffen. In Baden-Württemberg stellt sich in diesem Zusammenhang die Frage, wie junge Menschen ihre Situation zwischen Wohnungsmarkt beziehungsweise Miete, beruflicher Perspektive im Job und der Absicherung im Alter bewerten. Die Berichte werfen die Fragestellung auf, beleuchten aber bisher keine konkreten Antworten, Studien oder detaillierten Umfrageergebnisse aus dem Bundesland. Es bleibt offen, welche Forderungen junge Menschen an die Politik stellen und wie stark sie sich von den Berliner Reformdebatten betroffen fühlen.",
+    "r": "Die Diskussion über Reformen bei Rente, Gesundheit und Pflege betrifft die Zukunftsgestaltung junger Generationen unmittelbar. Die Frage, wie junge Menschen in Baden-Württemberg zu diesen politischen Debatten stehen, verdeutlicht die Relevanz regionaler Perspektiven auf bundespolitische Themen.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -410,47 +647,11 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/junge-menschen-bw-zu-berliner-politik-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass nach den Wahlen in Mecklenburg-Vorpommern und Berlin über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und die Perspektive junger Menschen in Baden-Württemberg dazu im Raum steht.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-436499f9dd53e040",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-25T18:52:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Backstreet Boys geben zehn Konzerte in Düsseldorf",
-    "s": "Die Boygroup Backstreet Boys absolviert eine Konzertreihe mit zehn Auftritten in Düsseldorf. Zu den Events reisen Fans aus der ganzen Welt an. Der Fall wirft ein Schlaglicht auf den Trend zu sogenannten Residencies in der Konzertbranche.",
-    "m": "Die US-amerikanische Boyband Backstreet Boys spielt insgesamt zehn Konzerte in Düsseldorf, was internationale Fans in die Stadt zieht. Solche zeitlich ausgedehnten Konzertserien, bei denen Künstler über einen längeren Zeitraum an einem einzigen Ort auftreten, werden in der Musikbranche als Residencies bezeichnet. Bislang war dieses Konzept vor allem aus Musikmetropolen wie Las Vegas bekannt. Immer mehr bekannte Stars setzen inzwischen auf dieses Modell, um Reiseaufwände zu reduzieren und Fans ein exklusives Erlebnis zu bieten. Für die austragenden Städte bedeutet dies oft einen spürbaren touristischen und wirtschaftlichen Impuls. Gleichzeitig führt das Modell bei Konzertgängern zu Diskussionen über Ticketverfügbarkeit, Anreisewege und die Verdrängung klassischer Tourneen.",
-    "r": "Die Konzertserie der Backstreet Boys in Düsseldorf verdeutlicht den zunehmenden Trend von Künstler-Residencies in der Musikbranche. Das Phänomen hat wirtschaftliche und organisatorische Auswirkungen auf Städte, Fans und den Konzertmarkt.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRnJHd2oxY0RiVURIY2VZMjZFWE0yNnZ3VnlzNk4wQ19VUTljNzM1MmtVN2QwM0RRcmdiTTF6X09EdDZzaDNXN2txdXlqMVBQOVFKWHBKNEdNbmtrNWJFWlVGckZUSkc0OXBZU0xFQ1dJU0pLeXZnR0tQOTF0YkU?oc=5",
-        "date": "2026-09-25T18:52:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/backstreet-boys-residenzkonzerte-100.html",
-        "date": "2026-09-25T13:01:38.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRnJHd2oxY0RiVURIY2VZMjZFWE0yNnZ3VnlzNk4wQ19VUTljNzM1MmtVN2QwM0RRcmdiTTF6X09EdDZzaDNXN2txdXlqMVBQOVFKWHBKNEdNbmtrNWJFWlVGckZUSkc0OXBZU0xFQ1dJU0pLeXZnR0tQOTF0YkU?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die Backstreet Boys zehn Auftritte beziehungsweise Abende in Düsseldorf spielen.",
+    "agree": "Beide Quellen stimmen darin überein, dass nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und die Perspektive junger Menschen in Baden-Württemberg dazu betrachtet werden soll.",
     "diff": [
       {
-        "name": "Google News DE",
-        "note": "Nennt die zehn Abende in Düsseldorf in Verbindung mit tagesschau.de."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt anreisende Fans aus aller Welt und analysiert den Trend sowie die Bedeutung von Residencies für Fans, Städte und die Branche."
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Verwendet im Titel eine leicht erweiterte Formulierung zur Einordnung der Berliner Reformdebatten."
       }
     ],
     "chg": "",
@@ -466,10 +667,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Treibstoffpreise in Portugal sinken in der kommenden Woche",
-    "s": "In der kommenden Woche sollen die Kraftstoffpreise in Portugal sinken. Dies geht aus aktuellen Berichten portugiesischer Medien hervor. Autofahrer können demnach mit einer finanziellen Entlastung beim Tanken rechnen. Genaue Details zu den prozentualen oder absoluten Senkungen wurden in den Kurzmeldungen zunächst nicht genannt.",
-    "m": "Die bevorstehende Senkung der Treibstoffpreise betrifft voraussichtlich sowohl Benzin als auch Diesel. Konkrete Zahlen zu den Preisnachlässen oder die genaue Höhe der Entlastung wurden von den Quellen nicht genannt. Auch die Ursachen für den Preisrückgang, wie etwa Entwicklungen auf dem internationalen Ölmarkt oder steuerliche Anpassungen, sind in den vorliegenden Berichten nicht näher ausgeführt. Die Verbraucher in Portugal erhalten damit zum Start der neuen Woche eine spürbare Entlastung an den Tankstellen. Weitere offene Fragen betreffen die genaue Dauer dieser Preissenkung und ob sich der Trend in den Folgezochen fortsetzen wird.",
-    "r": "Die Meldung ist für Autofahrer und die Wirtschaft in Portugal relevant, da Treibstoffpreise direkte Auswirkungen auf die Transportkosten und Haushaltsbudgets haben. Preisbewegungen auf dem Kraftstoffmarkt beeinflussen zudem die allgemeine Inflation.",
+    "t": "Sinkende Kraftstoffpreise in Portugal erwartet",
+    "s": "In der kommenden Woche sollen die Kraftstoffpreise in Portugal sinken. Dies geht aus aktuellen Medienberichten hervor. Autofahrer können somit mit einer Entlastung beim Tanken rechnen.",
+    "m": "Für die kommende Woche wird in Portugal ein Rückgang der Kraftstoffpreise in Aussicht gestellt. Konkrete Angaben zur Höhe der Preissenkung oder dazu, welche Kraftstoffarten genau betroffen sind, nennen die vorliegenden Berichte nicht. Die Meldungen basieren unter anderem auf Informationen der Wochenzeitung Expresso. Weitere Details zum zeitlichen Ablauf oder den Gründen für den Preisrückgang gehen aus den kurzen Texten nicht hervor. Offen bleibt zudem, ob der Trend länger anhalten wird. Die Nachricht bringt eine kurzfristige Entlastung für Verbraucher.",
+    "r": "Die Entwicklung der Kraftstoffpreise ist für die Verbraucher in Portugal unmittelbar relevant, da sie die wöchentlichen Lebenshaltungs- und Transportkosten direkt beeinflusst.",
     "srcs": [
       {
         "name": "RTP Notícias",
@@ -483,15 +684,11 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-combustiveis-precos-descem-na-proxima-semana_a1_1767782",
-    "agree": "Die Quellen stimmen überein, dass die Kraftstoffpreise in der kommenden Woche sinken werden.",
+    "agree": "Die Quellen sind sich einig, dass die Kraftstoffpreise in der nächsten Woche sinken werden.",
     "diff": [
       {
-        "name": "RTP Notícias",
-        "note": "Berichtet kurz und knapp über die sinkenden Kraftstoffpreise in der nächsten Woche."
-      },
-      {
         "name": "Google News Portugal",
-        "note": "Verweist zusätzlich auf den entsprechenden Artikel der Wochenzeitung Expresso bezüglich des Preisrückgangs."
+        "note": "Verweist zusätzlich auf die Berichterstattung der Wochenzeitung Expresso bezüglich des Preisrückgangs."
       }
     ],
     "chg": "",
@@ -778,13 +975,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-09-25T17:00:05.000Z",
-    "p": 3,
+    "p": 4,
     "st": "BW",
     "city": "",
-    "t": "VW-Konzern ruft fast eine Million Autos in Deutschland zurück",
-    "s": "Wegen einer fehlerhaften Schraube ruft der VW-Konzern in Deutschland fast eine Million Fahrzeuge in die Werkstätten zurück. Betroffen sind neben der Kernmarke VW auch Audi und Seat. Als Grund für die Maßnahme wird die Gefahr eines Schraubenabrisses genannt, der im Extremfall zum Ausfall der Lenkung führen kann. Autobesitzer müssen sich auf entsprechende Werkstattbesuche einstellen, um die Sicherheit der betroffenen Fahrzeuge zu gewährleisten.",
-    "m": "Der Volkswagen-Konzern hat einen massiven Rückruf für Fahrzeuge in Deutschland gestartet, der schätzungsweise knapp eine Million Autos betrifft. Auslöser ist ein potenzieller Defekt an einer Schraube, die abreißen kann und dadurch die Lenkung des Fahrzeugs beeinträchtigt. Im schlimmsten Fall droht ein kompletter Ausfall der Lenkung, was erhebliche Sicherheitsrisiken im Straßenverkehr birgt. Von der Aktion sind Modelle verschiedener Konzernmarken wie Volkswagen, Audi und Seat betroffen. Fahrzeughalter in ganz Deutschland sind nun angehalten, die notwendigen Überprüfungen und Nachbesserungen in Fachwerkstätten durchführen zu lassen. Bisher wurden keine konkreten Unfälle oder Schadensfälle im Zusammenhang mit dem Schraubendefekt öffentlich bekannt. Die betroffenen Besitzer müssen sich informieren, ob ihr spezifisches Modell zu den Rückrufkandidaten gehört und wie die genaue Abwicklung in den Werkstätten erfolgt.",
-    "r": "Der Rückruf betrifft fast eine Million Fahrzeuge eines der größten Automobilkonzerne in Deutschland und berührt aufgrund möglicher Lenkungsausfälle zentrale Sicherheitsfragen im Straßenverkehr.",
+    "t": "Massiver Rückruf bei VW, Audi und Seat wegen Lenkungsproblemen",
+    "s": "Der VW-Konzern muss in Deutschland fast eine Million Autos vorsorglich in die Werkstatt rufen. Grund für die Aktion ist eine fehlerhafte Schraube, die im Extremfall zu einem Ausfall der Lenkung führen kann. Betroffen sind Fahrzeuge verschiedener Marken des Konzerns. Autobesitzer müssen sich auf entsprechende Nachbesserungen einstellen.",
+    "m": "Wegen einer potenziell fehlerhaften Schraube startet der VW-Konzern einen großen Rückruf in Deutschland. Die betroffenen Fahrzeuge von Marken wie Volkswagen, Audi und Seat müssen vorsorglich in die Werkstatt gebracht werden. Der Schraubenabriss kann im Extremfall zu einem vollständigen Ausfall der Lenkung führen. Insgesamt sind knapp eine Million Autos in Deutschland von der Maßnahme betroffen. Genaue Details zu den betroffenen Modellen und den konkreten Abläufen für Fahrzeughalter sind Gegenstand der aktuellen Information. Die Werkstätten müssen die betroffenen Bauteile überprüfen und nachbessern. Weitere Einzelheiten zum zeitlichen Ablauf oder möglichen Unfällen im Zusammenhang mit dem Defekt wurden zunächst nicht genannt.",
+    "r": "Ein sicherheitsrelevanter Rückruf von knapp einer Million Fahrzeugen betrifft einen großen Teil des deutschen Automobilmarktes. Der potentielle Ausfall der Lenkung stellt ein erhebliches Sicherheitsrisiko dar, das sofortige Werkstattbesuche erforderlich macht.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -798,19 +995,19 @@
       }
     ],
     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
-    "agree": "Die Quellen sind sich einig, dass der VW-Konzern in Deutschland fast eine Million Autos wegen einer fehlerhaften Schraube zurückrufen muss, was zum Ausfall der Lenkung führen kann.",
+    "agree": "Alle Quellen sind sich einig, dass der VW-Konzern in Deutschland fast eine Million Autos wegen einer fehlerhaften Schraube zurückrufen muss, was zum Ausfall der Lenkung führen kann.",
     "diff": [
       {
         "name": "SWR Aktuell",
-        "note": "nennt keine weiteren spezifischen Marken im Titel und verweist allgemein auf Autos des VW-Konzerns."
+        "note": "Erwähnt allgemein den VW-Konzern als betroffenen Hersteller."
       },
       {
         "name": "Tagesschau",
-        "note": "nennt explizit die Marken VW, Audi und Seat im Titel und kündigt Informationen zu betroffenen Modellen sowie dem weiteren Vorgehen an."
+        "note": "Nennt konkret die Marken VW, Audi und Seat als betroffen."
       },
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "führt Audi und Volkswagen explizit als die rückrufenden Marken auf und präzisiert die Gefahr als konkreten Schraubenabriss."
+        "note": "Hebt besonders Audi und Volkswagen hervor und präzisiert die Gefahr als Schraubenabriss."
       }
     ],
     "chg": "",
@@ -1023,10 +1220,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Manchester City in 114 Punkten von unabhängigem Gericht schuldig gesprochen",
-    "s": "Manchester City steht im Zentrum eines lang erwarteten Verfahrens wegen angeblicher Verstöße gegen die Finanzregeln der englischen Premier League. Ein unabhängiges Gericht hat nun ein erstes Urteil in diesem aufsehenerregenden Fall gefällt. Die Vorwürfe umfassen eine massive Anzahl an Regelverstößen über mehrere Jahre hinweg.",
-    "m": "Der Prozess gegen Manchester City betrifft insgesamt 115 angeklagte Punkte bezüglich der Finanzregeln der englischen Premier League. Berichten zufolge spricht ein unabhängiges Gericht den Verein nun in 114 von diesen 115 Punkten für schuldig. Die Vorwürfe werfen dem Spitzenklub vor, jahrelang systematisch gegen finanzielle Vorgaben verstoßen zu haben. Britische Medien machten das Ergebnis der zuständigen Kommission publik, welches als drastisch eingestuft wird. Das Verfahren gilt als einer der bedeutendsten Skandale im modernen englischen Fußball. Welche konkreten Konsequenzen oder Strafen auf den Verein zukommen, ist Gegenstand weiterer juristischer Entwicklungen. Die Tragweite des Urteils könnte den gesamten englischen Profifußball nachhaltig verändern.",
-    "r": "Das Verfahren gegen Manchester City betrifft einen der finanzstärksten und erfolgreichsten Klubs im europäischen Fußball. Die Entscheidung eines unabhängigen Gerichts über massive Verstöße gegen Finanzregeln hat weitreichende Bedeutung für die Integrität des Wettbewerbs.",
+    "t": "Manchester City in 114 Punkten schuldig gesprochen",
+    "s": "Ein unabhängiges Gericht hat ein erstes Urteil im lang erwarteten Prozess gegen Manchester City gefällt. Dem Premier-League-Klub wird vorgeworfen, jahrelang gegen Finanzregeln verstoßen zu haben. Britischen Medienberichten zufolge soll das Ergebnis einer Untersuchung drastisch ausfallen.",
+    "m": "Der lang erwartete Prozess gegen den englischen Spitzenklub Manchester City hat eine neue Stufe erreicht. Ein unabhängiges Gericht hat den Verein nun in 114 von 115 Punkten für schuldig befunden. Dem Verein wird seit längerer Zeit vorgeworfen, über Jahre hinweg massiv gegen die strengen Finanzregeln der Premier League verstoßen zu haben. Das Ergebnis der zuständigen Kommission wird in Medienberichten als äußerst drastisch eingestuft. Die Vorwürfe umfassen unter anderem mangelnde Kooperation bei den Untersuchungen sowie Unstimmigkeiten bei finanziellen Angaben. Bislang handelt es sich um das Ergebnis des unabhängigen Gerichts, während offizielle Details zur genauen Urteilsbegründung und potenziellen Sanktionen noch im Raum stehen.",
+    "r": "Das Verfahren gegen Manchester City betrifft die Integrität und finanzielle Regulierung im europäischen Spitzenfußball. Ein Schuldspruch in so vielen Punkten könnte weitreichende Konsequenzen für den Verein und die Premier League haben.",
     "srcs": [
       {
         "name": "t-online Sport",
@@ -1040,15 +1237,15 @@
       }
     ],
     "url": "https://www.t-online.de/sport/fussball/international/id_101453202/premier-league-manchester-city-schuldig-in-114-von-115-punkten.html",
-    "agree": "Die Quellen sind sich einig, dass Manchester City wegen Verstößen gegen die Finanzregeln der Premier League von einem Gericht oder einer Kommission beurteilt wurde.",
+    "agree": "Manchester City ist mit einem Verfahren und Vorwürfen bezüglich der Verletzung von Finanzregeln der Premier League konfrontiert.",
     "diff": [
       {
         "name": "t-online Sport",
-        "note": "Berichtet, dass das unabhängige Gericht Manchester City in 114 von 115 Punkten schuldig gesprochen hat und bezeichnet dies als erstes Urteil."
+        "note": "berichtet, dass ein unabhängiges Gericht den Verein in 114 von 115 Punkten schuldig gesprochen hat und es sich um den nächsten Schritt im Prozess handelt"
       },
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Formuliert die Zahl der Fälle als Frage und beruft sich auf britische Medienberichte bezüglich des drastischen Ergebnisses der Kommission."
+        "note": "formuliert das Ergebnis als Frage und nennt britische Medienberichte als Quelle für das drastische Resultat der Kommission"
       }
     ],
     "chg": "",
@@ -1321,6 +1518,47 @@
     "independent": 1
   },
   {
+    "id": "story-afae9c5e3199e5e7",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-25T13:26:51.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Formel 1 in Baku: George Russell sichert sich die Pole-Position",
+    "s": "Beim Qualifying zum Großen Preis von Aserbaidschan in Baku hat sich George Russell die Pole-Position gesichert. Für seinen Teamkollegen Kimi Antonelli verlief das Zeittraining hingegen enttäuschend. Er schied vorzeitig aus und startet lediglich von Platz 16 in das Rennen.",
+    "m": "Das Qualifying zum Großen Preis von Aserbaidschan in Baku brachte unterschiedliche Vorzeichen für die beteiligten Fahrer. George Russell zeigte eine starke Leistung und fuhr die schnellste Zeit, was ihm den ersten Startplatz für das bevorstehende Rennen einbringt. Ganz anders verlief die Session für Kimi Antonelli, für den das Zeittraining zu einem Desaster und Albtraum wurde. Er kam nicht über den 16. Startplatz hinaus und muss das Rennen weit hinten im Feld beginnen. Die genauen Ursachen für Antonellis schwaches Abschneiden und die weiteren Startplatzierungen der Konkurrenz gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Das Qualifying bestimmt die Startaufstellung für den Großen Preis von Aserbaidschan. Das Abschneiden der Teamkollegen Russell und Antonelli zeigt stark voneinander abweichende Leistungen im selben Rennstall.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYW5KeDh5MmRZcnZ0ckFselp0TTJpRmpyRVNqOTZrNmg5QWdLbmdEeWw5ZTJSSmNNM0J1eExVc21VcWt4X2dkWHE3emJNcFlFTndrdFlCRGJiT2w5UjRCM25KUjNxQUZ4dDV0SjdKbnBxRHBod1ZJX3NuUlhGQWVlalBOampiVkhzZHpEeGRpOFI2Tzg5WWRpY0N6cU1WM3RCSXRRYzJSWktpNmFDRW5ZLVEwYnpaYWZWOUc5Qnk1dEM4akZ5cDczeEVVLW9fbEJyWTU2bA?oc=5",
+        "date": "2026-09-25T13:26:51.000Z"
+      },
+      {
+        "name": "t-online Sport",
+        "url": "https://www.t-online.de/sport/formel-1/id_101452986/formel-1-russell-holt-die-pole-in-baku-desaster-fuer-antonelli.html",
+        "date": "2026-09-25T13:14:37.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYW5KeDh5MmRZcnZ0ckFselp0TTJpRmpyRVNqOTZrNmg5QWdLbmdEeWw5ZTJSSmNNM0J1eExVc21VcWt4X2dkWHE3emJNcFlFTndrdFlCRGJiT2w5UjRCM25KUjNxQUZ4dDV0SjdKbnBxRHBod1ZJX3NuUlhGQWVlalBOampiVkhzZHpEeGRpOFI2Tzg5WWRpY0N6cU1WM3RCSXRRYzJSWktpNmFDRW5ZLVEwYnpaYWZWOUc5Qnk1dEM4akZ5cDczeEVVLW9fbEJyWTU2bA?oc=5",
+    "agree": "George Russell hat die Pole-Position in Baku geholt und Kimi Antonelli ist nur auf Platz 16 gelandet.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "nennt sportschau.de als Plattform und liefert die exakte Überschrift zum Qualifying in Baku."
+      },
+      {
+        "name": "t-online Sport",
+        "note": "bezeichnet das Qualifying für Kimi Antonelli als Albtraum und Desaster."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-6c358691f202ff28",
     "c": "DE",
     "o": "DE",
@@ -1476,10 +1714,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Saudi-Arabien wehrt Raketenangriffe der Huthi-Miliz ab",
-    "s": "Die von Saudi-Arabien geführte Koalition hat nach eigenen Angaben mehrere ballistische Raketen abgefangen, die von der Huthi-Miliz im Jemen abgefeuert wurden. Die Angriffe richteten sich unter anderem gegen Taif und die Region Yanbu am Roten Meer. Infolge der Eskalation stiegen die Ölpreise auf ein Wochentief, angetrieben von Sorgen vor Versorgungsunterbrechungen.",
-    "m": "Die saudi-arabische Luftabwehr fing insgesamt sechs ballistische Raketen ab, die von den Iran-unterstützten Huthis im Jemen gestartet wurden. Laut Angaben der saudi-arabisch geführten Koalition waren die Ziele Taif im Westen des Landes sowie das Industrie- und Ölzentrum Yanbu am Roten Meer, das als Hauptalternativroute für saudi-arabisches Öl dient. Die Huthi-Miliz reklamierte dagegen Angriffe auf ein sensibles Ziel in der Hauptstadt Riad sowie auf Anlagen des Ölkonzerns Saudi Aramco in Yanbu für sich. Die neuerlichen Attacken schürten internationale Befürchtungen vor weitreichenden Versorgungsengpässen auf den Energiemärkten. Dies führte dazu, dass die Ölpreise auf den weltweiten Märkten auf ein Einwochenhoch kletterten. Die militärischen Auseinandersetzungen im Zusammenhang mit dem Jemen-Konflikt belasten damit erneut die globale Wirtschaftsstabilität und die Sicherheit kritischer Infrastruktur in der Region.",
-    "r": "Die Angriffe auf saudi-arabische Öl- und Infrastruktureinrichtungen durch jemenitische Rebellen verdeutlichen die anhaltende Verwundbarkeit wichtiger globaler Energierouten. Die daraus resultierenden Preisanstiege am Ölmarkt zeigen, wie sensibel die Märkte auf geopolitische Spannungen im Nahen Osten reagieren.",
+    "t": "Saudi-Arabien wehrt Huthi-Raketen ab und Ölpreise steigen",
+    "s": "Saudi-Arabien hat mehrere von jemenitischen Huthi-Rebellen abgefeuerte Raketen abgefangen. Die Angriffe richteten sich gegen Ziele in Städten wie Taif sowie gegen die Region Yanbu am Roten Meer. Infolge der Angriffe sind die Ölpreise auf ein Wochentief beziehungsweise -hoch gestiegen. Die Eskalation schürt Sorgen vor weltweiten Versorgungsengpässen bei Rohöl.",
+    "m": "Die von Saudi-Arabien angeführte Koalition im Jemen teilte mit, dass insgesamt sechs ballistische Raketen abgefangen wurden. Die Geschosse zielten demnach auf Taif im Westen Saudi-Arabiens und das Industrie- sowie Ölgebiet Yanbu am Roten Meer, welches als Hauptalternativroute für saudi-arabisches Öl dient. Die vom Iran unterstützten Huthi-Rebellen reklamierten die Angriffe für sich und sprachen von Attacken auf ein sensibles Ziel in Riad sowie auf Anlagen des Ölkonzerns Saudi Aramco in Yanbu. Durch die neuerlichen Angriffe kletterten die Ölpreise auf den höchsten Stand seit einer Woche, da Marktbeobachter eine Ausweitung der Versorgungsrisiken in der Region befürchten.",
+    "r": "Die Angriffe auf wichtige saudi-arabische Öl- und Infrastrukturstandorte verdeutlichen die anhaltende instabile Sicherheitslage im Jemen-Konflikt. Sie wirken sich unmittelbar auf die globalen Energiemärkte und die Preisentwicklung beim Erdöl aus.",
     "srcs": [
       {
         "name": "Google News World",
@@ -1493,11 +1731,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0MwRGdjN1NtYkFaMVhhdktMMEtrb0hMUHdmeU1QeTVqZGpqcHlZVkZiVTZ1Yk4xY0ZQMktfem5iTGpsY3FPS0hqZDNkbV9iMHNIVW1ZVk1yOWtiVEtWTkRreXRUTkRMYjE1NThLT0s1cTVIWUlJSGpUdWJpZE5EcEQ3SlJtcjdXV1ByNWFaMlJOeS0ydThQNWJFU1o5TTZIYk1tempn?oc=5",
-    "agree": "",
+    "agree": "Die Quellen sind sich einig, dass Saudi-Arabien beziehungsweise die von ihm angeführte Koalition Raketen der Huthis abgefangen hat und dies zu einem Anstieg der Ölpreise geführt hat.",
     "diff": [
       {
+        "name": "Google News World",
+        "note": "Erwähnt in der Überschrift den Kontext, dass Öl auf ein Ein-Wochen-Hoch klettert, bietet im bereitgestellten Textausschnitt jedoch keinen zusätzlichen Fließtext."
+      },
+      {
         "name": "Guardian World",
-        "note": "Berichtet im Detail über sechs abgefangene Raketen, die Ziele Taif und Yanbu, die Angaben der Huthi zu Riad und Saudi Aramco sowie den Anstieg der Ölpreise."
+        "note": "Liefert die konkreten Details zu den Zielen Taif und Yanbu, nennt die Anzahl von sechs abgefangenen ballistischen Raketen und die Beteiligung der Iran-unterstützten Huthis sowie Angriffe auf Saudi Aramco."
       }
     ],
     "chg": "",
@@ -1507,16 +1749,16 @@
     "id": "story-b99e531227a92aab",
     "c": "DE",
     "o": "DE",
-    "k": "wirtschaft",
+    "k": "technik",
     "lang": "de",
     "d": "2026-09-25T11:27:52.000Z",
     "p": 3,
     "st": "BW",
     "city": "",
     "t": "Ermittler schalten knapp 10.000 Rufnummern von Cyberkriminellen ab",
-    "s": "Ermittler aus Baden-Württemberg sind gemeinsam mit internationalen Partnern erfolgreich gegen Cyber-Anlagebetrug vorgegangen. Im Zuge dieser Operation wurden tausende Rufnummern und illegale Domains abgeschaltet. Ziel der Maßnahmen ist es, die kriminellen Strukturen im Bereich des Anlagebetrugs nachhaltig zu schwächen. Der aktuelle Stand der Ermittlungen zeigt spürbare Treffer gegen die Täter.",
-    "m": "Die Ermittlungsbehörden aus Baden-Württemberg haben in einer koordinierten Aktion mit internationalen Partnern einen Schlag gegen den Cyber-Anlagebetrug geführt. Dabei wurden knapp 10.000 Rufnummern von Cyberkriminellen abgeschaltet. Neben den Telefonnummern waren auch diverse illegale Domains das Ziel der polizeilichen Maßnahmen. Diese Infrastruktur wurde von den Kriminellen genutzt, um Opfer zu kontaktieren und zu betrügen. Details zum genauen zeitlichen Ablauf oder zu konkreten Festnahmen wurden in den vorliegenden Berichten bisher nicht genannt. Die Operation verdeutlicht die zunehmende Notwendigkeit internationaler Zusammenarbeit bei der Bekämpfung grenzüberschreitender Cyberkriminalität. Weitere Ermittlungen zu den Hintermännern und dem genauen Schadensausmaß laufen.",
-    "r": "Der massive Ausfall von knapp 10.000 Rufnummern und Domains zeigt einen erfolgreichen grenzüberschreitenden Schlag gegen international agierende Anlagebetrüger. Solche Maßnahmen sind zentral, um die technische Infrastruktur organisierter Cyberkriminalität empfindlich zu treffen.",
+    "s": "Ermittler aus Baden-Württemberg und internationale Partner haben einen Erfolg gegen Cyber-Anlagebetrug erzielt. Im Rahmen einer konzertierten Aktion wurden Tausende Rufnummern und illegale Domains abgeschaltet. Die Maßnahme soll Kriminellen die Kommunikationsgrundlage entziehen. Weitere Details zu Festnahmen oder der genauen Schadenshöhe wurden zunächst nicht bekannt.",
+    "m": "Die Behörden in Baden-Württemberg sind gemeinsam mit internationalen Partnern massiv gegen den professionellen Cyber-Anlagebetrug vorgegangen. Bei der Operation gelang es, knapp 10.000 Rufnummern sowie zahlreiche illegale Internetdomains abzuschalten, die von den Betrügern für ihre Taten genutzt wurden. Solche kriminellen Netzwerke agieren häufig arbeitsteilig und grenzüberschreitend, um ahnungslose Bürger um ihr Erspartes zu bringen. Durch das Abschalten der Kommunikationsinfrastruktur soll der Betrieb der Betrugsplattformen empfindlich gestört werden. Die Ermittlungen dauern an, und die Behörden prüfen weitere Schritte gegen die Hintermänner. Das Ausmaß des Netzes unterstreicht die Professionalität der Täter im Bereich des Cybercrime.",
+    "r": "Der Schlag gegen die Kommunikationsinfrastruktur von Cyberkriminellen verdeutlicht die zunehmende Bedeutung internationaler Zusammenarbeit bei der Bekämpfung von Anlagebetrug. Solche Maßnahmen sind entscheidend, um den Schaden für Verbraucher einzudämmen.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -1530,17 +1772,8 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-knapp-10-000-rufnummern-von-cyberkriminellen-abgeschaltet-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Ermittler aus Baden-Württemberg und internationale Partner gemeinsam gegen Cyber-Anlagebetrug vorgegangen sind und dabei knapp 10.000 Rufnummern sowie illegale Domains abgeschaltet wurden.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Berichtet in Kurzform über die Abschaltung von knapp 10.000 Rufnummern und illegalen Domains im Rahmen des Vorgehens gegen Cyber-Anlagebetrug."
-      },
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Verwendet einen leicht erweiterten Titel, der die Eckdaten der Operation direkt zusammenfasst."
-      }
-    ],
+    "agree": "Die Quellen sind sich einig, dass Ermittler aus Baden-Württemberg gemeinsam mit internationalen Partnern knapp 10.000 Rufnummern und illegale Domains von Cyberkriminellen im Bereich des Anlagebetrugs abgeschaltet haben.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
