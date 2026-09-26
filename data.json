@@ -1,36 +1,361 @@
 [
   {
+    "id": "story-38a11b4ca69662f5",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T05:03:15.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+    "s": "US-Präsident Donald Trump hat Berichten zufolge einen iranischen Vorschlag zur Wiedereröffnung der Straße von Hormus abgelehnt. Der Plan wurde von Irans Außenminister Abbas Araghchi dem US-Sondergesandten Steve Witkoff unterbreitet. Die Vorlage der Initiative erfolgte am Rande einer UN-Versammlung in New York.",
+    "m": "Der iranische Außenminister Abbas Araghchi präsentierte dem US-Gesandten Steve Witkoff einen konkreten Plan zur Wiedereröffnung der strategisch wichtigen Straße von Hormus. Nach dem Vorschlag sollte die Seewasserstraße sieben Tage nach dem Erreichen einer Einigung wieder geöffnet werden. Das Treffen der Diplomaten fand am Rande einer Versammlung der Vereinten Nationen in New York statt. US-Präsident Donald Trump wies diese Initiative jedoch Berichten zufolge zurück. Weitere offizielle Details über die genauen Bedingungen oder mögliche Gegenangebote wurden zunächst nicht bekannt. Die Situation in der Region bleibt weiterhin angespannt und Gegenstand diplomatischer Bemühungen. Die beteiligten Parteien stehen unter Beobachtung internationaler Beobachter.",
+    "r": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtswege für den globalen Öltransport. Ein diplomatischer Durchbruch oder eine Ablehnung solcher Pläne beeinflusst unmittelbar die geopolitische Stabilität und die internationalen Energiemärkte.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBZEdudWZiQnM2NzB2MHk0N3RTNlBIbzk3bWFFWmNEVTZGdXlOM0ZzdFQtUUk4elI2LW5iN0tBSzJENU5TSXpVOWt6WlNQUWFTU2dLUkYwblBXQWFUaFZxR2FrMA?oc=5",
+        "date": "2026-09-26T05:03:15.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+        "date": "2026-09-26T02:06:07.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBZEdudWZiQnM2NzB2MHk0N3RTNlBIbzk3bWFFWmNEVTZGdXlOM0ZzdFQtUUk4elI2LW5iN0tBSzJENU5TSXpVOWt6WlNQUWFTU2dLUkYwblBXQWFUaFZxR2FrMA?oc=5",
+    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump einen Vorschlag des Irans zur Wiedereröffnung der Straße von Hormus abgelehnt hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet ebenfalls über die Zurückweisung des Vorschlags, enthält jedoch keine Details zu den Urhebern oder den genauen Umständen."
+      },
+      {
+        "name": "France24 English",
+        "note": "Nennt den genauen Sieben-Tage-Plan und die beteiligten Akteure Abbas Araghchi und Steve Witkoff sowie das Treffen am Rande einer UN-Versammlung in New York."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-cf250155511278ec",
     "c": "INT",
     "o": "UK",
     "k": "politik",
     "lang": "de",
-    "d": "2026-09-25T23:38:48.000Z",
+    "d": "2026-09-26T05:03:09.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Iran bietet Deal zur Wiederöffnung der Straße von Hormus an",
-    "s": "Iran hat den USA angeblich einen Deal zur Wiederöffnung der Straße von Hormus innerhalb von sieben Tagen angeboten. Über das Angebot finden laut einem US-Offiziellen konstruktive Gespräche durch Vermittler statt. Die Berichterstattung basiert auf Medienberichten der BBC und Google News World. Weitere offizielle Details wurden zunächst nicht genannt.",
-    "m": "Der Iran hat den Vereinigten Staaten einen Vorschlag unterbreitet, der eine Wiederöffnung der strategisch wichtigen Straße von Hormus innerhalb einer Frist von sieben Tagen vorsieht. Ein US-amerikanischer Regierungsvertreter bestätigte gegenüber der BBC, dass zu diesem Angebot konstruktive Gespräche über Vermittler geführt werden. Die Straße von Hormus ist eine der weltweit wichtigsten Routen für den Ölexport, weshalb jede Blockade oder Verhandlung in diesem Gebiet globale wirtschaftliche und sicherheitspolitische Relevanz besitzt. Bislang gibt es jedoch nur spärliche Informationen zu den genauen Bedingungen des iranischen Angebots oder dazu, welche konkreten Vermittler an den Gesprächen beteiligt sind. Auch über die Reaktionen anderer internationaler Akteure auf diesen Vorstoß ist noch nichts bekannt. Die Situation bleibt daher vorerst dynamisch und erfordert weitere offizielle Bestätigungen, um die Ernsthaftigkeit und die Erfolgsaussichten des Deals einzuschätzen.",
-    "r": "Die Straße von Hormus ist ein zentraler Nadelöhr für den globalen Handel und die Energieversorgung, weshalb Verhandlungen über deren Öffnung internationale Aufmerksamkeit erfordern. Das berichtete Gespräch zwischen den USA und dem Iran über Vermittler könnte direkte Auswirkungen auf die globale Sicherheit und den Ölmarkt haben.",
+    "t": "Iran bietet Deal zur Öffnung der Straße von Hormus an",
+    "s": "Iran hat den USA einen Deal zur Wiedereröffnung der Straße von Hormus innerhalb von sieben Tagen in Aussicht gestellt. Zu diesem Vorschlag gab es bisher eine Reaktion eines US-offiziellen. Dieser bestätigte gegenüber der BBC konstruktive Gespräche über Vermittler.",
+    "m": "Das iranische Angebot sieht vor, die strategisch wichtige Straße von Hormus binnen einer Woche wieder zu öffnen. Bislang sind im Detail nur wenige Informationen zu den konkreten Gegenleistungen oder Bedingungen dieses Deals bekannt geworden. Ein US-offizieller wurde von der BBC mit der Aussage zitiert, dass derzeit konstruktive Diskussionen stattfinden. Diese Gespräche werden demnach über Vermittler geführt. Weitere offizielle Details von iranischer oder US-amerikanischer Seite wurden in den Berichten nicht genannt. Der genaue zeitliche Ablauf und die Identität der beteiligten Vermittler bleiben vorerst offen.",
+    "r": "Die Straße von Hormus ist eine der weltweit wichtigsten Schifffahrtsrouten für den Öltransport. Verhandlungen zwischen Iran und den USA berühren globale wirtschaftliche und sicherheitspolitische Interessen.",
     "srcs": [
       {
         "name": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-25T23:38:48.000Z"
+        "date": "2026-09-26T05:03:09.000Z"
       },
       {
         "name": "Google News World",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5",
-        "date": "2026-09-25T21:57:23.000Z"
+        "date": "2026-09-26T03:49:41.000Z"
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen berichten übereinstimmend, dass der Iran den USA einen Deal zur Wiederöffnung der Straße von Hormus innerhalb von sieben Tagen angeboten hat und ein US-Offizieller konstruktive Gespräche über Vermittler bestätigt.",
+    "agree": "Beide Quellen stimmen überein, dass Iran den USA einen Deal zur Öffnung der Straße von Hormus in sieben Tagen angeboten hat und ein US-offizieller konstruktive Gespräche über Vermittler bestätigt.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Bericht der BBC, ohne eigenständige neue Informationen hinzuzufügen."
+        "note": "Die Meldung verweist lediglich direkt auf den Bericht der BBC und enthält keine eigenständigen Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-efd5cd3a71e2b483",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T04:47:43.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Unionsfraktionschef Frei warnt SPD und Grüne vor Linksbündnis in Berlin",
+    "s": "Nach dem Wahlsieg der Linken in Berlin hat Unionsfraktionschef Thorsten Frei SPD und Grüne vor einer Koalition mit der Partei gewarnt. Die Landesdelegierten der Linken stimmten zuvor mit breiter Mehrheit für die Aufnahme von Sondierungsgesprächen. Die Union lehnt ein solches Bündnis strikt ab.",
+    "m": "Die Berliner Linke hat auf einem Landesparteitag den Weg für mögliche Sondierungen geebnet, nachdem die Delegierten am Abend mit breiter Mehrheit für entsprechende Einladungen an SPD und Grünen gestimmt haben. Dies könnte absehbar zu einer Landesregierung aus Linken, Grünen und SPD in der Hauptstadt führen. Aus der Unionsfraktion kommt daraufhin heftige Kritik, die bereits seit Tagen anhält. Nun hat sich auch Bundestagsfraktionschef Thorsten Frei in die Debatte eingeschaltet und die beiden potenziellen Koalitionspartner eindringlich gewarnt. Er rief SPD und Grüne dazu auf, nicht auf angebliche Lockangebote der Linkspartei hereinzufallen. Frei begründete seine Warnung damit, dass er die Hauptstadt nicht in den Händen der Linkspartei sehen wolle. Offen bleibt bislang, wie die Landesverbände von SPD und Grünen auf den Parteitagsbeschluss und die deutlichen Worte aus der Bundesunion reagieren werden.",
+    "r": "Die mögliche Bildung einer rot-grün-roten oder rot-rot-grünen Landesregierung in Berlin betrifft die bundespolitische Gemengelage und ruft scharfe Kritik der Unionsspitze hervor. Die Debatte verdeutlicht die kontroversen Lagerbildungen bei möglichen Koalitionsoptionen in der Hauptstadt.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-der-linken-in-berlin-100.html",
+        "date": "2026-09-26T04:47:43.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ab71e31a8b3f6fdb1edba44/eklatante-gefahr-frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-linken.html",
+        "date": "2026-09-26T01:33:12.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/berlin-unionsfraktionschef-frei-warnt-spd-und-gruene-vor-linksbuendnis-a-50979d0c-abed-490b-b923-6da88a6c7c97#ref=rss",
+        "date": "2026-09-25T23:35:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-der-linken-in-berlin-100.html",
+    "agree": "Die Quellen sind sich einig, dass Unionsfraktionschef Thorsten Frei SPD und Grüne vor einer Zusammenarbeit mit der Linken in Berlin gewarnt hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet, dass die Delegierten des Landesparteitags der Linken am Abend mit breiter Mehrheit für eine Einladung an Grüne und SPD zu Sondierungen gestimmt haben."
+      },
+      {
+        "name": "WELT",
+        "note": "Erwähnt, dass Frei von Lockangeboten sprach, auf die SPD und Grüne nicht hereinfallen dürften, und dass er die Hauptstadt nicht in den Händen der Linkspartei sehen will."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Merkt an, dass es aus der Union bereits seit Tagen Kritik an einem möglichen Bündnis gibt und Frei nun als Chef der Bundestagsfraktion nachlegt."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-4fbe9eb3d189e70a",
+    "c": "DE",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-26T04:27:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Virtuelle Realität in der Notaufnahme senkt Blutdruck bei Patienten",
+    "s": "Menschen mit plötzlich stark erhöhtem Blutdruck geraten in der Notaufnahme oft in akuten Stress, wodurch der Blutdruck hoch bleibt. Eine neue Maßnahme mit VR-Brillen und Musik soll diesem Effekt entgegenwirken. Der Effekt ist nach Angaben von n-tv bereits nach 15 Minuten messbar.",
+    "m": "In der Notaufnahme treffen bei Patienten mit stark erhöhtem Blutdruck Ungewissheit, grelles Licht und akuter Stress aufeinander. Diese Faktoren tragen dazu bei, dass der Blutdruck der Betroffenen hoch bleibt. Um diesen Zustand zu durchbrechen, wird der Einsatz von VR-Brillen in Erwägung gezogen. Durch das Aufsetzen der Brillen erleben die Patienten eine virtuell erzeugte Landschaft. Diese visuelle Komponente wird mit passender Musik kombiniert, um eine beruhigende Wirkung zu erzielen. Laut den Berichten ist der positive Effekt dieser Methode bereits nach einer Viertelstunde messbar. Weitere Details zum genauen Ablauf der Studie oder der breiten Anwendung in Krankenhäusern gehen aus den vorliegenden Informationen nicht hervor.",
+    "r": "Der Einsatz neuer Technologien wie Virtual Reality zur Stress- und Blutdruckreduktion in Notaufnahmen könnte medizinische Behandlungen ergänzen und die Patientenversorgung verbessern.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnlXSWc4RnVqZ3RwZ0tPa0hHYnpIM1JVUkxrMmpGN2g2ZWhqWmZNQzZLVDB6VU1fV0k2bjMxQ1lTQWY2UnVmQmM2SUlSY3EtUkt4cTIxVlRaTi16c002aFdmZllENmpON0xrM1ZkX1UtYnE4UEQtLVJSLUZZYTZaTmhraXc3MTdxU2hPUUNScEpSVWNtRTd3d1M1Q1Nyd0lVRmFmS2xtR015bnFLMHhV?oc=5",
+        "date": "2026-09-26T04:27:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/wissen/Wieso-manche-Patienten-in-der-Notaufnahme-VR-Brillen-tragen-sollten-id31348258.html",
+        "date": "2026-09-26T04:27:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnlXSWc4RnVqZ3RwZ0tPa0hHYnpIM1JVUkxrMmpGN2g2ZWhqWmZNQzZLVDB6VU1fV0k2bjMxQ1lTQWY2UnVmQmM2SUlSY3EtUkt4cTIxVlRaTi16c002aFdmZllENmpON0xrM1ZkX1UtYnE4UEQtLVJSLUZZYTZaTmhraXc3MTdxU2hPUUNScEpSVWNtRTd3d1M1Q1Nyd0lVRmFmS2xtR015bnFLMHhV?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt die Überschrift mit dem messbaren Effekt nach 15 Minuten und der Empfehlung von VR-Brillen für Patienten in der Notaufnahme."
+      },
+      {
+        "name": "ntv",
+        "note": "Liefert den Hintergrund, dass Patienten mit plötzlich stark erhöhtem Blutdruck in der Notaufnahme unter Stress durch grelles Licht und Ungewissheit leiden, was den Blutdruck hoch hält."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ad70968a3347ef33",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T03:38:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Donald Trump schließt CNN von Reise nach Tennessee aus",
+    "s": "Der Nachrichtensender CNN wurde von einer bevorstehenden Reise des US-Präsidenten Donald Trump nach Tennessee ausgeschlossen. Stattdessen wird ein Trump-freundlicher Kanal die Berichterstattung übernehmen. Der Vorfall ereignet sich kurz nachdem CNN per einstweiliger Verfügung der Zugang zum Weißen Haus wiedererlangt hatte.",
+    "m": "Das Weiße Haus beziehungsweise das Team von Donald Trump hat den Nachrichtensender CNN von einer Reise nach Tennessee ausgeladen. Anstelle von CNN soll ein Medienkanal zum Zug kommen, der als Trump-freundlich gilt. Dieser Ausschluss erfolgt zu einem Zeitpunkt, an dem das Verhältnis zwischen der Regierung und dem Sender ohnehin stark belastet ist. Erst kürzlich hatte CNN vor Gericht eine einstweilige Verfügung erwirkt, um den eigenen Journalisten wieder den Zutritt zum Weißen Haus zu ermöglichen. Die aktuellen Maßnahmen zeigen, dass der Konflikt um die Akkreditierung und den Zugang zu Präsidentschaftsreisen weiterhin andauert. Es ist unklar, ob weitere Medien von ähnlichen Einschränkungen betroffen sein werden und welche offiziellen Begründungen das Weiße Haus für den Ausschluss von CNN in Tennessee liefert.",
+    "r": "Der erneute Ausschluss eines großen Nachrichtensenders von offiziellen Terminen beleuchtet die anhaltenden Spannungen zwischen der US-Regierung und kritischen Medien. Solche Einschränkungen werfen Fragen zur Pressefreiheit und zum Zugang zu Regierungsaktivitäten auf.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUzE1M1paT2JaM1VRTjJwWG8tRUtlOEdhYnhuODVSczEzcFcxZ20xeFc2aXpuTFFQa2FkZUZLRkdiMlpoZ3hCdGYxNGFvNnJEaW9FREVIUTNGbDBUN3VTY0pJZC1udlNHYjhWd29uUFNCc2t0NHdrb0h6U0gtY3RzZmJiZGh0MmNHRFdkWkpWTjZuMTRNU0s4S0xpaFhWbXc0ME5XZTNoRm5lenI0ODY1RFhxRkhRZFVTNFd4aXdKbXc0c1RUT0ZXNDVwN1I1Zw?oc=5",
+        "date": "2026-09-26T03:38:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss",
+        "date": "2026-09-26T03:38:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUzE1M1paT2JaM1VRTjJwWG8tRUtlOEdhYnhuODVSczEzcFcxZ20xeFc2aXpuTFFQa2FkZUZLRkdiMlpoZ3hCdGYxNGFvNnJEaW9FREVIUTNGbDBUN3VTY0pJZC1udlNHYjhWd29uUFNCc2t0NHdrb0h6U0gtY3RzZmJiZGh0MmNHRFdkWkpWTjZuMTRNU0s4S0xpaFhWbXc0ME5XZTNoRm5lenI0ODY1RFhxRkhRZFVTNFd4aXdKbXc0c1RUT0ZXNDVwN1I1Zw?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass CNN von einer Reise von Donald Trump nach Tennessee ausgeschlossen wurde.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich, dass CNN zuvor per einstweiliger Verfügung wieder ins Weiße Haus durfte und dass ein Trump-freundlicher Kanal die Berichterstattung übernimmt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0fef2dff91d85446",
+    "c": "INT",
+    "o": "UK",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-26T02:50:56.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "OpenAI-Bots greifen auf US-Regierungswebsites zu",
+    "s": "KI-Bots von OpenAI haben auf öffentliche Daten von Websites US-amerikanischer Regierungsbehörden zugegriffen. Betroffen sind nach Angaben des Unternehmens unter anderem die US-Zensusbehörde und die Börsenaufsicht SEC. Es ist unklar, wie umfangreich die Zugriffe waren.",
+    "m": "Das Unternehmen OpenAI hat eingeräumt, dass seine Bots auf öffentliche Daten von mehreren Websites von US-Regierungsbehörden zugegriffen haben. Zu den betroffenen Institutionen gehören die US-Zensusbehörde (US Census) sowie die Börsenaufsicht Securities and Exchange Commission (SEC), die die US-Märkte reguliert. Die SEC ist für die Überwachung des Wertpapierhandels und den Schutz von Anlegern zuständig. Weitere Details über den genauen Zweck und die Folgen dieser Datenzugriffe wurden in den Berichten zunächst nicht genannt. Die Situation verdeutlicht die zunehmende Präsenz und Aktivität von automatisierten KI-Systemen im öffentlichen digitalen Raum.",
+    "r": "Der Vorfall wirft Fragen zum automatisierten Zugriff von Künstlicher Intelligenz auf sensible oder öffentliche Regierungsdaten auf. Zudem zeigt er, dass KI-Bots zunehmend mit Webseiten staatlicher Institutionen interagieren.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-26T02:50:56.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
+        "date": "2026-09-26T02:50:56.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass OpenAI-Bots auf Websites mehrerer US-Regierungsbehörden zugegriffen haben.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Nennt konkret die US-Zensusbehörde und die Securities and Exchange Commission als betroffene Einrichtungen."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verlinkt lediglich auf den BBC-Artikel und liefert keine eigenständigen Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-91e3cf3d0fd4b684",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T01:03:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Trump streicht vom Kongress bewilligte Gelder in Höhe von fast einer Milliarde",
+    "s": "US-Präsident Donald Trump hat angekündigt, fast eine Milliarde US-Dollar an vom Kongress bewilligten Mitteln zu streichen. Dabei nutzt er eine seltene und umstrittene Befugnis, um bereits genehmigte Ausgaben zu widerrufen. Betroffen von den Kürzungen sind unter anderem Dienste für Einwanderer sowie diversitätsfördernde Initiativen.",
+    "m": "Das Weiße Haus gab die Kürzungen am Freitag offiziell bekannt. Demnach setzt die US-Regierung ein seltenes Instrument ein, um zuvor vom Kongress mit parteiübergreifender Zustimmung abgesegnete Ausgaben zu streichen. Trumps Amt für Verwaltung und Haushalt (OMB) begründete den Schritt damit, dass es sich dabei um besonders schädliche Staatsausgaben handele. Die betroffenen Mittel waren unter anderem für die Unterstützung von Einwanderern sowie für Initiativen im Bereich Vielfalt vorgesehen. Der Einsatz dieser Machtbefugnis zur Rücknahme von Ausgaben gilt als politisch umstritten und wird genau beobachtet. Nähere Details zur genauen Verteilung der gestrichenen Summen oder zu Reaktionen des Kongresses gehen aus den vorliegenden Berichten zunächst nicht hervor. Es bleibt abzuwarten, wie Gesetzgeber auf diesen Eingriff in das Budgetrecht des Parlaments reagieren.",
+    "r": "Die einseitige Streichung von vom Parlament genehmigten Bundesmitteln durch den Präsidenten betrifft die Budgethoheit des Kongresses und beeinflusst direkt staatliche Programme für Einwanderer.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1BrOWo3TjFrRkdselZVV25adnhUNWMtcXUyUnFEUlhDNEtVUHRXMTVMbUFCMEVqTDdKQmRUTlpWeGVZU0UtaFFvWU5GbmxBZE5Uc1RWZjlWUjNuYTMtTmJhYlRXSEdzRnAwNzdZTkxPYjFLRE5Zc0FWNG02TW1odW1nbjQ?oc=5",
+        "date": "2026-09-26T01:03:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+        "date": "2026-09-26T01:00:34.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1BrOWo3TjFrRkdselZVV25adnhUNWMtcXUyUnFEUlhDNEtVUHRXMTVMbUFCMEVqTDdKQmRUTlpWeGVZU0UtaFFvWU5GbmxBZE5Uc1RWZjlWUjNuYTMtTmJhYlRXSEdzRnAwNzdZTkxPYjFLRE5Zc0FWNG02TW1odW1nbjQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Donald Trump vom Kongress bewilligte Gelder in Höhe von fast einer Milliarde US-Dollar streicht.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Erwähnt, dass das Weiße Haus die Entscheidung am Freitag bekannt gab, das Amt für Verwaltung und Haushalt (OMB) die Maßnahme als Abbau schädlicher Ausgaben bezeichnete und die Kürzungen speziell Einwandererdienste sowie Diversitätsinitiativen betreffen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d7edb8b649dac10f",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T00:06:19.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Iran wartet auf US-Reaktion zu Fahrplan zur Beendigung des Krieges",
+    "s": "Der Iran hat nach eigenen Angaben auf einen von ihm vorgeschlagenen Sieben-Tage-Fahrplan zur Beendigung des Krieges hingewiesen. Nun wird eine Antwort aus den USA erwartet. Das Konzept beinhaltet unter anderem Schritte zur Wiedereröffnung der Straße von Hormus.",
+    "m": "Die iranische Führung hat einen Sieben-Tage-Fahrplan zur Beendigung des Konflikts vorgelegt und wartet nun auf eine offizielle Reaktion der Vereinigten Staaten. Nach Angaben aus Teheran sieht der Plan vor, dass bei einer Zustimmung Washingtons innerhalb einer Woche die strategisch wichtige Straße von Hormus wieder geöffnet wird. Zudem sollen zeitgleich die ausgesetzten Atomgespräche wieder aufgenommen werden. Bislang gibt es keine offizielle Bestätigung oder Stellungnahme der US-Regierung zu diesem Vorschlag. Die Initiative könnte einen diplomatischen Wendepunkt markieren, sofern die USA auf die Bedingungen eingehen. Offen ist derzeit, wie Washington zu den konkreten Fristen und Inhalten des iranischen Angebots steht.",
+    "r": "Die Meldung ist relevant, da ein konkreter iranischer Vorschlag zur Beendigung des Konflikts und zur Wiederöffnung der Straße von Hormus im Raum steht, dessen Annahme durch die USA weitreichende geopolitische Folgen hätte.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVpY3RpelFjOUdTUl9uajZnRFBZbXdfV3VOR05IZFlnUnJ0cUlSR3pucnFXRXlEdHpMNzRLSkppTjItRWtlTEVrdlp5eXZBaDNjVzQ2OEhKbGZRak5RdmJqVWotTHlVaFozMnNTeG1OWkVqbWZpMVFDdFQ0Mk5XZzFtSnRXMU1CS3o2OE1hbVQwUVhIVXAwWjdkaUFwQXNGZExqMFVEc9IBrAFBVV95cUxNVDQ5M2k2Y0lqNlFkS3F0ajg0bzRYemRVZzZTVHlVaDdTNW5qbnNZX0ZnRTlPNmdaNHh4OWJlVFRnZlkwNUFzb3VPLV9uYlRrOFlyZ2pFc0s1bUQxaWhUS2F6VnBvWXhMVWYxWF9vLWpscGI5Q1BIeXpvNmp6ZTlYVU5mMTk0SGhvVUprNFpKTWJKV1NVRV9iNTFSSkJxeEMwczR3RzVFeVF4dWps?oc=5",
+        "date": "2026-09-26T00:06:19.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+        "date": "2026-09-25T23:52:18.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVpY3RpelFjOUdTUl9uajZnRFBZbXdfV3VOR05IZFlnUnJ0cUlSR3pucnFXRXlEdHpMNzRLSkppTjItRWtlTEVrdlp5eXZBaDNjVzQ2OEhKbGZRak5RdmJqVWotTHlVaFozMnNTeG1OWkVqbWZpMVFDdFQ0Mk5XZzFtSnRXMU1CS3o2OE1hbVQwUVhIVXAwWjdkaUFwQXNGZExqMFVEc9IBrAFBVV95cUxNVDQ5M2k2Y0lqNlFkS3F0ajg0bzRYemRVZzZTVHlVaDdTNW5qbnNZX0ZnRTlPNmdaNHh4OWJlVFRnZlkwNUFzb3VPLV9uYlRrOFlyZ2pFc0s1bUQxaWhUS2F6VnBvWXhMVWYxWF9vLWpscGI5Q1BIeXpvNmp6ZTlYVU5mMTk0SGhvVUprNFpKTWJKV1NVRV9iNTFSSkJxeEMwczR3RzVFeVF4dWps?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass der Iran auf eine Antwort der USA zu einem vorgeschlagenen Sieben-Tage-Fahrplan zur Beendigung des Krieges wartet.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet zusätzlich, dass der Plan bei Zustimmung Washingtons die Wiederöffnung der Straße von Hormus und die Wiederaufnahme von Atomgesprächen innerhalb einer Woche vorsieht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ac64430632533abf",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T23:32:35.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "SPD droht im Kabinett mit Blockade der Pflegereform",
+    "s": "Die für Mittwoch geplante Verabschiedung der Pflegereform im Bundeskabinett steht möglicherweise vor einer Hürde. Die SPD kündigte an, nachverhandeln zu wollen. Grund für das Einlenken sind strittige Punkte bei den künftigen Leistungen.",
+    "m": "Am kommenden Mittwoch soll die Pflegereform im Bundeskabinett beschlossen werden, doch die SPD droht nun mit einer Blockade. Die Partei verlangt Nachverhandlungen und stellt sich gegen geplante Leistungskürzungen. Konkret bringt SPD-Generalsekretär Tim Klüssendorf die Forderung nach einem Pflegedeckel ins Spiel. Weitere Details zu den genauen Gegenfinanzierungen oder dem Zeitplan nach einer möglichen Verschiebung nennen die Berichte bisher nicht.",
+    "r": "Die drohende Blockade der SPD gefährdet den beschleunigten Zeitplan für die wichtige Reform im Bundeskabinett. Dies wirft Fragen über die Handlungsfähigkeit der Koalition in sozialpolitischen Kernfragen auf.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101453442/spd-droht-bei-der-pflegereform-mit-blockade.html",
+        "date": "2026-09-25T23:32:35.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ab6fa63a8b3f6fdb1edb9e5/gesetzesentwurf-spd-droht-mit-blockade-der-pflegereform-im-kabinett.html",
+        "date": "2026-09-25T23:19:09.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101453442/spd-droht-bei-der-pflegereform-mit-blockade.html",
+    "agree": "Die Quellen stimmen überein, dass die SPD mit einer Blockade der Pflegereform droht, die am Mittwoch im Kabinett beschlossen werden soll.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet allgemein, dass die SPD mit einer Blockade droht und nachverhandeln will."
+      },
+      {
+        "name": "WELT",
+        "note": "Nennt SPD-Generalsekretär Tim Klüssendorf als Verkündenden, führt aus, dass keine Leistungskürzungen akzeptiert werden, und bringt die Forderung nach einem Pflegedeckel ein."
       }
     ],
     "chg": "",
@@ -46,10 +371,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Papst Leo XIV. warnt in Frankreich vor Gefahren durch Künstliche Intelligenz",
-    "s": "Bei seinem ersten Papstbesuch in Frankreich hat Papst Leo XIV. vor den Risiken des technologischen Fortschritts gewarnt. Tausende Gläubige versammelten sich in Paris. Im Elysée-Palast äußerte das Kirchenoberhaupt existenzielle Bedenken.",
-    "m": "Der Papst warnte während seines Besuchs im Elysée-Palast vor einer technisierten Zukunft, die er als 'Paradies der Maschinen' bezeichnete. Er betonte, dass solche Entwicklungen die Menschheit untergraben könnten. Die Rede umfasste grundlegende existenzielle Fragen zum wissenschaftlichen Fortschritt, zum menschlichen Leben und zu den Menschenrechten. Zu dem Ereignis versammelten sich tausende Menschen in Paris, um das Kirchenoberhaupt zu empfangen. Es handelt sich um die erste apostolische Reise des Papstes nach Frankreich, bei der gesellschaftspolitische und technologische Themen im Mittelpunkt stehen.",
-    "r": "Die Äußerungen des Papstes zu technologischem Fortschritt und Künstlicher Intelligenz berühren fundamentale gesellschaftliche Fragen. Das Event verdeutlicht den Dialog zwischen Kirche und moderner Wissenschaft.",
+    "t": "Papst Leo XIV. warnt in Frankreich vor Gefahren durch KI",
+    "s": "Bei seinem ersten Papstbesuch in Frankreich hat Papst Leo XIV. vor den Risiken künstlicher Intelligenz gewarnt. Tausende Gläubige versammelten sich in Paris, während der Pontifex im Elysée-Palast sprach. Er rief dazu auf, die Menschlichkeit angesichts des technologischen Fortschritts zu wahren.",
+    "m": "Im Rahmen seines Besuchs in Frankreich äußerte Papst Leo XIV. fundamentale Bedenken hinsichtlich des wissenschaftlichen Fortschritts, des menschlichen Lebens und der Menschenrechte. Vor versammelten Menschenmengen in Paris warnte er davor, dass eine Welt als Maschinenparadies die Menschheit untergraben könnte. Diese Äußerungen machte er während einer Rede im Elysée-Palast. Die Reise markiert den ersten offiziellen Aufenthalt des Papstes in diesem Land. Nähere Details zum genauen zeitlichen Ablauf oder weiteren Gesprächspartnern vor Ort nennen die Berichte bisher nicht. Offen bleibt zudem, welche konkreten politischen Reaktionen die Rede auslösen wird.",
+    "r": "Die Äußerungen eines religiösen Oberhaupts zur ethischen Vertretbarkeit von Künstlicher Intelligenz und Technologie sind von gesellschaftlicher Relevanz. Sie berühren grundlegende Fragen des menschlichen Zusammenlebens und der künftigen Entwicklung.",
     "srcs": [
       {
         "name": "Al Jazeera",
@@ -63,15 +388,89 @@
       }
     ],
     "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Papst Leo XIV. bei seinem Besuch in Frankreich vor den Gefahren von Maschinen und wissenschaftlichem Fortschritt für die Menschheit gewarnt hat.",
+    "agree": "Die Quellen stimmen darin überein, dass Papst Leo XIV. bei seinem Besuch in Frankreich vor den Gefahren von Maschinen und künstlicher Intelligenz für die Menschheit gewarnt hat.",
     "diff": [
       {
         "name": "Al Jazeera",
-        "note": "Berichtet spezifisch über die Warnung vor Künstlicher Intelligenz und erwähnt die versammelten Menschenmassen am Elysée-Palast in Paris."
+        "note": "Erwähnt konkret die Versammlung von Tausenden Menschen in Paris und die Rede im Elysée-Palast."
       },
       {
         "name": "NPR World",
-        "note": "Erwähnt allgemein existenzielle Bedenken zum wissenschaftlichen Fortschritt, zu Leben und Menschenrechten während seines ersten Papstbesuchs in Frankreich."
+        "note": "Berichtet allgemeiner über existenzielle Bedenken zu wissenschaftlichem Fortschritt, Leben und Menschenrechten während des ersten Papstbesuchs in Frankreich."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5aa4c41dc493bda4",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-25T23:12:22.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "EU-Kommission räumt Energiepreiskrise ein und fordert Sparmaßnahmen",
+    "s": "Angesichts der steigenden Energiepreise hat die Europäische Kommission die Regierungen der Mitgliedstaaten zum Sparen aufgerufen. In einem Schreiben wurde an alle Energieminister der EU appelliert, Maßnahmen zur Reduzierung des Verbrauchs von Gas und Elektrizität zu ergreifen. Brüssel erkennt damit offiziell die angespannte Lage auf dem Energiemarkt an.",
+    "m": "Die Europäische Kommission hat in einer internen Mitteilung, die der RTP Antena 1 vorliegt, auf die kritische Situation bei den Energiepreisen reagiert. Der EU-Energiekommissar wandte sich direkt an die Energieminister sämtlicher EU-Mitgliedstaaten, um konkrete Schritte einzufordern. Konkret sollen die Regierungen dazu angehalten werden, aktiv bei ihren Bürgern und in der Wirtschaft den Verbrauch von Gas und Strom zu drosseln. Ziel dieser Initiative ist es, auf die drastische Preisentwicklung zu reagieren und Engpässe zu verhindern. Bisher wurden keine verpflichtenden Grenzwerte oder konkreten nationalen Quoten genannt, jedoch wird der Druck aus Brüssel auf die nationalen Regierungen erhöht, um europaweit Einsparungen zu erzielen. Offen bleibt, wie die Regierungen diese Appelle praktisch umsetzen und welche spezifischen Empfehlungen zur Anwendung kommen.",
+    "r": "Die Aufforderung der EU-Kommission an die Mitgliedstaaten ist relevant, da sie einen koordinierten europäischen Ansatz zur Bewältigung der Energiepreiskrise und zur Senkung des Verbrauchs von Gas und Elektrizität einleitet.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5",
+        "date": "2026-09-25T23:12:22.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/bruxelas-admite-crise-de-precos-da-energia-e-sugere-medidas-de-poupanca-aos-governos_n1767823",
+        "date": "2026-09-25T22:18:53.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Brüssel eine Krise bei den Energiepreisen einräumt und den Regierungen Energiesparmaßnahmen vorschlägt.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet detailliert, dass das Schreiben an alle Energieminister der EU-Mitgliedstaaten gerichtet ist und der RTP Antena 1 vorliegt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fe8f211e60b858a7",
+    "c": "INT",
+    "o": "UK",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-25T23:05:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "FBI-Hack löst Besorgnis und Verärgerung bei Agenten aus",
+    "s": "Nach einem gefährlichen Datenleck beim FBI äußern aktuelle und ehemalige Agenten gegenüber der BBC ihre Sorge und Wut. Sie sprechen über die verheerenden Auswirkungen des Vorfalls. Bislang sind vor allem die emotionalen Reaktionen und die Sorge um die Sicherheit bekannt. Konkrete Täter oder technische Details wurden in den Meldungen noch nicht genannt.",
+    "m": "Ein schwerer Datenangriff auf das FBI hat bei den Mitarbeitern der Behörde große Verärgerung und Angst ausgelöst. Aktuelle sowie ehemalige Agenten haben sich gegenüber der BBC zu dem Vorfall geäußert und die Situation als gefährlich eingestuft. Sie schildern die Auswirkungen des Hacks als verheerend für die Organisation und das Vertrauen. Derzeit sind viele Details über den genauen Hergang, den Zeitpunkt des Angriffs und die Verantwortlichen noch nicht öffentlich bekannt. Auch das Ausmaß der entwendeten Daten wird in den vorliegenden Berichten nicht beziffert. Offen bleibt zudem, welche konkreten Gegenmaßnahmen die Behörde ergreift, um künftige Sicherheitslücken zu schließen und die Identität der Betroffenen zu schützen.",
+    "r": "Der Vorfall zeigt erhebliche Sicherheitsrisiken bei US-Bundesbehörden auf und beeinträchtigt das Sicherheitsgefühl sowie das Vertrauen der Mitarbeiter im FBI. Dies unterstreicht die anhaltenden Herausforderungen beim Schutz sensibler Behördendaten vor gezielten Cyberangriffen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T23:05:40.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bWQzZnNOSEoycjVzbWZaU0NVbF9HSFVPeEJJcVd2SEgxNjREcXAxajhiVjNJUTFJWFQ4QndJdnNqSEhkeDhUOVkta21aQjJ5eXlJSHVaSGhzX2c?oc=5",
+        "date": "2026-09-25T23:05:40.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass es einen schwerwiegenden Hack beim FBI gab, der bei Agenten zu Wut und Angst geführt hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Originalartikel der BBC und enthält keine eigenständigen Zusatzinformationen."
       }
     ],
     "chg": "",
@@ -87,10 +486,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Michigan-CEO verliert Job wegen KI-Bild mit umstrittenem See-Namen",
-    "s": "Eine CEO einer Credit Union in Michigan hat ihren Arbeitsplatz verloren, nachdem sie ein KI-generiertes Bild auf Social Media geteilt hatte. Die Aufnahme zeigte sie und ihre Familie in Pullovern mit der Aufschrift Lake America. Der Begriff bezieht sich auf eine von Donald Trump angeordnete Bezeichnung für den Ontariosee inmitten eines Handelskonflikts mit Kanada.",
-    "m": "Die CEO Jane Smith verwendete laut Berichten ChatGPT, um ein Foto entsprechend zu bearbeiten. Das so erstellte Bild zeigt ihre Familie in Pullovern, die mit dem Donald Trump assoziierten Begriff Lake America versehen sind. Die Family First Credit Union gab daraufhin in einer Erklärung bekannt, dass Jane Smith nicht mehr als CEO für die Organisation tätig ist. Der Vorfall ereignete sich vor dem Hintergrund politischer Spannungen und eines Handelskonflikts zwischen den USA und Kanada. Ob weitere arbeitsrechtliche oder gesellschaftliche Konsequenzen folgen, ist derzeit noch offen. Die genauen Umstände des Entstehungsprozesses des Postings werden in den Berichten beleuchtet.",
-    "r": "Der Fall verdeutlicht die beruflichen Konsequenzen für Führungskräfte bei der Verbreitung politisch aufgeladener oder künstlich erzeugter Inhalte im Netz. Zudem zeigt er die Sensibilität von Unternehmen in Bezug auf politische Äußerungen ihrer Leitungsebene.",
+    "t": "Michigan-CEO verliert Job nach KI-Bild von See-Umbenennung",
+    "s": "Die Vorstandschefin einer Kreditunion in Michigan hat ihren Posten verloren, nachdem sie ein KI-generiertes Bild auf Social Media veröffentlicht hatte. Die Aufnahme zeigte sie und ihre Familie in Pullovern mit der Aufschrift Lake America. Dies ist jener Name, den Donald Trump für den Ontariosee angeordnet haben soll.",
+    "m": "Die CEO Jane Smith verwendete laut Berichten ChatGPT, um ein Foto entsprechend zu bearbeiten. Das Motiv sollte den umstrittenen Namen widerspiegeln, den US-Behörden während eines Handelskriegs mit Kanada für den Lake Ontario nutzen sollen. Die Organisation Family First Credit Union gab in einer Erklärung bekannt, dass Jane Smith nicht mehr für das Unternehmen tätig ist. Die Veröffentlichung des Bildes und die anschließende Entlassung werfen Fragen zum Umgang von Führungskräften mit KI-generierten Inhalten und politisch aufgeladenen Symbolen auf. Weitere Details zur genauen Beschlussfassung des Vorstands wurden zunächst nicht bekannt. Die Reaktionen auf den Vorfall verdeutlichen die sensiblen Grenzen zwischen privater Meinungsäußerung im Netz und den beruflichen Konsequenzen für Führungspersonen in den USA.",
+    "r": "Der Vorfall zeigt, wie stark die Nutzung künstlicher Intelligenz für politische Statements und die Verbreitung umstrittener Begriffe den beruflichen Status von Führungskräften gefährden kann. Die Entlassung verdeutlicht die sensiblen Reputationsrisiken für Unternehmen durch Social-Media-Aktivitäten ihres Managements.",
     "srcs": [
       {
         "name": "Google News World",
@@ -104,15 +503,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlBX3B2bGdGZ2g5czNEemhjM1RfdDVUUEJkWEFwR1BzbEhhdVdQUHlhVnZya2JfZ3J5d3I5cjk2ZTdKRG14UXZBX05TYXdVYkFyQXpKN0ZBTlpaVkU4Z0t4UGFyUzM1dlpmRXJ0NHhpcDhGVWFaWlFrdzZWT09wMDhFZWpENWs2czVidmMzYnozeXM?oc=5",
-    "agree": "Die Quellen stimmen überein, dass eine CEO aus Michigan ihren Posten verloren hat, nachdem sie ein KI-generiertes Bild mit dem Text Lake America auf Social Media gepostet hatte.",
+    "agree": "Die Quellen stimmen überein, dass eine CEO in Michigan ihren Job verloren hat, nachdem sie ein KI-generiertes Bild mit dem Aufdruck Lake America auf Social Media gepostet hatte.",
     "diff": [
       {
-        "name": "Guardian World",
-        "note": "nennt Jane Smith als CEO, die Verwendung von ChatGPT für das Foto und die Family First Credit Union als Organisation."
+        "name": "Google News World",
+        "note": "Bringt lediglich die Kurzüberschrift der Geschichte ohne Artikeltext."
       },
       {
-        "name": "Google News World",
-        "note": "bietet lediglich die Schlagzeile zu dem Vorfall."
+        "name": "Guardian World",
+        "note": "Liefert den vollständigen Kontext inklusive des Namens Jane Smith, der Nutzung von ChatGPT und der offiziellen Mitteilung der Family First Credit Union."
       }
     ],
     "chg": "",
@@ -383,10 +782,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Vier italienische Nato-Soldaten bei Militärübung in Lettland verletzt",
-    "s": "Bei einer Nato-Übung im lettischen Ādaži ist es zu einem schweren Zwischenfall gekommen, bei dem vier italienische Soldaten verletzt wurden. Das italienische Militär hat Ermittlungen zu den Vorfällen aufgenommen. Ein Soldat erlitt schwere Verletzungen, es besteht jedoch keine Lebensgefahr.",
-    "m": "Der Vorfall ereignete sich während einer Übung in Lettland, wo das westliche Bündnis mit einer multinationalen Brigade stationiert ist. Konkret sind 300 italienische Soldaten in dem baltischen Land im Einsatz. Bei dem Manöver kam es zu Maschinengewehrfeuer, welches auch von einem Panzer abgegeben wurde, wodurch die vier Soldaten verletzt wurden. Einer der Betroffenen wurde schwer verletzt, befindet sich aber Medienberichten zufolge nicht in Lebensgefahr. Das italienische Militär untersucht derzeit die genauen Umstände und den Ablauf des Unfalls. Offen bleibt bislang, wie es zu der Fehlfunktion oder dem folgenschweren Schusswaffeneinsatz während des Manövers kommen konnte.",
-    "r": "Der Zwischenfall betrifft Soldaten eines Bündnispartners im Rahmen eines internationalen Nato-Einsatzes. Die Verletzung von vier Soldaten bei einer Übung wirft Fragen zur Sicherheit bei militärischen Manövern auf.",
+    "t": "Vier italienische Nato-Soldaten bei Übung in Lettland verletzt",
+    "s": "Bei einer Militärübung der Nato im lettischen Ādaži sind vier italienische Soldaten verletzt worden. Zum genauen Hergang des Zwischenfalls gibt es unterschiedliche Angaben aus den Quellen. Das italienische Militär hat Ermittlungen aufgenommen.",
+    "m": "In dem baltischen Land sind 300 italienische Soldaten als Teil einer multinationalen Nato-Brigade stationiert. Während einer Übung in Ādaži kam es zu dem schweren Zwischenfall, bei dem vier italienische Soldaten verletzt wurden. Laut übereinstimmenden Berichten gab es Verletzte durch Schüsse, wobei eine Quelle von Maschinengewehrfeuer und eine andere von Schüssen aus einem Panzer spricht. Einer der Soldaten erlitt schwere Verletzungen, es besteht jedoch keine Lebensgefahr. Das italienische Militär untersucht nun die genauen Ursachen und Umstände des Vorfalls während des Manövers.",
+    "r": "Der Vorfall bei einer Nato-Militärübung im Bündnisgebiet betrifft die Sicherheit und Zusammenarbeit der beteiligten Streitkräfte. Da Soldaten im aktiven Dienst verletzt wurden, sind die genaue Aufklärung des Hergangs und die Überprüfung von Sicherheitsstandards von Bedeutung.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -405,23 +804,60 @@
       }
     ],
     "url": "https://www.spiegel.de/ausland/lettland-vier-italienische-nato-soldaten-bei-uebung-in-adazi-verletzt-a-6bceb4e2-719f-46e4-ada6-207363175677#ref=rss",
-    "agree": "Die Quellen stimmen überein, dass vier italienische Nato-Soldaten bei einer Übung in Lettland verletzt wurden.",
+    "agree": "Alle Quellen stimmen überein, dass vier italienische Nato-Soldaten bei einer Übung in Lettland verletzt wurden.",
     "diff": [
       {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt, dass 300 italienische Soldaten als Teil einer multinationalen Brigade in Ādaži stationiert sind und dass das italienische Militär ermittelt."
-      },
-      {
         "name": "WELT",
-        "note": "Berichtet spezifisch, dass die Verletzungen durch Maschinengewehrfeuer verursacht wurden und einer der Soldaten schwer, aber nicht lebensgefährlich verletzt wurde."
+        "note": "Berichtet, dass die Soldaten durch Maschinengewehrfeuer verletzt wurden, und nennt genauere Details zum Verletztenstatus (einer schwer verletzt, keine Lebensgefahr)."
       },
       {
         "name": "t-online Nachrichten",
-        "note": "Ergänzt die Information, dass die Schüsse von einem Panzer abgegeben wurden."
+        "note": "Erwähnt zusätzlich, dass die Soldaten nach Schüssen von einem Panzer verletzt wurden."
       }
     ],
     "chg": "",
     "independent": 3
+  },
+  {
+    "id": "story-f43fa3f46a08da4d",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-25T19:50:21.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Gericht stellt Nutzertäuschung von Meta im Cambridge-Analytica-Skandal fest",
+    "s": "Im langjährigen Skandal um den unbefugten Zugriff auf Facebook-Nutzerdaten durch Cambridge Analytica hat ein US-Gericht Meta Täuschung vorgeworfen. Ein Geschworenengericht im US-Bundesstaat New Mexico kam zu dem entsprechenden Urteil. Dem Tech-Konzern droht nun eine erhebliche Geldbuße.",
+    "m": "Der Vorfall reiht sich in die langwierigen juristischen Auseinandersetzungen um den Datenschutz bei Meta ein. Ein Geschworenengericht im US-Bundesstaat New Mexico hat offiziell festgestellt, dass der Tech-Konzern Nutzer im Zusammenhang mit dem Cambridge-Analytica-Skandal getäuscht hat. Bei diesem Skandal ging es um heimlich erhobene Daten von Millionen Facebook-Nutzern. Die genaue Höhe der Geldbuße, die auf das Unternehmen zukommt, steht noch aus, es droht jedoch eine beträchtliche finanzielle Sanktion. Der Mutterkonzern Meta sieht sich damit weiterhin mit den Nachwirkungen des Datenmissbrauchs konfrontiert. Das Urteil könnte wegweisend für weitere Verfahren und die Ahndung von Datenschutzverstößen in den USA sein. Weitere Details zum zeitlichen Ablauf oder zur Höhe der Forderungen nennen die vorliegenden Berichte bisher nicht.",
+    "r": "Das Urteil eines US-Gerichts gegen Meta ist relevant, da es die rechtlichen Konsequenzen im historischen Datenskandal um Cambridge Analytica verschärft und dem Tech-Konzern eine spürbare Geldbuße droht.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUZBbktiMUhmRzdDdnJ0TDhjN3Y5SktsTTRPU2JvYjZfOFBEcjhHVjhmd3FLckJiQ0hKYlBjNGhsa0J3MVpSa3ZyUFBsM2xBd0c1YktqaWphbkxodEdubHM5a00ydGx0MmhNa0I0RFVzWjR1bHZFdWxsSDVVN1V6MTNKOW9Yb05oQjB0ODI3Z05uYjR0MFJ3eFlVcFA4NUxkNEFQZlJSS1JxNjJON2VobW9weTBnQk93WVhv?oc=5",
+        "date": "2026-09-25T19:50:21.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/US-Gericht-attestiert-Meta-Nutzertaeuschung-in-Cambridge-Analytica-Skandal-id31349973.html",
+        "date": "2026-09-25T19:50:21.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUZBbktiMUhmRzdDdnJ0TDhjN3Y5SktsTTRPU2JvYjZfOFBEcjhHVjhmd3FLckJiQ0hKYlBjNGhsa0J3MVpSa3ZyUFBsM2xBd0c1YktqaWphbkxodEdubHM5a00ydGx0MmhNa0I0RFVzWjR1bHZFdWxsSDVVN1V6MTNKOW9Yb05oQjB0ODI3Z05uYjR0MFJ3eFlVcFA4NUxkNEFQZlJSS1JxNjJON2VobW9weTBnQk93WVhv?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf die Schlagzeile von n-tv.de und erwähnt weitere Schlagzeilen und Meinungen."
+      },
+      {
+        "name": "ntv",
+        "note": "Berichtet detailliert über die Feststellung der Täuschung durch ein Geschworenengericht in New Mexico und die drohende Geldbuße."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-771f63fbe9281a42",
@@ -434,9 +870,9 @@
     "st": "",
     "city": "",
     "t": "Xi Jinping und Trump treffen zu Gesprächen in Washington zusammen",
-    "s": "Der chinesische Staatschef Xi Jinping ist am Freitag zu einem Treffen mit US-Präsident Donald Trump in die Casa Branca zurückgekehrt. Bei dem Empfang mit traditioneller chinesischer Zeremonie betonten beide Seiten die Bedeutung einer konstruktiven Zusammenarbeit. Xi hob hervor, dass er eine Beziehung auf Basis von Respekt, Gerechtigkeit und Gegenseitigkeit anstrebt.",
-    "m": "Das Treffen zwischen dem chinesischen Staatspräsidenten Xi Jinping und dem US-Präsidenten Donald Trump fand am Freitag statt und endete mit der Aussicht auf eine dauerhafte Partnerschaft. Xi wurde bei seiner Rückkehr in die Casa Branca feierlich mit einer traditionellen chinesischen Zeremonie empfangen. Im Rahmen der Gespräche bekräftigte der chinesische Machthaber das Ziel, die bilateralen Beziehungen künftig auf den Grundsätzen des gegenseitigen Respekts, der Gerechtigkeit und der Gegenseitigkeit aufzubauen. Beide Staatsmänner richteten ihren Blick dabei auf ein gemeinsames Zukunftsszenario. Konkrete wirtschaftliche oder politische Abkommen wurden in den Berichten jedoch nicht im Detail genannt. Die Zusammenkunft markiert einen weiteren diplomatischen Austausch auf höchster Ebene zwischen den beiden weltpolitischen Kontrahenten.",
-    "r": "Das Treffen zwischen den Führern der USA und Chinas ist von hoher geo- und wirtschaftspolitischer Relevanz, da die bilaterale Beziehung beider Supermächte maßgeblich die globale Stabilität beeinflusst.",
+    "s": "Der chinesische Staatschef Xi Jinping ist zu einem Treffen mit US-Präsident Donald Trump in den US-Präsidentenpalast gereist. Beide Seiten zeigten sich bei dem Treffen gesprächsbereit und blickten auf eine mögliche künftige Zusammenarbeit. Die Begegnung wurde von traditionellen Elementen begleitet.",
+    "m": "Xi Jinping kehrte am Freitag in das Weiße Haus zurück, wo er feierlich mit einer traditionellen chinesischen Zeremonie empfangen wurde. Im Zentrum der Gespräche stand die Gestaltung der künftigen bilateralen Beziehungen zwischen den beiden Supermächten. Der chinesische Staatschef betonte vor den Medien, dass er eine stabile Partnerschaft anstrebe, die auf den Prinzipien des gegenseitigen Respekts, der Gerechtigkeit und der Reziprozität aufbaut. Beide Staatsmänner äußerten sich optimistisch bezüglich eines gemeinsamen Kurses für die Zukunft. Konkrete Handels- oder Abkommensdetails wurden in der Berichterstattung zunächst nicht genannt. Das Treffen markiert einen weiteren diplomatischen Schritt im Austausch der beiden Regierungschefs.",
+    "r": "Das Treffen zwischen den Spitzenpolitikern der USA und Chinas ist für die globale Geopolitik und die internationalen Wirtschaftsbeziehungen von zentraler Bedeutung. Solche hochrangigen diplomatischen Begegnungen beeinflussen direkt die Handelsmärkte und die weltweite Stabilität.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -444,21 +880,17 @@
         "date": "2026-09-25T19:37:49.000Z"
       },
       {
-        "name": "RTP Notícias",
+        "name": "RTP Mundo",
         "url": "https://www.rtp.pt/noticias/mundo/encontro-entre-xi-jinping-e-trump-termina-em-promessa-de-parceria-duradoura_n1767772",
         "date": "2026-09-25T18:44:58.000Z"
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5",
-    "agree": "Beide Quellen berichten übereinstimmend über das Treffen zwischen Xi Jinping und Donald Trump sowie die Aussicht auf eine dauerhafte Partnerschaft.",
+    "agree": "Die Quellen stimmen überein, dass sich Xi Jinping und Donald Trump getroffen haben und dabei eine dauerhafte Partnerschaft beziehungsweise ein gemeinsamer Zukunftskurs in Aussicht gestellt wurde.",
     "diff": [
       {
-        "name": "Google News Portugal",
-        "note": "Erwähnt im Titel, dass das Treffen in der Partnerschafts-Zusage endete, und verlinkt auf die RTP-Berichterstattung."
-      },
-      {
-        "name": "RTP Notícias",
-        "note": "Liefert konkrete Details über die traditionelle chinesische Willkommenszeremonie in der Casa Branca am Freitag und Zitate zu Respekt, Gerechtigkeit und Gegenseitigkeit."
+        "name": "RTP Mundo",
+        "note": "Berichtet ergänzend, dass Xi Jinping am Freitag in die Casa Branca zurückgekehrt ist und dort mit einer traditionellen chinesischen Zeremonie empfangen wurde."
       }
     ],
     "chg": "",
@@ -580,6 +1012,43 @@
     "independent": 2
   },
   {
+    "id": "story-c7a69cdd5991e564",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-25T19:13:35.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "US-Höchstgericht erlaubt Trump Nutzung von Wählerdatenbank",
+    "s": "Der US Supreme Court hat die Verwendung einer umstrittenen Datenbank durch Donald Trump zur Überprüfung der Staatsbürgerschaft von Wählern erlaubt. Kritiker äußern die Befürchtung, dass diese Maßnahme zu fälschlichen Streichungen berechtigter Bürger von den Wählerlisten führen könnte. Die Zuverlässigkeit der dafür vorgesehenen Daten wird von verschiedenen Seiten infrage gestellt.",
+    "m": "Der Oberste Gerichtshof der Vereinigten Staaten hat eine Entscheidung getroffen, die Donald Trump die Nutzung der sogenannten SAVE-Datenbank ermöglicht. Mit diesem Instrument soll die Staatsbürgerschaft von Personen überprüft werden, die in Wählerverzeichnissen eingetragen sind oder sich registrieren wollen. Das Vorgehen stößt jedoch auf scharfe Kritik von Beobachtern und Organisationen. Sie warnen davor, dass Unzulänglichkeiten oder Fehler in den genutzten Daten dazu führen könnten, dass rechtmäßige US-Bürger fehlerhaft von den Wahlregistern gelöscht werden und somit ihr Stimmrecht verlieren. Bisher liegen keine näheren Details zu den genauen Kriterien oder dem zeitlichen Rahmen der Umsetzung vor, und auch die Frage möglicher gerichtlicher Nachspielthemen bleibt offen.",
+    "r": "Die Entscheidung des Supreme Courts berührt grundlegende Fragen des Wahlrechts und der Bürgerrechte in den USA. Die Nutzung staatlicher Datenbanken zur Wählerüberprüfung hat direkte Auswirkungen auf die Integrität und Zugänglichkeit von Wahlen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-25T19:13:35.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9La1ZNeG5MN2QyeWtqYmY0N0ZTR0VybUVtaDRZYzM2aWQ4NjlqclpmdTgxb2xQdWVYU2taak1FdERXaXNXWkFhemFrX1E3VGo3ZlFSWktHVlMwbGM?oc=5",
+        "date": "2026-09-25T19:13:35.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass der US Supreme Court Donald Trump die Verwendung einer umstrittenen Datenbank zur Überprüfung der Wähler-Staatsbürgerschaft erlaubt hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "nennt zusätzlich den spezifischen Namen der Datenbank als SAVE-Datenbank."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-dfed46ec41da3f55",
     "c": "DE",
     "o": "DE",
@@ -590,9 +1059,9 @@
     "st": "MV",
     "city": "",
     "t": "Immer weniger Studierende beziehen BaföG",
-    "s": "In Mecklenburg-Vorpommern beziehen immer weniger Studierende BAföG. Zehn Jahren nach einem höheren Stand ist die Zahl der monatlichen Empfänger deutlich gesunken. Zudem nehmen rund 70 Prozent der Studierenden, denen die staatliche Förderung zustehen würde, das Geld gar nicht in Anspruch.",
-    "m": "Die Zahl der BAföG-Bezieher in Mecklenburg-Vorpommern ist in den vergangenen zehn Jahren um über 1.000 gesunken. Vor einem Jahrzehnt bekamen noch monatlich rund 7.700 Studierende im Bundesland die finanzielle Unterstützung. Aktuell zeigt sich zudem, dass etwa 70 Prozent der Berechtigten das Geld nicht abrufen. Als Hauptgrund für diese geringe Inanspruchnahme wird ein Mangel an Informationen bei den Betroffenen genannt.",
-    "r": "Die Entwicklung verdeutlicht eine sinkende Inanspruchnahme staatlicher Ausbildungsförderung bei Studierenden in Mecklenburg-Vorpommern. Dies wirft Fragen bezüglich der Information und Erreichbarkeit der Zielgruppe auf.",
+    "s": "Immer weniger Studierende in Mecklenburg-Vorpommern beziehen staatliche Ausbildungsförderung nach dem BAföG. Die Zahl der Leistungsempfänger ist im Vergleich zu früheren Jahren deutlich gesunken. Zudem wird das Geld von einem großen Teil der Berechtigten gar nicht erst beantragt, was oft auf fehlende Informationen zurückgeführt wird.",
+    "m": "Die Zahl der BAföG-Bezieher an den Hochschulen in Mecklenburg-Vorpommern hat sich in den vergangenen zehn Jahren spürbar verringert. Vor einem Jahrzehnt erhielten monatlich noch rund 7.700 Studierende die finanzielle Unterstützung im Bundesland. Mittlerweile ist diese Zahl um mehr als 1.000 Empfänger gesunken. Gleichzeitig zeigt sich, dass rund 70 Prozent der jungen Menschen, denen das Geld eigentlich zustehen würde, gar keinen Antrag stellen. Als Hauptgrund für diese geringe Quote wird von Experten mangelnde Information vermutet.",
+    "r": "Die Entwicklung verdeutlicht einen anhaltenden Rückgang der BAföG-Nutzer in Mecklenburg-Vorpommern bei gleichzeitig massiver Nichtinanspruchnahme trotz bestehender Ansprüche. Dies berührt Fragen der sozialen Absicherung von Studierenden und der Information über staatliche Leistungen.",
     "srcs": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
@@ -606,15 +1075,15 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/immer-weniger-studierende-beziehen-bafoeg,nordmagazin-14500.html",
-    "agree": "Beide Quellen berichten über die sinkende Zahl von BAföG-Beziehenden beziehungsweise die rückläufige Inanspruchnahme bei Studierenden in Mecklenburg-Vorpommern.",
+    "agree": "Beide Quellen stimmen darin überein, dass im Bundesland Mecklenburg-Vorpommern immer weniger Studierende BAföG beziehen.",
     "diff": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Berichtet spezifisch, dass 70 Prozent der Studierenden, denen das Geld zustehen würde, es nicht in Anspruch nehmen, und führt dies auf mangelnde Informationen zurück."
+        "note": "Berichtet, dass 70 Prozent der eigentlich Anspruchsberechtigten das BAföG nicht in Anspruch nehmen und führt dies auf mangelnde Informationen zurück."
       },
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Nennt konkrete historische Vergleichszahlen und gibt an, dass vor zehn Jahren noch monatlich rund 7.700 Studierende BAföG bekamen, was heute über 1.000 weniger sind."
+        "note": "Nennt konkrete historische Vergleichszahlen und gibt an, dass vor zehn Jahren noch rund 7.700 Studierende monatlich BAföG bekamen und es heute über 1.000 weniger sind."
       }
     ],
     "chg": "",
@@ -630,10 +1099,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Junge Menschen in Baden-Württemberg über Reformen bei Rente und Pflege",
-    "s": "Nach Wahlen in Mecklenburg-Vorpommern und Berlin wird in der Politik wieder verstärkt über Reformen in den Bereichen Rente, Gesundheit und Pflege diskutiert. Im Mittelpunkt steht dabei die Frage, wie junge Menschen in Baden-Württemberg über diese Reformdebatten denken. Die Berichterstattung widmet sich den Sorgen und Prioritäten der jüngeren Generation zwischen Miete, Job und Rente. Konkrete Positionen oder Ergebnisse der Befragung junger Menschen gehen aus den Meldungen jedoch noch nicht hervor",
-    "m": "Die aktuellen Diskussionen über politische Reformen folgen auf die Landtagswahlen in Mecklenburg-Vorpommern und Berlin. Dabei rücken Themen wie Rente, Gesundheit und Pflege in den Fokus der Aufmerksamkeit. Regierungen und Parteien stehen vor der Herausforderung, Zukunftsfragen zu adressieren, die besonders die jüngere Generation betreffen. In Baden-Württemberg stellt sich in diesem Zusammenhang die Frage, wie junge Menschen ihre Situation zwischen Wohnungsmarkt beziehungsweise Miete, beruflicher Perspektive im Job und der Absicherung im Alter bewerten. Die Berichte werfen die Fragestellung auf, beleuchten aber bisher keine konkreten Antworten, Studien oder detaillierten Umfrageergebnisse aus dem Bundesland. Es bleibt offen, welche Forderungen junge Menschen an die Politik stellen und wie stark sie sich von den Berliner Reformdebatten betroffen fühlen.",
-    "r": "Die Diskussion über Reformen bei Rente, Gesundheit und Pflege betrifft die Zukunftsgestaltung junger Generationen unmittelbar. Die Frage, wie junge Menschen in Baden-Württemberg zu diesen politischen Debatten stehen, verdeutlicht die Relevanz regionaler Perspektiven auf bundespolitische Themen.",
+    "t": "Junge Menschen in Baden-Württemberg und die Berliner Reformdebatten",
+    "s": "Nach Wahlen in Mecklenburg-Vorpommern und Berlin wird in der Politik erneut über Reformen in den Bereichen Rente, Gesundheit und Pflege debattiert. Im Fokus steht dabei auch die Frage, wie junge Menschen in Baden-Württemberg über diese Themen denken. Die Diskussion berührt zentrale Lebensbereiche wie Miete, Job und Rente. Bislang handelt es sich um eine Bestandsaufnahme der anstehenden politischen Debatten.",
+    "m": "Die aktuellen Diskussionen über Reformen bei Rente, Gesundheit und Pflege knüpfen an die jüngsten Landtagswahlen in Mecklenburg-Vorpommern und Berlin an. Politische Entscheidungsträger beraten über mögliche Neuausrichtungen in diesen sozialen Sicherungssystemen. Speziell für die jüngere Generation in Baden-Württemberg stellen sich in diesem Zusammenhang Fragen zur langfristigen Sicherheit und zu den Perspektiven bei Miete, Job und Rente. Die Debatte verdeutlicht, dass sozial- und rentenpolitische Veränderungen weitreichende Folgen für die Lebensplanung junger Menschen haben. Konkrete Gesetzesänderungen oder Beschlüsse wurden im Rahmen der Berichterstattung noch nicht genannt. Es bleibt abzuwarten, welche konkreten Reformvorschläge die Politik erarbeiten wird und wie diese ausgestaltet sind.",
+    "r": "Die Meldung ist relevant, da Reformdebatten zu Rente, Gesundheit und Pflege die Zukunft und Lebensgrundlage junger Menschen direkt betreffen. Politische Weichenstellungen nach Wahlen haben unmittelbare Auswirkungen auf die soziale Sicherung und die wirtschaftliche Situation der kommenden Generationen.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -647,11 +1116,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/junge-menschen-bw-zu-berliner-politik-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und die Perspektive junger Menschen in Baden-Württemberg dazu betrachtet werden soll.",
+    "agree": "Beide Quellen stimmen darin überein, dass nach den Wahlen in Berlin und Mecklenburg-Vorpommern über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und dies die Frage aufwirft, wie junge Menschen in Baden-Württemberg darüber denken.",
     "diff": [
       {
+        "name": "SWR Aktuell",
+        "note": "Fokus im Titel auf den Lebensalltag zwischen Miete, Job und Rente."
+      },
+      {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Verwendet im Titel eine leicht erweiterte Formulierung zur Einordnung der Berliner Reformdebatten."
+        "note": "Ergänzt im Titel explizit den Bezug zu den Berliner Reformdebatten."
       }
     ],
     "chg": "",
@@ -975,13 +1448,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-09-25T17:00:05.000Z",
-    "p": 4,
+    "p": 3,
     "st": "BW",
     "city": "",
-    "t": "Massiver Rückruf bei VW, Audi und Seat wegen Lenkungsproblemen",
-    "s": "Der VW-Konzern muss in Deutschland fast eine Million Autos vorsorglich in die Werkstatt rufen. Grund für die Aktion ist eine fehlerhafte Schraube, die im Extremfall zu einem Ausfall der Lenkung führen kann. Betroffen sind Fahrzeuge verschiedener Marken des Konzerns. Autobesitzer müssen sich auf entsprechende Nachbesserungen einstellen.",
-    "m": "Wegen einer potenziell fehlerhaften Schraube startet der VW-Konzern einen großen Rückruf in Deutschland. Die betroffenen Fahrzeuge von Marken wie Volkswagen, Audi und Seat müssen vorsorglich in die Werkstatt gebracht werden. Der Schraubenabriss kann im Extremfall zu einem vollständigen Ausfall der Lenkung führen. Insgesamt sind knapp eine Million Autos in Deutschland von der Maßnahme betroffen. Genaue Details zu den betroffenen Modellen und den konkreten Abläufen für Fahrzeughalter sind Gegenstand der aktuellen Information. Die Werkstätten müssen die betroffenen Bauteile überprüfen und nachbessern. Weitere Einzelheiten zum zeitlichen Ablauf oder möglichen Unfällen im Zusammenhang mit dem Defekt wurden zunächst nicht genannt.",
-    "r": "Ein sicherheitsrelevanter Rückruf von knapp einer Million Fahrzeugen betrifft einen großen Teil des deutschen Automobilmarktes. Der potentielle Ausfall der Lenkung stellt ein erhebliches Sicherheitsrisiko dar, das sofortige Werkstattbesuche erforderlich macht.",
+    "t": "Das müssen Autobesitzer über den Rückruf wissen",
+    "s": "Der VW-Konzern ruft in Deutschland knapp eine Million Fahrzeuge vorsorglich in die Werkstatt. Grund für die Maßnahme ist eine potenziell fehlerhafte Schraube. Im Extremfall droht den betroffenen Autos ein vollständiger Ausfall der Lenkung.",
+    "m": "Wegen der Gefahr eines Schraubenabrisses müssen Audi, Seat und Volkswagen in Deutschland fast eine Million Autos nachbessern lassen. Der Fehler an einer Schraube kann im schlimmsten Fall dazu führen, dass die Lenkung ausfällt. Betroffene Autobesitzer müssen ihre Fahrzeuge in die Werkstatt bringen, um den Mangel beheben zu lassen. Die Rückrufaktion betrifft eine Vielzahl von Modellen des VW-Konzerns. Bislang ist unklar, wie lange die Reparaturen in den Werkstätten dauern werden und ob bereits Schadensfälle im Straßenverkehr aufgetreten sind. Die Fahrzeughalter müssen sich nun über betroffene Modelle informieren und entsprechende Werkstatttermine vereinbaren.",
+    "r": "Ein sicherheitsrelevanter Rückruf in dieser Größenordnung hat erhebliche Auswirkungen auf Halter des VW-Konzerns und erfordert flächendeckende Werkstatttermine. Die Maßnahme betrifft fast eine Million Fahrzeuge allein in Deutschland.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -995,19 +1468,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
-    "agree": "Alle Quellen sind sich einig, dass der VW-Konzern in Deutschland fast eine Million Autos wegen einer fehlerhaften Schraube zurückrufen muss, was zum Ausfall der Lenkung führen kann.",
+    "agree": "Die Quellen stimmen überein, dass eine fehlerhafte Schraube bei Autos des VW-Konzerns zu einem Lenkungsausfall führen kann und deshalb fast eine Million Fahrzeuge in Deutschland in die Werkstatt müssen.",
     "diff": [
       {
-        "name": "SWR Aktuell",
-        "note": "Erwähnt allgemein den VW-Konzern als betroffenen Hersteller."
-      },
-      {
         "name": "Tagesschau",
-        "note": "Nennt konkret die Marken VW, Audi und Seat als betroffen."
+        "note": "Erwähnt zusätzlich Seat konkret im Titel und kündigt Informationen an, welche Modelle betroffen sind und was zu tun ist."
       },
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Hebt besonders Audi und Volkswagen hervor und präzisiert die Gefahr als Schraubenabriss."
+        "note": "Nennt Audi und Volkswagen explizit im Titel und bezeichnet den Grund als Gefahr eines Schraubenabrisses."
       }
     ],
     "chg": "",
@@ -1749,16 +2218,16 @@
     "id": "story-b99e531227a92aab",
     "c": "DE",
     "o": "DE",
-    "k": "technik",
+    "k": "wirtschaft",
     "lang": "de",
     "d": "2026-09-25T11:27:52.000Z",
     "p": 3,
     "st": "BW",
     "city": "",
     "t": "Ermittler schalten knapp 10.000 Rufnummern von Cyberkriminellen ab",
-    "s": "Ermittler aus Baden-Württemberg und internationale Partner haben einen Erfolg gegen Cyber-Anlagebetrug erzielt. Im Rahmen einer konzertierten Aktion wurden Tausende Rufnummern und illegale Domains abgeschaltet. Die Maßnahme soll Kriminellen die Kommunikationsgrundlage entziehen. Weitere Details zu Festnahmen oder der genauen Schadenshöhe wurden zunächst nicht bekannt.",
-    "m": "Die Behörden in Baden-Württemberg sind gemeinsam mit internationalen Partnern massiv gegen den professionellen Cyber-Anlagebetrug vorgegangen. Bei der Operation gelang es, knapp 10.000 Rufnummern sowie zahlreiche illegale Internetdomains abzuschalten, die von den Betrügern für ihre Taten genutzt wurden. Solche kriminellen Netzwerke agieren häufig arbeitsteilig und grenzüberschreitend, um ahnungslose Bürger um ihr Erspartes zu bringen. Durch das Abschalten der Kommunikationsinfrastruktur soll der Betrieb der Betrugsplattformen empfindlich gestört werden. Die Ermittlungen dauern an, und die Behörden prüfen weitere Schritte gegen die Hintermänner. Das Ausmaß des Netzes unterstreicht die Professionalität der Täter im Bereich des Cybercrime.",
-    "r": "Der Schlag gegen die Kommunikationsinfrastruktur von Cyberkriminellen verdeutlicht die zunehmende Bedeutung internationaler Zusammenarbeit bei der Bekämpfung von Anlagebetrug. Solche Maßnahmen sind entscheidend, um den Schaden für Verbraucher einzudämmen.",
+    "s": "Ermittler aus Baden-Württemberg sind gemeinsam mit internationalen Partnern erfolgreich gegen Cyber-Anlagebetrug vorgegangen. Bei der koordinierten Aktion wurden Tausende Rufnummern sowie illegale Domains abgeschaltet. Ziel des Vorgehens ist es, die kriminellen Strukturen im Bereich des Anlagebetrugs empfindlich zu treffen. Die Behörden setzen damit ein Zeichen im Kampf gegen grenzüberschreitende Computerkriminalität.",
+    "m": "Im Rahmen einer großangelegten Operation sind Ermittler aus Baden-Württemberg zusammen mit internationalen Partnern gegen professionelle Cyberkriminelle vorgegangen. Im Fokus der Maßnahmen stand der sogenannte Cyber-Anlagebetrug, bei dem Täter über gefälschte Internetplattformen und betrügerische Versprechungen hohe Summen von Geldanlegern erbeuten. Als konkreter Erfolg der behördlichen Zusammenarbeit konnten knapp 10.000 Rufnummern und diverse illegale Domains vom Netz genommen werden. Damit soll die Kommunikation der Betrüger untereinander sowie mit potenziellen Opfern massiv gestört werden. Nähere Details zum genauen zeitlichen Ablauf, den beteiligten Staaten oder konkreten Festnahmen gehen aus den vorliegenden Berichten derzeit nicht hervor. Die Ermittlungen in dem komplexen Fall dauern weiter an, um weitere Hinterleute und Strukturen aufzudecken.",
+    "r": "Die Operation zeigt erste konkrete Erfolge internationaler und länderübergreifender Zusammenarbeit gegen professionelle Betrugsmaschen im Internet. Die Abschaltung von Tausenden Rufnummern und Domains entzieht den Kriminellen vorübergehend wichtige Infrastruktur.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -1772,8 +2241,17 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-knapp-10-000-rufnummern-von-cyberkriminellen-abgeschaltet-100.html",
-    "agree": "Die Quellen sind sich einig, dass Ermittler aus Baden-Württemberg gemeinsam mit internationalen Partnern knapp 10.000 Rufnummern und illegale Domains von Cyberkriminellen im Bereich des Anlagebetrugs abgeschaltet haben.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen überein, dass Ermittler aus Baden-Württemberg und internationale Partner gemeinsam gegen Cyber-Anlagebetrug vorgegangen sind und knapp 10.000 Rufnummern sowie illegale Domains abgeschaltet wurden.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Berichtet in Kurzform über die Abschaltung von knapp 10.000 Rufnummern und illegalen Domains im Rahmen des Vorgehens gegen Cyber-Anlagebetrug."
+      },
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Verwendet einen leicht erweiterten Titel, stimmt im Textinhalt jedoch wörtlich mit der ersten Quelle überein."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
