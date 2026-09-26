@@ -1,6 +1,697 @@
 [
   {
-    "id": "story-32",
+    "id": "story-103",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-09-26T17:37:41.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
+        "date": "2026-09-26T17:37:41.000Z",
+        "snippet": "US-Präsident Donald Trump hat den iranischen Vorschlag zur Öffnung der Straße von Hormus abgelehnt. Medienberichten zufolge bezweifelt Trump, dass Teheran die von Washington gestellten Bedingungen erfüllen wird. Alle News im Ticker.",
+        "title": "Nahost-Ticker: Trump lehnt Irans Vorschlag zur Hormus-Öffnung ab"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
+        "date": "2026-09-26T16:21:56.000Z",
+        "snippet": "Man habe einen „Sieben-Tage-Plan“ für die Öffnung der Meerenge vorgelegt, erklärt Irans Außenminister Araghtschi. Das Angebot sei „nicht annehmbar“, sagte der US-Präsident vor Journalisten.",
+        "title": "Newsblog zum Nahost-Krieg: Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab"
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
+        "date": "2026-09-26T16:15:02.000Z",
+        "snippet": "Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öf…",
+        "title": "Trump lehnt Irans Hormus-Vorschlag ab"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
+        "date": "2026-09-26T16:06:00.000Z",
+        "snippet": "Die Führung in Teheran hat den USA einen Vorschlag zur Öffnung der Straße von Hormus übermittelt. US-Präsident Donald Trump ließ sich nach eigenen Angaben nicht auf den iranischen Vorstoß ein.",
+        "title": "Iran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
+        "date": "2026-09-26T15:50:22.000Z",
+        "snippet": "Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öffnung. Den lehnte US-Präsident Trump nun ab.",
+        "title": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnBrcU80cG85NGlQcWd2YVEzeUZSV2VvWHRIOXVxZHk5X2dTdWlOSW5xMXNqVjhsdmJKYmxlWXVyVDU1ZlVxaVR3NlZzeFp4V3pXOUVNbjhIY0RadTRYMEYyMmtva1dvZVhIZUlNaXBhZUNzMVpnYmxycFl0ZFZQdktubkFrTmt4UV9NSG9TaTgzRkNjOUE?oc=5",
+        "date": "2026-09-26T15:50:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnBrcU80cG85NGlQcWd2YVEzeUZSV2VvWHRIOXVxZHk5X2dTdWlOSW5xMXNqVjhsdmJKYmxlWXVyVDU1ZlVxaVR3NlZzeFp4V3pXOUVNbjhIY0RadTRYMEYyMmtva1dvZVhIZUlNaXBhZUNzMVpnYmxycFl0ZFZQdktubkFrTmt4UV9NSG9TaTgzRkNjOUE?oc=5\" target=\"_blank\">Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmxYWUJJZk9lNm92LTdELTV1NVlzWVlYSTBnMEU0MmFXS3VhdXNVWW5zZE9iQVFQMUVaaXlEaHM4N1ZwOW1xdl9McmdObVNKbE41U19KQUktZndhTVJYSi03UnBDOUFFMnJjU1d6YjNCYkE0cVNHdmlIYnBwaXNRU1dqUmpOdEw1dG1xRVpYM1RfQTNJekhrYlpyelZMVUN4MnlVbzlXXzVvalQ5TXc",
+        "title": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab - tagesschau.de"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/iran-usa-friedensvorschlag-hormus-100.html",
+        "date": "2026-09-26T11:03:00.000Z",
+        "snippet": "Iran hat den USA nach eigenen Angaben einen Plan zur Öffnung der Straße von Hormus übermittelt und sieht nun Präsident Trump am Zug. Laut Berichten lehnt dieser den Vorschlag ab.",
+        "title": "Trump lehnt Irans Vorschlag zu Hormus offenbar ab"
+      }
+    ],
+    "title": "Nahost-Ticker: Trump lehnt Irans Vorschlag zur Hormus-Öffnung ab",
+    "summary": "Nahost-Ticker: Trump lehnt Irans Vorschlag zur Hormus-Öffnung ab US-Präsident Donald Trump hat den iranischen Vorschlag zur Öffnung der Straße von Hormus abgelehnt. Medienberichten zufolge bezweifelt Trump, dass Teheran die von Washington gestellten Bedingungen erfüllen wird. Alle News im Ticker.\nNewsblog zum Nahost-Krieg: Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab Man habe einen „Sieben-Tage-Plan“ für die Öffnung der Meerenge vorgelegt, erklärt Irans Außenminister Araghtschi. Das Angebot sei „nicht annehmbar“, sagte der US-Präsident vor Journalisten.\nTrump lehnt Irans Hormus-Vorschlag ab Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öf…\nIran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab Die Führung in Teheran hat den USA einen Vorschlag zur Öffnung der Straße von Hormus übermittelt. US-Präsident Donald Trump ließ sich nach eigenen Angaben nicht auf den iranischen Vorstoß ein.\nTrump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öffnung. Den lehnte US-Präsident Trump nun ab.\nTrump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnBrcU80cG85NGlQcWd2YVEzeUZSV2VvWHRIOXVxZHk5X2dTdWlOSW5xMXNqVjhsdmJKYmxlWXVyVDU1ZlVxaVR3NlZzeFp4V3pXOUVNbjhIY0RadTRYMEYyMmtva1dvZVhIZUlNaXBhZUNzMVpnYmxycFl0ZFZQdktubkFrTmt4UV9NSG9TaTgzRkNjOUE?oc=5\" target=\"_blank\">Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmxYWUJJZk9lNm92LTdELTV1NVlzWVlYSTBnMEU0MmFXS3VhdXNVWW5zZE9iQVFQMUVaaXlEaHM4N1ZwOW1xdl9McmdObVNKbE41U19KQUktZndhTVJYSi03UnBDOUFFMnJjU1d6YjNCYkE0cVNHdmlIYnBwaXNRU1dqUmpOdEw1dG1xRVpYM1RfQTNJekhrYlpyelZMVUN4MnlVbzlXXzVvalQ5TXc\nTrump lehnt Irans Vorschlag zu Hormus offenbar ab Iran hat den USA nach eigenen Angaben einen Plan zur Öffnung der Straße von Hormus übermittelt und sieht nun Präsident Trump am Zug. Laut Berichten lehnt dieser den Vorschlag ab."
+  },
+  {
+    "id": "story-34",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T17:57:00.000Z",
+    "sources": [
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/politik/wadephul-trifft-lawrow-zu-ersten-gespraechen-seit-jahren--38313008.html",
+        "date": "2026-09-26T17:57:00.000Z",
+        "snippet": "Johann Wadephul und Sergej Lawrow trafen sich in New York. Seit Beginn des russischen Angriffskriegs gab es kein solches Gespräch der Außenminister Deutschlands und Russlands mehr.",
+        "title": "Vereinte Nationen: Erste Gespräche seit Jahren: Wadephul trifft Lawrow"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Wadephul-trifft-Lawrow-in-New-York-zu-kurzem-Gespraech-id31351395.html",
+        "date": "2026-09-26T16:08:08.000Z",
+        "snippet": "Nach Beginn des russischen Angriffskriegs in der Ukraine kommt es mehr als vier Jahre lang nicht zu einem bilateralen Gespräch der Außenminister Deutschlands und Russlands. Nun trifft Chefdiplomat Wadephul am Rande der UN-Generaldebatte überraschend auf seinen Amtskollegen Lawrow.",
+        "title": "Erstes solches Treffen seit 2022: Wadephul trifft Lawrow in New York zu kurzem Gespräch"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/wadephul-lawrow-treffen-new-york-deutschland-russland-100.html",
+        "date": "2026-09-26T15:47:00.000Z",
+        "snippet": "Außenminister Johann Wadephul hat sich mit seinem russischen Amtskollegen Sergej Lawrow getroffen. Es ist das erste bilaterale Treffen der Außenminister beider Länder seit Jahren.",
+        "title": "Erste Gespräche seit Jahren: Wadephul trifft Lawrow"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-johann-wadephul-trifft-sergej-lawrow-zu-gespraechen-a-18810c36-42f9-4cd5-ba78-520fd73842c1#ref=rss",
+        "date": "2026-09-26T15:13:00.000Z",
+        "snippet": "Seit Beginn von Russlands Angriffskrieg gegen die Ukraine hat es kein Gespräch der Außenminister Deutschlands und Russlands mehr gegeben. Jetzt haben sich Johann Wadephul und Sergej Lawrow in New York ausgetauscht, der Termin war aber nur kurz.",
+        "title": "Krieg in der Ukraine: Johann Wadephul trifft Sergej Lawrow zu Gesprächen"
+      }
+    ],
+    "title": "Vereinte Nationen: Erste Gespräche seit Jahren: Wadephul trifft Lawrow",
+    "summary": "Vereinte Nationen: Erste Gespräche seit Jahren: Wadephul trifft Lawrow Johann Wadephul und Sergej Lawrow trafen sich in New York. Seit Beginn des russischen Angriffskriegs gab es kein solches Gespräch der Außenminister Deutschlands und Russlands mehr.\nErstes solches Treffen seit 2022: Wadephul trifft Lawrow in New York zu kurzem Gespräch Nach Beginn des russischen Angriffskriegs in der Ukraine kommt es mehr als vier Jahre lang nicht zu einem bilateralen Gespräch der Außenminister Deutschlands und Russlands. Nun trifft Chefdiplomat Wadephul am Rande der UN-Generaldebatte überraschend auf seinen Amtskollegen Lawrow.\nErste Gespräche seit Jahren: Wadephul trifft Lawrow Außenminister Johann Wadephul hat sich mit seinem russischen Amtskollegen Sergej Lawrow getroffen. Es ist das erste bilaterale Treffen der Außenminister beider Länder seit Jahren.\nKrieg in der Ukraine: Johann Wadephul trifft Sergej Lawrow zu Gesprächen Seit Beginn von Russlands Angriffskrieg gegen die Ukraine hat es kein Gespräch der Außenminister Deutschlands und Russlands mehr gegeben. Jetzt haben sich Johann Wadephul und Sergej Lawrow in New York ausgetauscht, der Termin war aber nur kurz."
+  },
+  {
+    "id": "story-158",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-26T16:58:39.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-26T16:58:39.000Z",
+        "snippet": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "date": "2026-09-26T14:46:53.000Z",
+        "snippet": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
+        "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+        "date": "2026-09-26T12:38:46.000Z",
+        "snippet": "<p>US president is said to expect renewed strikes after midterms</p><p>US president Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports.</p><p>“They made a proposal but I reject it,” he told reporters at the White House.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz\">Continue reading...</a>",
+        "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazdjdl95TUw5YndNMUkzTkNvZGh2VER3MEhQTVI0MHd2WDQ4cmdITTBhZnBrQlhlX19fMHVXU2F6Q3dCWGxOVS1TTGlkcjY0TWFrbGdvQVp3TWQ3Uy1kMFJ0aEV6aEhWN05IM0xKUzRtSjJXS0tPZjAwV0ZlUjVyd09sWmNZa0lrMVAtS0p0TGtlcVYya01z?oc=5",
+        "date": "2026-09-26T09:31:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPazdjdl95TUw5YndNMUkzTkNvZGh2VER3MEhQTVI0MHd2WDQ4cmdITTBhZnBrQlhlX19fMHVXU2F6Q3dCWGxOVS1TTGlkcjY0TWFrbGdvQVp3TWQ3Uy1kMFJ0aEV6aEhWN05IM0xKUzRtSjJXS0tPZjAwV0ZlUjVyd09sWmNZa0lrMVAtS0p0TGtlcVYya01z?oc=5\" target=\"_blank\">Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXRhMlFLVmoxcnBBWHlQNVhYNmkxTkI4WFhiSURFd2VSemEwcWYtXzVsRE4zSVkzRklWa3FTMzE2eFdIMFNCbXMxbXJtT05jc3dwcnpKTFNtbnhvTFRuODRkM281MVJ3X00zY3Y3S0JqQ0c5cW9kQ1dWZ2VxRlhDckNLR1FLeFR5Qkpja3FpT0NPVXJCbTI1OTlSUHI2WmZMSHAtZkVGX1lzS3V",
+        "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz - The Guardian"
+      }
+    ],
+    "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+    "summary": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days The US president says Tehran had only put forward the proposal because it is losing the war.\nTrump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.\nTrump rejects Iran’s seven-day peace deal to reopen strait of Hormuz <p>US president is said to expect renewed strikes after midterms</p><p>US president Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports.</p><p>“They made a proposal but I reject it,” he told reporters at the White House.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz\">Continue reading...</a>\nTrump rejects Iran’s seven-day peace deal to reopen strait of Hormuz - The Guardian <ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPazdjdl95TUw5YndNMUkzTkNvZGh2VER3MEhQTVI0MHd2WDQ4cmdITTBhZnBrQlhlX19fMHVXU2F6Q3dCWGxOVS1TTGlkcjY0TWFrbGdvQVp3TWQ3Uy1kMFJ0aEV6aEhWN05IM0xKUzRtSjJXS0tPZjAwV0ZlUjVyd09sWmNZa0lrMVAtS0p0TGtlcVYya01z?oc=5\" target=\"_blank\">Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXRhMlFLVmoxcnBBWHlQNVhYNmkxTkI4WFhiSURFd2VSemEwcWYtXzVsRE4zSVkzRklWa3FTMzE2eFdIMFNCbXMxbXJtT05jc3dwcnpKTFNtbnhvTFRuODRkM281MVJ3X00zY3Y3S0JqQ0c5cW9kQ1dWZ2VxRlhDckNLR1FLeFR5Qkpja3FpT0NPVXJCbTI1OTlSUHI2WmZMSHAtZkVGX1lzS3V"
+  },
+  {
+    "id": "story-29",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T18:00:03.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+        "date": "2026-09-26T18:00:03.000Z",
+        "snippet": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und …",
+        "title": "Wadephul trifft überraschend Lawrow"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+        "date": "2026-09-26T17:54:50.000Z",
+        "snippet": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande der UN-Generaldebatte statt.",
+        "title": "Wadephul trifft überraschend Lawrow in New York"
+      },
+      {
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/wadephul-trifft-lawrow-in-new-york/a-79445008?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-09-26T17:42:00.000Z",
+        "snippet": "Bundesaußenminister Johann Wadephul (CDU) trifft in New York City seinen russischen Kollegen Sergej Lawrow. Es ist das höchstrangigste Treffen beider Länder seit Jahren",
+        "title": "Wadephul trifft Lawrow in New York"
+      }
+    ],
+    "title": "Wadephul trifft überraschend Lawrow",
+    "summary": "Wadephul trifft überraschend Lawrow Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und …\nWadephul trifft überraschend Lawrow in New York Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande der UN-Generaldebatte statt.\nWadephul trifft Lawrow in New York Bundesaußenminister Johann Wadephul (CDU) trifft in New York City seinen russischen Kollegen Sergej Lawrow. Es ist das höchstrangigste Treffen beider Länder seit Jahren"
+  },
+  {
+    "id": "story-127",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T17:21:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5",
+        "date": "2026-09-26T17:21:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5\" target=\"_blank\">Danger Dan spricht über frühere Beziehung zu einem Mann</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVRmSDA4V3hkR1JqdHNQc1VTalM1dm0wMG9RY21jSGk4N081Y0s3REozWm9Fdlg5bVpadUlpS2lCWDdMbXNEUWFKT1plM2FJdEs3NGFFdy02bWk3ck9WUExrWE1EbGJPUktabDUxcWJuUU84SWE4ajVVRmVRTEdiR3",
+        "title": "Danger Dan spricht über frühere Beziehung zu einem Mann - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leute/danger-dan-spricht-ueber-fruehere-beziehung-zu-einem-mann-a-dee1bf39-aec0-44a5-838d-435a387a1712#ref=rss",
+        "date": "2026-09-26T17:21:00.000Z",
+        "snippet": "In wenigen Tagen erscheint ein neues Album von Danger Dan. In einem Song singt der Musiker über die Beziehung zu einem Ex-Freund. Es sei nun der »richtige Zeitpunkt für ein schwules Liebeslied«.",
+        "title": "Danger Dan spricht über frühere Beziehung zu einem Mann"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/promis/danger-dan-spricht-ueber-fruehere-beziehung-zu-mann-und-fortschreitende-erblindung-TVIXRVFZ45FV3MCEZXPWBQJ62I.html",
+        "date": "2026-09-26T17:10:00.000Z",
+        "snippet": "Der Sänger Danger Dan spricht offen über eine frühere Beziehung zu einem Mann, seine sexuelle Orientierung und seine fortschreitende Erblindung. Auf dem Album „Keine Angst“ verarbeitet er persönliche Erfahrungen – und setzt ein klares queeres Statement.",
+        "title": "Danger Dan spricht über frühere Beziehung zu Mann – und fortschreitende Erblindung"
+      }
+    ],
+    "title": "Danger Dan spricht über frühere Beziehung zu einem Mann - Spiegel",
+    "summary": "Danger Dan spricht über frühere Beziehung zu einem Mann - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5\" target=\"_blank\">Danger Dan spricht über frühere Beziehung zu einem Mann</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVRmSDA4V3hkR1JqdHNQc1VTalM1dm0wMG9RY21jSGk4N081Y0s3REozWm9Fdlg5bVpadUlpS2lCWDdMbXNEUWFKT1plM2FJdEs3NGFFdy02bWk3ck9WUExrWE1EbGJPUktabDUxcWJuUU84SWE4ajVVRmVRTEdiR3\nDanger Dan spricht über frühere Beziehung zu einem Mann In wenigen Tagen erscheint ein neues Album von Danger Dan. In einem Song singt der Musiker über die Beziehung zu einem Ex-Freund. Es sei nun der »richtige Zeitpunkt für ein schwules Liebeslied«.\nDanger Dan spricht über frühere Beziehung zu Mann – und fortschreitende Erblindung Der Sänger Danger Dan spricht offen über eine frühere Beziehung zu einem Mann, seine sexuelle Orientierung und seine fortschreitende Erblindung. Auf dem Album „Keine Angst“ verarbeitet er persönliche Erfahrungen – und setzt ein klares queeres Statement."
+  },
+  {
+    "id": "story-167",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T16:52:23.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/ueberraschendes-treffen-wadephul-fordert-lawrow-zu-deeskalation-auf-und-macht-ihm-eine-tuer-auf-KUMGKTLK5FF23C63VGEWDYDINM.html",
+        "date": "2026-09-26T16:52:23.000Z",
+        "snippet": "Überraschung in New York: Erstmals seit Beginn des russischen Angriffskriegs gegen die Ukraine haben sich die Außenminister Deutschlands und Russlands getroffen. Johann Wadephul warnte Sergej Lawrow dabei scharf vor weiteren hybriden Angriffen wie dem Anschlagsversuch in Leipzig.",
+        "title": "Überraschendes Treffen: Wadephul fordert Lawrow zu Deeskalation auf – und macht ihm eine Tür auf"
+      },
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/aussenpolitik/id_101454030/wadephul-traf-russischen-aussenminister-lawrow-in-new-york-zu-gespraechen.html",
+        "date": "2026-09-26T16:22:44.000Z",
+        "snippet": "Erstmals seit Beginn des Ukraine-Kriegs treffen die Außenminister Deutschlands und Russlands bilateral zusammen. Dabei werden auch brisante Themen besprochen.",
+        "title": "Wadephul traf russischen Außenminister Lawrow in New York zu Gesprächen"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ab7da4718772248192d5f5b/aussenminister-wadephul-und-lawrow-treffen-sich-in-new-york-zu-gespraechen.html",
+        "date": "2026-09-26T14:51:05.000Z",
+        "snippet": "Neue Gesprächsebene zwischen Berlin und Moskau: Außenminister Johann Wadephul hat in New York erstmals seit Beginn des Ukraine-Krieges seinen russischen Amtskollegen Sergej Lawrow getroffen.",
+        "title": "Wadephul und Lawrow treffen sich in New York zu Gesprächen"
+      }
+    ],
+    "title": "Überraschendes Treffen: Wadephul fordert Lawrow zu Deeskalation auf – und macht ihm eine Tür auf",
+    "summary": "Überraschendes Treffen: Wadephul fordert Lawrow zu Deeskalation auf – und macht ihm eine Tür auf Überraschung in New York: Erstmals seit Beginn des russischen Angriffskriegs gegen die Ukraine haben sich die Außenminister Deutschlands und Russlands getroffen. Johann Wadephul warnte Sergej Lawrow dabei scharf vor weiteren hybriden Angriffen wie dem Anschlagsversuch in Leipzig.\nWadephul traf russischen Außenminister Lawrow in New York zu Gesprächen Erstmals seit Beginn des Ukraine-Kriegs treffen die Außenminister Deutschlands und Russlands bilateral zusammen. Dabei werden auch brisante Themen besprochen.\nWadephul und Lawrow treffen sich in New York zu Gesprächen Neue Gesprächsebene zwischen Berlin und Moskau: Außenminister Johann Wadephul hat in New York erstmals seit Beginn des Ukraine-Krieges seinen russischen Amtskollegen Sergej Lawrow getroffen."
+  },
+  {
+    "id": "story-474",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T12:45:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
+        "date": "2026-09-26T12:45:01.000Z",
+        "snippet": "Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"e…",
+        "title": "SPD will Eigenanteil für Pflegeheimkosten deckeln"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
+        "date": "2026-09-26T12:30:06.000Z",
+        "snippet": "Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"einrichtungseinheitliche\" Eigenanteil soll dabei sinken. Von M. Rödle.",
+        "title": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45YUZMM2c3dTYzSEJyX3plUy16LWJRRzlLOXNqdmFZd01hSEdsWVNOVS15M2tSeXR2XzlMSXpZbjFxR3pISmM2Umw1YkxjbmU1bEI2Tm9jeDluZjhFMVNucXJQNFZQTTM0d09LemJ3?oc=5",
+        "date": "2026-09-26T12:30:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE45YUZMM2c3dTYzSEJyX3plUy16LWJRRzlLOXNqdmFZd01hSEdsWVNOVS15M2tSeXR2XzlMSXpZbjFxR3pISmM2Umw1YkxjbmU1bEI2Tm9jeDluZjhFMVNucXJQNFZQTTM0d09LemJ3?oc=5\" target=\"_blank\">Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTMtdFVLUWxHMzFrQjgzRlZ4Z01IWmFtdFhoZWp4czdPejBUdk1WNGRPbTJ5bUxmOWFOcXVCZUdDeDA0UldsdHlFZXR1VzVaQ3h0WmJPekk1dFVycS1qZ3JSYmZrYlB3M2xteUVZZlR4RXpiOTdZSjdxSDYwbjJIM3lKVmdlTXpVS1Npb0VTRjdaNWJodG9nMUQ4dElMNU00NXNVQk12LUo4QzN2WjMzXzBLaXEtYTlJdTd1X2t6YXR2Mnlld3pzTEs5ZDVMbGZic3lJNGF3WFFKdUJ",
+        "title": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln - tagesschau.de"
+      }
+    ],
+    "title": "SPD will Eigenanteil für Pflegeheimkosten deckeln",
+    "summary": "SPD will Eigenanteil für Pflegeheimkosten deckeln Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"e…\nExklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"einrichtungseinheitliche\" Eigenanteil soll dabei sinken. Von M. Rödle.\nExklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE45YUZMM2c3dTYzSEJyX3plUy16LWJRRzlLOXNqdmFZd01hSEdsWVNOVS15M2tSeXR2XzlMSXpZbjFxR3pISmM2Umw1YkxjbmU1bEI2Tm9jeDluZjhFMVNucXJQNFZQTTM0d09LemJ3?oc=5\" target=\"_blank\">Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTMtdFVLUWxHMzFrQjgzRlZ4Z01IWmFtdFhoZWp4czdPejBUdk1WNGRPbTJ5bUxmOWFOcXVCZUdDeDA0UldsdHlFZXR1VzVaQ3h0WmJPekk1dFVycS1qZ3JSYmZrYlB3M2xteUVZZlR4RXpiOTdZSjdxSDYwbjJIM3lKVmdlTXpVS1Npb0VTRjdaNWJodG9nMUQ4dElMNU00NXNVQk12LUo4QzN2WjMzXzBLaXEtYTlJdTd1X2t6YXR2Mnlld3pzTEs5ZDVMbGZic3lJNGF3WFFKdUJ"
+  },
+  {
+    "id": "story-17",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T18:07:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-nations-league-frankreich-kyllian-mbappe-verletzung-100.html",
+        "date": "2026-09-26T18:07:00.000Z",
+        "snippet": "Frankreichs Star Kylian Mbappé hat sich im Spiel gegen die Türkei ernsthafter verletzt. Wie lange genau er ausfällt, ist noch unklar.",
+        "title": "Frankreich-Star Mbappé fällt mit Kapselverletzung aus"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/sport/fussball/article6ab7fc6c18772248192d6132/nations-league-frankreich-star-kylian-mbappe-faellt-verletzt-aus-diagnose-steht.html",
+        "date": "2026-09-26T17:36:03.000Z",
+        "snippet": "Frankreichs Kapitän Kylian Mbappé schoss seine Mannschaft am Freitag zum Sieg gegen die Türkei – und verletzte sich dabei. Jetzt steht die Diagnose.",
+        "title": "Frankreich-Star Mbappé fällt verletzt aus"
+      }
+    ],
+    "title": "Frankreich-Star Mbappé fällt mit Kapselverletzung aus",
+    "summary": "Frankreich-Star Mbappé fällt mit Kapselverletzung aus Frankreichs Star Kylian Mbappé hat sich im Spiel gegen die Türkei ernsthafter verletzt. Wie lange genau er ausfällt, ist noch unklar.\nFrankreich-Star Mbappé fällt verletzt aus Frankreichs Kapitän Kylian Mbappé schoss seine Mannschaft am Freitag zum Sieg gegen die Türkei – und verletzte sich dabei. Jetzt steht die Diagnose."
+  },
+  {
+    "id": "story-44",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "SH",
+    "date": "2026-09-26T17:52:01.000Z",
+    "sources": [
+      {
+        "source": "NDR Schleswig-Holstein",
+        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/ssw-parteitag-dirschauer-zum-spitzenkandidaten-gewaehlt,shmag-13568.html",
+        "date": "2026-09-26T17:52:01.000Z",
+        "snippet": "Beim Landesparteitag in Flensburg erhielt er 100 von 105 gültigen Stimmen und damit gut 95 Prozent. Es gab keine Gegenkandidaten.",
+        "title": "SSW-Parteitag: Dirschauer zum Spitzenkandidaten gewählt"
+      },
+      {
+        "source": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/ssw-parteitag-in-flensburg-christian-dirschauer-zum-spitzenkandidaten-gewaehlt,ssw-124.html",
+        "date": "2026-09-26T13:35:13.000Z",
+        "snippet": "Christian Dirschauer führt den SSW in die Landtagswahl 2027, er wurde am Samstag beim Landesparteitag in Flensburg gewählt.",
+        "title": "SSW-Parteitag in Flensburg: Dirschauer zum Spitzenkandidaten gewählt"
+      }
+    ],
+    "title": "SSW-Parteitag: Dirschauer zum Spitzenkandidaten gewählt",
+    "summary": "SSW-Parteitag: Dirschauer zum Spitzenkandidaten gewählt Beim Landesparteitag in Flensburg erhielt er 100 von 105 gültigen Stimmen und damit gut 95 Prozent. Es gab keine Gegenkandidaten.\nSSW-Parteitag in Flensburg: Dirschauer zum Spitzenkandidaten gewählt Christian Dirschauer führt den SSW in die Landtagswahl 2027, er wurde am Samstag beim Landesparteitag in Flensburg gewählt."
+  },
+  {
+    "id": "story-76",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T17:46:09.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bangkok-ruft-wegen-ueberschwemmungen-den-katastrophenfall-aus-102.html",
+        "date": "2026-09-26T17:46:09.000Z",
+        "snippet": "Für die thailändische Hauptstadt Bangkok ist wegen schwerer Überschwemmungen der Katastrophenfall ausgerufen worden.",
+        "title": "Thailand - Bangkok ruft wegen Überschwemmungen den Katastrophenfall aus"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ab7bd9d18772248192d5daa/thailand-wasser-steht-bis-zur-huefte-bangkok-ruft-wegen-ueberschwemmungen-katastrophenfall-aus.html",
+        "date": "2026-09-26T12:58:16.000Z",
+        "snippet": "Seit Tagen regnet es in Bangkok ununterbrochen, teilweise werden Lebensmittel knapp: Die Stadt erlebt derartige Überschwemmungen, dass nun der Katastrophenfall ausgerufen wurde.",
+        "title": "„Wasser steht bis zur Hüfte“ – Bangkok ruft wegen Überschwemmungen Katastrophenfall aus"
+      }
+    ],
+    "title": "Thailand - Bangkok ruft wegen Überschwemmungen den Katastrophenfall aus",
+    "summary": "Thailand - Bangkok ruft wegen Überschwemmungen den Katastrophenfall aus Für die thailändische Hauptstadt Bangkok ist wegen schwerer Überschwemmungen der Katastrophenfall ausgerufen worden.\n„Wasser steht bis zur Hüfte“ – Bangkok ruft wegen Überschwemmungen Katastrophenfall aus Seit Tagen regnet es in Bangkok ununterbrochen, teilweise werden Lebensmittel knapp: Die Stadt erlebt derartige Überschwemmungen, dass nun der Katastrophenfall ausgerufen wurde."
+  },
+  {
+    "id": "story-84",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T17:46:09.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/neue-angriffe-der-huthi-miliz-auf-saudische-hauptstadt-riad-102.html",
+        "date": "2026-09-26T17:46:09.000Z",
+        "snippet": "Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt.",
+        "title": "Nahost - Neue Angriffe der Huthi-Miliz auf saudische Hauptstadt Riad"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/ausland/video6ab7b8873386855e1e1e3fee/krieg-in-nahost-huthi-miliz-greift-saudische-hauptstadt-riad-mit-drohnen-an.html",
+        "date": "2026-09-26T12:30:38.000Z",
+        "snippet": "Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt. Zwei Drohnen seien von der Luftabwehr abgefangen und zerstört worden.",
+        "title": "Huthi-Miliz greift saudische Hauptstadt Riad mit Drohnen an"
+      }
+    ],
+    "title": "Nahost - Neue Angriffe der Huthi-Miliz auf saudische Hauptstadt Riad",
+    "summary": "Nahost - Neue Angriffe der Huthi-Miliz auf saudische Hauptstadt Riad Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt.\nHuthi-Miliz greift saudische Hauptstadt Riad mit Drohnen an Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt. Zwei Drohnen seien von der Luftabwehr abgefangen und zerstört worden."
+  },
+  {
+    "id": "story-120",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-09-26T17:24:56.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-21-bis-27-september,VVpYoV4",
+        "date": "2026-09-26T17:24:56.000Z",
+        "snippet": "Bundesaußenminister Wadephul ist am Rande der UN-Vollversammlung in New York mit seinem russischen Amtskollegen Lawrow zusammengekommen. Es war das erste Treffen eines deutschen und russischen Außenministers seit Jahren. Alle News im Ticker.",
+        "title": "Ukraine-Ticker: Wadephul trifft Lawrow in New York zu Gesprächen"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-wadephul-trifft-lawrow-in-new-york-zu-gespraechen-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-09-26T15:59:10.000Z",
+        "snippet": "Seit mehr als vier Jahren verteidigt sich die Ukraine gegen den russischen Angriffskrieg, Friedens­bemühungen verliefen bisher erfolglos. Verfolgen Sie alle Entwicklungen in unserem Liveblog.",
+        "title": "Ukraine-News im Ticker: Wadephul trifft Lawrow in New York zu Gesprächen"
+      }
+    ],
+    "title": "Ukraine-Ticker: Wadephul trifft Lawrow in New York zu Gesprächen",
+    "summary": "Ukraine-Ticker: Wadephul trifft Lawrow in New York zu Gesprächen Bundesaußenminister Wadephul ist am Rande der UN-Vollversammlung in New York mit seinem russischen Amtskollegen Lawrow zusammengekommen. Es war das erste Treffen eines deutschen und russischen Außenministers seit Jahren. Alle News im Ticker.\nUkraine-News im Ticker: Wadephul trifft Lawrow in New York zu Gesprächen Seit mehr als vier Jahren verteidigt sich die Ukraine gegen den russischen Angriffskrieg, Friedens­bemühungen verliefen bisher erfolglos. Verfolgen Sie alle Entwicklungen in unserem Liveblog."
+  },
+  {
+    "id": "story-169",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "SN",
+    "date": "2026-09-26T16:51:29.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/bergparade-festumzug,wandertag-oberwiesenthal-100.html",
+        "date": "2026-09-26T16:51:29.000Z",
+        "snippet": "Festumzug und Bergparade beim deutschen Wandertag in Oberwiesenthal",
+        "title": "Festumzug und Bergparade beim deutschen Wandertag in Oberwiesenthal"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/26/deutscher-wandertag-endet-mit-festumzug-und-bergparade",
+        "date": "2026-09-26T16:39:33.000Z",
+        "snippet": "",
+        "title": "Wandern: Deutscher Wandertag endet mit Festumzug und Bergparade"
+      }
+    ],
+    "title": "Festumzug und Bergparade beim deutschen Wandertag in Oberwiesenthal",
+    "summary": "Festumzug und Bergparade beim deutschen Wandertag in Oberwiesenthal Festumzug und Bergparade beim deutschen Wandertag in Oberwiesenthal\nWandern: Deutscher Wandertag endet mit Festumzug und Bergparade "
+  },
+  {
+    "id": "story-170",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T16:50:52.000Z",
+    "sources": [
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/news/leo-xiv--feiert-in-paris-messe-mit-800-000-menschen-38312762.html",
+        "date": "2026-09-26T16:50:52.000Z",
+        "snippet": "Bei einer Freiluftmesse im Herzen von Paris haben am Samstag hunderttausende Menschen an einem Gottesdienst mit Papst Leo XIV. teilgenommen. Nach Schätzungen des Vatikans versammelten sich etwa 800.000 Menschen zu der Messe im Zentrum der französischen Hauptstadt. Zuvor war der Papst im Papamobil über die Champs-Elysées gefahren, wo er von zahlreichen Gläubigen bejubelt wurde.",
+        "title": "Leo XIV. feiert in Paris Messe mit 800.000 Menschen"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
+        "date": "2026-09-26T16:25:33.000Z",
+        "snippet": "Papst Leo XIV. hat seinen Aufenthalt in Paris mit einer großen Messe beendet. Das Verhältnis zwischen Frankreich und dem Vatikan ist nicht frei von Spannungen - trotzdem wurde der Papst von einer riesigen Menschenmenge gefeiert.",
+        "title": "Papst Leo XIV. feiert Messe mit 800.000 Menschen in Paris"
+      }
+    ],
+    "title": "Leo XIV. feiert in Paris Messe mit 800.000 Menschen",
+    "summary": "Leo XIV. feiert in Paris Messe mit 800.000 Menschen Bei einer Freiluftmesse im Herzen von Paris haben am Samstag hunderttausende Menschen an einem Gottesdienst mit Papst Leo XIV. teilgenommen. Nach Schätzungen des Vatikans versammelten sich etwa 800.000 Menschen zu der Messe im Zentrum der französischen Hauptstadt. Zuvor war der Papst im Papamobil über die Champs-Elysées gefahren, wo er von zahlreichen Gläubigen bejubelt wurde.\nPapst Leo XIV. feiert Messe mit 800.000 Menschen in Paris Papst Leo XIV. hat seinen Aufenthalt in Paris mit einer großen Messe beendet. Das Verhältnis zwischen Frankreich und dem Vatikan ist nicht frei von Spannungen - trotzdem wurde der Papst von einer riesigen Menschenmenge gefeiert."
+  },
+  {
+    "id": "story-211",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T16:13:14.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5",
+        "date": "2026-09-26T16:13:14.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5\" target=\"_blank\">Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnNOcGtiT2FzRFpiMzNDLTZnYWZvbkM0VEVvTjgyeXhzUnJzWExGWFlzN1hPZXlXUURsakJDc2pGR3ZjdWF1dlRQUnJMQ3pQYjR4XzFYOFc5TXFRNGN4cWZRQVc1TWNRTTdjbjJFdF9iWWZxRkV",
+        "title": "Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Bericht-Auch-Aegyptens-Geheimdienstchef-warnte-Israel-vor-Hamas-Angriff-id31351424.html",
+        "date": "2026-09-26T16:13:14.000Z",
+        "snippet": "Eine Zeitung aus Israel behauptet, Premier Netanjahu sei vor einem Angriff der Hamas gewarnt worden. Der streitet alles ab und geht gegen \"Haaretz\" vor. Nun legt ein weiteres Medium nach. Demnach soll Ägyptens Geheimdienstchef sogar nach Israel gereist sein, um Unheil abzuwenden.",
+        "title": "Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff"
+      }
+    ],
+    "title": "Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff - n-tv.de",
+    "summary": "Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5\" target=\"_blank\">Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnNOcGtiT2FzRFpiMzNDLTZnYWZvbkM0VEVvTjgyeXhzUnJzWExGWFlzN1hPZXlXUURsakJDc2pGR3ZjdWF1dlRQUnJMQ3pQYjR4XzFYOFc5TXFRNGN4cWZRQVc1TWNRTTdjbjJFdF9iWWZxRkV\nNetanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff Eine Zeitung aus Israel behauptet, Premier Netanjahu sei vor einem Angriff der Hamas gewarnt worden. Der streitet alles ab und geht gegen \"Haaretz\" vor. Nun legt ein weiteres Medium nach. Demnach soll Ägyptens Geheimdienstchef sogar nach Israel gereist sein, um Unheil abzuwenden."
+  },
+  {
+    "id": "story-216",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T16:07:51.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5",
+        "date": "2026-09-26T16:07:51.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5\" target=\"_blank\">„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmJIMUhIRnBFV3VjcGpVYWx2NDhWNTBUQTdqdUtSRGtLeVhhU0FMcnM4SG",
+        "title": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“ - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ab7e1ce18772248192d5fc2/gruene-in-berlin-kann-mir-schwer-vorstellen-dass-die-linkspartei-das-innen-oder-justizressort-fuehrt.html",
+        "date": "2026-09-26T16:06:09.000Z",
+        "snippet": "Solange in der Linkspartei Menschen mit „Verbindungen zur organisierten Kriminalität“ oder zu „extremistischen Kräften“ seien, könne sie sich schwer vorstellen, dass ein Linker das Justizressort führe, sagt Grünen-Chefin Brantner.",
+        "title": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“"
+      }
+    ],
+    "title": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“ - WELT",
+    "summary": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“ - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5\" target=\"_blank\">„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmJIMUhIRnBFV3VjcGpVYWx2NDhWNTBUQTdqdUtSRGtLeVhhU0FMcnM4SG\n„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“ Solange in der Linkspartei Menschen mit „Verbindungen zur organisierten Kriminalität“ oder zu „extremistischen Kräften“ seien, könne sie sich schwer vorstellen, dass ein Linker das Justizressort führe, sagt Grünen-Chefin Brantner."
+  },
+  {
+    "id": "story-238",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-09-26T15:46:40.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-26T15:46:40.000Z",
+        "snippet": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+        "title": "Brazil's Lula bans online gambling ahead of presidential election"
+      },
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
+        "date": "2026-09-26T12:36:01.000Z",
+        "snippet": "Brazil’s President Luiz Inácio Lula da Silva on Friday signed an order banning fixed-odds betting just over a week ahead of the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.",
+        "title": "Brazil's President Lula bans online betting ahead of presidential election"
+      }
+    ],
+    "title": "Brazil's Lula bans online gambling ahead of presidential election",
+    "summary": "Brazil's Lula bans online gambling ahead of presidential election Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".\nBrazil's President Lula bans online betting ahead of presidential election Brazil’s President Luiz Inácio Lula da Silva on Friday signed an order banning fixed-odds betting just over a week ahead of the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt."
+  },
+  {
+    "id": "story-241",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T15:45:03.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
+        "date": "2026-09-26T15:45:03.000Z",
+        "snippet": "Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die …",
+        "title": "Dobrindt will schnelle Frontex-Eingreiftruppe"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
+        "date": "2026-09-26T15:27:14.000Z",
+        "snippet": "Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die Befugnisse von Frontex gestärkt werden.",
+        "title": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex"
+      }
+    ],
+    "title": "Dobrindt will schnelle Frontex-Eingreiftruppe",
+    "summary": "Dobrindt will schnelle Frontex-Eingreiftruppe Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die …\nDobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die Befugnisse von Frontex gestärkt werden."
+  },
+  {
+    "id": "story-242",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T15:45:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html",
+        "date": "2026-09-26T15:45:01.000Z",
+        "snippet": "Schweden setzt bei der Altenpflege konsequent auf die Betreuung zu Hause. Ein gut ausgebauter Pflegedienst macht das möglich. Die Höhe des Eigenbeitrags ist begrenzt - doch Fachkr…",
+        "title": "So lange wie möglich zu Hause"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html",
+        "date": "2026-09-26T15:29:01.000Z",
+        "snippet": "Schweden setzt bei der Altenpflege konsequent auf die Betreuung zu Hause. Ein gut ausgebauter Pflegedienst macht das möglich. Die Höhe des Eigenbeitrags ist begrenzt - doch Fachkräfte werden knapp. Von J. Sinram.",
+        "title": "Pflege in Schweden: So lange wie möglich zu Hause"
+      }
+    ],
+    "title": "So lange wie möglich zu Hause",
+    "summary": "So lange wie möglich zu Hause Schweden setzt bei der Altenpflege konsequent auf die Betreuung zu Hause. Ein gut ausgebauter Pflegedienst macht das möglich. Die Höhe des Eigenbeitrags ist begrenzt - doch Fachkr…\nPflege in Schweden: So lange wie möglich zu Hause Schweden setzt bei der Altenpflege konsequent auf die Betreuung zu Hause. Ein gut ausgebauter Pflegedienst macht das möglich. Die Höhe des Eigenbeitrags ist begrenzt - doch Fachkräfte werden knapp. Von J. Sinram."
+  },
+  {
+    "id": "story-301",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T15:01:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEsxd3UyOVplNzJSOGV1M1JENW8tWERUOXdBWTBqbUEyMEwyd1VTRkVQc09nWWs3MEoyaDhsQXoxd2gyNjNfOWJ2cHFmdUs2TWpZb04xOEpGdWM1TDhibk83V0Vkc3UzdXpjZ1p1U0RpMWdJNWZlN2UwQm1hcHVzT3Y0TW9veTNHRU1LT0pjbWRXcmtyS3NCTER0WEx4U0xlbzhfVmlOdUp5YktuMmpBTFdoQXJ4dktnNmU3bm5WQktnZDBPanUzeFN5Zy1XalF4YnBHM0c0QQ?oc=5",
+        "date": "2026-09-26T15:01:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEsxd3UyOVplNzJSOGV1M1JENW8tWERUOXdBWTBqbUEyMEwyd1VTRkVQc09nWWs3MEoyaDhsQXoxd2gyNjNfOWJ2cHFmdUs2TWpZb04xOEpGdWM1TDhibk83V0Vkc3UzdXpjZ1p1U0RpMWdJNWZlN2UwQm1hcHVzT3Y0TW9veTNHRU1LT0pjbWRXcmtyS3NCTER0WEx4U0xlbzhfVmlOdUp5YktuMmpBTFdoQXJ4dktnNmU3bm5WQktnZDBPanUzeFN5Zy1XalF4YnBHM0c0QQ?oc=5\" target=\"_blank\">Leo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMTlVdGVBWmlVREJqQ0NOdVduNnNyakJOMHROTmRtaEp6WGhtZHp0aUw2NmhDTzdJb1UySldVOHZRRlRPbGZqdDRUaEtVQW5TR0JoQmhBUEpjWHRDMDgwdHJNT1dSZXhlUWczR0",
+        "title": "Leo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/leo-xiv-in-frankreich-rund-700-000-menschen-feiern-papstmesse-in-paris-a-00083c2f-aa30-4a73-9c0d-c3480d3e3db5#ref=rss",
+        "date": "2026-09-26T15:01:00.000Z",
+        "snippet": "Es war kein Durchkommen mehr: Die Place de la Concorde war Schauplatz der wohl größten Messe, die je in der französischen Hauptstadt stattgefunden hat. Emmanuel Macron allerdings kam nicht.",
+        "title": "Leo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris"
+      }
+    ],
+    "title": "Leo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris - Spiegel",
+    "summary": "Leo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEsxd3UyOVplNzJSOGV1M1JENW8tWERUOXdBWTBqbUEyMEwyd1VTRkVQc09nWWs3MEoyaDhsQXoxd2gyNjNfOWJ2cHFmdUs2TWpZb04xOEpGdWM1TDhibk83V0Vkc3UzdXpjZ1p1U0RpMWdJNWZlN2UwQm1hcHVzT3Y0TW9veTNHRU1LT0pjbWRXcmtyS3NCTER0WEx4U0xlbzhfVmlOdUp5YktuMmpBTFdoQXJ4dktnNmU3bm5WQktnZDBPanUzeFN5Zy1XalF4YnBHM0c0QQ?oc=5\" target=\"_blank\">Leo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMTlVdGVBWmlVREJqQ0NOdVduNnNyakJOMHROTmRtaEp6WGhtZHp0aUw2NmhDTzdJb1UySldVOHZRRlRPbGZqdDRUaEtVQW5TR0JoQmhBUEpjWHRDMDgwdHJNT1dSZXhlUWczR0\nLeo XIV. in Frankreich: Rund 700.000 Menschen feiern Papstmesse in Paris Es war kein Durchkommen mehr: Die Place de la Concorde war Schauplatz der wohl größten Messe, die je in der französischen Hauptstadt stattgefunden hat. Emmanuel Macron allerdings kam nicht."
+  },
+  {
+    "id": "story-393",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-26T13:49:09.000Z",
+    "sources": [
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV4RjU1WDBtRWRrQm1OdFFkd2FiMlYzSHBpb2RvYk9UOWU5UC1wWjlLRFdGeTZrbDhOaC1SYmZRSGxiOHNNMnJIN0ZtWkV3MWpNX19jcFR2UHZjYkVzb2NSck5oR3ZRcnJXOTJGSjZnekFNR21DMFY3b0ZzWUFyOVQxSUFPNDZBdVBqVnloQXkxMTdKR3paNVh0dVR6VHF2VVBHcnhDendZT2xPTFZSdg?oc=5",
+        "date": "2026-09-26T13:49:09.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV4RjU1WDBtRWRrQm1OdFFkd2FiMlYzSHBpb2RvYk9UOWU5UC1wWjlLRFdGeTZrbDhOaC1SYmZRSGxiOHNNMnJIN0ZtWkV3MWpNX19jcFR2UHZjYkVzb2NSck5oR3ZRcnJXOTJGSjZnekFNR21DMFY3b0ZzWUFyOVQxSUFPNDZBdVBqVnloQXkxMTdKR3paNVh0dVR6VHF2VVBHcnhDendZT2xPTFZSdg?oc=5\" target=\"_blank\">Seis pessoas desalojadas após incêndio no centro histórico do Funchal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWRwSHFmT1NvTW8yZk5vbVZtdFFZTmxLUVhNZlR2TVVjV0toc1ZCeEw3ZmVxam0yWkc5MENDZS11c3lmb2lLRUR1SVUzNjl2SExleGtlWGRaTWdkOGJZUFJ6T3I0eEM1UmhKeVlQSXA3c2tBT0xyV2RlYlU1V09FeUlYRFN1emhhMkVkVG92SWcwZ1h3RmxwM",
+        "title": "Seis pessoas desalojadas após incêndio no centro histórico do Funchal - RTP"
+      },
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/seis-pessoas-desalojadas-apos-incendio-no-centro-historico-do-funchal_n1767888",
+        "date": "2026-09-26T11:09:32.000Z",
+        "snippet": "Um incêndio de grandes dimensões consumiu um prédio no centro histórico da cidade. Seis pessoas ficaram desalojadas.",
+        "title": "Seis pessoas desalojadas após incêndio no centro histórico do Funchal"
+      }
+    ],
+    "title": "Seis pessoas desalojadas após incêndio no centro histórico do Funchal - RTP",
+    "summary": "Seis pessoas desalojadas após incêndio no centro histórico do Funchal - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV4RjU1WDBtRWRrQm1OdFFkd2FiMlYzSHBpb2RvYk9UOWU5UC1wWjlLRFdGeTZrbDhOaC1SYmZRSGxiOHNNMnJIN0ZtWkV3MWpNX19jcFR2UHZjYkVzb2NSck5oR3ZRcnJXOTJGSjZnekFNR21DMFY3b0ZzWUFyOVQxSUFPNDZBdVBqVnloQXkxMTdKR3paNVh0dVR6VHF2VVBHcnhDendZT2xPTFZSdg?oc=5\" target=\"_blank\">Seis pessoas desalojadas após incêndio no centro histórico do Funchal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWRwSHFmT1NvTW8yZk5vbVZtdFFZTmxLUVhNZlR2TVVjV0toc1ZCeEw3ZmVxam0yWkc5MENDZS11c3lmb2lLRUR1SVUzNjl2SExleGtlWGRaTWdkOGJZUFJ6T3I0eEM1UmhKeVlQSXA3c2tBT0xyV2RlYlU1V09FeUlYRFN1emhhMkVkVG92SWcwZ1h3RmxwM\nSeis pessoas desalojadas após incêndio no centro histórico do Funchal Um incêndio de grandes dimensões consumiu um prédio no centro histórico da cidade. Seis pessoas ficaram desalojadas."
+  },
+  {
+    "id": "story-453",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-26T12:58:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/politica/psd-e-cds-pp-voltam-a-propor-restricao-do-acesso-ao-sns-por-estrangeiros-nao-residentes_n1767893",
+        "date": "2026-09-26T12:58:02.000Z",
+        "snippet": "PSD e CDS-PP entregaram novamente um projeto para restringir o acesso ao Serviço Nacional de Saúde por cidadãos estrangeiros não residentes em Portugal, iniciativa aprovada com o Chega na passada legislatura, mas que caducou devido a eleições.",
+        "title": "PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmhYUFNKMUVyUUxhbnlCQWNDQmVDN1dvc1R1Z1dMci1XdW1HaXBRU2V0bkw0aXdmaHA3TF9zTUdpbWVndVBMTFV3R2hLY08yTzZUbjRnZ0xsOXJxbDRKeVNzUVlwQjVFRXo2YUZ5Q3ZYa1NCZ2lXMDl2TFcyaVIyR2xuVndwOFNrZjMtczlicTYzNWliVTJfZmtfMnRJMDBHNzB2YVVHbVpQUFNEbjJKTGhURWtaNjR4aFlqWW9Zc0V6WGJWeDhDbG9n0gG6AUFVX3lxTE13WWtvQmdJQ1RrMmlzNWVPeFJHMFNUQkRGR05QY1FSVk8zQlktYWJYMzVEdXFIemNNUzFIdWEwcWppYXppNVJBQ1A1TEhtMG1lck15Q3A0VVlPOWJ4S3h3RUpzanY5VS1mUUZ0eGtQZ2M1OEhWX3BRbkxvWWRqOXUxWXJhN1AyR1RRM05pZUhjZVktUDFIeV9femdBUU5qY2NzbEpNZ0JwNUJIbVhNOGtGNEwzVWhnNE5mZw?oc=5",
+        "date": "2026-09-26T11:49:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmhYUFNKMUVyUUxhbnlCQWNDQmVDN1dvc1R1Z1dMci1XdW1HaXBRU2V0bkw0aXdmaHA3TF9zTUdpbWVndVBMTFV3R2hLY08yTzZUbjRnZ0xsOXJxbDRKeVNzUVlwQjVFRXo2YUZ5Q3ZYa1NCZ2lXMDl2TFcyaVIyR2xuVndwOFNrZjMtczlicTYzNWliVTJfZmtfMnRJMDBHNzB2YVVHbVpQUFNEbjJKTGhURWtaNjR4aFlqWW9Zc0V6WGJWeDhDbG9n0gG6AUFVX3lxTE13WWtvQmdJQ1RrMmlzNWVPeFJHMFNUQkRGR05QY1FSVk8zQlktYWJYMzVEdXFIemNNUzFIdWEwcWppYXppNVJBQ1A1TEhtMG1lck15Q3A0VVlPOWJ4S3h3RUpzanY5VS1mUUZ0eGtQZ2M1OEhWX3BRbkxvWWRqOXUxWXJhN1AyR1RRM05pZUhjZVktUDFIeV9femdBUU5qY2NzbEpNZ0JwNUJIbVhNOGtGNEwzVWhnNE5mZw?oc=5\" target=\"_blank\">PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes</a>&nbsp;&nbs",
+        "title": "PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes - Jornal de Notícias"
+      }
+    ],
+    "title": "PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes",
+    "summary": "PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes PSD e CDS-PP entregaram novamente um projeto para restringir o acesso ao Serviço Nacional de Saúde por cidadãos estrangeiros não residentes em Portugal, iniciativa aprovada com o Chega na passada legislatura, mas que caducou devido a eleições.\nPSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes - Jornal de Notícias <a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmhYUFNKMUVyUUxhbnlCQWNDQmVDN1dvc1R1Z1dMci1XdW1HaXBRU2V0bkw0aXdmaHA3TF9zTUdpbWVndVBMTFV3R2hLY08yTzZUbjRnZ0xsOXJxbDRKeVNzUVlwQjVFRXo2YUZ5Q3ZYa1NCZ2lXMDl2TFcyaVIyR2xuVndwOFNrZjMtczlicTYzNWliVTJfZmtfMnRJMDBHNzB2YVVHbVpQUFNEbjJKTGhURWtaNjR4aFlqWW9Zc0V6WGJWeDhDbG9n0gG6AUFVX3lxTE13WWtvQmdJQ1RrMmlzNWVPeFJHMFNUQkRGR05QY1FSVk8zQlktYWJYMzVEdXFIemNNUzFIdWEwcWppYXppNVJBQ1A1TEhtMG1lck15Q3A0VVlPOWJ4S3h3RUpzanY5VS1mUUZ0eGtQZ2M1OEhWX3BRbkxvWWRqOXUxWXJhN1AyR1RRM05pZUhjZVktUDFIeV9femdBUU5qY2NzbEpNZ0JwNUJIbVhNOGtGNEwzVWhnNE5mZw?oc=5\" target=\"_blank\">PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes</a>&nbsp;&nbs"
+  },
+  {
+    "id": "story-536",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-09-26T11:29:45.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/novo-aeroporto-governo-pede-a-ana-mais-detalhes-sobre-procura-pistas-e-expansao-da-infraestrutura_n1767890",
+        "date": "2026-09-26T11:29:45.000Z",
+        "snippet": "O Governo pediu à ANA mais detalhes sobre a estratégia de expansão do novo aeroporto de Lisboa, afirmando que pretende trabalhar com a concessionária para antecipar a entrada da operação prevista para 2037.",
+        "title": "Novo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHlJbHNQX1REak5VSnlhLXpWZVhFSV9RRENFRWFCVzl2VnVkeGgySlBraWQzcFN5aEM3cFN1WFFhQ0JoSjZzRE9tODZocEYwbjNhOERsa2NYRy1XMHZKWjR6RnZheHZsZU51ODhDM2FKRkF2UUZTS0FlMzFtY3Z0QVhzd1dqT3BRdW1md01mbFR1cVp3T2lzVDJGOHZaUjJYU2V3cHdwWlNEZEVBMGVxMHB0Uk1vNWxHeWhyNEg1N1dGWmh6S2I0UVU4TlIzNy00c2dlZEdvVlF0Q28?oc=5",
+        "date": "2026-09-26T10:48:09.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHlJbHNQX1REak5VSnlhLXpWZVhFSV9RRENFRWFCVzl2VnVkeGgySlBraWQzcFN5aEM3cFN1WFFhQ0JoSjZzRE9tODZocEYwbjNhOERsa2NYRy1XMHZKWjR6RnZheHZsZU51ODhDM2FKRkF2UUZTS0FlMzFtY3Z0QVhzd1dqT3BRdW1md01mbFR1cVp3T2lzVDJGOHZaUjJYU2V3cHdwWlNEZEVBMGVxMHB0Uk1vNWxHeWhyNEg1N1dGWmh6S2I0UVU4TlIzNy00c2dlZEdvVlF0Q28?oc=5\" target=\"_blank\">Novo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWbi1LSUVoSGpyTzgwQm1GSGdpZ0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver m",
+        "title": "Novo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura - RTP"
+      }
+    ],
+    "title": "Novo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura",
+    "summary": "Novo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura O Governo pediu à ANA mais detalhes sobre a estratégia de expansão do novo aeroporto de Lisboa, afirmando que pretende trabalhar com a concessionária para antecipar a entrada da operação prevista para 2037.\nNovo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura - RTP <a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHlJbHNQX1REak5VSnlhLXpWZVhFSV9RRENFRWFCVzl2VnVkeGgySlBraWQzcFN5aEM3cFN1WFFhQ0JoSjZzRE9tODZocEYwbjNhOERsa2NYRy1XMHZKWjR6RnZheHZsZU51ODhDM2FKRkF2UUZTS0FlMzFtY3Z0QVhzd1dqT3BRdW1md01mbFR1cVp3T2lzVDJGOHZaUjJYU2V3cHdwWlNEZEVBMGVxMHB0Uk1vNWxHeWhyNEg1N1dGWmh6S2I0UVU4TlIzNy00c2dlZEdvVlF0Q28?oc=5\" target=\"_blank\">Novo aeroporto. Governo pede à ANA mais detalhes sobre procura, pistas e expansão da infraestrutura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWbi1LSUVoSGpyTzgwQm1GSGdpZ0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver m"
+  },
+  {
+    "id": "story-541",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-09-26T11:22:55.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy01TTFVaHdCeGNoc1hqTUt6RjdjQzQwSmxweFBQRmc1Q2UycXJ1Y2JZeUpwTFJoejVuS2tsY2tJdDZuQWxKZ2RLTkh0dV91MVg0aUhDOExpc0p6THF6MmlzVWktVjhKNmdCUWluYmpTNGRobzBzRkpGd0o4ZFBVRVB2NEtmNUpmaG56MERMRdIBjwFBVV95cUxNV1BQNHVSMzVsa3F2UUxOWVUzbm91TWFFbS1ZOTlfbVRwYi1yaDNQTFhnc3MxbGxBZi1fazlWQjJPLVlaaXgtSlNlaGNRdEVLbmtKN0oyMzJFM2U0S2JZeWQtRmlTZWh4THBpYUNYQXVTX2ppNUxmc3dIbW9lc24xbVBxMWJoM2dVazBNLVdYWQ?oc=5",
+        "date": "2026-09-26T11:22:55.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy01TTFVaHdCeGNoc1hqTUt6RjdjQzQwSmxweFBQRmc1Q2UycXJ1Y2JZeUpwTFJoejVuS2tsY2tJdDZuQWxKZ2RLTkh0dV91MVg0aUhDOExpc0p6THF6MmlzVWktVjhKNmdCUWluYmpTNGRobzBzRkpGd0o4ZFBVRVB2NEtmNUpmaG56MERMRdIBjwFBVV95cUxNV1BQNHVSMzVsa3F2UUxOWVUzbm91TWFFbS1ZOTlfbVRwYi1yaDNQTFhnc3MxbGxBZi1fazlWQjJPLVlaaXgtSlNlaGNRdEVLbmtKN0oyMzJFM2U0S2JZeWQtRmlTZWh4THBpYUNYQXVTX2ppNUxmc3dIbW9lc24xbVBxMWJoM2dVazBNLVdYWQ?oc=5\" target=\"_blank\">Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+        "title": "Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\" - DW.com"
+      },
+      {
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/zwangsstörung-du-guckst-dir-zu-wie-du-irre-wirst/a-79386044?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-09-26T05:49:00.000Z",
+        "snippet": "Ist der Herd wirklich aus? Bin ich wirklich sauber? Könnte ich meinem Kind wehtun? Zwangsgedanken und –handlungen sind extrem belastend für Betroffene. Eine Therapieform ist besonders vielversprechend.",
+        "title": "Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\""
+      }
+    ],
+    "title": "Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\" - DW.com",
+    "summary": "Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\" - DW.com <a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy01TTFVaHdCeGNoc1hqTUt6RjdjQzQwSmxweFBQRmc1Q2UycXJ1Y2JZeUpwTFJoejVuS2tsY2tJdDZuQWxKZ2RLTkh0dV91MVg0aUhDOExpc0p6THF6MmlzVWktVjhKNmdCUWluYmpTNGRobzBzRkpGd0o4ZFBVRVB2NEtmNUpmaG56MERMRdIBjwFBVV95cUxNV1BQNHVSMzVsa3F2UUxOWVUzbm91TWFFbS1ZOTlfbVRwYi1yaDNQTFhnc3MxbGxBZi1fazlWQjJPLVlaaXgtSlNlaGNRdEVLbmtKN0oyMzJFM2U0S2JZeWQtRmlTZWh4THBpYUNYQXVTX2ppNUxmc3dIbW9lc24xbVBxMWJoM2dVazBNLVdYWQ?oc=5\" target=\"_blank\">Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>\nZwangsstörung: \"Du guckst dir zu, wie du irre wirst\" Ist der Herd wirklich aus? Bin ich wirklich sauber? Könnte ich meinem Kind wehtun? Zwangsgedanken und –handlungen sind extrem belastend für Betroffene. Eine Therapieform ist besonders vielversprechend."
+  },
+  {
+    "id": "story-633",
     "topic": "umwelt",
     "country": "INT",
     "stateHint": "",
@@ -25,346 +716,96 @@
     "summary": "A month after, thousands are still missing and families face a long recovery A month after Nepal’s floods, thousands are still missing and families face a long recovery.\nA Month After Nepal Floods, Thousands Are Still Missing and Families Face a Long Recovery - U.S. News & World Report <a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTVzSVJwWkc1ZzBOTE1KWFQ1dkFCOGNERG9aYUV0WnczdXByb1YzcWg1aHpmUWhYaC1OWExpaU1KYWg3OEttWUhLbzB5V1B6bm53b2tBdm1GR3ZxcHlfZzBGb1EyZnJPcWZFeHR3THZDNldLMWNTclZZUDVNMTFGdHFlUHZTNHpqU0xqS2dXckV4RE4wNXI4ZU1YZEhFQjl6RVR0RmRCN3o0c2tZUXpQc2ZSOElPcXF2R3ZVMjMzNEdVbGdPRi1qNmdQNEY0SU9VVktBTjRQTF9wQQ?oc=5\" target=\"_blank\">A Month After Nepal Floods, Thousands Are Still Missing and Families Face a Long Recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>"
   },
   {
-    "id": "story-48",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-26T09:31:47.000Z",
-    "sources": [
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-        "date": "2026-09-26T09:31:47.000Z",
-        "snippet": "<p>Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms</p><p>Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz and end fighting in the Middle East war as Donald Trump was reported to have rejected the deal.</p><p>Iran raised the diplomatic initiative at the <a href=\"https://www.theguardian.com/world/unitednations\">UN general assembly</a> in New York, saying it had been transmitted ⁠to the Americans via Qatari mediators and could ⁠reopen the strategic waterway and put an end ​to hostilities in the region within seven days.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-",
-        "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz"
-      },
-      {
-        "source": "France24 English",
-        "url": "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
-        "date": "2026-09-26T02:06:07.000Z",
-        "snippet": "US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz on Saturday. Iran's Foreign Minister Abbas Araghchi presented the proposal to Trump’s envoy Steve Witkoff a day earlier on the sidelines of a UN gathering in New York. The plan stipulated that the important waterway would reopen seven days after an agreement was reached.",
-        "title": "Trump reportedly rejects Iran’s seven-day plan to reopen Strait of Hormuz"
-      }
-    ],
-    "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-    "summary": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz <p>Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms</p><p>Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz and end fighting in the Middle East war as Donald Trump was reported to have rejected the deal.</p><p>Iran raised the diplomatic initiative at the <a href=\"https://www.theguardian.com/world/unitednations\">UN general assembly</a> in New York, saying it had been transmitted ⁠to the Americans via Qatari mediators and could ⁠reopen the strategic waterway and put an end ​to hostilities in the region within seven days.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-\nTrump reportedly rejects Iran’s seven-day plan to reopen Strait of Hormuz US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz on Saturday. Iran's Foreign Minister Abbas Araghchi presented the proposal to Trump’s envoy Steve Witkoff a day earlier on the sidelines of a UN gathering in New York. The plan stipulated that the important waterway would reopen seven days after an agreement was reached."
-  },
-  {
-    "id": "story-51",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-26T09:30:04.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html",
-        "date": "2026-09-26T09:30:04.000Z",
-        "snippet": "Bundesaußenminister Wadephul vertritt heute Kanzler Merz bei den Vereinten Nationen. Die Unterstützung der Ukraine wird in seiner Rede vor der UN-Generalversammlung voraussichtlic…",
-        "title": "Wadephul spricht vor Vereinten Nationen"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html",
-        "date": "2026-09-26T09:11:14.000Z",
-        "snippet": "Bundesaußenminister Wadephul vertritt heute Kanzler Merz bei den Vereinten Nationen. Die Unterstützung der Ukraine wird in seiner Rede vor der UN-Generalversammlung voraussichtlich im Mittelpunkt stehen.",
-        "title": "Außenminister Wadephul spricht vor UN-Generalversammlung"
-      }
-    ],
-    "title": "Wadephul spricht vor Vereinten Nationen",
-    "summary": "Wadephul spricht vor Vereinten Nationen Bundesaußenminister Wadephul vertritt heute Kanzler Merz bei den Vereinten Nationen. Die Unterstützung der Ukraine wird in seiner Rede vor der UN-Generalversammlung voraussichtlic…\nAußenminister Wadephul spricht vor UN-Generalversammlung Bundesaußenminister Wadephul vertritt heute Kanzler Merz bei den Vereinten Nationen. Die Unterstützung der Ukraine wird in seiner Rede vor der UN-Generalversammlung voraussichtlich im Mittelpunkt stehen."
-  },
-  {
-    "id": "story-52",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-26T09:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
-        "date": "2026-09-26T09:30:02.000Z",
-        "snippet": "Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige L…",
-        "title": "Kann die Linke regieren?"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
-        "date": "2026-09-26T09:16:05.000Z",
-        "snippet": "Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige Linke sehen eine Diffamierungskampagne. Von C. Buckenmaier.",
-        "title": "Kann die Linke in der Hauptstadt regieren?"
-      }
-    ],
-    "title": "Kann die Linke regieren?",
-    "summary": "Kann die Linke regieren? Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige L…\nKann die Linke in der Hauptstadt regieren? Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige Linke sehen eine Diffamierungskampagne. Von C. Buckenmaier."
-  },
-  {
-    "id": "story-79",
+    "id": "story-638",
     "topic": "panorama",
     "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-09-26T09:27:01.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/neue-angriffe-der-huthi-miliz-auf-saudische-hauptstadt-riad-102.html",
-        "date": "2026-09-26T09:27:01.000Z",
-        "snippet": "Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt.",
-        "title": "Nahost - Neue Angriffe der Huthi-Miliz auf saudische Hauptstadt Riad"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
-        "date": "2026-09-26T06:15:47.000Z",
-        "snippet": "Saudi-Arabien hat einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt. Der UN-Sicherheitsrat verurteilt in einer gemeinsamen Erklärung die Angriffe der Huthis einstimmig auf \"das Schärfste\". Alle News im Ticker.",
-        "title": "Nahost-Ticker: Huthis greifen erneut saudische Hauptstadt an"
-      }
-    ],
-    "title": "Nahost - Neue Angriffe der Huthi-Miliz auf saudische Hauptstadt Riad",
-    "summary": "Nahost - Neue Angriffe der Huthi-Miliz auf saudische Hauptstadt Riad Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt.\nNahost-Ticker: Huthis greifen erneut saudische Hauptstadt an Saudi-Arabien hat einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt. Der UN-Sicherheitsrat verurteilt in einer gemeinsamen Erklärung die Angriffe der Huthis einstimmig auf \"das Schärfste\". Alle News im Ticker."
-  },
-  {
-    "id": "story-172",
-    "topic": "technik",
-    "country": "DE",
     "stateHint": "",
-    "date": "2026-09-26T08:53:29.000Z",
+    "date": "2026-09-26T09:34:21.000Z",
     "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0FPU2pwS1JkMVplUEloQ1h4dWhIWTFvOHBWNUlsRFRZQWlsSGR4MDB0Q243V2VmQU5vNmRlWFRDWTBhYkFTZ0N1WjdHeEN5RVNQSFhQZlhGZkI0UGstMElrbS1lWktKaXl0YTd6SU1RU3RWdFR5TnJ2c2NmbExUMFlzNlVLVzh3eVlST1ExYTN5bnJfc2ZfOVpaSGcwalhMa05nS0ZzTjRDemZsYVdneQ?oc=5",
+        "date": "2026-09-26T09:34:21.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0FPU2pwS1JkMVplUEloQ1h4dWhIWTFvOHBWNUlsRFRZQWlsSGR4MDB0Q243V2VmQU5vNmRlWFRDWTBhYkFTZ0N1WjdHeEN5RVNQSFhQZlhGZkI0UGstMElrbS1lWktKaXl0YTd6SU1RU3RWdFR5TnJ2c2NmbExUMFlzNlVLVzh3eVlST1ExYTN5bnJfc2ZfOVpaSGcwalhMa05nS0ZzTjRDemZsYVdneQ?oc=5\" target=\"_blank\">Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGc0TG11eU5WNHByM2hJVkwyT1gwVFlJRU5Ga1VzcHdwZU5PdTkyZl80aGFJYWF2ckJEYzc3Ri1WajZOTTVwN3R1OVhOZ3NNc2NHdkU5ZFg4RjBNU1BlTTlwZGJkUFpRM0VqbVFxWXh4LXRhNWV2UlI2TG1LQjJ",
+        "title": "Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion - n-tv.de"
+      },
       {
         "source": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/KI-von-OpenAI-lud-Nutzer-Bilder-auf-Online-Plattformen-hoch-id31350448.html",
-        "date": "2026-09-26T08:53:29.000Z",
-        "snippet": "OpenAI verliert erneut die Kontrolle über seine KI: Nutzerbilder aus Daten von ChatGPT-Nutzern tauchen plötzlich auf fremden Plattformen auf. Die Sicherheitsalarmglocken werden lauter.",
-        "title": "Nächster Ausbruch: KI von OpenAI lud Nutzer-Bilder auf Online-Plattformen hoch"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-hacking-nutzer-bilder-100.html",
-        "date": "2026-09-26T03:06:00.000Z",
-        "snippet": "Erstmals sind Daten von OpenAI-Nutzern von eigenständigen Hacking-Aktivitäten betroffen. Der ChatGPT-Entwickler deutet an, dass noch viele weitere Enthüllungen folgen könnten.",
-        "title": "OpenAI-KI platziert Nutzer-Bilder auf Online-Plattformen"
+        "url": "https://www.n-tv.de/politik/Sardinien-Reise-von-Jens-Spahn-sorgt-fuer-grossen-Unmut-in-Fraktion-id31350726.html",
+        "date": "2026-09-26T09:34:21.000Z",
+        "snippet": "Mitten in der laufenden Sitzungswoche taucht plötzlich ein Foto von Jens Spahn auf Sardinien auf. Seinen Unionskollegen aus der wichtigen Arbeitsgruppe Haushalt stößt das sauer auf. Der geschasste Fraktionschef droht seine neue Aufgabe schon wieder zu verlieren.",
+        "title": "Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion"
       }
     ],
-    "title": "Nächster Ausbruch: KI von OpenAI lud Nutzer-Bilder auf Online-Plattformen hoch",
-    "summary": "Nächster Ausbruch: KI von OpenAI lud Nutzer-Bilder auf Online-Plattformen hoch OpenAI verliert erneut die Kontrolle über seine KI: Nutzerbilder aus Daten von ChatGPT-Nutzern tauchen plötzlich auf fremden Plattformen auf. Die Sicherheitsalarmglocken werden lauter.\nOpenAI-KI platziert Nutzer-Bilder auf Online-Plattformen Erstmals sind Daten von OpenAI-Nutzern von eigenständigen Hacking-Aktivitäten betroffen. Der ChatGPT-Entwickler deutet an, dass noch viele weitere Enthüllungen folgen könnten."
+    "title": "Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion - n-tv.de",
+    "summary": "Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0FPU2pwS1JkMVplUEloQ1h4dWhIWTFvOHBWNUlsRFRZQWlsSGR4MDB0Q243V2VmQU5vNmRlWFRDWTBhYkFTZ0N1WjdHeEN5RVNQSFhQZlhGZkI0UGstMElrbS1lWktKaXl0YTd6SU1RU3RWdFR5TnJ2c2NmbExUMFlzNlVLVzh3eVlST1ExYTN5bnJfc2ZfOVpaSGcwalhMa05nS0ZzTjRDemZsYVdneQ?oc=5\" target=\"_blank\">Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGc0TG11eU5WNHByM2hJVkwyT1gwVFlJRU5Ga1VzcHdwZU5PdTkyZl80aGFJYWF2ckJEYzc3Ri1WajZOTTVwN3R1OVhOZ3NNc2NHdkU5ZFg4RjBNU1BlTTlwZGJkUFpRM0VqbVFxWXh4LXRhNWV2UlI2TG1LQjJ\nVerliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion Mitten in der laufenden Sitzungswoche taucht plötzlich ein Foto von Jens Spahn auf Sardinien auf. Seinen Unionskollegen aus der wichtigen Arbeitsgruppe Haushalt stößt das sauer auf. Der geschasste Fraktionschef droht seine neue Aufgabe schon wieder zu verlieren."
   },
   {
-    "id": "story-208",
+    "id": "story-652",
     "topic": "politik",
-    "country": "DE",
+    "country": "INT",
     "stateHint": "",
-    "date": "2026-09-26T08:29:47.000Z",
+    "date": "2026-09-26T09:19:00.000Z",
     "sources": [
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/videos/video6ab780efa8b3f6fdb1edbd2a/ex-bundespraesident-islam-gehoert-zu-deutschland-wulff-bekraeftigt-umstrittene-aussage.html",
-        "date": "2026-09-26T08:29:47.000Z",
-        "snippet": "Ex-Bundespräsident Christian Wulff bekräftigt im Interview seine Aussage „Der Islam gehört zu Deutschland“. Wulff wirbt für mehr Dialog und Respekt zwischen den Religionen.",
-        "title": "„Islam gehört zu Deutschland“? – Wulff bekräftigt umstrittene Aussage"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/16-jahre-spaeter-ex-bundespraesident-christian-wulff-bekraeftigt-der-islam-gehoert-zu-deutschland-SQRMJLYJ6VCH5HZ426AONCEGUI.html",
-        "date": "2026-09-26T05:08:39.000Z",
-        "snippet": "Ex-Bundespräsident Christian Wulff bekräftigt seine umstrittene Aussage von vor 16 Jahren: „Der Islam gehört zu Deutschland.“ Er würde die damalige Rede heute erneut so halten. Was er zur Integration der sechs Millionen Muslime in Deutschland fordert.",
-        "title": "16 Jahre später – Ex-Bundespräsident Christian Wulff bekräftigt: „Der Islam gehört zu Deutschland\" – und fordert Integration"
-      }
-    ],
-    "title": "„Islam gehört zu Deutschland“? – Wulff bekräftigt umstrittene Aussage",
-    "summary": "„Islam gehört zu Deutschland“? – Wulff bekräftigt umstrittene Aussage Ex-Bundespräsident Christian Wulff bekräftigt im Interview seine Aussage „Der Islam gehört zu Deutschland“. Wulff wirbt für mehr Dialog und Respekt zwischen den Religionen.\n16 Jahre später – Ex-Bundespräsident Christian Wulff bekräftigt: „Der Islam gehört zu Deutschland\" – und fordert Integration Ex-Bundespräsident Christian Wulff bekräftigt seine umstrittene Aussage von vor 16 Jahren: „Der Islam gehört zu Deutschland.“ Er würde die damalige Rede heute erneut so halten. Was er zur Integration der sechs Millionen Muslime in Deutschland fordert."
-  },
-  {
-    "id": "story-396",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-26T06:40:23.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHVhOWhVUzYtWTBDMnp5ZkRRT3czVVU2eWJPVkFXMkpPYUZyNnllaF9zeUhMeGJRYy11RFZzR3NFcC1xTmFIblVXRjJLUTUzQWFqZFg3TkRDdUdSYzR1QlhzOUdqWjBYZ3BQeGEzZkdTdkp1UndtV0Ywc1hoa0V6QV9rTlRrYjNUbDc0YWRpaW9zdENnMy1lazdXdnhDYlhUUzdnN09Uc2plOFVMeVl2MWxkM3pNYWI5UUsyMXhtR3REelB3OW5JM2ZzNnBDZmlHal9sYktJbkotbnlSM21Fb08xRHlhUmE0M0JDTGlPVHZYLVQ1YzlXUTRTd3VIcnM?oc=5",
-        "date": "2026-09-26T06:40:23.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHVhOWhVUzYtWTBDMnp5ZkRRT3czVVU2eWJPVkFXMkpPYUZyNnllaF9zeUhMeGJRYy11RFZzR3NFcC1xTmFIblVXRjJLUTUzQWFqZFg3TkRDdUdSYzR1QlhzOUdqWjBYZ3BQeGEzZkdTdkp1UndtV0Ywc1hoa0V6QV9rTlRrYjNUbDc0YWRpaW9zdENnMy1lazdXdnhDYlhUUzdnN09Uc2plOFVMeVl2MWxkM3pNYWI5UUsyMXhtR3REelB3OW5JM2ZzNnBDZmlHal9sYktJbkotbnlSM21Fb08xRHlhUmE0M0JDTGlPVHZYLVQ1YzlXUTRTd3VIcnM?oc=5\" target=\"_blank\">Merz und die AfD: Der amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wTHk0cDY0MjBwNHQ0bVpBZ2d4cE5IU3FrcWxKZGFUVmFYOWVXR3drSWd",
-        "title": "Merz und die AfD: Der amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma - WELT"
-      },
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/plus6ab3ac96e5b1ca08382b56e9/merz-und-die-afd-der-amerikanische-blick-auf-den-tragischsten-kanzler-und-das-brandmauer-dilemma.html",
-        "date": "2026-09-26T06:37:18.000Z",
-        "snippet": "Die Kanzler-Krise und Sinn oder Unsinn der „Brandmauer“ treiben auch Kommentatoren in den USA um. Friedrich Merz gilt manchem bereits als gescheitert, seine Zeit als Regierungschef sei vorbei.",
-        "title": "Der amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma"
-      }
-    ],
-    "title": "Merz und die AfD: Der amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma - WELT",
-    "summary": "Merz und die AfD: Der amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHVhOWhVUzYtWTBDMnp5ZkRRT3czVVU2eWJPVkFXMkpPYUZyNnllaF9zeUhMeGJRYy11RFZzR3NFcC1xTmFIblVXRjJLUTUzQWFqZFg3TkRDdUdSYzR1QlhzOUdqWjBYZ3BQeGEzZkdTdkp1UndtV0Ywc1hoa0V6QV9rTlRrYjNUbDc0YWRpaW9zdENnMy1lazdXdnhDYlhUUzdnN09Uc2plOFVMeVl2MWxkM3pNYWI5UUsyMXhtR3REelB3OW5JM2ZzNnBDZmlHal9sYktJbkotbnlSM21Fb08xRHlhUmE0M0JDTGlPVHZYLVQ1YzlXUTRTd3VIcnM?oc=5\" target=\"_blank\">Merz und die AfD: Der amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wTHk0cDY0MjBwNHQ0bVpBZ2d4cE5IU3FrcWxKZGFUVmFYOWVXR3drSWd\nDer amerikanische Blick auf den „tragischsten Kanzler“ und das „Brandmauer“-Dilemma Die Kanzler-Krise und Sinn oder Unsinn der „Brandmauer“ treiben auch Kommentatoren in den USA um. Friedrich Merz gilt manchem bereits als gescheitert, seine Zeit als Regierungschef sei vorbei."
-  },
-  {
-    "id": "story-409",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-26T06:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-usa-100.html",
-        "date": "2026-09-26T06:30:02.000Z",
-        "snippet": "Seit Monaten ist die Straße von Hormus weitgehend blockiert - mit Folgen für die Wirtschaft. Iran hat den USA nun einen Plan übermittelt. Präsident Trump scheint aber nicht intere…",
-        "title": "Neuer Anlauf zur Öffnung der Straße von Hormus"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-usa-100.html",
-        "date": "2026-09-26T06:26:54.000Z",
-        "snippet": "Seit Monaten ist die Straße von Hormus weitgehend blockiert - mit Folgen für die Wirtschaft. Iran hat den USA nun einen Plan übermittelt. Präsident Trump scheint aber nicht interessiert. Saudi-Arabien meldet neue Angriffe in der Region.",
-        "title": "Iran macht Vorschlag für Öffnung der Straße von Hormus"
-      }
-    ],
-    "title": "Neuer Anlauf zur Öffnung der Straße von Hormus",
-    "summary": "Neuer Anlauf zur Öffnung der Straße von Hormus Seit Monaten ist die Straße von Hormus weitgehend blockiert - mit Folgen für die Wirtschaft. Iran hat den USA nun einen Plan übermittelt. Präsident Trump scheint aber nicht intere…\nIran macht Vorschlag für Öffnung der Straße von Hormus Seit Monaten ist die Straße von Hormus weitgehend blockiert - mit Folgen für die Wirtschaft. Iran hat den USA nun einen Plan übermittelt. Präsident Trump scheint aber nicht interessiert. Saudi-Arabien meldet neue Angriffe in der Region."
-  },
-  {
-    "id": "story-410",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-09-26T06:30:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2ZZTU9lSlhYYzRHdzZ1MWpMc016UDJ1a2g1TExQTDY4ejB0eFNqNWNsczhsckdDVTBYQVVlWWpVYzRRcFVXVHRBcWVKUEQ4Y0xTdlMwN0kzSEJJdnJweUhtSmNyVlgtNmt3R3BtWWlkOHJCRHJfSm5ZaFhwVjF2Yk4teGZDNEVTOVlRVGljN1ZfU0xSWkw0VW1wUWw0RVBfQWZNdkE0NDhVVGJaR1I0MjJ1Qzc4Z0tWRHh6LUVUdkZjYS0wclNsUDN3?oc=5",
-        "date": "2026-09-26T06:30:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2ZZTU9lSlhYYzRHdzZ1MWpMc016UDJ1a2g1TExQTDY4ejB0eFNqNWNsczhsckdDVTBYQVVlWWpVYzRRcFVXVHRBcWVKUEQ4Y0xTdlMwN0kzSEJJdnJweUhtSmNyVlgtNmt3R3BtWWlkOHJCRHJfSm5ZaFhwVjF2Yk4teGZDNEVTOVlRVGljN1ZfU0xSWkw0VW1wUWw0RVBfQWZNdkE0NDhVVGJaR1I0MjJ1Qzc4Z0tWRHh6LUVUdkZjYS0wclNsUDN3?oc=5\" target=\"_blank\">OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVp4VXlDaVo3WGphcHItUFpkV2xCR2ZiMDdVZzFKaG9BcS1OMGNJNFd2VVFINnJ4Y21hSlp5eTF3MlQzS0xEdThiNWx2eVZ4X1cwTW1uR0pVcGEzZTNpdkpVTUF6bzNFQTFPdGhmaG05Y2pPUUtMZExDV2FtLVVwRm0w",
-        "title": "OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss",
-        "date": "2026-09-26T06:30:00.000Z",
-        "snippet": "KI-Agenten haben mehrere Webseiten der US-Regierung angesteuert und dabei wohl auch Daten des Volkszählungsamts erfasst. OpenAI will nun einen Bericht über einen Hackerangriff auf eine Seite des Bildungsministeriums prüfen.",
-        "title": "OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu"
-      }
-    ],
-    "title": "OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu - Spiegel",
-    "summary": "OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2ZZTU9lSlhYYzRHdzZ1MWpMc016UDJ1a2g1TExQTDY4ejB0eFNqNWNsczhsckdDVTBYQVVlWWpVYzRRcFVXVHRBcWVKUEQ4Y0xTdlMwN0kzSEJJdnJweUhtSmNyVlgtNmt3R3BtWWlkOHJCRHJfSm5ZaFhwVjF2Yk4teGZDNEVTOVlRVGljN1ZfU0xSWkw0VW1wUWw0RVBfQWZNdkE0NDhVVGJaR1I0MjJ1Qzc4Z0tWRHh6LUVUdkZjYS0wclNsUDN3?oc=5\" target=\"_blank\">OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVp4VXlDaVo3WGphcHItUFpkV2xCR2ZiMDdVZzFKaG9BcS1OMGNJNFd2VVFINnJ4Y21hSlp5eTF3MlQzS0xEdThiNWx2eVZ4X1cwTW1uR0pVcGEzZTNpdkpVTUF6bzNFQTFPdGhmaG05Y2pPUUtMZExDV2FtLVVwRm0w\nOpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu KI-Agenten haben mehrere Webseiten der US-Regierung angesteuert und dabei wohl auch Daten des Volkszählungsamts erfasst. OpenAI will nun einen Bericht über einen Hackerangriff auf eine Seite des Bildungsministeriums prüfen."
-  },
-  {
-    "id": "story-478",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-26T05:09:09.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-26T05:09:09.000Z",
-        "snippet": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
-        "title": "White House bars CNN from travelling with Trump on Air Force One"
-      },
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
-        "date": "2026-09-26T04:27:07.000Z",
-        "snippet": "Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.",
-        "title": "White House bars CNN from Air Force One for Trump’s upcoming trip"
-      }
-    ],
-    "title": "White House bars CNN from travelling with Trump on Air Force One",
-    "summary": "White House bars CNN from travelling with Trump on Air Force One CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.\nWhite House bars CNN from Air Force One for Trump’s upcoming trip Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media."
-  },
-  {
-    "id": "story-481",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-26T05:03:09.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-26T05:03:09.000Z",
-        "snippet": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days"
-      },
       {
         "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5",
-        "date": "2026-09-26T05:03:09.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5\" target=\"_blank\">Iran offers US deal to reopen Strait of Hormuz in seven days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days - BBC"
-      }
-    ],
-    "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-    "summary": "Iran offers US deal to reopen Strait of Hormuz in seven days Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.\nIran offers US deal to reopen Strait of Hormuz in seven days - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5\" target=\"_blank\">Iran offers US deal to reopen Strait of Hormuz in seven days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-511",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-09-26T04:15:17.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/olympia-in-muenchen-das-waeren-die-sportstaetten-wo-sommerspiele-in-bayern-stattfinden-wuerden,VW35DfI",
-        "date": "2026-09-26T04:15:17.000Z",
-        "snippet": "München rühmt sich für das nachhaltigste Olympiakonzept der deutschen Bewerber. Viele Sportstätten gibt es schon, und sie sollen auch wieder genutzt werden. Außer München würden aber auch noch andere profitieren.",
-        "title": "Olympia in München? Wo Spiele in Bayern stattfinden würden"
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
+        "date": "2026-09-26T09:19:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5\" target=\"_blank\">Lula bans fixed-odds sports betting a week before Brazilian elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections - The Guardian"
       },
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2FpRi1SQ0R0dHlydk9KdUQxWkR2ZzZsM2p3WlpSSkI0X3VaOVR4Y2oyWlNDVWJfQVpCWHVlTzRvWkpoVjNDcmE3SWJNNFdrdUVocWlpcURSR2N1cVhGdFFaX09abHVoX05oVkFGUHJERENoNl9qUkVpdl9UTldramMxR1FPX1hYaFFiVEt5LVctN2dUODE3dDZKclBpRWp3S0J1Z2piREFYc0VHbEdDazRmTDk5VTI0NEx1OUYtRDV2MjBuTjAzUm8zT3M1cEVwb0Zwbw?oc=5",
-        "date": "2026-09-26T04:15:17.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2FpRi1SQ0R0dHlydk9KdUQxWkR2ZzZsM2p3WlpSSkI0X3VaOVR4Y2oyWlNDVWJfQVpCWHVlTzRvWkpoVjNDcmE3SWJNNFdrdUVocWlpcURSR2N1cVhGdFFaX09abHVoX05oVkFGUHJERENoNl9qUkVpdl9UTldramMxR1FPX1hYaFFiVEt5LVctN2dUODE3dDZKclBpRWp3S0J1Z2piREFYc0VHbEdDazRmTDk5VTI0NEx1OUYtRDV2MjBuTjAzUm8zT3M1cEVwb0Zwbw?oc=5\" target=\"_blank\">Olympia in München? Wo Spiele in Bayern stattfinden würden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVlkVGxkdUVfWXhvUkNDUE1OU0JZbnBNa3Y1ek1IMXlhMDZ6SlFlaFRKb3dRUy1uekdoUjBkRzVucjFnT3k0S0xvdHVWQXdtNzZwNTFtYVNVUnUxU2hXQlpPV1dCdFNIR0FZMWZxaHBreDJTVzVSQWZIN1BOL",
-        "title": "Olympia in München? Wo Spiele in Bayern stattfinden würden - BR"
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+        "date": "2026-09-26T07:58:05.000Z",
+        "snippet": "<p>President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest</p><p>The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.</p><p>The decision ends the operation, offering, intermediation and advertising of betting.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections\">Continue reading...</a>",
+        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections"
       }
     ],
-    "title": "Olympia in München? Wo Spiele in Bayern stattfinden würden",
-    "summary": "Olympia in München? Wo Spiele in Bayern stattfinden würden München rühmt sich für das nachhaltigste Olympiakonzept der deutschen Bewerber. Viele Sportstätten gibt es schon, und sie sollen auch wieder genutzt werden. Außer München würden aber auch noch andere profitieren.\nOlympia in München? Wo Spiele in Bayern stattfinden würden - BR <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2FpRi1SQ0R0dHlydk9KdUQxWkR2ZzZsM2p3WlpSSkI0X3VaOVR4Y2oyWlNDVWJfQVpCWHVlTzRvWkpoVjNDcmE3SWJNNFdrdUVocWlpcURSR2N1cVhGdFFaX09abHVoX05oVkFGUHJERENoNl9qUkVpdl9UTldramMxR1FPX1hYaFFiVEt5LVctN2dUODE3dDZKclBpRWp3S0J1Z2piREFYc0VHbEdDazRmTDk5VTI0NEx1OUYtRDV2MjBuTjAzUm8zT3M1cEVwb0Zwbw?oc=5\" target=\"_blank\">Olympia in München? Wo Spiele in Bayern stattfinden würden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVlkVGxkdUVfWXhvUkNDUE1OU0JZbnBNa3Y1ek1IMXlhMDZ6SlFlaFRKb3dRUy1uekdoUjBkRzVucjFnT3k0S0xvdHVWQXdtNzZwNTFtYVNVUnUxU2hXQlpPV1dCdFNIR0FZMWZxaHBreDJTVzVSQWZIN1BOL"
+    "title": "Lula bans fixed-odds sports betting a week before Brazilian elections - The Guardian",
+    "summary": "Lula bans fixed-odds sports betting a week before Brazilian elections - The Guardian <a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5\" target=\"_blank\">Lula bans fixed-odds sports betting a week before Brazilian elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nLula bans fixed-odds sports betting a week before Brazilian elections <p>President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest</p><p>The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.</p><p>The decision ends the operation, offering, intermediation and advertising of betting.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections\">Continue reading...</a>"
   },
   {
-    "id": "story-532",
-    "topic": "sport",
+    "id": "story-684",
+    "topic": "politik",
     "country": "PT",
     "stateHint": "",
-    "date": "2026-09-26T03:22:02.000Z",
+    "date": "2026-09-26T08:40:35.000Z",
     "sources": [
       {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-lula-proibe-casinos-online-e-apostas-desportivas-no-brasil_a1_1767847",
-        "date": "2026-09-26T03:22:02.000Z",
-        "snippet": "",
-        "title": "3h Lula proíbe casinos online e apostas desportivas no Brasil"
+        "source": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/trump-tera-rejeitado-oferta-de-teerao-para-reabrir-ormuz-em-sete-dias_n1767850",
+        "date": "2026-09-26T08:40:35.000Z",
+        "snippet": "O Presidente dos EUA rejeitou uma proposta do Irão para reabrir o estreito de Ormuz dentro de sete dias e Donald Trump poderá retomar os ataques após as eleições intercalares, avançou o Wall Street Journal.",
+        "title": "Trump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias"
       },
       {
         "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc1liUmRLSnNFRDB6N1Q5aUlSUkpZRnB6RGZXZy1OWUR3RkZtMldzZDFsZmw1ZG9DQmxnY3JCQW5leV90STc0Rlg2Qk1rdTZsSlZXcktQajlJdGowV3FCUjdLSFRPMWdzQzdZS0VlVHBuNWh6SV96RFhLQnl3VjM5djdSVm9PN2pGM0dUTWV6SlNaektlcEFtQXRLYktCVzFpTUhocGd6OHp1RzRIek9HYU0tMlFfQXVYUEhOOVRlV3hpcmFLeXlpUVUyT0VRR0dXajNMWmV5QmlhTzA?oc=5",
-        "date": "2026-09-25T23:48:01.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc1liUmRLSnNFRDB6N1Q5aUlSUkpZRnB6RGZXZy1OWUR3RkZtMldzZDFsZmw1ZG9DQmxnY3JCQW5leV90STc0Rlg2Qk1rdTZsSlZXcktQajlJdGowV3FCUjdLSFRPMWdzQzdZS0VlVHBuNWh6SV96RFhLQnl3VjM5djdSVm9PN2pGM0dUTWV6SlNaektlcEFtQXRLYktCVzFpTUhocGd6OHp1RzRIek9HYU0tMlFfQXVYUEhOOVRlV3hpcmFLeXlpUVUyT0VRR0dXajNMWmV5QmlhTzA?oc=5\" target=\"_blank\">Lula proíbe casinos online e apostas desportivas no Brasil a 9 dias das eleições gerais</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SIC Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnZHSkowam9MTmxURkNNYmVqb1QtNFhHZ0dzMW16NVNVSHNCWVFuNmhoeV90Rnp5ckUzci1idVh2WkVDelZsLWVETWVhWkU1Tnl0NHlvS20wb",
-        "title": "Lula proíbe casinos online e apostas desportivas no Brasil a 9 dias das eleições gerais - SIC Notícias"
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE5TODdTdll0eU1FVzFESUNRcURmcnBEZUNZSkY1U29RMll3N2xERlozSnBJYW9JT2VrQVdQWFNrYW5WNmExVlo3WWE1Qkp2OUc1V0lpWm5pMnRYN25lWkZzZ3MtNVU2YURBT2Y4OUdVbVllOFpwZFNpOGFkWFpLX3Jsci1JR0U3U0lSTHFab0p1Q1B5V2w2WGp6WjhWQXBOb0duWUxFcEk5ZnpBNDJ2cWxB?oc=5",
+        "date": "2026-09-26T07:43:16.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE5TODdTdll0eU1FVzFESUNRcURmcnBEZUNZSkY1U29RMll3N2xERlozSnBJYW9JT2VrQVdQWFNrYW5WNmExVlo3WWE1Qkp2OUc1V0lpWm5pMnRYN25lWkZzZ3MtNVU2YURBT2Y4OUdVbVllOFpwZFNpOGFkWFpLX3Jsci1JR0U3U0lSTHFab0p1Q1B5V2w2WGp6WjhWQXBOb0duWUxFcEk5ZnpBNDJ2cWxB?oc=5\" target=\"_blank\">Trump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUUxseTBqcDJXV2NCX182SWJmckZIUE5oZ3U5Y0Nya0lmVFBJaFJFUENhWXRnRmFqMkpqLWl4eS1DQkFvVzV1RWxnNFVZYVdPaTdPazRPXzF4Q0s1eTBtS2Z4emg1OHBYVkMtLXMwV1U1YTJuOFMwV0drdk41a3Vub09ab3JscGh0NndGcHdDa2poZkltRlp",
+        "title": "Trump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias - RTP"
       }
     ],
-    "title": "3h Lula proíbe casinos online e apostas desportivas no Brasil",
-    "summary": "3h Lula proíbe casinos online e apostas desportivas no Brasil \nLula proíbe casinos online e apostas desportivas no Brasil a 9 dias das eleições gerais - SIC Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc1liUmRLSnNFRDB6N1Q5aUlSUkpZRnB6RGZXZy1OWUR3RkZtMldzZDFsZmw1ZG9DQmxnY3JCQW5leV90STc0Rlg2Qk1rdTZsSlZXcktQajlJdGowV3FCUjdLSFRPMWdzQzdZS0VlVHBuNWh6SV96RFhLQnl3VjM5djdSVm9PN2pGM0dUTWV6SlNaektlcEFtQXRLYktCVzFpTUhocGd6OHp1RzRIek9HYU0tMlFfQXVYUEhOOVRlV3hpcmFLeXlpUVUyT0VRR0dXajNMWmV5QmlhTzA?oc=5\" target=\"_blank\">Lula proíbe casinos online e apostas desportivas no Brasil a 9 dias das eleições gerais</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SIC Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnZHSkowam9MTmxURkNNYmVqb1QtNFhHZ0dzMW16NVNVSHNCWVFuNmhoeV90Rnp5ckUzci1idVh2WkVDelZsLWVETWVhWkU1Tnl0NHlvS20wb"
+    "title": "Trump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias",
+    "summary": "Trump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias O Presidente dos EUA rejeitou uma proposta do Irão para reabrir o estreito de Ormuz dentro de sete dias e Donald Trump poderá retomar os ataques após as eleições intercalares, avançou o Wall Street Journal.\nTrump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE5TODdTdll0eU1FVzFESUNRcURmcnBEZUNZSkY1U29RMll3N2xERlozSnBJYW9JT2VrQVdQWFNrYW5WNmExVlo3WWE1Qkp2OUc1V0lpWm5pMnRYN25lWkZzZ3MtNVU2YURBT2Y4OUdVbVllOFpwZFNpOGFkWFpLX3Jsci1JR0U3U0lSTHFab0p1Q1B5V2w2WGp6WjhWQXBOb0duWUxFcEk5ZnpBNDJ2cWxB?oc=5\" target=\"_blank\">Trump terá rejeitado oferta de Teerão para reabrir Ormuz em sete dias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUUxseTBqcDJXV2NCX182SWJmckZIUE5oZ3U5Y0Nya0lmVFBJaFJFUENhWXRnRmFqMkpqLWl4eS1DQkFvVzV1RWxnNFVZYVdPaTdPazRPXzF4Q0s1eTBtS2Z4emg1OHBYVkMtLXMwV1U1YTJuOFMwV0drdk41a3Vub09ab3JscGh0NndGcHdDa2poZkltRlp"
   },
   {
-    "id": "story-599",
+    "id": "story-873",
     "topic": "politik",
     "country": "PT",
     "stateHint": "",
-    "date": "2026-09-25T23:12:00.000Z",
+    "date": "2026-09-25T23:12:22.000Z",
     "sources": [
       {
         "source": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5",
-        "date": "2026-09-25T23:12:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5\" target=\"_blank\">Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDJtSDQtV3pxZ2xBSkE0LWRrM25xaUw1TFRVbjZSSTM3akZhRzlLNEI5S24tdWprOE5UVnZmVF84YmVVQlg0S1QwWEFsTWJOdS16Y1pQaUo1enJLeVB6cXBvUzVaSWFXcTNfY2pLZHppbExXM1JxU",
+        "date": "2026-09-25T23:12:22.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5\" target=\"_blank\">Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbC1LZHkzaHp0TmZuV3FBNExIeVBRR0ItZjFzV2FyeGlYMWtpLTAyejVNVFduZFpzVzRtZEFmcTdjeFg5S0pncjA5enItTzl6b09tT0ZiYW1WYlJ2bnZYMTdJRENuN1F2ZDc5eWxESkE5LWFrQTEwc",
         "title": "Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos - RTP"
       },
       {
-        "source": "RTP Notícias",
+        "source": "RTP Mundo",
         "url": "https://www.rtp.pt/noticias/mundo/bruxelas-admite-crise-de-precos-da-energia-e-sugere-medidas-de-poupanca-aos-governos_n1767823",
         "date": "2026-09-25T22:18:53.000Z",
         "snippet": "Numa carta a que a RTP Antena 1 teve acesso, o Comissário da Energia pede a todos os ministros da energia dos Estados-membros da União Europeia para apelarem à redução do consumo de gás e eletricidade.",
@@ -372,35 +813,10 @@
       }
     ],
     "title": "Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos - RTP",
-    "summary": "Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5\" target=\"_blank\">Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDJtSDQtV3pxZ2xBSkE0LWRrM25xaUw1TFRVbjZSSTM3akZhRzlLNEI5S24tdWprOE5UVnZmVF84YmVVQlg0S1QwWEFsTWJOdS16Y1pQaUo1enJLeVB6cXBvUzVaSWFXcTNfY2pLZHppbExXM1JxU\nBruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos Numa carta a que a RTP Antena 1 teve acesso, o Comissário da Energia pede a todos os ministros da energia dos Estados-membros da União Europeia para apelarem à redução do consumo de gás e eletricidade."
+    "summary": "Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5\" target=\"_blank\">Bruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbC1LZHkzaHp0TmZuV3FBNExIeVBRR0ItZjFzV2FyeGlYMWtpLTAyejVNVFduZFpzVzRtZEFmcTdjeFg5S0pncjA5enItTzl6b09tT0ZiYW1WYlJ2bnZYMTdJRENuN1F2ZDc5eWxESkE5LWFrQTEwc\nBruxelas admite crise de preços da energia e sugere medidas de poupança aos Governos Numa carta a que a RTP Antena 1 teve acesso, o Comissário da Energia pede a todos os ministros da energia dos Estados-membros da União Europeia para apelarem à redução do consumo de gás e eletricidade."
   },
   {
-    "id": "story-602",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-09-25T23:05:40.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-25T23:05:40.000Z",
-        "snippet": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-        "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bWQzZnNOSEoycjVzbWZaU0NVbF9HSFVPeEJJcVd2SEgxNjREcXAxajhiVjNJUTFJWFQ4QndJdnNqSEhkeDhUOVkta21aQjJ5eXlJSHVaSGhzX2c?oc=5",
-        "date": "2026-09-25T23:05:40.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bWQzZnNOSEoycjVzbWZaU0NVbF9HSFVPeEJJcVd2SEgxNjREcXAxajhiVjNJUTFJWFQ4QndJdnNqSEhkeDhUOVkta21aQjJ5eXlJSHVaSGhzX2c?oc=5\" target=\"_blank\">Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach - BBC"
-      }
-    ],
-    "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-    "summary": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach Current and former agents speak to the BBC about the devastating impact of the FBI hack.\nInside the FBI hack: Agents fearful and angry after 'dangerous' data breach - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bWQzZnNOSEoycjVzbWZaU0NVbF9HSFVPeEJJcVd2SEgxNjREcXAxajhiVjNJUTFJWFQ4QndJdnNqSEhkeDhUOVkta21aQjJ5eXlJSHVaSGhzX2c?oc=5\" target=\"_blank\">Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-708",
+    "id": "story-939",
     "topic": "politik",
     "country": "PT",
     "stateHint": "",
@@ -410,7 +826,7 @@
         "source": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5",
         "date": "2026-09-25T19:37:49.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5\" target=\"_blank\">Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQU1xTWMtOGV6ZlRrV1JxNlNaaWhxejZMblRYVkhqOXUtZVVoUnFKNHUwUkNXLTN1bGRGd3dybUNYbVpqbldTVWJmRm1zLUc1NnhLaDJjbmUtSlVFSWR3V0ZNME1TeDRCVnU2YU4zMXpIdXJHNTBiV0xKenNnd1Z1ZFpURGw5MXc3VD",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5\" target=\"_blank\">Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1N1pEakFndWFiaEZwMV9tWDVYMWdoREdlWWVsQ0JwVTM3aHVGQjc1RGpJUHlacTZHcnl5VW5nSGJ2bXpZZ1ZiWEpCbUlmY3Z3WWdvNEY4MjlyS2NaVHc2d05OMkM3VU1DRExqRXFHLW9MQmE0S1RPeFNZZlfSAYsBQVVfeXFMUEQ0Yj",
         "title": "Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura - RTP"
       },
       {
@@ -422,10 +838,10 @@
       }
     ],
     "title": "Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura - RTP",
-    "summary": "Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5\" target=\"_blank\">Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQU1xTWMtOGV6ZlRrV1JxNlNaaWhxejZMblRYVkhqOXUtZVVoUnFKNHUwUkNXLTN1bGRGd3dybUNYbVpqbldTVWJmRm1zLUc1NnhLaDJjbmUtSlVFSWR3V0ZNME1TeDRCVnU2YU4zMXpIdXJHNTBiV0xKenNnd1Z1ZFpURGw5MXc3VD\nEncontro entre Xi Jinping e Trump termina em promessa de parceria duradoura Xi Jinping regressou esta sexta-feira à Casa Branca, onde foi recebido com uma cerimónia tradicional chinesa. O líder da China reforçou a ideia de que procurará manter uma relação baseada \"no respeito, na justiça e na reciprocidade\" com Donald Trump, com os olhos postos num \"futuro comum\"."
+    "summary": "Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5\" target=\"_blank\">Encontro entre Xi Jinping e Trump termina em promessa de parceria duradoura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1N1pEakFndWFiaEZwMV9tWDVYMWdoREdlWWVsQ0JwVTM3aHVGQjc1RGpJUHlacTZHcnl5VW5nSGJ2bXpZZ1ZiWEpCbUlmY3Z3WWdvNEY4MjlyS2NaVHc2d05OMkM3VU1DRExqRXFHLW9MQmE0S1RPeFNZZlfSAYsBQVVfeXFMUEQ0Yj\nEncontro entre Xi Jinping e Trump termina em promessa de parceria duradoura Xi Jinping regressou esta sexta-feira à Casa Branca, onde foi recebido com uma cerimónia tradicional chinesa. O líder da China reforçou a ideia de que procurará manter uma relação baseada \"no respeito, na justiça e na reciprocidade\" com Donald Trump, com os olhos postos num \"futuro comum\"."
   },
   {
-    "id": "story-729",
+    "id": "story-949",
     "topic": "wissenschaft",
     "country": "DE",
     "stateHint": "MV",
@@ -450,7 +866,7 @@
     "summary": "Immer weniger Studierende beziehen BaföG 70 Prozent, denen das Geld in Mecklenburg-Vorpommern zustehen würde, nehmen es nicht in Anspruch. Vielen fehlt es an Informationen.\nImmer weniger Studierende beziehen in MV BAföG Vor zehn Jahren haben monatlich noch rund 7.700 Studierende in MV BAföG bekommen. Mittlerweile sind es über 1.000 weniger."
   },
   {
-    "id": "story-746",
+    "id": "story-960",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -473,30 +889,5 @@
     ],
     "title": "Zwischen Miete, Job und Rente: Was junge Menschen in BW beschäftigt",
     "summary": "Zwischen Miete, Job und Rente: Was junge Menschen in BW beschäftigt Seit den Landtagswahlen in Mecklenburg-Vorpommern und Berlin wird wieder über Reformen bei Rente, Gesundheit und Pflege diskutiert. Doch was denken junge Menschen in BW darüber?\nZwischen Miete, Job und Rente - Was junge Menschen über die Berliner Reformdebatten denken Seit den Landtagswahlen in Mecklenburg-Vorpommern und Berlin wird wieder über Reformen bei Rente, Gesundheit und Pflege diskutiert. Doch was denken junge Menschen in BW darüber?"
-  },
-  {
-    "id": "story-1023",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-09-25T13:45:01.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
-        "date": "2026-09-25T13:45:01.000Z",
-        "snippet": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.",
-        "title": "Bundestag beschließt erneuten \"Tankrabatt\""
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
-        "date": "2026-09-25T13:30:47.000Z",
-        "snippet": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.",
-        "title": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu"
-      }
-    ],
-    "title": "Bundestag beschließt erneuten \"Tankrabatt\"",
-    "summary": "Bundestag beschließt erneuten \"Tankrabatt\" Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.\nBundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu."
   }
 ]

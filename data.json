@@ -1,5 +1,972 @@
 [
   {
+    "id": "story-f0c799886ef0e031",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-09-26T18:07:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Frankreich-Star Mbappé fällt nach Spiel gegen Türkei aus",
+    "s": "Frankreichs Kapitän Kylian Mbappé hat sich im Länderspiel gegen die Türkei verletzt und fällt für das französische Team aus. Nach Angaben der Medien wurde bei dem Stürmer eine Kapselverletzung diagnostiziert. Genauere Details zur Ausfalldauer stehen zum aktuellen Zeitpunkt noch aus. Die Verletzung zog er sich zu, nachdem er sein Team am Freitag zum Sieg geschossen hatte.",
+    "m": "Im Rahmen des Fußballspiels gegen die Türkei am Freitag führte Kapitän Kylian Mbappé seine französische Mannschaft zum Sieg und zog sich dabei eine schwerwiegendere Verletzung zu. Mittlerweile liegt eine medizinische Diagnose vor, wonach es sich um eine Kapselverletzung handelt. Bislang ist von offizieller Seite noch nicht exakt kommuniziert worden, wie lange der Star-Stürmer pausieren muss und wann er auf den Platz zurückkehren kann. Die genaue Ausfalldauer bleibt somit vorerst unklar. Der Ausfall wiegt für die französische Auswahl schwer, da Mbappé als Kapitän und Leistungsträger eine zentrale Rolle in der Mannschaft einnimmt. Trainer und Betreuerstab müssen in den kommenden Spielen ohne ihren Führungsspieler auskommen. Es wird erwartet, dass nach weiteren Untersuchungen genauere Prognosen zum Heilungsverlauf getroffen werden können.",
+    "r": "Der Ausfall von Kapitän und Schlüsselspieler Kylian Mbappé schwächt die französische Nationalmannschaft sportlich. Die genaue Dauer seiner Zwangspause hat direkte Auswirkungen auf kommende Aufstellungen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-nations-league-frankreich-kyllian-mbappe-verletzung-100.html",
+        "date": "2026-09-26T18:07:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/fussball/article6ab7fc6c18772248192d6132/nations-league-frankreich-star-kylian-mbappe-faellt-verletzt-aus-diagnose-steht.html",
+        "date": "2026-09-26T17:36:03.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/sport/fussball-nations-league-frankreich-kyllian-mbappe-verletzung-100.html",
+    "agree": "Die Quellen stimmen überein, dass sich Frankreichs Kapitän Kylian Mbappé im Spiel gegen die Türkei verletzt hat.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "nennt die konkrete Diagnose einer Kapselverletzung."
+      },
+      {
+        "name": "WELT",
+        "note": "erwähnt, dass Mbappé seine Mannschaft am Freitag mit einem Tor zum Sieg geschossen hat und dass es sich um eine schwerwiegendere Verletzung handelt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5625a705c812debc",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T18:00:03.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Wadephul trifft überraschend Lawrow in New York",
+    "s": "Der deutsche Außenminister Johann Wadephul hat den russischen Außenminister Sergej Lawrow am Rande der UN-Generaldebatte in New York getroffen. Es handelt sich um das erste Treffen dieser Art zwischen hochrangigen Diplomaten beider Länder seit Beginn des russischen Überfalls auf die Ukraine. Details über den genauen Inhalt und Verlauf des kurzen Gesprächs wurden zunächst nicht in allen Einzelheiten bekannt.",
+    "m": "Das überraschende Treffen zwischen Bundesaußenminister Johann Wadephul (CDU) und dem russischen Außenminister Sergej Lawrow fand in New York City statt. Der Termin wurde am Rande der UN-Generaldebatte absolviert und markiert einen bemerkenswerten diplomatischen Kontakt. Es ist das erste Mal seit Beginn des russischen Angriffskrieges gegen die Ukraine, dass ein deutscher Chefdiplomat direkt mit seinem russischen Amtskollegen zusammengekommen ist. Gleichzeitig handelt es sich laut Medienberichten um das höchstrangigste Treffen zwischen Vertretern beider Länder seit Jahren. Bislang gibt es wenige offizielle Details über die konkreten Gesprächsinhalte oder darüber, welche Seite die Initiative für das Treffen ergriffen hat.",
+    "r": "Das Treffen markiert den ersten hochrangigen direkten Kontakt zwischen Deutschland und Russland seit Beginn des Ukraine-Krieges. Solche diplomatischen Begegnungen sind von internationaler Bedeutung für die Einschätzung der bilateralen Beziehungen und der globalen Diplomatie.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+        "date": "2026-09-26T18:00:03.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/wadephul-trifft-lawrow-in-new-york/a-79445008?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-09-26T17:42:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+    "agree": "Die Quellen stimmen überein, dass Bundesaußenminister Johann Wadephul den russischen Außenminister Sergej Lawrow überraschend in New York getroffen hat und dies das erste Treffen dieser Art seit Beginn des Ukraine-Krieges ist.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet ebenfalls von dem Treffen, lässt jedoch den genauen Ort in New York und die Parteizugehörigkeit von Wadephul zunächst offen."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Ergänzt, dass das Treffen am Rande der UN-Generaldebatte stattfand."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Nennt die Parteizugehörigkeit von Johann Wadephul (CDU) und bezeichnet das Treffen explizit als das höchstrangigste beider Länder seit Jahren."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a96af079375d89c0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T17:57:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Johann Wadephul trifft Sergej Lawrow zu ersten Gesprächen in New York",
+    "s": "Johann Wadephul und Sergej Lawrow haben sich am Rande der UN-Generaldebatte in New York getroffen. Es ist das erste bilaterale Gespräch der Außenminister Deutschlands und Russlands seit Beginn des russischen Angriffskriegs in der Ukraine. Das Treffen fand überraschend statt und war von kurzer Dauer.",
+    "m": "Das Treffen zwischen dem deutschen Chefdiplomaten Johann Wadephul und dem russischen Außenminister Sergej Lawrow markiert das erste direkte Gespräch auf dieser Ministerebene seit mehr als vier Jahren beziehungsweise seit Beginn des russischen Angriffskriegs. Die Unterredung fand am Rande der UN-Generaldebatte in New York statt. Die Zusammenkunft verlief überraschend und war auf eine kurze Dauer angelegt. Über konkrete Inhalte, Vereinbarungen oder diplomatische Initiativen, die während des Austauschs besprochen wurden, gibt es in den vorliegenden Berichten keine näheren Angaben. Es bleibt vorerst offen, ob dieses Gespräch den Auftakt für weitere diplomatische Kontakte zwischen Berlin und Moskau bilden könnte.",
+    "r": "Das Treffen markiert den ersten direkten Austausch zwischen den Außenministern Deutschlands und Russlands seit Beginn des Ukraine-Kriegs vor mehreren Jahren. Solche hochrangigen diplomatischen Kontakte sind trotz anhaltender Spannungen von politischem Interesse.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/wadephul-trifft-lawrow-zu-ersten-gespraechen-seit-jahren--38313008.html",
+        "date": "2026-09-26T17:57:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Wadephul-trifft-Lawrow-in-New-York-zu-kurzem-Gespraech-id31351395.html",
+        "date": "2026-09-26T16:08:08.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/wadephul-lawrow-treffen-new-york-deutschland-russland-100.html",
+        "date": "2026-09-26T15:47:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-johann-wadephul-trifft-sergej-lawrow-zu-gespraechen-a-18810c36-42f9-4cd5-ba78-520fd73842c1#ref=rss",
+        "date": "2026-09-26T15:13:00.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/politik/wadephul-trifft-lawrow-zu-ersten-gespraechen-seit-jahren--38313008.html",
+    "agree": "Die Quellen sind sich einig, dass Johann Wadephul und Sergej Lawrow in New York ein kurzes, erstes bilaterales Gespräch seit Beginn des Krieges in der Ukraine geführt haben.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet, dass seit Beginn des russischen Angriffskriegs kein solches Gespräch mehr stattfand."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt, dass das Treffen am Rande der UN-Generaldebatte stattfand, überraschend war und seit mehr als vier Jahren kein bilaterales Gespräch stattgefunden hatte."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Hält sich sehr kurz und nennt das Treffen einfach das erste bilaterale Treffen der Außenminister seit Jahren."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Betont, dass der Termin nur kurz war."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-e8ee4c3176d93588",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T17:52:01.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "Christian Dirschauer zum SSW-Spitzenkandidaten gewählt",
+    "s": "Der Südschleswigsche Wählerverband hat Christian Dirschauer am Samstag auf einem Landesparteitag in Flensburg zum Spitzenkandidaten für die kommende Landtagswahl gekürt. Bei der Abstimmung gab es keine Gegenkandidaten. Dirschauer erhielt eine sehr deutliche Mehrheit der abgegebenen Stimmen. Die Delegierten in Flensburg trafen diese Entscheidung im Rahmen ihres Parteitags.",
+    "m": "Beim Landesparteitag des SSW in Flensburg wurde Christian Dirschauer am Samstag offiziell zum Spitzenkandidaten für die Landtagswahl 2027 bestimmt. Nach Angaben der Berichterstattung entfielen auf ihn 100 von insgesamt 105 gültigen Stimmen. Dies entspricht einem starken Ergebnis von gut 95 Prozent Zustimmung. Es traten keine Gegenkandidaten gegen Dirschauer an, womit der Weg für seine erneute beziehungsweise bestätigte Spitzenkandidatur frei war. Die Partei demonstrierte damit Geschlossenheit bei der Personalie für die anstehende Wahl im Kieler Landtag.",
+    "r": "Die personelle Weichenstellung einer im Landtag vertretenen Partei für die kommende Landtagswahl ist von politischer Bedeutung für das Bundesland Schleswig-Holstein. Das klare Wahlergebnis unterstreicht die geschlossene Hütung der Partei hinter ihrem Spitzenkandidaten.",
+    "srcs": [
+      {
+        "name": "NDR Schleswig-Holstein",
+        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/ssw-parteitag-dirschauer-zum-spitzenkandidaten-gewaehlt,shmag-13568.html",
+        "date": "2026-09-26T17:52:01.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/ssw-parteitag-in-flensburg-christian-dirschauer-zum-spitzenkandidaten-gewaehlt,ssw-124.html",
+        "date": "2026-09-26T13:35:13.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/ssw-parteitag-dirschauer-zum-spitzenkandidaten-gewaehlt,shmag-13568.html",
+    "agree": "Beide Quellen stimmen überein, dass Christian Dirschauer am Samstag auf dem Landesparteitag des SSW in Flensburg zum Spitzenkandidaten gewählt wurde.",
+    "diff": [
+      {
+        "name": "NDR Schleswig-Holstein",
+        "note": "nennt konkrete Zahlen: 100 von 105 gültigen Stimmen, gut 95 Prozent Zustimmung und das Fehlen von Gegenkandidaten."
+      },
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "note": "nennt das Jahr der Landtagswahl (2027) explizit."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d7f023e449c75a5d",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T17:46:09.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bangkok ruft wegen schwerer Überschwemmungen Katastrophenfall aus",
+    "s": "In Thailands Hauptstadt Bangkok ist wegen schwerer Überschwemmungen der Katastrophenfall ausgerufen worden. Grund für die Notlage sind heftige Regenfälle, die die Metropole seit Tagen ununterbrochen treffen. Die Situation führt zu erheblichen Beeinträchtigungen im städtischen Leben.",
+    "m": "Die anhaltenden und ununterbrochenen Regenfälle der letzten Tage haben in der thailändischen Hauptstadt Bangkok zu massiven Überflutungen geführt. Die Wassermassen stehen den Menschen teilweise bis zur Hüfte. Durch die dramatische Situation wird die Versorgung mit lebenswichtigen Gütern zunehmend schwieriger, und stellenweise werden bereits Lebensmittel knapp. Aufgrund dieser extremen Wetterbedingungen sah sich die Stadtverwaltung gezwungen, offiziell den Katastrophenfall auszurufen. Bislang gibt es keine offiziellen Angaben darüber, wann sich die Lage entspannen könnte oder wie hoch die Gesamtschäden beziffert werden.",
+    "r": "Naturkatastrophen in Großstädten wie Bangkok haben direkte Auswirkungen auf die lokale Bevölkerung und gefährden die Grundversorgung. Die Ausrufes des Katastrophenfalls verdeutlicht die Schwere der aktuellen Wetterlage in Thailand.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bangkok-ruft-wegen-ueberschwemmungen-den-katastrophenfall-aus-102.html",
+        "date": "2026-09-26T17:46:09.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ab7bd9d18772248192d5daa/thailand-wasser-steht-bis-zur-huefte-bangkok-ruft-wegen-ueberschwemmungen-katastrophenfall-aus.html",
+        "date": "2026-09-26T12:58:16.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/bangkok-ruft-wegen-ueberschwemmungen-den-katastrophenfall-aus-102.html",
+    "agree": "Beide Quellen stimmen überein, dass in Bangkok wegen schwerer Überschwemmungen der Katastrophenfall ausgerufen wurde.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet ergänzend, dass es seit Tagen ununterbrochen regnet, das Wasser teilweise bis zur Hüfte steht und Lebensmittel knapp werden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d20c740e4c3b0db7",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T17:46:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Saudi-Arabien wehrt Drohnenangriff der Huthi-Miliz auf Riad ab",
+    "s": "Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad erfolgreich abgewehrt. Es handelte sich um eine Luftattacke, bei der feindliche Flugkörper im Anflug auf die Metropole abgefangen wurden. Personen- oder Sachschäden wurden zunächst nicht bekannt. Die jemenitische Miliz greift im Konflikt regelmäßig Ziele im Nachbarland an.",
+    "m": "Das saudi-arabische Militär hat einen erneuten Angriff aus dem Jemen auf die Hauptstadt Riad gemeldet. Konkret wurden nach offiziellen Angaben zwei Drohnen von der Luftabwehr abgefangen und zerstört. Die Huthi-Miliz setzt im anhaltenden Konflikt in der Region häufiger Drohnen und Raketen ein, um strategische Ziele oder Städte in Saudi-Arabien anzugreifen. Die Abwehr der Flugkörper zeigt die anhaltende Bedrohungslage für die saudi-arabische Zivilbevölkerung und Infrastruktur. Über mögliche Trümmerteile am Boden, Verletzte oder Hintergründe zu den aktuellen Angriffszielen machten die Behörden in den ersten Meldungen keine näheren Angaben. Die Situation verdeutlicht, dass die diplomatischen Bemühungen zur Beilegung des Jemen-Konflikts bisher zu keiner dauerhaften Einstellung der Kampfhandlungen geführt haben. Die internationale Gemeinschaft beobachtet die anhaltenden Angriffe der Miliz mit großer Sorge. Weitere offizielle Details zu den abgewehrten Drohnen wurden zunächst nicht veröffentlicht.",
+    "r": "Der Angriff verdeutlicht die anhaltende Bedrohung Saudi-Arabiens durch die jemenitische Huthi-Miliz und die fortbestehenden Spannungen in der Region. Die erfolgreiche Abwehr zeigt die Einsatzbereitschaft der saudischen Luftabwehr.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/neue-angriffe-der-huthi-miliz-auf-saudische-hauptstadt-riad-102.html",
+        "date": "2026-09-26T17:46:09.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/video6ab7b8873386855e1e1e3fee/krieg-in-nahost-huthi-miliz-greift-saudische-hauptstadt-riad-mit-drohnen-an.html",
+        "date": "2026-09-26T12:30:38.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/neue-angriffe-der-huthi-miliz-auf-saudische-hauptstadt-riad-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Saudi-Arabien einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt hat.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet ergänzend, dass es sich um zwei Drohnen handelte, die von der Luftabwehr abgefangen und zerstört wurden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-feed172760da6e9e",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T17:37:41.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "USA lehnen iranischen Vorschlag zur Öffnung der Straße von Hormus ab",
+    "s": "US-Präsident Donald Trump hat einen Vorschlag des Irans zur Öffnung der Straße von Hormus abgelehnt. Der Iran hatte den USA zuvor am Rande der UN-Generalversammlung einen Plan übermittelt. Die Meerenge ist seit Beginn des Konflikts für die Schifffahrt weitgehend blockiert.",
+    "m": "Der Iran hat den USA einen Vorschlag zur Entschärfung der Lage an der strategisch wichtigen Straße von Hormus unterbreitet. Nach Angaben von Außenminister Araghtschi handele es sich um einen Sieben-Tage-Plan. US-Präsident Donald Trump lehnte diesen Vorstoß vor Journalisten ab und erklärte, das Angebot sei nicht annehmbar. Medienberichten zufolge hegt Washington zudem Zweifel daran, ob Teheran die gestellten Bedingungen erfüllen wird. Die Straße von Hormus ist seit Ausbruch des Iran-Kriegs für die Handelsschifffahrt praktisch blockiert. Die iranische Seite sieht nach der Übermittlung des Plans nun die US-Regierung am Zug.",
+    "r": "Die Blockade der Straße von Hormus und die diplomatischen Verhandlungen zwischen den USA und dem Iran betreffen zentrale globale Handelswege und die internationale Sicherheit.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
+        "date": "2026-09-26T17:37:41.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
+        "date": "2026-09-26T16:21:56.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
+        "date": "2026-09-26T16:15:02.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
+        "date": "2026-09-26T16:06:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnBrcU80cG85NGlQcWd2YVEzeUZSV2VvWHRIOXVxZHk5X2dTdWlOSW5xMXNqVjhsdmJKYmxlWXVyVDU1ZlVxaVR3NlZzeFp4V3pXOUVNbjhIY0RadTRYMEYyMmtva1dvZVhIZUlNaXBhZUNzMVpnYmxycFl0ZFZQdktubkFrTmt4UV9NSG9TaTgzRkNjOUE?oc=5",
+        "date": "2026-09-26T15:50:00.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/iran-usa-friedensvorschlag-hormus-100.html",
+        "date": "2026-09-26T11:03:00.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
+    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump einen iranischen Vorschlag zur Öffnung der Straße von Hormus abgelehnt hat.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet, dass Trump bezweifelt, ob Teheran die von Washington gestellten Bedingungen erfüllen wird."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Nennt Details zum Angebot, wonach Irans Außenminister Araghtschi von einem Sieben-Tage-Plan sprach."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Erwähnt, dass der Vorschlag am Rande der UN-Generalversammlung unterbreitet wurde und die Meerenge seit Beginn des Iran-Kriegs blockiert ist."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet, dass sich Trump nach eigenen Angaben nicht auf den iranischen Vorstoß einließ."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass der Vorschlag am Rande der UN-Generalversammlung übermittelt wurde und die Straße seit Beginn des Iran-Kriegs blockiert ist."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt lediglich auf die Berichterstattung der Tagesschau."
+      }
+    ],
+    "chg": "",
+    "independent": 6
+  },
+  {
+    "id": "story-bd8bebd523bc926c",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T17:24:56.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Bundesaußenminister Wadephul trifft Lawrow in New York",
+    "s": "Bundesaußenminister Wadephul ist am Rande der UN-Vollversammlung in New York mit dem russischen Außenminister Lawrow zusammengekommen. Es handelt sich um das erste Treffen zwischen einem deutschen und einem russischen Außenminister seit mehreren Jahren. Die Ukraine verteidigt sich derweil seit mehr als vier Jahren gegen den russischen Angriffskrieg, während bisherige Friedensbemühungen erfolglos blieben.",
+    "m": "Am Rande der UN-Vollversammlung in New York kam es zu einem diplomatischen Treffen zwischen Bundesaußenminister Wadephul und dem russischen Amtskollegen Sergej Lawrow. Dies markiert das erste offizielle Treffen auf dieser Ebene zwischen Deutschland und Russland seit Jahren. Parallel dazu dauert der russische Angriffskrieg gegen die Ukraine nach Angaben der Berichte bereits seit mehr als vier Jahren an. Die Ukraine verteidigt sich seitdem gegen die Invasion, und diplomatische Friedensbemühungen zur Beendigung des Konflikts verliefen bislang ohne Erfolg. Weitere Details zu den konkreten Gesprächsinhalten oder Vereinbarungen zwischen Wadephul und Lawrow wurden in den Berichten zunächst nicht genannt. Die Entwicklungen werden weiterhin in Live-Tickern und Nachrichtentickern verfolgt.",
+    "r": "Das Treffen zwischen Wadephul und Lawrow stellt das erste Aufeinandertreffen deutscher und russischer Außenminister seit Jahren dar und findet vor dem Hintergrund des seit über vier Jahren anhaltenden Ukraine-Krieges statt.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-21-bis-27-september,VVpYoV4",
+        "date": "2026-09-26T17:24:56.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-wadephul-trifft-lawrow-in-new-york-zu-gespraechen-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-09-26T15:59:10.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-21-bis-27-september,VVpYoV4",
+    "agree": "Die Quellen sind sich einig, dass Bundesaußenminister Wadephul den russischen Außenminister Lawrow in New York am Rande der UN-Vollversammlung zu Gesprächen getroffen hat und dass es sich dabei um das erste Treffen seit Jahren handelt.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt konkret den Anlass als Rand der UN-Vollversammlung in New York."
+      },
+      {
+        "name": "RND",
+        "note": "Fügt die Information hinzu, dass sich die Ukraine seit mehr als vier Jahren gegen den russischen Angriffskrieg verteidigt und Friedensbemühungen bisher erfolglos blieben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e85c56d2766b2f6b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T17:21:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Musiker Danger Dan singt erstmals über Beziehung zu einem Mann",
+    "s": "Der Musiker Danger Dan hat in einem neuen Song über eine frühere Beziehung zu einem Mann gesprochen. Das Lied ist Teil seines bevorstehenden Albums mit dem Titel „Keine Angst“. Nach Angaben des Künstlers sei nun der richtige Zeitpunkt für ein solches Liebeslied gekommen.",
+    "m": "In wenigen Tagen veröffentlicht der Musiker Danger Dan sein neues Album „Keine Angst“. Darauf verarbeitet er persönliche Erfahrungen und setzt ein klares queeres Statement, indem er in einem Lied über die Beziehung zu einem Ex-Freund singt. Der Künstler erklärte, dass es nun für ihn der richtige Zeitpunkt sei, dieses Thema musikalisch zu behandeln. Neben seiner sexuellen Orientierung und der früheren Beziehung zu einem Mann spricht er in diesem Zusammenhang auch offen über seine fortschreitende Erblindung. Weitere Details zum Album oder zur genauen gesundheitlichen Situation wurden in den Berichten nicht genannt.",
+    "r": "Die Offenheit des Musikers Danger Dan über sein Privatleben und seine gesundheitliche Situation auf einem neuen Album gibt Einblicke in die künstlerische Verarbeitung persönlicher Erfahrungen. Solche Äußerungen prominenter Persönlichkeiten können gesellschaftliche Debatten über sexuelle Orientierung und Inklusion beeinflussen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5",
+        "date": "2026-09-26T17:21:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leute/danger-dan-spricht-ueber-fruehere-beziehung-zu-einem-mann-a-dee1bf39-aec0-44a5-838d-435a387a1712#ref=rss",
+        "date": "2026-09-26T17:21:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/danger-dan-spricht-ueber-fruehere-beziehung-zu-mann-und-fortschreitende-erblindung-TVIXRVFZ45FV3MCEZXPWBQJ62I.html",
+        "date": "2026-09-26T17:10:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Danger Dan in einem Song auf seinem neuen Album über eine frühere Beziehung zu einem Mann spricht.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet zusätzlich über Danger Dans fortschreitende Erblindung und das Album „Keine Angst“ als queeres Statement."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-33d330fdade44944",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T16:58:39.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "US-Präsident Trump lehnt iranischen Vorschlag zur Öffnung der Straße von Hormus ab",
+    "s": "US-Präsident Donald Trump hat ein iranisches Angebot zur Wiedereröffnung der Straße von Hormus und zur Wiederaufnahme von Atomgesprächen innerhalb von sieben Wochen abgelehnt. Der Vorschlag war zuvor über Katar an Washington übermittelt worden und beinhaltete die Aufhebung der US-Seeblockade iranischer Häfen. Trump erklärte vor Reportern im Weißen Haus, er habe die Offerte zurückgewiesen.",
+    "m": "Der iranische Vorschlag sah vor, die strategisch wichtige Straße von Hormus innerhalb einer Woche wieder zu öffnen und die festgefahrenen Atomverhandlungen wiederzubeleben, falls Washington im Gegenzug die Seeblockade gegen iranische Häfen beenden würde. Die Kontaktaufnahme erfolgte nach Angaben aus Medienberichten über Katar als Vermittler. US-Präsident Trump lehnte diesen Deal im Weißen Haus öffentlich ab und begründete dies laut BBC damit, dass Teheran den Vorschlag nur unterbreitet habe, weil das Land den Krieg verliere. Darüber hinaus gibt es laut Berichten Spekulationen, dass die US-Regierung nach den Zwischenwahlen mit erneuten Luftangriffen rechnet, während die genauen diplomatischen und militärischen Konsequenzen der abgelehnten Initiative zunächst offenbleiben.",
+    "r": "Die Straße von Hormus ist eine der wichtigsten Handels- und Öltransportrouten weltweit, weshalb jegliche militärische oder diplomatische Eskalation globale wirtschaftliche und sicherheitspolitische Auswirkungen hat. Die Ablehnung des Vorschlags beeinflusst direkt die Verhandlungen über das iranische Atomprogramm.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-26T16:58:39.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "date": "2026-09-26T14:46:53.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+        "date": "2026-09-26T12:38:46.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazdjdl95TUw5YndNMUkzTkNvZGh2VER3MEhQTVI0MHd2WDQ4cmdITTBhZnBrQlhlX19fMHVXU2F6Q3dCWGxOVS1TTGlkcjY0TWFrbGdvQVp3TWQ3Uy1kMFJ0aEV6aEhWN05IM0xKUzRtSjJXS0tPZjAwV0ZlUjVyd09sWmNZa0lrMVAtS0p0TGtlcVYya01z?oc=5",
+        "date": "2026-09-26T09:31:00.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump ein iranisches Angebot abgelehnt hat, das die Wiedereröffnung der Straße von Hormus und die Wiederaufnahme von Atomgesprächen innerhalb von sieben Tagen vorsah.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Ergänzt, dass Trump argumentierte, Teheran habe den Vorschlag nur gemacht, weil es den Krieg verliere."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Erwähnt, dass der Vorschlag über Katar als Vermittler eingereicht wurde."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt als Gegenleistung die Aufhebung der US-Seeblockade iranischer Häfen und berichtet, dass der US-Präsident nach den Midterms mit erneuten Luftangriffen rechne."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf die Berichterstattung des Guardians ohne eigene nennenswerte Zusatzdetails."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-5c63df2ec254a697",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T16:52:23.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Erstes Treffen von Wadephul und Lawrow seit Kriegsbeginn",
+    "s": "Erstmals seit Beginn des russischen Angriffskriegs gegen die Ukraine haben sich die Außenminister Deutschlands und Russlands, Johann Wadephul und Sergej Lawrow, in New York zu bilateralen Gesprächen getroffen. Dabei wurden brisante Themen besprochen.",
+    "m": "Das überraschende Treffen in New York markiert eine neue Gesprächsebene zwischen Berlin und Moskau, da es das erste offizielle Aufeinandertreffen der beiden Außenminister seit Kriegsbeginn ist. Neben der allgemeinen diplomatischen Lage warnte der deutsche Außenminister Johann Lawrow und seinen russischen Amtskollegen Sergej Lawrow scharf vor weiteren hybriden Angriffen. Als konkretes Beispiel wurde hierbei ein Anschlagsversuch in Leipzig genannt. Über weitere Details oder konkrete Ergebnisse des Gesprächs wurde zunächst nichts bekannt gegeben.",
+    "r": "Das Treffen markiert den ersten direkten diplomatischen Kontakt auf Außenministerebene zwischen Deutschland und Russland seit Beginn des Ukraine-Kriegs und eröffnet eine neue Gesprächsebene.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ueberraschendes-treffen-wadephul-fordert-lawrow-zu-deeskalation-auf-und-macht-ihm-eine-tuer-auf-KUMGKTLK5FF23C63VGEWDYDINM.html",
+        "date": "2026-09-26T16:52:23.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/aussenpolitik/id_101454030/wadephul-traf-russischen-aussenminister-lawrow-in-new-york-zu-gespraechen.html",
+        "date": "2026-09-26T16:22:44.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ab7da4718772248192d5f5b/aussenminister-wadephul-und-lawrow-treffen-sich-in-new-york-zu-gespraechen.html",
+        "date": "2026-09-26T14:51:05.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/ueberraschendes-treffen-wadephul-fordert-lawrow-zu-deeskalation-auf-und-macht-ihm-eine-tuer-auf-KUMGKTLK5FF23C63VGEWDYDINM.html",
+    "agree": "Die Quellen stimmen überein, dass sich der deutsche Außenminister Johann Wadephul und der russische Außenminister Sergej Lawrow überraschend in New York zu einem bilateralen Gespräch getroffen haben, was das erste Treffen seit Beginn des Ukraine-Kriegs ist.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet, dass Wadephul Lawrow scharf vor weiteren hybriden Angriffen wie dem Anschlagsversuch in Leipzig gewarnt und ihm eine Tür zur Deeskalation geöffnet hat."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt, dass dabei auch brisante Themen besprochen wurden."
+      },
+      {
+        "name": "WELT",
+        "note": "Bezeichnet das Treffen als neue Gesprächsebene zwischen Berlin und Moskau."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-a23f74003c080db9",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T16:51:29.000Z",
+    "p": 2,
+    "st": "SN",
+    "city": "",
+    "t": "Deutscher Wandertag in Oberwiesenthal endet mit Festumzug und Bergparade",
+    "s": "Der Deutsche Wandertag in Oberwiesenthal ist mit einem großen Festumzug und einer traditionellen Bergparade zu Ende gegangen. Die Veranstaltung bildete den feierlichen Abschluss des mehrtägigen Events im sächsischen Kurort. Tausende Teilnehmer und Besucher kamen zusammen, um das Finale zu feiern.",
+    "m": "Der Deutsche Wandertag in Oberwiesenthal hat seinen offiziellen Abschluss gefunden. Das Programm des letzten Tages wurde von einem farbenfrohen Festumzug und einer traditionellen Bergparade geprägt. Zahlreiche Wanderer, Vereine und Schaulustige beteiligten sich an den Feierlichkeiten im sächsischen Kurort. Die Veranstaltung zog in den vergangenen Tagen zahlreiche Besucher in die Region. Der Fokus lag neben dem gemeinsamen Wandern auch auf der Pflege des Brauchtums. Einzelheiten zu den genauen Teilnehmerzahlen oder Vorkommnissen wurden in den Berichten nicht genannt.",
+    "r": "Großveranstaltungen wie der Deutsche Wandertag ziehen regelmäßig Tausende Besucher an und sind von regionaler Bedeutung für Tourismus und Brauchtumspflege.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/bergparade-festumzug,wandertag-oberwiesenthal-100.html",
+        "date": "2026-09-26T16:51:29.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-09/26/deutscher-wandertag-endet-mit-festumzug-und-bergparade",
+        "date": "2026-09-26T16:39:33.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/sachsen/bergparade-festumzug,wandertag-oberwiesenthal-100.html",
+    "agree": "Beide Quellen stimmen überein, dass der Deutsche Wandertag in Oberwiesenthal mit einem Festumzug und einer Bergparade endete.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "note": "Betont im Titel den regionalen Bezug zu Sachsen."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Formuliert den Titel allgemeiner über das Ende des Wandertages."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3839b80ca60ec1b5",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T16:50:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. feiert Freiluftmesse mit 800.000 Menschen in Paris",
+    "s": "Papst Leo XIV. hat zum Abschluss seines Aufenthalts in Paris eine große Freiluftmesse zelebriert. Nach Angaben des Vatikans nahmen etwa 800.000 Menschen an dem Gottesdienst im Zentrum der französischen Hauptstadt teil. Zuvor war der Papst im Papamobil über die Champs-Elysées gefahren.",
+    "m": "Die Feierlichkeiten in Paris bildeten den Schlusspunkt des Papstbesuchs, der trotz bestehender Spannungen zwischen Frankreich und dem Vatikan von einer riesigen Menschenmenge begleitet wurde. Nach Schätzungen des Vatikans versammelten sich rund 800.000 Gläubige zu dem Gottesdienst im Herzen der Stadt. Vor der Messe fuhr Papst Leo XIV. im Papamobil über die Champs-Elysées, wo er von zahlreichen anwesenden Gläubigen bejubelt wurde. Weitere Details zum genauen Verlauf der Reise oder offiziellen politischen Gesprächen nennen die Berichte nicht.",
+    "r": "Der Besuch des Papstes in Paris unterstreicht trotz diplomatischer Spannungen zwischen Frankreich und dem Vatikan die anhaltende Massenanziehungskraft des Kirchenoberhaupts. Solche Großveranstaltungen bieten Einblicke in das Verhältnis zwischen dem Heiligen Stuhl und europäischen Nationalstaaten.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/leo-xiv--feiert-in-paris-messe-mit-800-000-menschen-38312762.html",
+        "date": "2026-09-26T16:50:52.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
+        "date": "2026-09-26T16:25:33.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/news/leo-xiv--feiert-in-paris-messe-mit-800-000-menschen-38312762.html",
+    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. in Paris eine Messe mit 800.000 Menschen gefeiert hat.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet konkret über die Freiluftmesse im Zentrum von Paris und die Fahrt im Papamobil über die Champs-Elysées."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die Messe den Aufenthalt des Papstes beendete und dass das Verhältnis zwischen Frankreich und dem Vatikan nicht frei von Spannungen ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5b808449c5b7fdf0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T16:13:14.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Bericht: Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff",
+    "s": "Einem Medienbericht zufolge soll Ägyptens Geheimdienstchef Israel vor dem Angriff der Hamas gewarnt haben. Premierminister Benjamin Netanjahu streitet derartige Hinweise vehement ab und geht juristisch gegen die israelische Zeitung \"Haaretz\" vor. Nun stützt ein weiteres Medium die Vorwürfe um angebliche Vorwarnungen. Netanjahu weist die Anschuldigungen weiterhin zurück.",
+    "m": "Die israelische Zeitung \"Haaretz\" berichtete zuvor, dass der israelische Premierminister Benjamin Netanjahu frühzeitig vor einem bevorstehenden Angriff der Hamas gewarnt worden sei. Netanjahu dementierte diese Berichte entschieden und leitete Schritte gegen das Medium ein. Nun legt ein weiteres Medium mit neuen Details nach. Demnach soll der ägyptische Geheimdienstchef persönlich nach Israel gereist sein, um die israelische Führung vor drohendem Unheil abzuwenden. Die Berichte werfen Fragen über den genauen Informationsstand der israelischen Regierung vor dem verheerenden Angriff auf. Es bleibt unklar, welche konkreten Sicherheitsmaßnahmen nach den angeblichen ägyptischen Warnungen ergriffen oder unterlassen wurden. Die Kontroverse um die Verantwortung für das Überraschungsmoment der Hamas spaltet damit weiterhin die politische Debatte in Israel.",
+    "r": "Die Berichte über angebliche Geheimdienstwarnungen vor dem Hamas-Angriff belasten die israelische Führung politisch. Die Vorwürfe berühren zentrale Fragen zur Krisenvorsorge und zum Informationsmanagement der Regierung unter Premierminister Netanjahu.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5",
+        "date": "2026-09-26T16:13:14.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Bericht-Auch-Aegyptens-Geheimdienstchef-warnte-Israel-vor-Hamas-Angriff-id31351424.html",
+        "date": "2026-09-26T16:13:14.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1db801f1838f7848",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T16:07:51.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“",
+    "s": "Grünen-Chefin Franziska Brantner hat sich skeptisch zu einer Übernahme des Innen- oder Justizressorts durch die Linkspartei geäußert. Sie begründete dies mit potenziellen Sicherheitsrisiken und Personen mit problematischen Verbindungen. Das Thema wirft Fragen zur Regierungsfähigkeit und Ressortverteilung auf.",
+    "m": "Franziska Brantner äußerte öffentlich ihre Zweifel daran, dass der Linkspartei das Innen- oder Justizressort anvertraut werden könnte. Als Hauptgrund nannte sie die Existenz von Menschen innerhalb der Partei, die Verbindungen zur organisierten Kriminalität oder zu extremistischen Kräften aufweisen könnten. Solange diese Zustände und Personen in der Partei existierten, sehe sie eine solche Ressortführung kritisch. Die Äußerung berührt zentrale Fragen der inneren Sicherheit und des Umgangs mit potenziellen Koalitionspartnern oder politischen Mitbewerbern. Konkrete Regierungsbündnisse oder offizielle Koalitionsverhandlungen wurden in diesem Kontext nicht final beschlossen. Die Debatte verdeutlicht die sicherheitspolitischen Hürden bei parteiübergreifenden Regierungsbildungen. Offen bleibt, wie die Linkspartei auf diese Vorwürfe reagieren wird und welche Auswirkungen dies auf künftige politische Konstellationen hat.",
+    "r": "Die Aussagen einer Parteivorsitzenden zu potenziellen Sicherheitsrisiken bei der Ressortvergabe sind für die politische Meinungsbildung und mögliche Regierungsbündnisse von Bedeutung. Sie beleuchten die sicherheitspolitischen Kriterien bei der Ämterbesetzung.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5",
+        "date": "2026-09-26T16:07:51.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ab7e1ce18772248192d5fc2/gruene-in-berlin-kann-mir-schwer-vorstellen-dass-die-linkspartei-das-innen-oder-justizressort-fuehrt.html",
+        "date": "2026-09-26T16:06:09.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5",
+    "agree": "Grünen-Chefin Brantner hält die Führung des Innen- oder Justizressorts durch die Linkspartei für schwer vorstellbar.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet detailliert über die Aussagen von Grünen-Chefin Brantner bezüglich möglicher Verbindungen zur organisierten Kriminalität und extremistischen Kräften innerhalb der Linkspartei."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-37c0fff9a9f78640",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T15:46:40.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Brasilianischer Präsident Lula verbietet Online-Glücksspiel vor Präsidentschaftswahl",
+    "s": "Kurz vor der ersten Runde der Präsidentschaftswahl hat Brasiliens Präsident Luiz Inácio Lula da Silva per Dekret Festquoten-Wetten und Online-Glücksspiele verboten. Er begründete den Schritt als notwendige Maßnahme gegen die Verschuldung von Familien und bezeichnete die Branche als Krebsschaden. Die Entscheidung fällt in eine enge Wahlphase.",
+    "m": "Brasiliens Präsident Luiz Inácio Lula da Silva hat am Freitag ein Verbot für Festquoten-Wetren und Online-Glücksspiele unterzeichnet. Die Maßnahme tritt kurz vor der ersten Runde der anstehenden Präsidentschaftswahl in Kraft. Lula erklärte, dass die Industrie ein Krebsgeschwür sei, das er entfernen müsse. Als zentrales Motiv nannte er das Ziel, Familien vor tiefen Schulden zu bewahren. Das Verbot ist ein drastischer Eingriff in den Markt kurz vor dem Wahltermin, bei dem sich Lula in einem engen Rennen befindet. Die Berichte nennen Flávio Bolsonaro als politischen Kontrahenten. Offen bleibt, wie die genaue Umsetzung und Durchsetzung des Verbots in der Praxis erfolgen soll und welche rechtlichen Schritte die Glücksspielbranche einleiten könnte.",
+    "r": "Das Verbot eines großen Wirtschaftszweigs kurz vor einer entscheidenden Wahl hat erhebliche innenpolitische und finanzielle Auswirkungen in Brasilien. Es markiert einen harten regulatorischen Kurswechsel im Land.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-26T15:46:40.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
+        "date": "2026-09-26T12:36:01.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass Brasiliens Präsident Lula kurz vor der Präsidentschaftswahl ein Verbot von Online-Glücksspielen erlassen hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt, dass Lula sich in einem engen Rennen gegen Flávio Bolsonaro befindet."
+      },
+      {
+        "name": "France24 English",
+        "note": "Nennt den genauen Wochentag (Freitag) der Unterzeichnung und erläutert ausführlicher den Schutz von Familien vor Verschuldung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-017314a59f446d1c",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T15:01:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. zelebriert Messe mit 700.000 Menschen in Paris",
+    "s": "Papst Leo XIV. hat in Frankreich eine große Papstmesse gefeiert. Auf der Place de la Concorde in Paris versammelten sich rund 700.000 Menschen. Die Veranstaltung gilt als eine der größten Messen, die jemals in der französischen Hauptstadt stattgefunden haben.",
+    "m": "Die Place de la Concorde war Schauplatz der historischen Papstmesse von Leo XIV. in Paris. Es gab vor Ort ein enorm hohes Gedränge, sodass zeitweise kaum ein Durchkommen möglich war. Nach Angaben der Berichte nahmen etwa 700.000 Menschen an der Feier teil. Die Veranstaltung reiht sich damit als wohl größte Messe in der Geschichte der französischen Hauptstadt ein. Der französische Staatspräsident Emmanuel Macron nahm nach den vorliegenden Informationen nicht an der Messe teil. Weitere Details zum Ablauf der Reise oder offiziellen Reaktionen nennen die Quellen bislang nicht.",
+    "r": "Der Besuch des Papstes mit Hunderttausenden Teilnehmern in einer europäischen Metropole hat große gesellschaftliche und symbolische Bedeutung. Das Fernbleiben des französischen Präsidenten wirft zudem politische Fragen auf.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEsxd3UyOVplNzJSOGV1M1JENW8tWERUOXdBWTBqbUEyMEwyd1VTRkVQc09nWWs3MEoyaDhsQXoxd2gyNjNfOWJ2cHFmdUs2TWpZb04xOEpGdWM1TDhibk83V0Vkc3UzdXpjZ1p1U0RpMWdJNWZlN2UwQm1hcHVzT3Y0TW9veTNHRU1LT0pjbWRXcmtyS3NCTER0WEx4U0xlbzhfVmlOdUp5YktuMmpBTFdoQXJ4dktnNmU3bm5WQktnZDBPanUzeFN5Zy1XalF4YnBHM0c0QQ?oc=5",
+        "date": "2026-09-26T15:01:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/leo-xiv-in-frankreich-rund-700-000-menschen-feiern-papstmesse-in-paris-a-00083c2f-aa30-4a73-9c0d-c3480d3e3db5#ref=rss",
+        "date": "2026-09-26T15:01:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEsxd3UyOVplNzJSOGV1M1JENW8tWERUOXdBWTBqbUEyMEwyd1VTRkVQc09nWWs3MEoyaDhsQXoxd2gyNjNfOWJ2cHFmdUs2TWpZb04xOEpGdWM1TDhibk83V0Vkc3UzdXpjZ1p1U0RpMWdJNWZlN2UwQm1hcHVzT3Y0TW9veTNHRU1LT0pjbWRXcmtyS3NCTER0WEx4U0xlbzhfVmlOdUp5YktuMmpBTFdoQXJ4dktnNmU3bm5WQktnZDBPanUzeFN5Zy1XalF4YnBHM0c0QQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. eine Messe mit rund 700.000 Menschen auf der Place de la Concorde in Paris gefeiert hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf die Berichterstattung des Spiegels und nennt die Zahl von rund 700.000 Gläubigen."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet detailliert über die volle Place de la Concorde als Schauplatz der größten Messe der Stadt und erwähnt das Fernbleiben von Emmanuel Macron."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-43ede22cddda9b95",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T13:49:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Großbrand im historischen Zentrum von Funchal lässt sechs Personen obdachlos zurück",
+    "s": "Im historischen Zentrum von Funchal in Portugal ist ein schwerer Brand ausgebrochen. Das Feuer zerstörte ein Gebäude vollständig. Infolge des Vorfalls verloren sechs Menschen ihr Zuhause und sind nun obdachlos.",
+    "m": "Ein großflächiges Feuer hat ein Gebäude im historischen Zentrum der Stadt Funchal schwer beschädigt beziehungsweise zerstört. Die genaue Brandursache und der Zeitpunkt des Ausbruchs gehen aus den vorliegenden Berichten zunächst nicht hervor. Rettungskräfte und Einsatzkräfte der Feuerwehr waren vor Ort, um den Brand zu bekämpfen und ein Übergreifen der Flammen zu verhindern. Durch die Zerstörung des Hauses wurden insgesamt sechs Personen obdachlos. Weitere Details zu verletzten Personen, der Schadenshöhe oder den laufenden Hilfsmaßnahmen für die Betroffenen nennen die aktuellen Meldungen nicht.",
+    "r": "Der Brand im dicht bebauten historischen Zentrum einer Großstadt und die damit verbundene Obdachlosigkeit mehrerer Menschen erfordern behördliches Eingreifen. Das Ereignis hat direkte Auswirkungen auf die lokale Sicherheit und die Unterbringung der Betroffenen.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV4RjU1WDBtRWRrQm1OdFFkd2FiMlYzSHBpb2RvYk9UOWU5UC1wWjlLRFdGeTZrbDhOaC1SYmZRSGxiOHNNMnJIN0ZtWkV3MWpNX19jcFR2UHZjYkVzb2NSck5oR3ZRcnJXOTJGSjZnekFNR21DMFY3b0ZzWUFyOVQxSUFPNDZBdVBqVnloQXkxMTdKR3paNVh0dVR6VHF2VVBHcnhDendZT2xPTFZSdg?oc=5",
+        "date": "2026-09-26T13:49:09.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/seis-pessoas-desalojadas-apos-incendio-no-centro-historico-do-funchal_n1767888",
+        "date": "2026-09-26T11:09:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV4RjU1WDBtRWRrQm1OdFFkd2FiMlYzSHBpb2RvYk9UOWU5UC1wWjlLRFdGeTZrbDhOaC1SYmZRSGxiOHNNMnJIN0ZtWkV3MWpNX19jcFR2UHZjYkVzb2NSck5oR3ZRcnJXOTJGSjZnekFNR21DMFY3b0ZzWUFyOVQxSUFPNDZBdVBqVnloQXkxMTdKR3paNVh0dVR6VHF2VVBHcnhDendZT2xPTFZSdg?oc=5",
+    "agree": "Die Quellen stimmen überein, dass ein Brand im historischen Zentrum von Funchal sechs Personen obdachlos gemacht hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Teilt die Meldung der RTP und erwähnt zusätzlich den Verweis auf den entsprechenden Nachrichtensender."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet konkret, dass es sich um einen Brand von großen Ausmaßen handelte, der ein Gebäude konsumierte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-57232e6ec91457d7",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T12:58:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "PSD und CDS-PP fordern erneut Einschränkung des portugiesischen Gesundheitssystems für Ausländer",
+    "s": "Die Parteien PSD und CDS-PP in Portugal haben erneut einen Gesetzesentwurf eingebracht, der den Zugang zum Nationalen Gesundheitsdienst für nicht ansässige ausländische Staatsbürger einschränken soll. Eine ähnliche Initiative war in der vergangenen Legislaturperiode mit Unterstützung der Chega-Partei gebilligt worden, fiel jedoch den vorgezogenen Neuwahlen zum Opfer. Die aktuelle Vorlage greift diesen Vorstoß wieder auf.",
+    "m": "Die Parteien PSD und CDS-PP haben im portugiesischen Parlament einen Entwurf zur erneuten Begrenzung des Zugangs zum Serviço Nacional de Saúde (SNS) für gebietsfremde Ausländer vorgelegt. In der vorherigen Legislaturperiode war ein identischer Vorstoß bereits erfolgreich verabschiedet worden, nachdem er die notwendige Mehrheit, unter anderem mit Stimmen der Partei Chega, erhalten hatte. Durch die darauffolgenden Parlamentswahlen ist dieses Gesetz jedoch verfallen und musste nun neu eingereicht werden. Das Vorhaben zielt darauf ab, die Konditionen für die Inanspruchnahme öffentlicher medizinischer Leistungen durch Personen ohne Wohnsitz in Portugal strenger zu regeln. Kritiker und Befürworter debattieren weiterhin über die rechtlichen und sozialen Implikationen dieser Maßnahme für das Gesundheitssystem. Es bleibt abzuwarten, ob die parlamentarischen Mehrheiten im neuen Parlament erneut für die Annahme des Vorschlags stimmen werden.",
+    "r": "Die parlamentarische Initiative berührt die Grundprinzipien des Zugangs zu öffentlichen Gesundheitsleistungen in Portugal und hat direkte Auswirkungen auf nicht ansässige Ausländer. Da es sich um eine Wiederaufnahme eines zuvor beschlossenen, aber durch Wahlen hinfälligen Gesetzes handelt, ist der politische Prozess von hoher Relevanz für die nationale Gesundheitspolitik.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/politica/psd-e-cds-pp-voltam-a-propor-restricao-do-acesso-ao-sns-por-estrangeiros-nao-residentes_n1767893",
+        "date": "2026-09-26T12:58:02.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmhYUFNKMUVyUUxhbnlCQWNDQmVDN1dvc1R1Z1dMci1XdW1HaXBRU2V0bkw0aXdmaHA3TF9zTUdpbWVndVBMTFV3R2hLY08yTzZUbjRnZ0xsOXJxbDRKeVNzUVlwQjVFRXo2YUZ5Q3ZYa1NCZ2lXMDl2TFcyaVIyR2xuVndwOFNrZjMtczlicTYzNWliVTJfZmtfMnRJMDBHNzB2YVVHbVpQUFNEbjJKTGhURWtaNjR4aFlqWW9Zc0V6WGJWeDhDbG9n0gG6AUFVX3lxTE13WWtvQmdJQ1RrMmlzNWVPeFJHMFNUQkRGR05QY1FSVk8zQlktYWJYMzVEdXFIemNNUzFIdWEwcWppYXppNVJBQ1A1TEhtMG1lck15Q3A0VVlPOWJ4S3h3RUpzanY5VS1mUUZ0eGtQZ2M1OEhWX3BRbkxvWWRqOXUxWXJhN1AyR1RRM05pZUhjZVktUDFIeV9femdBUU5qY2NzbEpNZ0JwNUJIbVhNOGtGNEwzVWhnNE5mZw?oc=5",
+        "date": "2026-09-26T11:49:00.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/politica/psd-e-cds-pp-voltam-a-propor-restricao-do-acesso-ao-sns-por-estrangeiros-nao-residentes_n1767893",
+    "agree": "Beide Quellen stimmen überein, dass PSD und CDS-PP erneut ein Projekt zur Einschränkung des SNS-Zugangs für nicht ansässige Ausländer vorgelegt haben, welches in der letzten Legislaturperiode bereits genehmigt wurde, aber durch Wahlen hinfällig war.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet ausführlicher über den Hintergrund, dass das Projekt in der vergangenen Legislaturperiode bereits mit den Stimmen von Chega gebilligt wurde und durch Wahlen verfallen ist."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist in der Überschrift darauf, dass die Meldung aus dem Jornal de Notícias stammt, liefert im Textkörper jedoch nur einen unvollständigen Ausschnitt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-af81b23731b6cb8e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T12:45:01.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "SPD fordert Nachverhandlungen und Deckelung der Pflegeheimkosten",
+    "s": "Die SPD plant eine Reform der Pflegekosten und fordert die Einführung eines sogenannten Pflegedeckels. Ein entsprechendes Papier liegt dem ARD-Hauptstadtstudio exklusiv vor. Ziel ist es, die finanzielle Belastung der Pflegebedürftigen durch sinkende Eigenanteile zu verringern.",
+    "m": "Laut dem vorliegenden Papier will die SPD die geplante Pflegereform nachverhandeln. Im Zentrum steht dabei die Deckelung der Eigenanteile für Pflegeheimkosten. Konkret soll der sogenannte einrichtungseinheitliche Eigenanteil im Laufe der Zeit sinken. Das Konzept wurde exklusiv bekannt, weitere Details zu genauen Summen oder einem Zeitplan für die Umsetzung gehen aus den vorliegenden Auszügen jedoch noch nicht hervor. Die Initiative greift eine zentrale sozialpolitische Debatte über die steigenden Kosten für Pflegebedürftige und deren Angehörige auf. Offen bleibt bislang, wie die Koalitionspartner auf diesen Vorstoß reagieren und ob eine Finanzierung im Bund gesichert werden kann.",
+    "r": "Die Initiative betrifft die finanzielle Belastung von Millionen Pflegebedürftigen in Deutschland und stellt eine mögliche Nachverhandlung der aktuellen Pflegereform dar. Damit berührt sie fundamentale Fragen der Sozial- und Finanzpolitik.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
+        "date": "2026-09-26T12:45:01.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45YUZMM2c3dTYzSEJyX3plUy16LWJRRzlLOXNqdmFZd01hSEdsWVNOVS15M2tSeXR2XzlMSXpZbjFxR3pISmM2Umw1YkxjbmU1bEI2Tm9jeDluZjhFMVNucXJQNFZQTTM0d09LemJ3?oc=5",
+        "date": "2026-09-26T12:30:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
+    "agree": "Die Quellen stimmen überein, dass die SPD die geplante Pflegereform nachverhandeln möchte und ein Papier zu einem geplanten Pflegedeckel vorliegt.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich den Autor M. Rödle und präzisiert, dass der einrichtungseinheitliche Eigenanteil sinken soll."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält lediglich einen Verweis und Link auf den Artikel der Tagesschau."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2a275847b41021fe",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-26T11:29:45.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Portugiesische Regierung fordert Details zum neuen Flughafen von ANA",
+    "s": "Die portugiesische Regierung hat von der Flughafengesellschaft ANA zusätzliche Informationen zur Expansionsstrategie des neuen Flughafens in Lissabon gefordert. Ziel der Gespräche ist es unter anderem, den geplanten Betriebsstart im Jahr 2037 zu beschleunigen.",
+    "m": "Das Ministerium und die Konzessionärin ANA wollen eng zusammenarbeiten, um die Modernisierung und den Ausbau der Infrastruktur voranzutreiben. Im Fokus stehen dabei konkrete Details zur erwarteten Passagiernachfrage sowie zur Planung von Start- und Landebahnen. Die Regierung strebt an, die Inbetriebnahme des neuen Flughafens nach Möglichkeit vor das bisher anvisierte Jahr 2037 zu ziehen. Ob und in welchem Zeitrahmen diese Beschleunigung organisatorisch und baulich realisierbar ist, bleibt vorerst offen.",
+    "r": "Die Entwicklung betrifft die nationale Infrastruktur und den Luftverkehr in Portugal maßgeblich. Eine frühere Inbetriebnahme des neuen Flughafens hätte weitreichende wirtschaftliche und kapazitäre Auswirkungen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/novo-aeroporto-governo-pede-a-ana-mais-detalhes-sobre-procura-pistas-e-expansao-da-infraestrutura_n1767890",
+        "date": "2026-09-26T11:29:45.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHlJbHNQX1REak5VSnlhLXpWZVhFSV9RRENFRWFCVzl2VnVkeGgySlBraWQzcFN5aEM3cFN1WFFhQ0JoSjZzRE9tODZocEYwbjNhOERsa2NYRy1XMHZKWjR6RnZheHZsZU51ODhDM2FKRkF2UUZTS0FlMzFtY3Z0QVhzd1dqT3BRdW1md01mbFR1cVp3T2lzVDJGOHZaUjJYU2V3cHdwWlNEZEVBMGVxMHB0Uk1vNWxHeWhyNEg1N1dGWmh6S2I0UVU4TlIzNy00c2dlZEdvVlF0Q28?oc=5",
+        "date": "2026-09-26T10:48:09.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/novo-aeroporto-governo-pede-a-ana-mais-detalhes-sobre-procura-pistas-e-expansao-da-infraestrutura_n1767890",
+    "agree": "Beide Quellen berichten übereinstimmend, dass die Regierung von der ANA zusätzliche Details zur Expansion des neuen Flughafens fordert.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet ausführlich, dass die Regierung mit der Konzessionärin zusammenarbeiten will, um den für 2037 geplanten Betriebsstart zu antizipieren."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verlinkt lediglich auf den RTP-Artikel und liefert keine eigenständigen Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c31a5b595d2d22e0",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T11:22:55.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Zwangsstörung: \"Du guckst dir zu, wie du irre wirst\" - DW.com",
+    "s": "Zwangsgedanken und Zwangshandlungen stellen eine erhebliche Belastung für die Betroffenen dar. Typische Symptome kreisen oft um Kontrollfragen wie den ausgeschalteten Herd, Sauberkeit oder intrusive Gedanken. Eine bestimmte Therapieform erweist sich in diesem Zusammenhang als besonders vielversprechend.",
+    "m": "Menschen mit Zwangsstörungen erleben quälende Zweifel und Handlungszwänge, die ihren Alltag massiv beeinträchtigen. Die Berichterstattung greift die persönliche Perspektive von Betroffenen auf, die den Zustand als das Zusehen beim eigenen Kontrollverlust beschreiben. Typische Ausprägungen sind ständige Überprüfungen von Haushaltsgeräten, übertriebene Hygienebedürfnisse oder Angst vor Aggressionen gegen geliebte Menschen. Neben der emotionalen Belastung wird auf Behandlungsansätze eingegangen. Konkret wird eine bestimmte Therapieform hervorgehoben, die besonders vielversprechende Ergebnisse bei der Bewältigung der Störung zeigt.",
+    "r": "Zwangsstörungen sind für Betroffene extrem belastend und beeinträchtigen das tägliche Leben stark. Die Erforschung und Vorstellung wirksamer Therapieformen sind zentral für die medizinische und psychologische Versorgung.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy01TTFVaHdCeGNoc1hqTUt6RjdjQzQwSmxweFBQRmc1Q2UycXJ1Y2JZeUpwTFJoejVuS2tsY2tJdDZuQWxKZ2RLTkh0dV91MVg0aUhDOExpc0p6THF6MmlzVWktVjhKNmdCUWluYmpTNGRobzBzRkpGd0o4ZFBVRVB2NEtmNUpmaG56MERMRdIBjwFBVV95cUxNV1BQNHVSMzVsa3F2UUxOWVUzbm91TWFFbS1ZOTlfbVRwYi1yaDNQTFhnc3MxbGxBZi1fazlWQjJPLVlaaXgtSlNlaGNRdEVLbmtKN0oyMzJFM2U0S2JZeWQtRmlTZWh4THBpYUNYQXVTX2ppNUxmc3dIbW9lc24xbVBxMWJoM2dVazBNLVdYWQ?oc=5",
+        "date": "2026-09-26T11:22:55.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/zwangsstörung-du-guckst-dir-zu-wie-du-irre-wirst/a-79386044?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-09-26T05:49:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy01TTFVaHdCeGNoc1hqTUt6RjdjQzQwSmxweFBQRmc1Q2UycXJ1Y2JZeUpwTFJoejVuS2tsY2tJdDZuQWxKZ2RLTkh0dV91MVg0aUhDOExpc0p6THF6MmlzVWktVjhKNmdCUWluYmpTNGRobzBzRkpGd0o4ZFBVRVB2NEtmNUpmaG56MERMRdIBjwFBVV95cUxNV1BQNHVSMzVsa3F2UUxOWVUzbm91TWFFbS1ZOTlfbVRwYi1yaDNQTFhnc3MxbGxBZi1fazlWQjJPLVlaaXgtSlNlaGNRdEVLbmtKN0oyMzJFM2U0S2JZeWQtRmlTZWh4THBpYUNYQXVTX2ppNUxmc3dIbW9lc24xbVBxMWJoM2dVazBNLVdYWQ?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Teilt lediglich den Titel und Verweis auf den DW-Artikel."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Liefert den beschreibenden Haupttext mit Beispielen für Zwangsgedanken und dem Hinweis auf eine vielversprechende Therapie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-e993463e77a43f87",
     "c": "INT",
     "o": "INT",
@@ -10,9 +977,9 @@
     "st": "",
     "city": "",
     "t": "Ein Monat nach den Überschwemmungen in Nepal: Tausende Vermisste",
-    "s": "Einen Monat nach verheerenden Überschwemmungen in Nepal werden noch immer tausende Menschen vermisst. Betroffene Familien stehen vor einer langwierigen und schwierigen Erholungsphase. Die genauen Dimensionen der Katastrophe und die anhaltenden Suchmaßnahmen prägen die Situation im Land.",
-    "m": "Genau einen Monat nach den schweren Überschwemmungen in Nepal bleibt die Lage für viele Menschen dramatisch. Tausende Personen gelten weiterhin als vermisst, was die Angehörigen vor eine schwere Zerreißprobe stellt. Die betroffenen Familien stehen vor einem langwierigen Wiederaufbau und einer schwierigen wirtschaftlichen sowie persönlichen Erholung. Die Rettungs- und Suchkräfte arbeiten unter schwierigen Bedingungen weiter, um Klarheit über das Schicksal der Vermissten zu erlangen. Die genaue Zahl der Opfer und die Gesamtschadenshöhe sind Gegenstand kontinuierlicher Berichterstattung. Internationale Beobachter und Hilfsorganisationen unterstützen die lokalen Behörden bei der Bewältigung der Krise. Dennoch bleibt die Versorgungslage in vielen betroffenen Regionen angespannt.",
-    "r": "Die Meldung ist relevant, da sie die anhaltenden humanitären Folgen und die ungelöste Vermisstenlage einen Monat nach einer Naturkatastrophe in Nepal dokumentiert. Sie zeigt die Dimensionen des bevorstehenden Wiederaufbaus auf.",
+    "s": "Einen Monat nach verheerenden Überschwemmungen in Nepal werden noch immer Tausende Menschen vermisst. Betroffene Familien stehen vor einem langwierigen und schwierigen Wiederaufbau. Die genaue Zahl der Opfer und Vermissten wird in den Berichten thematisiert. Die Situation verdeutlicht die anhaltenden humanitären Herausforderungen in der Region.",
+    "m": "Die katastrophalen Überschwemmungen in Nepal, die vor genau einem Monat stattfanden, haben bleibende Spuren hinterlassen. Bis heute gelten Tausende von Menschen als vermisst, was die Such- und Rettungsbemühungen vor enorme Hürden stellt. Für die betroffenen Familien beginnt nun ein langwieriger Weg zur Erholung und Bewältigung der Schäden. Konkrete Details zu den genauen Auswirkungen auf die Infrastruktur und Hilfsmaßnahmen werden in den kommenden Wochen entscheidend sein. Die Situation erfordert fortgesetzte Aufmerksamkeit und Unterstützung.",
+    "r": "Die anhaltende Krise nach den Überschwemmungen in Nepal zeigt den massiven Bedarf an langfristiger humanitärer Hilfe und Wiederaufbaumaßnahmen für betroffene Familien.",
     "srcs": [
       {
         "name": "France24 English",
@@ -26,15 +993,52 @@
       }
     ],
     "url": "https://www.france24.com/en/a-month-after-thousands-are-still-missing-and-families-face-a-long-recovery",
-    "agree": "Beide Quellen stimmen darin überein, dass einen Monat nach den Überschwemmungen in Nepal noch immer tausende Menschen vermisst werden und betroffene Familien vor einer langen Erholungsphase stehen.",
+    "agree": "Die Quellen stimmen überein, dass einen Monat nach den Überschwemmungen in Nepal Tausende Menschen vermisst werden und Familien vor einer langen Erholungsphase stehen.",
     "diff": [
       {
         "name": "France24 English",
-        "note": "Berichtet direkt aus der Perspektive des Monats nach der Katastrophe und betont den Zustand der vermissten Familien und deren langen Weg zur Erholung."
+        "note": "Berichtet direkt aus der Perspektive der verbleibenden Folgen und des langwierigen Wiederaufbaus der Familien."
       },
       {
         "name": "Google News World",
-        "note": "Greift die Berichterstattung von U.S. News & World Report auf und bestätigt den anhaltenden Zustand der Vermissten und die schwierige Erholung der Familien."
+        "note": "Greift die Berichterstattung von U.S. News & World Report auf und bestätigt die gleichen Kernfakten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-77aaa215e99ddbac",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T09:34:21.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Sardinien-Reise von Jens Spahn sorgt für Unmut in Unionsfraktion",
+    "s": "Eine Urlaubsreise von CDU-Politiker Jens Spahn nach Sardinien sorgt während einer laufenden Sitzungswoche für großen Ärger in der Unionsfraktion. Ein aufgetauchtes Foto stößt insbesondere den Kollegen aus der wichtigen Arbeitsgruppe Haushalt sauer auf. Dem kürzlich geschassten Fraktionschef droht nun bereits wieder der Verlust seiner neuen Aufgabe.",
+    "m": "Während der aktuellen Sitzungswoche ist ein Foto von Jens Spahn auf Sardinien aufgetaucht, das in der Unionsfraktion für erheblichen Unmut gesorgt hat. Besonders den Mitgliedern der wichtigen Arbeitsgruppe Haushalt stößt die Abwesenheit des CDU-Politikers sauer auf. Jens Spahn, der zuvor als geschasster Fraktionschef galt, hatte erst kürzlich eine neue Aufgabe übernommen. Durch die Vorkommnisse steht diese Position nun jedoch schon wieder auf dem Spiel und droht verloren zu gehen. Weitere Details zum genauen Zeitpunkt der Veröffentlichung oder zu offiziellen Reaktionen der Parteispitze nennen die Berichte bisher nicht. Die Situation verdeutlicht die anhaltenden innerparteilichen Spannungen und die Erwartungen an die Präsenz von Abgeordneten während wichtiger parlamentarischer Arbeitsphasen. Offen bleibt bislang, welche konkreten personellen Konsequenzen aus dem Vorfall gezogen werden.",
+    "r": "Die Meldung ist relevant, da interne Konflikte in der CDU/CSU-Fraktion und mögliche personelle Konsequenzen für prominente Politiker wie Jens Spahn die parlamentarische Arbeit und die Parteistruktur betreffen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0FPU2pwS1JkMVplUEloQ1h4dWhIWTFvOHBWNUlsRFRZQWlsSGR4MDB0Q243V2VmQU5vNmRlWFRDWTBhYkFTZ0N1WjdHeEN5RVNQSFhQZlhGZkI0UGstMElrbS1lWktKaXl0YTd6SU1RU3RWdFR5TnJ2c2NmbExUMFlzNlVLVzh3eVlST1ExYTN5bnJfc2ZfOVpaSGcwalhMa05nS0ZzTjRDemZsYVdneQ?oc=5",
+        "date": "2026-09-26T09:34:21.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Sardinien-Reise-von-Jens-Spahn-sorgt-fuer-grossen-Unmut-in-Fraktion-id31350726.html",
+        "date": "2026-09-26T09:34:21.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0FPU2pwS1JkMVplUEloQ1h4dWhIWTFvOHBWNUlsRFRZQWlsSGR4MDB0Q243V2VmQU5vNmRlWFRDWTBhYkFTZ0N1WjdHeEN5RVNQSFhQZlhGZkI0UGstMElrbS1lWktKaXl0YTd6SU1RU3RWdFR5TnJ2c2NmbExUMFlzNlVLVzh3eVlST1ExYTN5bnJfc2ZfOVpaSGcwalhMa05nS0ZzTjRDemZsYVdneQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass eine Sardinien-Reise von Jens Spahn in der Unionsfraktion für großen Unmut sorgt und seine neue Position gefährdet ist.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Berichtet konkret, dass das Foto mitten in der laufenden Sitzungswoche auftauchte und sich der Unmut vor allem bei den Kollegen der Arbeitsgruppe Haushalt richtet."
       }
     ],
     "chg": "",
@@ -119,6 +1123,47 @@
     "independent": 2
   },
   {
+    "id": "story-6d03e17af33498c3",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T09:19:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Brasilianischer Präsident Lula verbietet Sportwetten vor der Wahl",
+    "s": "Der brasilianische Präsident Luiz Inácio Lula da Silva hat per Dekret ein Verbot von Sportwetten mit festen Quoten erlassen. Die Maßnahme erfolgt nur gut eine Woche vor der ersten Runde der Präsidentschaftswahl. Ziel des Erlasses ist es, die zunehmende Verschuldung von Familien durch Glücksspiel zu bekämpfen.",
+    "m": "Das Dekret untersagt jegliche Operationen, Angebote, Vermittlungen und Werbung im Zusammenhang mit Sportwetten. Präsident Lula bezeichnete den Schritt als hart, drastisch und notwendig. Umfragen zufolge dürfte die Maßnahme in der Bevölkerung auf breite Unterstützung stoßen. Das Glücksspielproblem hatte zuvor besorgniserregende Ausmaße angenommen und viele Familien in finanzielle Not getrieben. Die Entscheidung fällt in eine hochsensible Phase kurz vor den Wahlen in Brasilien. Weitere Details zur genauen Umsetzung oder zu den Auswirkungen auf bestehende Anbieter wurden in den Berichten nicht genannt.",
+    "r": "Das Verbot von Sportwetten kurz vor den Wahlen ist ein politisch gewichtiger Schritt zur Bekämpfung von Haushaltsverschuldung. Die Maßnahme könnte wahlentscheidende Signalwirkung haben und greift massiv in den Glücksspielmarkt ein.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
+        "date": "2026-09-26T09:19:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+        "date": "2026-09-26T07:58:05.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass der brasilianische Präsident Lula da Silva ein Verbot von festen Sportwetten kurz vor den Wahlen erlassen hat, um Familienverschuldung zu bekämpfen.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Die Quelle verweist lediglich auf den Artikel des Guardian und nennt keine eigenständigen Details."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt die genauen Details, dass das Dekret jegliche Operation, Angebot, Vermittlung und Werbung verbietet, und zitiert Lulas Aussage als 'harte, drastische und notwendige Maßnahme', die laut Umfragen populär sein dürfte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-8a403ec114774778",
     "c": "INT",
     "o": "DE",
@@ -154,6 +1199,47 @@
       {
         "name": "ZDF heute",
         "note": "Erwähnt, dass es sich um eigenständige Hacking-Aktivitäten handelt und OpenAI andeutet, dass noch viele weitere Enthüllungen folgen könnten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4caa55cdd29d2c74",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T08:40:35.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump lehnt angeblich iranisches Angebot zur Öffnung der Straße von Hormus ab",
+    "s": "US-Präsident Donald Trump hat laut Medienberichten ein Angebot aus Teheran zur Wiedereröffnung der Straße von Hormus innerhalb von sieben Tagen abgelehnt. Die Informationen gehen auf Berichte des Wall Street Journal zurück, die in portugiesischen Medien aufgegriffen wurden. Es steht im Raum, dass die USA nach den Zwischenwahlen möglicherweise Angriffe wiederaufnehmen könnten.",
+    "m": "Dem Bericht zufolge soll das Angebot der iranischen Seite auf Ablehnung im Weißen Haus gestoßen sein. Die Straße von Hormus ist eine der weltweit wichtigsten Öltransportrouten und von zentraler geopolitischer Bedeutung. Eine Wiedereröffnung innerhalb von sieben Tagen, wie vom Iran in Aussicht gestellt, wurde von Trump demnach verworfen. Konkrete Hintergründe zu den genauen Bedingungen des iranischen Angebots oder den potenziellen Zielen weiterer US-Angriffe nach den Wahlen nennen die vorliegenden Berichte nicht. Die Situation bleibt angespannt, während Beobachter die politischen und wirtschaftlichen Konsequenzen für die Region analysieren.",
+    "r": "Die Meldung ist relevant, da sie mögliche künftige militärische Eskalationen der USA nach den Zwischenwahlen und den Status einer global kritischen Handelsroute betrifft.",
+    "srcs": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/trump-tera-rejeitado-oferta-de-teerao-para-reabrir-ormuz-em-sete-dias_n1767850",
+        "date": "2026-09-26T08:40:35.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE5TODdTdll0eU1FVzFESUNRcURmcnBEZUNZSkY1U29RMll3N2xERlozSnBJYW9JT2VrQVdQWFNrYW5WNmExVlo3WWE1Qkp2OUc1V0lpWm5pMnRYN25lWkZzZ3MtNVU2YURBT2Y4OUdVbVllOFpwZFNpOGFkWFpLX3Jsci1JR0U3U0lSTHFab0p1Q1B5V2w2WGp6WjhWQXBOb0duWUxFcEk5ZnpBNDJ2cWxB?oc=5",
+        "date": "2026-09-26T07:43:16.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/trump-tera-rejeitado-oferta-de-teerao-para-reabrir-ormuz-em-sete-dias_n1767850",
+    "agree": "Beide Quellen berichten übereinstimmend, dass Donald Trump ein Angebot Teherans zur Wiedereröffnung der Straße von Hormus innerhalb von sieben Tagen abgelehnt haben soll.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Berichtet, dass Trump das Angebot des Irans abgelehnt hat und nach den Zwischenwahlen Angriffe wiedernehmen könnte, unter Berufung auf das Wall Street Journal."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist lediglich auf den Bericht von RTP mit einer Überschrift und einem HTML-Link ohne zusätzlichen Text."
       }
     ],
     "chg": "",
@@ -784,32 +1870,36 @@
     "o": "PT",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-09-25T23:12:00.000Z",
+    "d": "2026-09-25T23:12:22.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Brüssel räumt Energiepreiskrise ein und empfiehlt Sparmaßnahmen",
-    "s": "Die Europäische Kommission hat eine Krise bei den Energiepreisen eingeräumt und den EU-Regierungen Maßnahmen zum Energiesparen vorgeschlagen. In einem Schreiben ruft der EU-Energiekommissar die Energieminister der Mitgliedstaaten dazu auf, aktiv zur Senkung des Gas- und Stromverbrauchs aufzurufen.",
-    "m": "Die EU-Kommission reagiert auf die angespannte Situation auf den Energiemärkten und hat eine offizielle Mitteilung verfasst. Laut Informationen, die der RTP Antena 1 vorliegen, richtet sich das entsprechende Schreiben direkt an die Energieminister aller EU-Mitgliedstaaten. Darin wird explizit gefordert, bei Bevölkerung und Wirtschaft für Einsparungen beim Gas- und Stromverbrauch zu werben. Konkrete Details zu den vorgeschlagenen Maßnahmen oder einem genauen Zeitplan für die Umsetzung der Sparappelle gehen aus den vorliegenden Berichten bisher nicht hervor. Die Initiative unterstreicht den steigenden Handlungsdruck auf europäischer Ebene im Zuge der anhaltenden Energiekrise.",
-    "r": "Die Empfehlungen der EU-Kommission zur Reduzierung des Energieverbrauchs betreffen direkt die Handlungsfähigkeit der nationalen Regierungen und die Versorgungssicherheit in Europa.",
+    "t": "EU-Kommission räumt Energiepreiskrise ein und fordert Sparmaßnahmen",
+    "s": "Die Europäische Kommission hat eine Krise bei den Energiepreisen eingeräumt und den EU-Mitgliedstaaten Maßnahmen zum Energiesparen vorgeschlagen. Der zuständige EU-Kommissar hat sich in dieser Angelegenheit direkt an die Energieminister der Mitgliedstaaten gewandt. Ziel ist es, den Verbrauch von Gas und Elektrizität gezielt zu reduzieren.",
+    "m": "In einer schriftlichen Mitteilung, die der RTP Antena 1 vorliegt, hat der EU-Kommissar für Energie die nationalen Energieminister aller EU-Staaten dazu aufgefordert, aktiv zum Sparen aufzurufen. Konkret sollen die Regierungen und die Bevölkerung in den Mitgliedstaaten dazu gebracht werden, ihren Konsum von Gas und Elektrizität einzuschränken. Dieser Schritt erfolgt vor dem Hintergrund massiv gestiegener Energiepreise in Europa, die Haushalte und Wirtschaft zunehmend belasten. Die EU-Kommission reagiert damit auf die angespannte Lage auf den Energiemärkten und versucht, präventiv auf eine Entlastung hinzuwirken. Bisher bleibt offen, ob diesen Empfehlungen verbindliche Vorgaben folgen oder ob es sich vorerst um Appelle handelt.",
+    "r": "Die Initiative der EU-Kommission betrifft unmittelbar die Versorgungssicherheit und die Kostenbelastung für Verbraucher sowie die Wirtschaft in ganz Europa. Angesichts drastisch steigender Energiepreise sind koordinierte Reaktionen auf europäischer Ebene von hoher wirtschaftlicher und politischer Bedeutung.",
     "srcs": [
       {
         "name": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5",
-        "date": "2026-09-25T23:12:00.000Z"
+        "date": "2026-09-25T23:12:22.000Z"
       },
       {
-        "name": "RTP Notícias",
+        "name": "RTP Mundo",
         "url": "https://www.rtp.pt/noticias/mundo/bruxelas-admite-crise-de-precos-da-energia-e-sugere-medidas-de-poupanca-aos-governos_n1767823",
         "date": "2026-09-25T22:18:53.000Z"
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnpsOUFUMWttQjg0VjY1TmRJZzl2TWVQMDRIaEp1MWI2c0RKNl9veDFpNklGbGp1cnFrSGJnaDhLajNnc0FaV2YyeVdIQ2tKMG55MHVFMXo3R05UU0haY2o5N19WWmtQUm5EbTRCeThsS2hZSkZ6ZFFqUDFmeXQ5VmVjRzhTeDlCemtwOGhIdDRNWjdpWFRWSVc1R3dKbEU4WnNqREpKWGN3QlBWTVFjSURUNnFXb3VXWlV2U0syaGdpSGUyRGc?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Brüssel eine Energiepreiskrise einräumt und den Regierungen Sparmaßnahmen empfiehlt.",
+    "agree": "Die Quellen stimmen überein, dass Brüssel eine Energiepreiskrise einräumt und den Regierungen Energiesparmaßnahmen vorschlägt.",
     "diff": [
       {
-        "name": "RTP Notícias",
-        "note": "Berichtet ergänzend, dass es sich um eine schriftliche Mitteilung handelt, zu der RTP Antena 1 Zugang hatte, und dass der Aufruf zur Reduzierung von Gas- und Stromverbrauch direkt an die Energieminister der EU-Staaten gerichtet ist."
+        "name": "Google News Portugal",
+        "note": "meldet den Sachverhalt als Schlagzeile und verweist auf die RTP-Berichterstattung."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "nennt konkreകdetails, dass die Information aus einer RTP Antena 1 vorliegenden Brief des EU-Energiefuhrers an die Energieminister der EU-Staaten stammt, mit der Bitte, den Gas- und Stromverbrauch zu senken."
       }
     ],
     "chg": "",
@@ -1245,10 +2335,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Xi Jinping und Trump treffen sich zu Gesprächen in Washington",
-    "s": "Der chinesische Staatspräsident Xi Jinping ist zu einem Treffen mit US-Präsident Donald Trump in der Casa Blanca zusammengekommen. Bei dem Empfang gab es eine traditionelle chinesische Zeremonie. Beide Seiten sprachen über die künftigen bilateralen Beziehungen.",
-    "m": "Xi Jinping kehrte an diesem Freitag in die Casa Blanca zurück, wo er offiziell empfangen wurde. Im Rahmen des Besuchs betonte der chinesische Spitzenpolitiker seine Absicht, künftig auf eine partnerschaftliche Beziehung zu setzen. Diese solle auf den Prinzipien des gegenseitigen Respekts, der Gerechtigkeit und der Reziprozität basieren. Zudem blickten die Akteure nach Angaben der Berichte auf einen gemeinsamen zukünftigen Kurs zwischen den beiden Staaten. Das Treffen endete mit der Aussicht auf eine längerfristige und stabile Partnerschaft zwischen China und den Vereinigten Staaten.",
-    "r": "Das Treffen zwischen den führenden Politikern zweier globaler Großmächte ist für die internationalen Beziehungen und die globale Wirtschafts- sowie Sicherheitspolitik von großer Bedeutung.",
+    "t": "Xi Jinping und Trump treffen zu Gesprächen in Washington zusammen",
+    "s": "Der chinesische Staatschef Xi Jinping ist am Freitag zu einem Treffen mit US-Präsident Donald Trump in das Weiße Haus gereist. Dort wurde er mit einer traditionellen chinesischen Zeremonie empfangen. Beide Seiten bekundeten die Absicht, eine dauerhafte Partnerschaft aufzubauen. Das Treffen endete mit gegenseitigen Versprechen für die künftige Zusammenarbeit.",
+    "m": "Xi Jinping kehrte am Freitag für ein Treffen in die Casa Branca zurück, wo er offiziell empfangen wurde. Im Zentrum der Gespräche stand das Verhältnis zwischen den beiden Supermächten. Der chinesische Staats- und Parteichef betonte, er wolle künftig auf eine Beziehung setzen, die auf Respekt, Gerechtigkeit und Gegenseitigkeit beruht. Dabei blickten die Akteure nach Angaben aus Berichten auf einen gemeinsamen Zukunftskursweg mit Donald Trump. Konkrete Vereinbarungen oder Verträge wurden im Rahmen der ersten offiziellen Verlautbarungen zum Abschluss der Begegnung noch nicht im Detail genannt. Die Zusammenkunft fand in einem symbolträchtigen Rahmen statt, der die Bedeutung der bilateralen Beziehungen unterstreichen sollte.",
+    "r": "Das Treffen zwischen Xi Jinping und Donald Trump ist relevant, da es die künftige diplomatische und wirtschaftliche Ausrichtung im Verhältnis der beiden weltgrössten Volkswirtschaften prägt.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -1262,15 +2352,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM0ZjJVR3lsZXJQdU1xb2MwUGloRHZ1TGExVm9kZDlvUnl6WUdFT3hHcjh1VEJmdl9BSHcyTkh4WGR6elJoZ2Ztc3JKNmpVVENPVHhtSEhGdng0dmZ2dUNhX1Fud2xpanpDS3FERFg5bWhkY2FxVVhFUzJUSFlfQTU0TWJfM1JMNDFvalpEa0hEczlNaVktYThIRnBUVXNqcWdyZEJzSnd5OHpoX2dreEpYQThYeWVCQlE?oc=5",
-    "agree": "Die Quellen stimmen überein, dass das Treffen zwischen Xi Jinping und Donald Trump in einer Partnerschaft oder dem Versprechen auf eine solche endete.",
+    "agree": "Die Quellen stimmen darin überein, dass das Treffen zwischen Xi Jinping und Donald Trump im Weißen Haus mit einer Zusage für eine dauerhafte Partnerschaft endete.",
     "diff": [
       {
         "name": "Google News Portugal",
-        "note": "Erwähnt den Titel des RTP-Artikels über das Treffen und die Partnerschaftsversprechen, enthält jedoch ansonsten gekürzte RSS-Snippet-Daten."
+        "note": "Erwähnt den RTP-Artikel und die Überschrift zum Treffen zwischen Xi Jinping und Trump, liefert im RSS-Snippet jedoch keine zusätzlichen inhaltlichen Details."
       },
       {
         "name": "RTP Mundo",
-        "note": "Berichtet im Detail über die Rückkehr Xi Jinpings an die Casa Blanca an diesem Freitag, den traditionellen chinesischen Empfang und die Aussagen zu Respekt, Gerechtigkeit und Reziprozität."
+        "note": "Berichtet detailliert über den Tag des Treffens am Freitag, den Empfang mit einer traditionellen chinesischen Zeremonie im Weißen Haus und die konkrete Aussage Xis über eine Beziehung basierend auf Respekt, Gerechtigkeit und Gegenseitigkeit."
       }
     ],
     "chg": "",
@@ -1439,9 +2529,9 @@
     "st": "MV",
     "city": "",
     "t": "Immer weniger Studierende beziehen BaföG",
-    "s": "Immer weniger Studierende in Mecklenburg-Vorpommern beziehen staatliche Ausbildungsförderung. Laut aktuellen Berichten nehmen rund 70 Prozent der Berechtigten das Geld nicht in Anspruch. Zugleich ist die Zahl der tatsächlichen Empfänger im Vergleich zum Vorjahr gesunken.",
-    "m": "Die Zahl der BAföG-Bezieher an den Hochschulen in Mecklenburg-Vorpommern ist in den vergangenen zehn Jahren deutlich zurückgegangen. Vor einem Jahrzehnt erhielten monatlich noch rund 7.700 Studierende die finanzielle Unterstützung, während es mittlerweile über 1.000 Empfänger weniger sind. Neben diesem Rückgang bleibt auch der Großteil der potenziellen Anspruchsberechtigten unerreicht. Schätzungen zufolge nutzen 70 Prozent der Studierenden, denen die Förderung zustehen würde, das Angebot nicht. Als wesentlicher Grund für diese geringe Quote wird mangelnde Information vermutet.",
-    "r": "Der anhaltende Rückgang der Empfängerzahlen und die hohe Quote nicht abgerufener Fördermittel verdeutlichen ein Informations- und Zugangsdefizit bei der studentischen Finanzierung in der Region.",
+    "s": "In Mecklenburg-Vorpommern sinkt seit Jahren die Zahl der Studierenden, die BAföG beziehen. Konkreten Auswertungen zufolge nehmen zahlreiche anspruchsberechtigte Personen das finanzielle Angebot nicht in Anspruch. Ein wesentlicher Grund dafür wird in mangelnden Informationen vermutet.",
+    "m": "Die Zahl der BAföG-Empfänger unter Studierenden in Mecklenburg-Vorpommern ist im Zehnjahresvergleich deutlich zurückgegangen. Während vor zehn Jahren noch monatlich etwa 7.700 Studierende im Bundesland BAföG erhielten, ist diese Zahl mittlerweile um mehr als 1.000 gesunken. Aktuellen Erhebungen zufolge verzichten rund 70 Prozent derjenigen, denen die staatliche Ausbildungsförderung eigentlich zustehen würde, auf die Antragstellung. Als Hauptursache für diese geringe Inanspruchnahme gilt das Fehlen ausreichender Informationen bei den Betroffenen.",
+    "r": "Der deutliche Rückgang des BAföG-Bezugs und die hohe Quote nicht abgerufener Leistungen in Mecklenburg-Vorpommern verdeutlichen Informationsdefizite und veränderte finanzielle Förderstrukturen für Studierende.",
     "srcs": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
@@ -1455,15 +2545,15 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/immer-weniger-studierende-beziehen-bafoeg,nordmagazin-14500.html",
-    "agree": "Die Quellen stimmen überein, dass in Mecklenburg-Vorpommern immer weniger Studierende BAföG beziehen.",
+    "agree": "Die Quellen stimmen darin überein, dass in Mecklenburg-Vorpommern immer weniger Studierende BAföG beziehen.",
     "diff": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Berichtet, dass 70 Prozent der Studierenden, denen das Geld zustehen würde, es nicht in Anspruch nehmen, und führt dies auf fehlende Informationen zurück."
+        "note": "Berichtet, dass 70 Prozent der Anspruchsberechtigten das Geld nicht in Anspruch nehmen und vielen Informationen fehlen."
       },
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Liefert konkrete historische Vergleichszahlen und gibt an, dass vor zehn Jahren noch rund 7.700 Studierende monatlich BAföG bekamen, was heute über 1.000 weniger sind."
+        "note": "Liefert konkrete historische Zahlen und gibt an, dass die Zahl der monatlichen Bezieher im Vergleich zu vor zehn Jahren (damals rund 7.700) um über 1.000 gesunken ist."
       }
     ],
     "chg": "",
@@ -1479,10 +2569,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Junge Menschen in Baden-Württemberg und aktuelle Berliner Reformdebatten",
-    "s": "Nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin ist eine erneute Debatte über Reformen in den Bereichen Rente, Gesundheit und Pflege entbrannt. Im Fokus steht dabei die Frage, wie junge Menschen in Baden-Württemberg über diese politischen Vorhaben denken. Bislang ist das genaue Meinungsbild der Jugend zu diesen Reformplänen jedoch noch nicht detailliert ausgeführt worden.",
-    "m": "Die Diskussion über Reformen bei Rente, Gesundheit und Pflege wurde durch die jüngsten Landtagswahlen in Berlin und Mecklenburg-Vorpommern wiederbelebt. Vor diesem Hintergrund stellt sich die Frage, wie die junge Generation in Baden-Württemberg zu diesen zentralen sozialpolitischen Themen steht. Konkrete Aussagen, Umfrageergebnisse oder Positionen junger Menschen aus Baden-Württemberg werden in den Berichten bisher nicht genannt. Auch Details zu Art und Umfang der geplanten Reformen fehlen in den vorliegenden Texten. Die Berichterstattung wirft damit vor allem die Frage nach den Perspektiven der Jugend auf, lässt diese aber zunächst offen. Weitere Aspekte wie mögliche finanzielle Auswirkungen oder konkrete Forderungen von Jugendorganisationen werden in den Quellen nicht erwähnt.",
-    "r": "Die Debatte über Sozial- und Altersvorsorgereformen betrifft zentrale Zukunftsfragen für kommende Generationen. Die Haltung junger Menschen dazu ist ein relevanter Faktor für politische Entscheidungen nach den Landtagswahlen.",
+    "t": "Junge Menschen in Baden-Württemberg und die Berliner Reformdebatten",
+    "s": "Nach Wahlen in Mecklenburg-Vorpommern und Berlin wird in der Politik intensiv über Reformen in den Bereichen Rente, Gesundheit und Pflege diskutiert. Diese bundespolitischen Debatten werfen die Frage auf, wie die jüngere Generation in Baden-Württemberg zu diesen Themen steht. Im Fokus stehen dabei alltägliche Herausforderungen wie Mieten, Arbeitsplätze und die Absicherung im Alter. Die Diskussionen berühren zentrale Zukunftsthemen, die den Lebensalltag junger Menschen direkt beeinflussen.",
+    "m": "Die aktuellen politischen Diskussionen in Berlin über Reformen bei Rente, Gesundheit und Pflege knüpfen an die Debatten nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin an. Viele junge Menschen in Baden-Württemberg stehen vor der Herausforderung, steigende Mieten, berufliche Perspektiven und die langfristige Absicherung im Alter miteinander zu vereinbaren. Bundespolitische Weichenstellungen in den genannten Sozialsystemen haben direkte Auswirkungen auf die finanzielle und soziale Sicherheit der kommenden Generationen. Bislang ist vor allem offen, welche konkreten Maßnahmen die Politik ergreifen wird, um den Bedürfnissen und Sorgen der Jugend gerecht zu werden. Die Berichterstattung beleuchtet, wie stark diese überregionalen Reformpläne mit den lokalen Lebensrealitäten der Jugend in Baden-Württemberg verknüpft sind. Diskussionspunkte sind dabei unter anderem die Belastung durch hohe Lebenshaltungskosten und die Zukunftsfähigkeit der sozialen Sicherungssysteme. Konkrete Beschlüsse oder neue Gesetzesinitiativen wurden in diesem Rahmen noch nicht abschließend vorgestellt.",
+    "r": "Die Debatte ist relevant, weil bundespolitische Reformen bei Rente, Gesundheit und Pflege die finanzielle Zukunft und den Lebensalltag junger Menschen in Baden-Württemberg maßgeblich beeinflussen. Sie zeigt die Schnittstelle zwischen aktueller Bundespolitik und den regionalen Bedürfnissen der Jugend auf.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1496,8 +2586,17 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/junge-menschen-bw-zu-berliner-politik-100.html",
-    "agree": "Beide Quellen stimmen überein, dass nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und die Perspektive junger Menschen in Baden-Württemberg dazu im Raum steht.",
-    "diff": [],
+    "agree": "Die Quellen stimmen überein, dass nach den Landtagswahlen in Mecklenburg-Vorpommern und Berlin über Reformen bei Rente, Gesundheit und Pflege diskutiert wird und die Frage im Raum steht, wie junge Menschen in Baden-Württemberg darüber denken.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Erwähnt Miete und Job zusätzlich zu Rente als Themen, die junge Menschen in BW beschäftigen."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Bezieht sich im Titel direkt auf die Berliner Reformdebatten."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
